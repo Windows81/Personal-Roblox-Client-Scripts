@@ -1,0 +1,1 @@
+game:service'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId)
