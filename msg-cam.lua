@@ -1,4 +1,4 @@
-_G.cc = game.Workspace.CurrentCamera
+_G.cc = game.workspace.CurrentCamera
 _G.cc.CameraType = 'Scriptable'
 _G.msg = function(m)
 	print(m)

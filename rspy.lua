@@ -22,7 +22,7 @@ _G.RSpy_Settings = {
 	ShowScript = false, -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
 	ShowReturns = true, -- Display what the remote calls return.
 	Output = rconsoleprint, -- Function used to output remote calls (change to rconsoleprint to use Synapse's console).
-	ProtectFunction = true, -- Set to false in case RSpy crashes for you with certain server events.
+	ProtectFunction = false, -- Set to false in case RSpy crashes for you with certain server events.
 }
 
 local metatable = getrawmetatable(game)

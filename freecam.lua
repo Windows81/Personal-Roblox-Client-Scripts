@@ -1,5 +1,6 @@
 -- Modified from https://pastebin.com/3wrbwSz4
 -- Tested with JJSploit and should work with Synapse X, Protosmasher, etc. (not tested).
+local args = _G.EXEC_ARGS or {}
 local MOVE_KEYS = {
 	[Enum.KeyCode.D] = Vector3.new(01, 0, 0),
 	[Enum.KeyCode.A] = Vector3.new(-1, 0, 0),
@@ -16,8 +17,8 @@ local MOVE_KEYS = {
 	[Enum.KeyCode.PageDown] = Vector3.new(0, -1, 0),
 }
 
-local NORMAL_SPEED = 30
-local SPRINT_SPEED = 90
+local NORMAL_SPEED = args[1]
+local SPRINT_SPEED = args[2]
 local TOGGLE_KEY = Enum.KeyCode.Comma
 local SPRINT_KEY = Enum.KeyCode.LeftBracket
 local FOV_KEY = Enum.KeyCode.RightBracket
@@ -25,7 +26,7 @@ local SENSITIVITY = Vector2.new(1 / 128, 1 / 128)
 
 local uis = game:GetService('UserInputService')
 local pl = game.Players.LocalPlayer
-local cam = game.Workspace.CurrentCamera
+local cam = game.workspace.CurrentCamera
 local mouse = pl:GetMouse()
 local debounce = false
 

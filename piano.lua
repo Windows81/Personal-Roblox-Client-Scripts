@@ -1,8 +1,9 @@
 -- Credit to https://github.com/0b5vr/Lua_midiParser/blob/master/midi-parser.lua for the MIDI parser.
--- Tested with JJSploit and should work with Synapse X (not tested).
-local FILEPATH = [[boo.mid]]
-local TRANSPOSE = 0
-local SPEED = 1
+-- Tested with JJSploit and should work with Synapse X or KRNL (not tested).
+local args = _G.EXEC_ARGS or {}
+local FILEPATH = args[1] or [[boo.mid]]
+local TRANSPOSE = args[2] or 0
+local SPEED = args[3] or 1
 local PLAY_NOTE =
 	getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient
 
@@ -163,21 +164,22 @@ while head < string.len(midi) do
 end
 
 if SPEED > 0 then
-	_G.midi_conn = game:GetService 'RunService'.Heartbeat:Connect(function(d)
-		local keep = false
-		for i, mn in next, _G.midi_notes do
-			local mi = _G.midi_index[i]
-			cdelta[i] = cdelta[i] + d / tempo * SPEED * 1e8
-			if mi <= #mn then keep = true end
-			while mi <= #mn and cdelta[i] >= mn[mi][1] do
-				cdelta[i] = cdelta[i] - mn[mi][1]
-				if not pcall(PLAY_NOTE, mn[mi][2] - 35 + TRANSPOSE) then
-					_G.midi_conn:Disconnect()
+	_G.midi_conn = game:GetService 'RunService'.Heartbeat:Connect(
+		function(d)
+			local keep = false
+			for i, mn in next, _G.midi_notes do
+				local mi = _G.midi_index[i]
+				cdelta[i] = cdelta[i] + d / tempo * SPEED * 1e8
+				if mi <= #mn then keep = true end
+				while mi <= #mn and cdelta[i] >= mn[mi][1] do
+					cdelta[i] = cdelta[i] - mn[mi][1]
+					if not pcall(PLAY_NOTE, mn[mi][2] - 35 + TRANSPOSE) then
+						_G.midi_conn:Disconnect()
+					end
+					mi = mi + 1
 				end
-				mi = mi + 1
+				_G.midi_index[i] = mi
 			end
-			_G.midi_index[i] = mi
-		end
-		if not keep then _G.midi_conn:Disconnect() end
-	end)
+			if not keep then _G.midi_conn:Disconnect() end
+		end)
 end

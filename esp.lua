@@ -1,4 +1,3 @@
-local TextService = game:GetService('TextService')
 --[[
 A distribution of https://wearedevs.net/scripts
 Created August 17, 2021, Last updated August 17, 2021
@@ -145,7 +144,7 @@ function add(obj, options)
 end
 
 local pl = game.Players.LocalPlayer
-local cam = game.Workspace.CurrentCamera
+local cam = game.workspace.CurrentCamera
 function get(obj) return _G.ESP_Objects[obj] end
 function upd(obj)
 	local box = get(obj)

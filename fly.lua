@@ -1,8 +1,9 @@
+local args = _G.EXEC_ARGS or {}
 local key = Enum.KeyCode.H
 local anck = Enum.KeyCode.G
 local fstk = Enum.KeyCode.L
 local slwk = Enum.KeyCode.K
-local speed = 666
+local speed = args[1] or 666
 
 local enabled = false
 local lp = game.Players.LocalPlayer
@@ -14,23 +15,29 @@ if _G.fly_togg then _G.fly_togg:Disconnect() end
 if _G.fly_init then _G.fly_init:Disconnect() end
 
 function init(ch)
+	local max_thrust = args[2] or 5e5
+	local max_torque = args[3] or 1e4
+	local thrust_p = args[5] or 1e3
+	local thrust_d = args[6] or 1e5
+	local turn_p = args[7] or 1e5
+	local turn_d = args[8] or 2e3
 	local hrp = ch:WaitForChild 'HumanoidRootPart'
 	_G.fly_bg = Instance.new('BodyGyro', hrp)
 	_G.fly_rp = Instance.new('RocketPropulsion', hrp)
 	local md = Instance.new('Model', _G.fly_pt)
 	_G.fly_pt = Instance.new('Part', md)
-	_G.fly_rp.MaxTorque = Vector3.new(1e4, 1e4, 1e4)
+	_G.fly_rp.MaxTorque = Vector3.new(max_torque, max_torque, max_torque)
 	md.PrimaryPart = _G.fly_pt
 	_G.fly_pt.Anchored = true
 	_G.fly_pt.CanCollide = false
 	_G.fly_rp.CartoonFactor = 1
 	_G.fly_rp.Target = _G.fly_pt
 	_G.fly_rp.MaxSpeed = speed
-	_G.fly_rp.MaxThrust = 5e5
-	_G.fly_rp.ThrustP = 1e3
-	_G.fly_rp.ThrustD = 1e5
-	_G.fly_rp.TurnP = 1e5
-	_G.fly_rp.TurnD = 2e3
+	_G.fly_rp.MaxThrust = max_thrust
+	_G.fly_rp.ThrustP = thrust_p
+	_G.fly_rp.ThrustD = thrust_d
+	_G.fly_rp.TurnP = turn_p
+	_G.fly_rp.TurnD = turn_d
 	enabled = false
 end
 
@@ -43,8 +50,9 @@ _G.fly_togg = game:GetService 'UserInputService'.InputBegan:Connect(
 		if i.KeyCode == key then
 			enabled = not enabled
 			if enabled then
+				local gyro_p = args[4] or 3e4
 				if _G.fly_rp then _G.fly_rp:Fire() end
-				if _G.fly_bg then _G.fly_bg.P = 3e4 end
+				if _G.fly_bg then _G.fly_bg.P = gyro_p end
 			else
 				if _G.fly_rp then _G.fly_rp:Abort() end
 				if _G.fly_bg then _G.fly_bg.P = 0 end
@@ -64,6 +72,6 @@ _G.fly_char = game:GetService 'RunService'.RenderStepped:Connect(
 	function()
 		local ch = lp.Character
 		if not ch or not enabled or not _G.fly_rp.Parent then return end
-		local r = game.Workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y)
+		local r = game.workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y)
 		_G.fly_pt.Position = _G.fly_rp.Parent.Position + r.Direction * 100
 	end)

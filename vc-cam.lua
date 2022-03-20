@@ -17,7 +17,7 @@ local a = {}
 local t = 0
 local i = 0
 local n = 0
-local cc = game.Workspace.CurrentCamera
+local cc = game.workspace.CurrentCamera
 cc.CameraType = 'Scriptable'
 _G.vc_cam = game:GetService 'RunService'.RenderStepped:Connect(
 	function(d)

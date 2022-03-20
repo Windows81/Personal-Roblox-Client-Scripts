@@ -19,6 +19,7 @@ WEBHOOK = 'https://discord.com/api/webhooks/' .. WEBHOOK
 function header(t) return string.format('[%11s - %s] %s', pId, sId, pName) end
 
 function disc_send(txt)
+	while not request do wait(1) end
 	return request{
 		Url = WEBHOOK,
 		Method = 'POST',
