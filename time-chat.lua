@@ -12,8 +12,9 @@ _G.time_st = game:GetService 'RunService'.Heartbeat:Connect(
 	function()
 		local t = math.floor(tick() / snap) * snap
 		local ds = os.date(format, t)
-		if _G.pnt_ds ~= ds then
+		if _G.pnt_ds ~= ds and (not _G.time_pr or t > _G.time_pr) then
 			_G.pnt_ds = ds
 			write(ds, t)
+			_G.time_pr = t
 		end
 	end)

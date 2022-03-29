@@ -16,6 +16,7 @@ _G.RSpy_Settings = {
 		['.ReplicatedStorage.PerspectiveLookEvent'] = true,
 		['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
 		['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
+		['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
 	},
 	LineBreak = '\n',
 	BlockBreak = '\n\n',

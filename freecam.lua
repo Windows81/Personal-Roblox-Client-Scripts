@@ -24,7 +24,7 @@ local SPRINT_KEY = Enum.KeyCode.LeftBracket
 local FOV_KEY = Enum.KeyCode.RightBracket
 local SENSITIVITY = Vector2.new(1 / 128, 1 / 128)
 
-local uis = game:GetService('UserInputService')
+local uis = game:GetService 'UserInputService'
 local pl = game.Players.LocalPlayer
 local cam = game.workspace.CurrentCamera
 local mouse = pl:GetMouse()

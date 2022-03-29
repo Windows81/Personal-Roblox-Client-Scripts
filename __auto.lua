@@ -2,8 +2,8 @@ getgenv().exec = function(n, ...)
 	local fs = {
 		n,
 		string.format('%s.lua', n),
+		n == 'PLACE' and ('_%011d-.lua'):format(game.PlaceId),
 		n == 'PLACE' and ('_%011d.lua'):format(game.PlaceId),
-		n == 'PLACE' and ('_%011d.lua-'):format(game.PlaceId),
 	}
 	for _, f in next, fs do
 		if f and isfile(f) then
@@ -16,9 +16,12 @@ getgenv().exec = function(n, ...)
 	end
 end
 
-loadfile'aafk.lua'()
-loadfile'log.lua'()
--- loadfile'rspy.lua'()
+for _, n in next, {
+	'aafk.lua',
+	'log.lua',
+	'teleport.lua',
+	-- 'rspy.lua',
+} do loadfile(n)() end
 
 local n = ('_%011d.lua'):format(game.PlaceId)
 if isfile(n) then print('LOADFILE FOR PLACE:', pcall(loadfile(n))) end
