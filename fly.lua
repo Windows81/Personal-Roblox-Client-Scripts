@@ -18,9 +18,9 @@ function init(ch)
 	local max_thrust = args[2] or 5e5
 	local max_torque = args[3] or 1e4
 	local thrust_p = args[5] or 1e3
-	local thrust_d = args[6] or 1e5
+	local thrust_d = args[6] or math.huge
 	local turn_p = args[7] or 1e5
-	local turn_d = args[8] or 2e3
+	local turn_d = args[8] or 2e2
 	local hrp = ch:WaitForChild 'HumanoidRootPart'
 	_G.fly_bg = Instance.new('BodyGyro', hrp)
 	_G.fly_rp = Instance.new('RocketPropulsion', hrp)

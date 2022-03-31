@@ -1,15 +1,9 @@
-local print_f = print
+local args = _G.EXEC_ARGS or {}
 
-local function query(o)
-	--
-	return o.ClassName:find 'Value'
-end
+local query = args[1] or function(o) return true end
+local range = args[2] or game.Players.LocalPlayer:GetDescendants()
 
-local function range()
-	--
-	return game.Players.LocalPlayer:GetDescendants()
-end
-
+local print_f = args[3] or print
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name
 	local f = '.%s'
@@ -29,7 +23,7 @@ local function get_full(o)
 	return (o:IsDescendantOf(game) and 'game' or 'NIL') .. r, c
 end
 
-for i, g in next, range() do
+for i, g in next, range do
 	if query(g) then
 		local n, c = get_full(g)
 		print_f(('[%02d] %s {%s}\n'):format(c, n, g.ClassName))

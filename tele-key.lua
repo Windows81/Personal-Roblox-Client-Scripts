@@ -21,8 +21,8 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 			local res = game.workspace:Raycast(r.Origin, r.Direction * 5e3, rp)
 			if not res then return end
 
-			local n = res.Normal.Unit
 			local d
+			local n = res.Normal.Unit
 			if n.Y > .25 then
 				local h = ch:FindFirstChildWhichIsA 'Humanoid'
 				d = h and h.HipHeight or 0
@@ -40,6 +40,7 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 					d = -math.min(m + 4, 127)
 				end
 			end
+
 			local off = d * n
 			ch:SetPrimaryPartCFrame(CFrame.new(res.Position + off))
 		end

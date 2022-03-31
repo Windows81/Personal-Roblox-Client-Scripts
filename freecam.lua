@@ -17,8 +17,8 @@ local MOVE_KEYS = {
 	[Enum.KeyCode.PageDown] = Vector3.new(0, -1, 0),
 }
 
-local NORMAL_SPEED = args[1]
-local SPRINT_SPEED = args[2]
+local NORMAL_SPEED = args[1] or 30
+local SPRINT_SPEED = args[2] or 90
 local TOGGLE_KEY = Enum.KeyCode.Comma
 local SPRINT_KEY = Enum.KeyCode.LeftBracket
 local FOV_KEY = Enum.KeyCode.RightBracket

@@ -1,29 +1,35 @@
-local GuiService = game:GetService('GuiService')
 --[[
 	Lua U Remote Spy written by chaserks, refactored by VisualPlugin.
 	Exploits supported: Synapse X, ProtoSmasher, JJSploit (Sirhurt?, Elysian?).
 	Remote calls are printed to the dev console by default (F9 window).
 	To use Synapse's console, change Settings.Output to rconsoleprint.
-]]
+]] --
+local args = _G.EXEC_ARGS or {}
+local function sel(n, d)
+	local v = type(args[1]) == 'table' and args[1][n] or args[n]
+	return v == nil and d or v
+end
+
 _G.RSpy_Settings = {
-	ToClientEnabled = false, -- Events to the client are logged.
-	ToServerEnabled = true, -- Events to the server are logged.
-	Blacklist = { -- Ignore remote calls made with these remotes.
-		['.DefaultChatSystemChatEvents.OnMessageDoneFiltering'] = true,
-		['.DefaultChatSystemChatEvents.OnNewSystemMessage'] = true,
-		['.DefaultChatSystemChatEvents.SayMessageRequest'] = true,
-		['.DefaultChatSystemChatEvents.OnNewMessage'] = true,
-		['.ReplicatedStorage.PerspectiveLookEvent'] = true,
-		['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
-		['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
-		['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
-	},
-	LineBreak = '\n',
-	BlockBreak = '\n\n',
-	ShowScript = false, -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
-	ShowReturns = true, -- Display what the remote calls return.
-	Output = rconsoleprint, -- Function used to output remote calls (change to rconsoleprint to use Synapse's console).
-	ProtectFunction = false, -- Set to false in case RSpy crashes for you with certain server events.
+	ToClientEnabled = sel(2, false), -- Events to the client are logged.
+	ToServerEnabled = sel(1, true), -- Events to the server are logged.
+	Blacklist = sel(
+		7, { -- Ignore remote calls made with these remotes.
+			['.DefaultChatSystemChatEvents.OnMessageDoneFiltering'] = true,
+			['.DefaultChatSystemChatEvents.OnNewSystemMessage'] = true,
+			['.DefaultChatSystemChatEvents.SayMessageRequest'] = true,
+			['.DefaultChatSystemChatEvents.OnNewMessage'] = true,
+			['.ReplicatedStorage.PerspectiveLookEvent'] = true,
+			['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
+			['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
+			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
+		}),
+	LineBreak = sel(8, '\n'),
+	BlockBreak = sel(9, '\n\n'),
+	ShowScript = sel(5, false), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
+	ShowReturns = sel(6, true), -- Display what the remote calls return.
+	Output = sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
+	ProtectFunction = sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
 }
 
 local metatable = getrawmetatable(game)

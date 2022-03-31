@@ -18,8 +18,9 @@ end
 
 for _, n in next, {
 	'aafk.lua',
+	'tele-key.lua',
 	'log.lua',
-	'teleport.lua',
+	'zoom.lua',
 	-- 'rspy.lua',
 } do loadfile(n)() end
 
