@@ -27,6 +27,7 @@ function init(ch)
 	local md = Instance.new('Model', _G.fly_pt)
 	_G.fly_pt = Instance.new('Part', md)
 	_G.fly_rp.MaxTorque = Vector3.new(max_torque, max_torque, max_torque)
+	_G.fly_bg.MaxTorque = Vector3.new()
 	md.PrimaryPart = _G.fly_pt
 	_G.fly_pt.Anchored = true
 	_G.fly_pt.CanCollide = false
@@ -38,6 +39,7 @@ function init(ch)
 	_G.fly_rp.ThrustD = thrust_d
 	_G.fly_rp.TurnP = turn_p
 	_G.fly_rp.TurnD = turn_d
+	_G.fly_bg.P = 3e4
 	enabled = false
 end
 
@@ -50,12 +52,12 @@ _G.fly_togg = game:GetService 'UserInputService'.InputBegan:Connect(
 		if i.KeyCode == key then
 			enabled = not enabled
 			if enabled then
-				local gyro_p = args[4] or 3e4
+				local t = args[4] or 3e4
 				if _G.fly_rp then _G.fly_rp:Fire() end
-				if _G.fly_bg then _G.fly_bg.P = gyro_p end
+				if _G.fly_bg then _G.fly_bg.MaxTorque = Vector3.new(t, 0, t) end
 			else
 				if _G.fly_rp then _G.fly_rp:Abort() end
-				if _G.fly_bg then _G.fly_bg.P = 0 end
+				if _G.fly_bg then _G.fly_bg.MaxTorque = Vector3.new() end
 			end
 		elseif i.KeyCode == anck then
 			_G.fly_rp.Parent.Anchored = not _G.fly_rp.Parent.Anchored

@@ -6,17 +6,25 @@ local sId = #game.JobId > 0 and game.JobId or 'PLAYTEST'
 local uId = game.Players.LocalPlayer.UserId
 local enabled = true
 
-local pName = ''
 local function get_pname(pId)
-	while true do
-		local s, r = pcall(
-			game.MarketplaceService.GetProductInfo, game.MarketplaceService, pId)
-		if s then return r and r.Name or nil end
-		wait(3)
-	end
+	local s, r = pcall(
+		game.MarketplaceService.GetProductInfo, game.MarketplaceService, pId)
+	return (s and r) and r.Name or nil
 end
-spawn(function() pName = get_pname(pId) or pName end)
-wait(1)
+
+local pName = get_pname(pId)
+if not pName then
+	pName = ''
+	spawn(
+		function()
+			local n
+			repeat
+				wait(3)
+				n = get_pname(pId)
+			until n
+			pName = n
+		end)
+end
 
 local function timestamp(t) return os.date('%Y-%m-%dT%H:%M:%SZ', t) end
 local fn = string.format('logs/%011d %s', pId, os.date('%Y-%m-%d %H%M%S.txt'))
