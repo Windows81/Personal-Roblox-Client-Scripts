@@ -42,6 +42,8 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 			end
 
 			local off = d * n
-			ch:SetPrimaryPartCFrame(CFrame.new(res.Position + off))
+			local p = res.Position + off
+			local lv = ch:GetPrimaryPartCFrame().LookVector
+			ch:SetPrimaryPartCFrame(CFrame.new(p, p + lv))
 		end
 	end)

@@ -1,6 +1,6 @@
 local args = _G.EXEC_ARGS or {}
 local snap = args[1] or 5
-local format = args[2] or [[Happy %H:%M:%S UTC!]]
+local format = args[2] or [[Happy %Hh%M UTC!]]
 local write = args[3] or function(m, t)
 	game:GetService('ReplicatedStorage'):WaitForChild(
 		'DefaultChatSystemChatEvents'):WaitForChild('SayMessageRequest'):FireServer(
