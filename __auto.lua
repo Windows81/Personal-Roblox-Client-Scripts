@@ -1,10 +1,14 @@
 getgenv().exec = function(n, ...)
-	local fs = {
-		n,
-		string.format('%s.lua', n),
-		n == 'PLACE' and ('_%011d-.lua'):format(game.PlaceId),
-		n == 'PLACE' and ('_%011d.lua'):format(game.PlaceId),
-	}
+	local fs = {n, string.format('%s.lua', n)}
+	if n == 'PLACE' then
+		fs = {
+			('_%011d-.lua'):format(game.PlaceId),
+			('_%011d.lua'):format(game.PlaceId),
+		}
+	elseif n == 'PLACE-' then
+		fs = {('_%011d-.lua'):format(game.PlaceId)}
+	end
+
 	for _, f in next, fs do
 		if f and isfile(f) then
 			_G.EXEC_ARGS = {...}
@@ -21,6 +25,7 @@ for _, n in next, {
 	'zoom-dist.lua',
 	'click-dist.lua',
 	'tele-key.lua',
+	'auto-rej.lua',
 	'log.lua',
 	-- 'rspy.lua',
 } do loadfile(n)() end

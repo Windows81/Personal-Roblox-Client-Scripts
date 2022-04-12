@@ -8,6 +8,11 @@ if _G.cmg_t then
 	return
 end
 
+for _, g in next, game:GetDescendants() do
+	if g:isA 'GuiBase2d' then g.AutoLocalize = false end
+end
+
+--[[
 _G.cmg_t = t
 game.ReplicatedStorage.RemoteEvent:FireServer('UpdateReturningPlayer')
 wait(.5)
@@ -25,3 +30,4 @@ end
 game.ReplicatedStorage.RemoteEvent:FireServer('burritoBuilderResults', {c})
 wait(.5)
 game.ReplicatedStorage.RemoteEvent:FireServer('togglePlayerVisible', false)
+]]

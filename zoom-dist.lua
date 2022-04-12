@@ -1,5 +1,13 @@
 local pl = game.Players.LocalPlayer
-pl.CameraMaxZoomDistance = math.huge
-pl.CameraMinZoomDistance = 0
-pl.CameraMode = Enum.CameraMode.Classic
-pl.DevComputerCameraMode = Enum.DevComputerCameraMovementMode.UserChoice
+local set = function(prop, val)
+	if _G.zm_h[prop] then _G.zm_h[prop]:Disconnect() end
+	pl[prop] = val
+	_G.zm_h[prop] = pl:GetPropertyChangedSignal(prop):Connect(
+		function() if pl[prop] ~= val then pl[prop] = val end end)
+end
+
+_G.zm_h = _G.zm_h or {}
+set('CameraMaxZoomDistance', 1e5)
+set('CameraMinZoomDistance', 0)
+set('CameraMode', Enum.CameraMode.Classic)
+set('DevComputerCameraMode', Enum.DevComputerCameraMovementMode.UserChoice)
