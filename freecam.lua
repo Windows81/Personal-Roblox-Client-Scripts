@@ -28,17 +28,29 @@ local uis = game:GetService 'UserInputService'
 local pl = game.Players.LocalPlayer
 local cam = game.workspace.CurrentCamera
 local mouse = pl:GetMouse()
-local debounce = false
+local enabled = false
 
-local movePosition = Vector2.new(0, 0)
-local targetMovePosition = movePosition
-local lastRightButtonDown = Vector2.new(0, 0)
-local rightMouseButtonDown = false
+local curr_mouse_rot = Vector2.new(0, 0)
+local prev_mouse_rot = curr_mouse_rot
+local button2_ref = Vector2.new(0, 0)
+local button2_dn = false
 
 local speed = NORMAL_SPEED
 local fov = cam.FieldOfView
-
 local keys_dn = {}
+
+function set_enabled(b)
+	if enabled == b then return end
+	enabled = b
+	if enabled then
+		pl.Character.Humanoid.WalkSpeed = 0
+		cam.CameraType = Enum.CameraType.Scriptable
+	else
+		pl.Character.Humanoid.WalkSpeed = 16
+		cam.CameraSubject = pl.Character.Humanoid
+		cam.CameraType = Enum.CameraType.Custom
+	end
+end
 
 function lerp(a, b, t)
 	if t == 1 then
@@ -56,7 +68,7 @@ uis.InputChanged:Connect(
 	function(inputObject)
 		if inputObject.UserInputType == Enum.UserInputType.MouseMovement then
 			local d = Vector2.new(inputObject.Delta.X, inputObject.Delta.Y)
-			movePosition = movePosition + d
+			curr_mouse_rot = curr_mouse_rot + d
 		end
 	end)
 
@@ -70,48 +82,16 @@ function Round(num, numDecimalPlaces)
 	return math.floor((num / numDecimalPlaces) + .5) * numDecimalPlaces
 end
 
-function input(i, pr)
-	if pr then return end
-	if MOVE_KEYS[i.KeyCode] then
-		if i.UserInputState == Enum.UserInputState.Begin then
-			keys_dn[i.KeyCode] = true
-		elseif i.UserInputState == Enum.UserInputState.End then
-			keys_dn[i.KeyCode] = nil
-		end
-	else
-		if i.UserInputState == Enum.UserInputState.Begin then
-			if i.UserInputType == Enum.UserInputType.MouseButton2 then
-				rightMouseButtonDown = true
-				lastRightButtonDown = Vector2.new(mouse.X, mouse.Y)
-				uis.MouseBehavior = Enum.MouseBehavior.LockCurrentPosition
-			elseif i.KeyCode == FOV_KEY then
-				fov = 20
-			elseif i.KeyCode == SPRINT_KEY then
-				speed = SPRINT_SPEED
-			end
-		else
-			if i.UserInputType == Enum.UserInputType.MouseButton2 then
-				rightMouseButtonDown = false
-				uis.MouseBehavior = Enum.MouseBehavior.Default
-			elseif i.KeyCode == FOV_KEY then
-				fov = 70
-			elseif i.KeyCode == SPRINT_KEY then
-				speed = NORMAL_SPEED
-			end
-		end
-	end
-end
-
 if _G.freecam_wf then _G.freecam_wf:Disconnect() end
 if _G.freecam_wb then _G.freecam_wb:Disconnect() end
 if _G.freecam_ib then _G.freecam_ib:Disconnect() end
 if _G.freecam_ie then _G.freecam_ie:Disconnect() end
 
 _G.freecam_wf = mouse.WheelForward:Connect(
-	function() cam.CoordinateFrame = cam.CoordinateFrame * CFrame.new(0, 0, -5) end)
+	function() cam.CFrame = cam.CFrame * CFrame.new(0, 0, -5) end)
 
 _G.freecam_wb = mouse.WheelBackward:Connect(
-	function() cam.CoordinateFrame = cam.CFrame * CFrame.new(0, 0, 5) end)
+	function() cam.CFrame = cam.CFrame * CFrame.new(0, 0, 5) end)
 
 _G.freecam_ib = uis.InputBegan:Connect(
 	function(i, pr)
@@ -119,24 +99,16 @@ _G.freecam_ib = uis.InputBegan:Connect(
 			return
 		elseif MOVE_KEYS[i.KeyCode] then
 			keys_dn[i.KeyCode] = true
-		elseif debounce and i.UserInputType == Enum.UserInputType.MouseButton2 then
-			rightMouseButtonDown = true
-			lastRightButtonDown = Vector2.new(mouse.X, mouse.Y)
+		elseif enabled and i.UserInputType == Enum.UserInputType.MouseButton2 then
+			button2_dn = true
+			button2_ref = Vector2.new(mouse.X, mouse.Y)
 			uis.MouseBehavior = Enum.MouseBehavior.LockCurrentPosition
 		elseif i.KeyCode == FOV_KEY then
 			fov = 20
 		elseif i.KeyCode == SPRINT_KEY then
 			speed = SPRINT_SPEED
 		elseif i.KeyCode == TOGGLE_KEY then
-			debounce = not debounce
-			if debounce then
-				pl.Character.Humanoid.WalkSpeed = 0
-				cam.CameraType = Enum.CameraType.Scriptable
-			else
-				pl.Character.Humanoid.WalkSpeed = 16
-				cam.CameraSubject = pl.Character.Humanoid
-				cam.CameraType = Enum.CameraType.Custom
-			end
+			set_enabled(not enabled)
 		end
 	end)
 
@@ -146,8 +118,8 @@ _G.freecam_ie = uis.InputEnded:Connect(
 			return
 		elseif MOVE_KEYS[i.KeyCode] then
 			keys_dn[i.KeyCode] = nil
-		elseif debounce and i.UserInputType == Enum.UserInputType.MouseButton2 then
-			rightMouseButtonDown = false
+		elseif enabled and i.UserInputType == Enum.UserInputType.MouseButton2 then
+			button2_dn = false
 			uis.MouseBehavior = Enum.MouseBehavior.Default
 		elseif i.KeyCode == FOV_KEY then
 			fov = 70
@@ -156,23 +128,26 @@ _G.freecam_ie = uis.InputEnded:Connect(
 		end
 	end)
 
-if _G.freecam_step then _G.freecam_step:Disconnect() end
-_G.freecam_step = game:GetService 'RunService'.RenderStepped:Connect(
-	function(d)
-		if not debounce then return end
-		targetMovePosition = movePosition
-		local ty = -targetMovePosition.Y * SENSITIVITY.Y
-		local tx = -targetMovePosition.X * SENSITIVITY.X
+if _G.freecam_step then
+	game:GetService 'RunService':UnbindFromRenderStep(_G.freecam_step)
+end
+_G.freecam_step = 'freecam'
+game:GetService 'RunService':BindToRenderStep(
+	_G.freecam_step, Enum.RenderPriority.Camera.Value, function(d)
+		if not enabled then return end
+		prev_mouse_rot = curr_mouse_rot
+		local ty = -prev_mouse_rot.Y * SENSITIVITY.Y
+		local tx = -prev_mouse_rot.X * SENSITIVITY.X
 		local eu = CFrame.fromEulerAnglesYXZ(ty, tx, 0)
 		local mv = calc_mv(keys_dn, speed * d)
 
 		cam.CFrame = CFrame.new(cam.CFrame.Position) * eu * mv
 		cam.FieldOfView = fov
 
-		if rightMouseButtonDown then
+		if button2_dn then
 			uis.MouseBehavior = Enum.MouseBehavior.LockCurrentPosition
 			local rv = Vector2.new(mouse.X, mouse.Y)
-			movePosition = movePosition - (lastRightButtonDown - rv)
-			lastRightButtonDown = rv
+			curr_mouse_rot = curr_mouse_rot - (button2_ref - rv)
+			button2_ref = rv
 		end
 	end)
