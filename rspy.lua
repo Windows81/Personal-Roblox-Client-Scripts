@@ -14,7 +14,7 @@ _G.RSpy_Settings = {
 	ToClientEnabled = sel(2, false), -- Events to the client are logged.
 	ToServerEnabled = sel(1, true), -- Events to the server are logged.
 	Blacklist = sel(
-		7, { -- Ignore remote calls made with these remotes.
+		8, { -- Ignore remote calls made with these remotes.
 			['.DefaultChatSystemChatEvents.OnMessageDoneFiltering'] = true,
 			['.DefaultChatSystemChatEvents.OnNewSystemMessage'] = true,
 			['.DefaultChatSystemChatEvents.SayMessageRequest'] = true,
@@ -24,12 +24,13 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
 			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
 		}),
-	LineBreak = sel(8, '\n'),
-	BlockBreak = sel(9, '\n\n'),
-	ShowScript = sel(5, false), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
-	ShowReturns = sel(6, true), -- Display what the remote calls return.
+	LineBreak = sel(9, '\n'),
+	BlockBreak = sel(10, '\n\n'),
+	ShowScript = sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
+	ShowReturns = sel(7, true), -- Display what the remote calls return.
 	Output = sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
 	ProtectFunction = sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
+	NullifyBrokenMethods = sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
 }
 
 local metatable = getrawmetatable(game)
@@ -56,6 +57,7 @@ local _, get_instances = next{
 
 _G.RSpy_Original = {}
 local Methods = {RemoteEvent = 'FireServer', RemoteFunction = 'InvokeServer'}
+local ErrorMethodDict = {}
 
 local function GetInstanceName(Object) -- Returns proper string wrapping for instances
 	local Name = Object.Name
@@ -202,22 +204,31 @@ do
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(self, ...)
+			local Method = get_namecall_method(self)
+			if _G.RSpy_Settings.NullifyBrokenMethods and ErrorMethodDict[Method] then
+				return
+			end
 			local Arguments = {...}
 			local Success, Returns = pcall(
 				function() return {(ORIG or original_function)(self, unpack(Arguments))} end)
-			local Method = get_namecall_method(self)
 			if not Success then
 				warn(('Method not called successfully: %s [%s]'):format(Method, Returns))
+				if type(Returns) == 'string' then
+					ErrorMethodDict[Method] = Returns or 'undefined error'
+				end
 				return
 			end
 			if _G.RSpy_Settings.ToServerEnabled and typeof(Method) == 'string' and
 				Methods[self.ClassName] == Method and not IsInBlacklist(self) then
 
 				-- ProtoSmasher HATES getfenv(3); detour_function breaks!
-				Write(
-					self, Method, Arguments,
-						(_G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED) and
-							rawget(getfenv(3), 'script') or nil, Returns)
+				local EnvSuccess, Environment = pcall(getfenv, 3)
+				if EnvSuccess then
+					Write(
+						self, Method, Arguments,
+							(_G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED) and
+								rawget(Environment, 'script') or nil, Returns)
+				end
 			end
 			return unpack(Returns)
 		end)

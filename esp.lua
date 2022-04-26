@@ -1,6 +1,6 @@
 --[[
 A distribution of https://wearedevs.net/scripts
-Created August 17, 2021, Last updated August 17, 2021
+Forked and f**ked up by VisualPlugin!
 
 Description: Draws boxes around each player.
 

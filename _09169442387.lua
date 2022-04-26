@@ -1,1 +1,1 @@
-exec('fly', 666, true, 1e8, 1e8, 3e7, 0)
+exec('fly', 420, true, 1e8, 1e8, 3e7, 0)

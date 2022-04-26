@@ -1,7 +1,7 @@
 local args = _G.EXEC_ARGS or {}
 
-local query = args[1] or function(o) return true end
-local range = args[2] or game.Players.LocalPlayer:GetDescendants()
+local range = args[1] or game.Players.LocalPlayer:GetDescendants()
+local query = args[2] or function(o) return true end
 
 local print_f = args[3] or print
 local function get_name(o) -- Returns proper string wrapping for instances

@@ -20,7 +20,7 @@ local MVKS = {
 	[Enum.KeyCode.PageDown] = Vector3.new(0, -1, 0),
 }
 
-local speed = args[1] or 666
+local speed = args[1] or 127
 local rel_to_char = args[2] or false
 local max_torque_rp = args[3] or 1e4
 local thrust_p = args[4] or 1e7

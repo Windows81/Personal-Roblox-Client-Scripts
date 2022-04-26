@@ -1,12 +1,22 @@
 getgenv().exec = function(n, ...)
 	local fs = {n, string.format('%s.lua', n)}
-	if n == 'PLACE' then
+	if type(n) == 'number' then
 		fs = {
+			--
+			('_%011d-.lua'):format(n),
+			('_%011d.lua'):format(n),
+		}
+	elseif n == 'PLACE' then
+		fs = {
+			--
 			('_%011d-.lua'):format(game.PlaceId),
 			('_%011d.lua'):format(game.PlaceId),
 		}
 	elseif n == 'PLACE-' then
-		fs = {('_%011d-.lua'):format(game.PlaceId)}
+		fs = {
+			--
+			('_%011d-.lua'):format(game.PlaceId),
+		}
 	end
 
 	for _, f in next, fs do
