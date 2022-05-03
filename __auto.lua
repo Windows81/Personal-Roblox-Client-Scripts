@@ -31,6 +31,7 @@ getgenv().exec = function(n, ...)
 end
 
 for _, n in next, {
+	'hop.lua',
 	'aafk.lua',
 	'zoom-dist.lua',
 	'click-dist.lua',

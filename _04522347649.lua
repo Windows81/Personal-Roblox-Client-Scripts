@@ -1,7 +1,7 @@
 wait(2)
 local h = {}
 local pls = game.Players:children()
-for i, p in next, pls do
+for _, p in next, pls do
 	if p.Character and p ~= game.Players.LocalPlayer then
 		h[p] = p.Character:GetPrimaryPartCFrame()
 	end
@@ -22,5 +22,5 @@ end
 local p = pl.Character.PrimaryPart.CFrame
 game.ReplicatedStorage.HDAdminClient.Signals.RequestCommand:InvokeServer(
 	':unff ' .. pl.Name)
-game.Workspace.VisualPlugin:SetPrimaryPartCFrame(p * CFrame.new(0, 0, 3))
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(p * CFrame.new(0, 0, 3))
 mouse1click()

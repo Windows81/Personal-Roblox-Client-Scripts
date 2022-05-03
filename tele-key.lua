@@ -3,7 +3,7 @@ local mouse = pl:GetMouse()
 
 local args = _G.EXEC_ARGS or {}
 local KEY = args[1] or Enum.KeyCode.T
-local TOTAL_DIST = args[2] or 2e4
+local TOTAL_DIST = args[2] or 1e5
 local DIST_PER_RAYCAST = args[3] or 5e3
 
 if _G.tp_ev then _G.tp_ev:Disconnect() end

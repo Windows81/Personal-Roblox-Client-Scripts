@@ -23,6 +23,7 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
 			['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
 			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
+			['.ReplicatedStorage.updstatus'] = true, -- 4628761410
 		}),
 	LineBreak = sel(9, '\n'),
 	BlockBreak = sel(10, '\n\n'),
@@ -99,9 +100,8 @@ local function Parse(Object) -- Convert the types into strings
 			Counter = Counter + 1
 			local Obj = Obj ~= Object and Parse(Obj) or 'THIS_TABLE'
 			if Counter ~= Idx then
-				Str = Str ..
-					      ('[%s] = %s, '):format(
-						Idx ~= Object and Parse(Idx) or 'THIS_TABLE', Obj) -- maybe
+				local IdxStr = Idx ~= Object and Parse(Idx) or 'THIS_TABLE'
+				Str = Str .. ('[%s] = %s, '):format(IdxStr, Obj) -- maybe
 			else
 				Str = Str .. ('%s, '):format(Obj)
 			end
