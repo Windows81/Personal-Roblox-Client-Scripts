@@ -30,7 +30,7 @@ _G.RSpy_Settings = {
 	ShowScript = sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
 	ShowReturns = sel(7, true), -- Display what the remote calls return.
 	Output = sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
-	ProtectFunction = sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
+	ProtectFunction = sel(4, true), -- Set to false in case RSpy crashes for you with certain server events.
 	NullifyBrokenMethods = sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
 }
 

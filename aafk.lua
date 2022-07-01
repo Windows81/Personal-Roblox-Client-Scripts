@@ -1,4 +1,4 @@
-local bb = game:service 'VirtualUser'
+local bb = game:GetService 'VirtualUser'
 game.Players.LocalPlayer.Idled:Connect(
 	function()
 		bb:CaptureController()

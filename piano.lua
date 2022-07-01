@@ -1,11 +1,31 @@
+--[==[HELP]==
 -- Credit to https://github.com/0b5vr/Lua_midiParser/blob/master/midi-parser.lua for the MIDI parser.
 -- Tested with JJSploit and should work with Synapse X or KRNL (not tested).
+
+[1] - string
+	The file path from which the MIDI shall be parsed, relative to ./workspace
+
+[2] - number
+	The integer number of semitones to transpose the piece by; default is 0.
+
+[3] - number
+	The speed at which the track shall be played; default is 1.
+
+[4] - (number)->() | nil
+	The function that receives MIDI-on codes; default is
+		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient.
+]==] --
+--
 local args = _G.EXEC_ARGS or {}
 local FILEPATH = args[1] or [[boo.mid]]
 local TRANSPOSE = args[2] or 0
 local SPEED = args[3] or 1
-local PLAY_NOTE =
-	getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient
+local PLAY_NOTE = args[4]
+
+if not PLAY_NOTE then
+	PLAY_NOTE =
+		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient
+end
 
 if _G.midi_conn then _G.midi_conn:Disconnect() end
 if #FILEPATH == 0 then return end

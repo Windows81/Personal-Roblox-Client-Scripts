@@ -7,7 +7,7 @@ if #args == 1 and args[1] == false then
 	return
 end
 
-local format = args[1] or [[Happy %H:%M UTC!]]
+local format = args[1] or [[Happy %H:%M:%S UTC!]]
 local write = args[2] or function(m, t)
 	game:GetService('ReplicatedStorage'):WaitForChild(
 		'DefaultChatSystemChatEvents'):WaitForChild('SayMessageRequest'):FireServer(
@@ -15,7 +15,7 @@ local write = args[2] or function(m, t)
 end
 
 local snap = args[3] or 5
-local clear = args[4]
+local clear = not args[1] and true or args[4]
 local index = #_G.tmch_t + 1
 if clear ~= nil and typeof(clear) ~= 'boolean' then index = clear end
 

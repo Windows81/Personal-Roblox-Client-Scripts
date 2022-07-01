@@ -14,7 +14,7 @@ local output = args[2] or print
 local stringify = args[3] ~= false
 local m = game.Players.LocalPlayer:GetMouse()
 local _ = args[1] and wait(args[1]) or m.Button1Up:Wait()
-local v = m.Hit
+local v = game.Workspace.CurrentCamera.CFrame
 _G.EXEC_RETURN = {v}
 
 if stringify then

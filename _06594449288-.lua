@@ -10,6 +10,7 @@ local pl = game.Players.LocalPlayer
 
 _G.aa_loop = tick()
 local t = _G.aa_loop
+local rs = game:GetService 'RunService'
 while next(h) and _G.aa_loop == t do
 	local ch = pl.Character.HumanoidRootPart.CFrame
 	for p in next, h do
@@ -21,7 +22,7 @@ while next(h) and _G.aa_loop == t do
 				local x, y = v.X, v.Y
 				print(c, v, x, y)
 				mousemoveabs(x, y)
-				game:GetService 'RunService'.Heartbeat:Wait()
+				rs.Heartbeat:Wait()
 				mouse1click()
 				wait(.3)
 				h[p] = nil
@@ -29,5 +30,5 @@ while next(h) and _G.aa_loop == t do
 			end
 		end
 	end
-	game:GetService 'RunService'.Heartbeat:Wait()
+	rs.Heartbeat:Wait()
 end

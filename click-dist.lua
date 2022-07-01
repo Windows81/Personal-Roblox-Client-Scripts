@@ -1,3 +1,7 @@
+--[==[HELP]==
+This script essentially increases the maximum activation distance of all ClickDetector objects to a huge number.
+]==] --
+--
 local function extend(o)
 	if o:isA 'ClickDetector' then
 		o.MaxActivationDistance = o.MaxActivationDistance * 0x10000

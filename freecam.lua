@@ -128,11 +128,10 @@ _G.freecam_ie = uis.InputEnded:Connect(
 		end
 	end)
 
-if _G.freecam_step then
-	game:GetService 'RunService':UnbindFromRenderStep(_G.freecam_step)
-end
+local rs = game:GetService 'RunService'
+if _G.freecam_step then rs:UnbindFromRenderStep(_G.freecam_step) end
 _G.freecam_step = 'freecam'
-game:GetService 'RunService':BindToRenderStep(
+rs:BindToRenderStep(
 	_G.freecam_step, Enum.RenderPriority.Camera.Value, function(d)
 		if not enabled then return end
 		prev_mouse_rot = curr_mouse_rot

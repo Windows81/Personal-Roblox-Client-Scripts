@@ -1,9 +1,22 @@
-local args = _G.EXEC_ARGS or {}
+--[==[HELP]==
+Traverses through a list of objects, with the full path and number of layers from the datamodel printed out.
 
-local range = args[1] or game.Players.LocalPlayer:GetDescendants()
+[1] - {Instance} | Instance | nil
+	List of objects to be traversed.
+
+[2] - (Instance)->bool | nil
+	Query function that, when returns true, proceeds with output; defaults to always-true.
+
+[3] - (s:string)->() | nil
+	The output function; default is 'print'.
+]==] --
+--
+local args = _G.EXEC_ARGS or {}
+local range = args[1] or game
+if typeof(range) == 'Instance' then range = range:GetDescendants() end
 local query = args[2] or function(o) return true end
 
-local print_f = args[3] or print
+local output = args[3] or print
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name
 	local f = '.%s'
@@ -23,10 +36,14 @@ local function get_full(o)
 	return (o:IsDescendantOf(game) and 'game' or 'NIL') .. r, c
 end
 
-for i, g in next, range do
-	if query(g) then
+local t = {}
+for _, g in next, range do
+	local s, b = pcall(query, g)
+	if s and b then
 		local n, c = get_full(g)
-		print_f(('[%02d] %s {%s}\n'):format(c, n, g.ClassName))
+		output(('[%02d] %s {%s}\n'):format(c, n, g.ClassName))
+		table.insert(t, g)
 	end
 end
-print_f('\n\n')
+output('\n\n')
+_G.EXEC_RETURN = {t}

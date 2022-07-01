@@ -16,22 +16,23 @@ local WAIT_ERRORS = {
 	[Enum.TeleportResult.Flooded] = true,
 }
 
--- Return null/false to stop processing, anything else to save as stat and skip to next server.
+-- Return nil/false to stop processing, anything else to save as stat and skip to next server.
 local function get_stat()
+	wait(69)
 	local f = game.CoreGui.RobloxGui.SettingsShield. --
 	SettingsShield.MenuContainer.PageViewClipper.PageView. --
 	PageViewInnerFrame:findFirstChild 'Players'
-	if not f then return true end
+	if not f then return false end
 	local c = 0
 	for _, g in next, f:GetDescendants() do
 		if g.Name == 'MuteStatusButton' then
-			if g.MuteStatusImageLabel.Image:find '/Muted' then
+			if not g.MuteStatusImageLabel.Image:find '/Muted' then
 				c = c + 1
-				if c == 2 then return true end
+				if c == 2 then return false end
 			end
 		end
 	end
-	return false
+	return true
 end
 
 -- The script at file "sFn" should return a function.
@@ -84,7 +85,7 @@ local function process_lines(lines)
 	if s == sId then
 		local v = get_stat()
 		if v then
-			lines[i + 1] = v
+			lines[i + 1] = tostring(v)
 			i = i - 2
 			lines[1] = i
 			s = lines[i]
