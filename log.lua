@@ -6,8 +6,8 @@
 	If set to true or not passed in, writes to a file to path formatted as "./logs/%011(placeId) %Y-%m-%d %H%M%S.txt".
 ]==] --
 --
-local DEFAULT_WEBHOOK =
-	[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
+local DEFAULT_WEBHOOK = nil
+--[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
 
 local args = _G.EXEC_ARGS or {}
 local WEBHOOK = args[1]
