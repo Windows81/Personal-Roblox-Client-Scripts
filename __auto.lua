@@ -4,17 +4,17 @@ local function gsp(n, ...)
 	local l = n:lower()
 	if type(n) == 'number' then
 		fs = { --
-			('_%011d-.lua'):format(n),
-			('_%011d.lua'):format(n),
+			('place/%011d-.lua'):format(n),
+			('place/%011d.lua'):format(n),
 		}
 	elseif n == 'PLACE' then
 		fs = { --
-			('_%011d-.lua'):format(game.PlaceId),
-			('_%011d.lua'):format(game.PlaceId),
+			('place/%011d-.lua'):format(game.PlaceId),
+			('place/%011d.lua'):format(game.PlaceId),
 		}
 	elseif n == 'PLACE-' then
 		fs = { --
-			('_%011d-.lua'):format(game.PlaceId),
+			('place/%011d-.lua'):format(game.PlaceId),
 		}
 	elseif l ~= n then
 		fs = { --

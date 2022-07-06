@@ -1,7 +1,7 @@
 local pId = game.PlaceId
 local sId = game.JobId
-local tFn = string.format('hop-%011d.txt', pId)
-local sFn = string.format('hop-%011d.lua', pId)
+local tFn = string.format('place/%011d-hop.txt', pId)
+local sFn = string.format('place/%011d-hop.lua', pId)
 local ts = game:GetService 'TeleportService'
 
 local SKIP_ERRORS = {
