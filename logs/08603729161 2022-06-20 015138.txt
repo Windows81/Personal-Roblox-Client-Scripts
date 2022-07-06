@@ -1,0 +1,519 @@
+[    1630228] : [ 8603729161] walk 50000 studs for nothing - de584bc3-8f64-4924-b836-363b6ca54708
+2022-06-20T01:51:39Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-20T01:51:39Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-20T01:51:39Z: PLAYER ADDED   [   59144044] Callenator
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1490575651] Porqupine_Fox
+2022-06-20T01:51:39Z: PLAYER ADDED   [  547292604] ttoti_2005
+2022-06-20T01:51:39Z: PLAYER ADDED   [  493699204] gavfishy
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2549690992] Potato_crazy9028
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1785879428] Nolanxn1234
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1256271776] ItsBonesTurn
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 3576836773] qzurxs
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1572418343] Lennoxson
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2241750917] BaBaBoEy1912
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2441265354] General_Ripley
+2022-06-20T01:51:39Z: PLAYER ADDED   [  275680687] shopkinslover15512
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1274232988] guest689326
+2022-06-20T01:51:39Z: PLAYER ADDED   [  459825711] train_lover2
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2288560891] KevinThao2012
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1494214516] JadenPlaysWasTaken
+2022-06-20T01:51:39Z: PLAYER ADDED   [  138460629] dr_roblox248
+2022-06-20T01:51:39Z: PLAYER ADDED   [  977928982] PartlyNooby
+2022-06-20T01:51:39Z: PLAYER ADDED   [  548722445] Furnace802
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 3620781146] adfsafddffdfdfdfd
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 3216345245] ttgutyyts
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2284014156] Awesomedude_f
+2022-06-20T01:51:39Z: PLAYER ADDED   [   76291713] xetariuss
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 3122798049] Fat0cat0tango
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1202455184] RJMagic94
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1569646765] bananac0ooo
+2022-06-20T01:51:39Z: PLAYER ADDED   [  417116567] JustThatGamerOnIine
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2255251507] Kaanapaliuwo
+2022-06-20T01:51:39Z: PLAYER ADDED   [  447856728] ChocolateCati
+2022-06-20T01:51:39Z: PLAYER ADDED   [  329616036] MKSisLIVE
+2022-06-20T01:51:39Z: PLAYER ADDED   [   74063114] Sissy420
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 2554031887] SuperMario_6477
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1578945339] Max_Construction
+2022-06-20T01:51:39Z: PLAYER ADDED   [ 1507539545] antakfortnite3
+2022-06-20T01:51:42Z: PLAYER CHATTED [ 2441265354] General_Ripley       (   12.1,     6.0, -38856.4)
+  need help
+2022-06-20T01:51:42Z: PLAYER CHATTED [ 1578945339] Max_Construction     (   -4.3,     8.2, -22274.2)
+  gives speed
+2022-06-20T01:51:45Z: PLAYER CHATTED [  275680687] shopkinslover15512   (   53.0,     6.8, -47895.9)
+  ;morph me chair
+2022-06-20T01:51:51Z: PLAYER CHATTED [ 1202455184] RJMagic94            (   26.6,     6.7, -38982.2)
+  no
+2022-06-20T01:51:51Z: PLAYER CHATTED [ 1572418343] Lennoxson            (   25.5,     6.0, -26664.8)
+  one of my freinds joined
+2022-06-20T01:51:52Z: PLAYER CHATTED [ 2441265354] General_Ripley       (   12.0,     7.9, -39117.0)
+  #### off
+2022-06-20T01:51:57Z: PLAYER CHATTED [ 1507539545] antakfortnite3       (   22.7,     6.0, -5238.9)
+  hi
+2022-06-20T01:51:57Z: PLAYER CHATTED [ 2441265354] General_Ripley       (   13.8,     6.0, -39057.2)
+  u sure
+2022-06-20T01:51:58Z: PLAYER CHATTED [ 1490575651] Porqupine_Fox        (    5.6,     5.9, -50055.6)
+  ;morph me chair
+2022-06-20T01:52:00Z: PLAYER CHATTED [ 1202455184] RJMagic94            (   21.8,     6.7, -39091.6)
+  yes
+2022-06-20T01:52:00Z: CHRCTER ADDED  [ 3216345245] ttgutyyts            (   11.0,     5.7,    30.9)
+2022-06-20T01:52:02Z: PLAYER CHATTED [  459825711] train_lover2         (   -6.9,    14.9, -26684.2)
+  OH NO ITS A BIG FURRY
+2022-06-20T01:52:02Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (   29.6,     6.1,  -738.0)
+  its so long for walking brb
+2022-06-20T01:52:04Z: PLAYER ADDED   [ 2450097643] Jordan311sh
+2022-06-20T01:52:10Z: PLAYER CHATTED [ 1578945339] Max_Construction     (    7.9,     5.7, -22095.5)
+  help
+2022-06-20T01:52:10Z: PLAYER CHATTED [ 3122798049] Fat0cat0tango        (   12.7,     5.9, -8476.5)
+  ;morph chair
+2022-06-20T01:52:10Z: PLAYER CHATTED [  459825711] train_lover2         (    0.8,    14.9, -26684.4)
+  EW
+2022-06-20T01:52:11Z: PLAYER CHATTED [ 1490575651] Porqupine_Fox        (  -18.3,     5.9, -50097.9)
+  ;commands
+2022-06-20T01:52:12Z: PLAYER CHATTED [  459825711] train_lover2         (    0.8,    14.9, -26684.4)
+  CRINGE
+2022-06-20T01:52:12Z: CHRCTER ADDED  [ 2288560891] KevinThao2012        (    7.9,     6.0,    34.4)
+2022-06-20T01:52:13Z: PLAYER CHATTED [ 2441265354] General_Ripley       (  -37.2,     5.8, -37960.3)
+  nedd help
+2022-06-20T01:52:14Z: PLAYER CHATTED [  493699204] gavfishy             (    3.0,    15.0, -26634.3)
+  ;name me not a furry
+2022-06-20T01:52:15Z: CHRCTER ADDED  [   74063114] Sissy420             (   10.4,     6.4,    29.6)
+2022-06-20T01:52:19Z: PLAYER ADDED   [  986397009] Alaa60649
+2022-06-20T01:52:21Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    6.7,     6.0, -38447.7)
+  ?
+2022-06-20T01:52:21Z: CHRCTER ADDED  [  986397009] Alaa60649            (    7.2,     6.0,    30.1)
+2022-06-20T01:52:29Z: PLAYER CHATTED [  459825711] train_lover2         (  -10.8,    12.4, -26754.9)
+  LIES
+2022-06-20T01:52:30Z: PLAYER CHATTED [ 1569646765] bananac0ooo          (   -3.9,     5.7, -42279.3)
+  Yes
+2022-06-20T01:52:32Z: PLAYER CHATTED [  493699204] gavfishy             (   32.8,    14.8, -26741.5)
+  ;size me 0.1
+2022-06-20T01:52:35Z: PLAYER CHATTED [  459825711] train_lover2         (   -9.9,    12.4, -26754.3)
+  lol
+2022-06-20T01:52:38Z: PLAYER ADDED   [  304140850] WolfWater5
+2022-06-20T01:52:40Z: PLAYER CHATTED [   76291713] xetariuss            (   -6.3,     8.5, -26754.0)
+  we out
+2022-06-20T01:52:41Z: CHRCTER ADDED  [  304140850] WolfWater5           (    7.9,     6.0,    32.3)
+2022-06-20T01:52:44Z: PLAYER CHATTED [  493699204] gavfishy             (   58.8,     3.3, -26708.2)
+  ;headsize me 0.2
+2022-06-20T01:52:45Z: PLAYER CHATTED [ 2450097643] Jordan311sh          (   15.6,     6.0,   152.0)
+  ;fly
+2022-06-20T01:52:46Z: PLAYER CHATTED [ 1578945339] Max_Construction     (   14.3,     5.7, -22003.7)
+  help
+2022-06-20T01:52:47Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   14.4,     7.2, -30169.9)
+   Hello i will be your chair uber for today please take a seat say weeeee to start your journey to the end :)
+2022-06-20T01:52:48Z: PLAYER CHATTED [  547292604] ttoti_2005           (  -11.6,     6.0, -23347.8)
+  ;ice
+2022-06-20T01:52:50Z: PLAYER CHATTED [  493699204] gavfishy             (   19.7,     3.3, -26406.9)
+  ;reset
+2022-06-20T01:52:50Z: CHRCTER ADDED  [  493699204] gavfishy             (   19.9,     7.0, -26407.0)
+2022-06-20T01:52:53Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   11.8,     5.9,    29.2)
+2022-06-20T01:52:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.1,     6.7, -30173.4)
+  Go ahead.
+2022-06-20T01:52:55Z: PLAYER CHATTED [  493699204] gavfishy             (   20.6,     6.0, -26407.0)
+  ;size me 0.1
+2022-06-20T01:53:00Z: PLAYER REMOVED [  304140850] WolfWater5
+2022-06-20T01:53:02Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   14.0,     7.2, -30173.5)
+   say weeeee to start your journey to the end :)
+2022-06-20T01:53:03Z: PLAYER CHATTED [  493699204] gavfishy             (   20.6,     3.3, -26407.0)
+  ;headsize me 0.2
+2022-06-20T01:53:03Z: PLAYER REMOVED [ 2288560891] KevinThao2012
+2022-06-20T01:53:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.0,     6.7, -30173.5)
+  I'd call it a rapid-transport system.
+2022-06-20T01:53:10Z: PLAYER ADDED   [ 3179129149] JoJoBean2o14
+2022-06-20T01:53:11Z: PLAYER REMOVED [  986397009] Alaa60649
+2022-06-20T01:53:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.0,     6.7, -30173.5)
+  Rapid transit.
+2022-06-20T01:53:18Z: PLAYER CHATTED [  138460629] dr_roblox248         (   15.8,    40.4, -9635.9)
+  ;size me 0.1
+2022-06-20T01:53:19Z: CHRCTER ADDED  [ 1578945339] Max_Construction     (   10.4,     9.9,    28.1)
+2022-06-20T01:53:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   14.0,     6.7, -30173.5)
+  Weeeee.
+2022-06-20T01:53:22Z: PLAYER CHATTED [  977928982] PartlyNooby          (  100.2,     7.1, -50111.0)
+    w thx
+2022-06-20T01:53:24Z: PLAYER CHATTED [ 1572418343] Lennoxson            (  -14.2,     8.5, -27533.3)
+  come on!
+2022-06-20T01:53:25Z: PLAYER CHATTED [  493699204] gavfishy             (   21.4,     3.3, -26803.8)
+  ;size me 4
+2022-06-20T01:53:28Z: CHRCTER ADDED  [ 1256271776] ItsBonesTurn         (   10.6,     6.0,    30.3)
+2022-06-20T01:53:30Z: PLAYER ADDED   [  304140850] WolfWater5
+2022-06-20T01:53:32Z: CHRCTER ADDED  [  304140850] WolfWater5           (    5.7,     7.6,    33.6)
+2022-06-20T01:53:34Z: PLAYER ADDED   [  986397009] Alaa60649
+2022-06-20T01:53:34Z: PLAYER ADDED   [  543502972] VALENTINE_FOXTROT
+2022-06-20T01:53:35Z: PLAYER CHATTED [  493699204] gavfishy             (   22.3,    -9.9, -26809.5)
+  ;reset
+2022-06-20T01:53:35Z: CHRCTER ADDED  [  493699204] gavfishy             (   23.5,    -9.8, -26813.0)
+2022-06-20T01:53:40Z: CHRCTER ADDED  [ 2450097643] Jordan311sh          (    6.2,     6.0,    30.2)
+2022-06-20T01:53:41Z: PLAYER CHATTED [  304140850] WolfWater5           (    5.7,     6.0,    33.6)
+  ;dino me
+2022-06-20T01:53:45Z: PLAYER REMOVED [  986397009] Alaa60649
+2022-06-20T01:53:45Z: PLAYER CHATTED [  304140850] WolfWater5           (    5.7,     7.0,    33.6)
+  ;size me 4
+2022-06-20T01:53:46Z: PLAYER CHATTED [ 2441265354] General_Ripley       (   27.3,     6.0, -40766.4)
+  need help
+2022-06-20T01:53:46Z: CHRCTER ADDED  [  493699204] gavfishy             (    9.8,     6.0,    29.2)
+2022-06-20T01:53:49Z: PLAYER REMOVED [   74063114] Sissy420
+2022-06-20T01:53:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.3,     6.6, -42954.1)
+  Do you use third-party tools by any chance?
+2022-06-20T01:53:50Z: PLAYER CHATTED [ 1202455184] RJMagic94            (   20.9,     6.7, -40766.0)
+  no
+2022-06-20T01:53:50Z: PLAYER CHATTED [  138460629] dr_roblox248         (   15.8,    58.6, -10664.7)
+  ;speed me 400
+2022-06-20T01:53:52Z: CHRCTER ADDED  [  304140850] WolfWater5           (   19.9,     6.0,    30.7)
+2022-06-20T01:53:53Z: PLAYER CHATTED [  547292604] ttoti_2005           (    8.8,     6.0, -24358.5)
+  ;donor
+2022-06-20T01:53:53Z: PLAYER CHATTED [  304140850] WolfWater5           (   19.9,     6.0,    30.7)
+  ;dino me
+2022-06-20T01:53:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.2,    13.3, -46923.1)
+  I do the same in other games.
+2022-06-20T01:53:57Z: PLAYER CHATTED [  275680687] shopkinslover15512   (   32.9,     6.8, -49837.2)
+  ;fly me
+2022-06-20T01:53:58Z: PLAYER CHATTED [  304140850] WolfWater5           (   19.9,     7.0,    30.7)
+  ;size me 4
+2022-06-20T01:54:01Z: PLAYER REMOVED [  543502972] VALENTINE_FOXTROT
+2022-06-20T01:54:06Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (    4.6,     7.2, -49981.9)
+  we have arrived at your destination
+2022-06-20T01:54:08Z: PLAYER CHATTED [  304140850] WolfWater5           (   20.3,    18.8, -2493.1)
+  ;fly me
+2022-06-20T01:54:08Z: PLAYER CHATTED [  548722445] Furnace802           (   15.0,     6.0, -49957.0)
+  hi
+2022-06-20T01:54:10Z: PLAYER CHATTED [  304140850] WolfWater5           (   20.3,    18.8, -2626.5)
+  oh k
+2022-06-20T01:54:12Z: PLAYER CHATTED [ 1578945339] Max_Construction     (  -10.2,     5.7, -2671.9)
+  take
+2022-06-20T01:54:13Z: PLAYER CHATTED [ 2549690992] Potato_crazy9028     (   11.1,     7.2, -33738.1)
+  ;speed me
+2022-06-20T01:54:14Z: PLAYER CHATTED [ 3122798049] Fat0cat0tango        (   -3.5,     5.9, -20721.9)
+  ;size me 4
+2022-06-20T01:54:19Z: PLAYER CHATTED [  547292604] ttoti_2005           (    8.1,     6.0, -24769.2)
+  :laserEyes
+2022-06-20T01:54:20Z: PLAYER REMOVED [ 1274232988] guest689326
+2022-06-20T01:54:23Z: PLAYER CHATTED [ 2549690992] Potato_crazy9028     (    9.7,     7.2, -30699.1)
+  ;ranks me
+2022-06-20T01:54:24Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (    4.6,     7.2, -49981.9)
+  i do not understand i am a chair uber not a human
+2022-06-20T01:54:27Z: PLAYER ADDED   [ 2601000734] BOYMANBESS
+2022-06-20T01:54:28Z: PLAYER CHATTED [ 3179129149] JoJoBean2o14         (   14.6,     6.2,  -486.9)
+  idk what i'm doing
+2022-06-20T01:54:28Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (    7.4,     6.1, -2776.4)
+  what?
+2022-06-20T01:54:28Z: PLAYER CHATTED [  275680687] shopkinslover15512   (    9.4,     6.8, -45429.3)
+  ;size me 30
+2022-06-20T01:54:29Z: PLAYER REMOVED [   76291713] xetariuss
+2022-06-20T01:54:34Z: PLAYER CHATTED [  548722445] Furnace802           (    9.6,     6.0, -49970.9)
+  Are you literally just a uber
+2022-06-20T01:54:35Z: PLAYER CHATTED [  547292604] ttoti_2005           (    4.4,     6.0, -24998.0)
+  !fart
+2022-06-20T01:54:39Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (    3.0,     8.4, -2778.6)
+  ok then
+2022-06-20T01:54:41Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (    6.8,     7.2, -49976.9)
+  lol yep
+2022-06-20T01:54:43Z: PLAYER ADDED   [ 1479679293] slayon24
+2022-06-20T01:54:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   17.1,     7.0,    32.0)
+2022-06-20T01:54:50Z: CHRCTER ADDED  [ 2549690992] Potato_crazy9028     (   19.9,     7.2,    33.0)
+2022-06-20T01:54:52Z: PLAYER ADDED   [  568619070] damaro5555
+2022-06-20T01:54:52Z: PLAYER CHATTED [ 1490575651] Porqupine_Fox        (   55.9,     5.9, -8026.2)
+  ;poop
+2022-06-20T01:54:53Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    6.1,     6.0, -30504.9)
+  need a ride
+2022-06-20T01:54:57Z: PLAYER REMOVED [  275680687] shopkinslover15512
+2022-06-20T01:54:57Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   16.3,     7.2, -44650.8)
+  thats all i do lol
+2022-06-20T01:55:02Z: PLAYER CHATTED [ 3122798049] Fat0cat0tango        (   47.2,     5.9, -8055.6)
+  ;poop
+2022-06-20T01:55:03Z: PLAYER ADDED   [ 2010122908] mrflimfan_EPIC
+2022-06-20T01:55:09Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   11.0,     7.2, -41970.9)
+  ello
+2022-06-20T01:55:12Z: PLAYER CHATTED [ 1202455184] RJMagic94            (   26.0,     6.7, -42003.0)
+  ello
+2022-06-20T01:55:12Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   11.0,     7.2, -41970.9)
+  again
+2022-06-20T01:55:12Z: PLAYER REMOVED [ 3179129149] JoJoBean2o14
+2022-06-20T01:55:13Z: PLAYER REMOVED [  547292604] ttoti_2005
+2022-06-20T01:55:17Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   11.1,     7.2, -42008.3)
+  byeee
+2022-06-20T01:55:23Z: PLAYER REMOVED [ 3576836773] qzurxs
+2022-06-20T01:55:37Z: PLAYER REMOVED [ 2601000734] BOYMANBESS
+2022-06-20T01:55:39Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   56.0,     7.2, -32509.9)
+   Hello i will be your chair uber for today please take a seat say weeeee to start your journey to the end :)
+2022-06-20T01:55:39Z: CHRCTER ADDED  [ 1490575651] Porqupine_Fox        (    3.9,     5.9,    21.7)
+2022-06-20T01:55:39Z: CHRCTER ADDED  [ 1479679293] slayon24             (    8.4,     6.0,    27.7)
+2022-06-20T01:55:43Z: PLAYER CHATTED [  493699204] gavfishy             (  -25.3,     8.5, -32557.1)
+  ;name me not a furry
+2022-06-20T01:55:43Z: PLAYER CHATTED [ 2441265354] General_Ripley       (  -34.6,     6.0, -21117.2)
+  need a ride
+2022-06-20T01:55:44Z: PLAYER CHATTED [  548722445] Furnace802           (   54.0,     3.5, -32681.4)
+  hi
+2022-06-20T01:55:45Z: PLAYER ADDED   [ 3587096454] Rip_Noobbloxfruit123
+2022-06-20T01:55:48Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   14.6,     5.9,    32.2)
+2022-06-20T01:55:53Z: PLAYER CHATTED [  459825711] train_lover2         (  -27.1,    12.4, -32562.8)
+  no
+2022-06-20T01:56:00Z: PLAYER CHATTED [ 2441265354] General_Ripley       (  -22.6,     6.0, -21246.7)
+  say start to start''
+2022-06-20T01:56:00Z: PLAYER CHATTED [  459825711] train_lover2         (   50.8,    14.0, -32548.6)
+  weeeeeeeeeeeeeeee
+2022-06-20T01:56:02Z: PLAYER REMOVED [  568619070] damaro5555
+2022-06-20T01:56:04Z: PLAYER CHATTED [  417116567] JustThatGamerOnIine  (   58.1,     6.2, -3520.4)
+  /e wave
+2022-06-20T01:56:05Z: PLAYER CHATTED [ 2441265354] General_Ripley       (  -21.8,     6.0, -21255.2)
+  "start"
+2022-06-20T01:56:05Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -24.5,     7.1, -32564.2)
+  ahhhh
+2022-06-20T01:56:07Z: PLAYER CHATTED [  493699204] gavfishy             (   33.3,    11.8, -32597.9)
+  ;size me 4
+2022-06-20T01:56:09Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -24.6,     7.1, -32564.1)
+  erro
+2022-06-20T01:56:09Z: CHRCTER ADDED  [ 1490575651] Porqupine_Fox        (   16.6,     5.9,    35.3)
+2022-06-20T01:56:09Z: PLAYER CHATTED [  459825711] train_lover2         (  -24.4,    10.5, -32564.4)
+  ;size me 1
+2022-06-20T01:56:11Z: PLAYER CHATTED [  459825711] train_lover2         (  -24.7,    10.6, -32563.9)
+  ;char
+2022-06-20T01:56:11Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -24.7,     7.2, -32564.0)
+  error
+2022-06-20T01:56:12Z: CHRCTER ADDED  [  493699204] gavfishy             (   11.1,    14.8, -32609.4)
+2022-06-20T01:56:12Z: PLAYER CHATTED [  493699204] gavfishy             (   11.1,    14.8, -32609.4)
+  ;reset
+2022-06-20T01:56:13Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -25.1,     7.2, -32563.4)
+  error
+2022-06-20T01:56:15Z: PLAYER REMOVED [ 1479679293] slayon24
+2022-06-20T01:56:17Z: PLAYER CHATTED [  459825711] train_lover2         (  -22.3,     6.0, -32569.7)
+  ;chair
+2022-06-20T01:56:17Z: PLAYER CHATTED [  493699204] gavfishy             (   11.0,     6.0, -32606.4)
+  ;size me 4
+2022-06-20T01:56:20Z: PLAYER ADDED   [ 1916110836] Cyzloft
+2022-06-20T01:56:20Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -25.2,     7.2, -32563.1)
+   Hello i will be your chair uber for today please take a seat say weeeee to start your journey to the end :)
+2022-06-20T01:56:22Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   15.0,     5.9,    38.9)
+2022-06-20T01:56:23Z: PLAYER CHATTED [  459825711] train_lover2         (  -19.1,     6.0, -32568.3)
+  ;char me chair
+2022-06-20T01:56:26Z: PLAYER CHATTED [  493699204] gavfishy             (   -2.0,    15.0, -32575.4)
+  ;name me not a furry
+2022-06-20T01:56:28Z: PLAYER CHATTED [  459825711] train_lover2         (  -15.5,     6.0, -32568.1)
+  ;morph me chair
+2022-06-20T01:56:29Z: PLAYER CHATTED [ 1572418343] Lennoxson            (  -25.1,     6.7, -32563.2)
+  weeeeee
+2022-06-20T01:56:33Z: PLAYER ADDED   [ 2601000734] BOYMANBESS
+2022-06-20T01:56:43Z: CHRCTER ADDED  [ 1490575651] Porqupine_Fox        (   14.2,     5.9,    31.5)
+2022-06-20T01:56:44Z: PLAYER ADDED   [  456710547] DarkColum7727
+2022-06-20T01:56:50Z: PLAYER ADDED   [  822320199] ReverseFlashSullivan
+2022-06-20T01:56:58Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   14.8,     5.9,    34.0)
+2022-06-20T01:56:59Z: CHRCTER ADDED  [ 3216345245] ttgutyyts            (   17.4,     5.7,    33.1)
+2022-06-20T01:57:02Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (    7.3,     6.1, -4816.6)
+  how many studs do you have to go because I don't wanna walk I wanna run fast
+2022-06-20T01:57:03Z: PLAYER CHATTED [ 3122798049] Fat0cat0tango        (   14.8,     5.9,    34.3)
+  How to get vip?
+2022-06-20T01:57:10Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   19.2,     7.2, -49994.3)
+  we have arrived at your destination
+2022-06-20T01:57:15Z: PLAYER CHATTED [  548722445] Furnace802           (   15.2,     6.0, -49977.3)
+  hi
+2022-06-20T01:57:15Z: PLAYER CHATTED [ 3216345245] ttgutyyts            (   14.7,     5.7,     6.1)
+  pay 100 robux
+2022-06-20T01:57:15Z: PLAYER CHATTED [  459825711] train_lover2         (  -21.0,     5.6, -32839.4)
+  ;name me a furry
+2022-06-20T01:57:17Z: PLAYER REMOVED [ 1916110836] Cyzloft
+2022-06-20T01:57:21Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   18.8,     7.2, -49993.7)
+  ello
+2022-06-20T01:57:25Z: CHRCTER ADDED  [ 2441265354] General_Ripley       (   10.5,     6.0,    34.9)
+2022-06-20T01:57:27Z: PLAYER CHATTED [ 1572418343] Lennoxson            (   18.8,     6.0, -50074.1)
+  ;fly
+2022-06-20T01:57:28Z: PLAYER CHATTED [  459825711] train_lover2         (  -13.6,     6.0, -32854.4)
+  ;name me ##### ######
+2022-06-20T01:57:29Z: CHRCTER ADDED  [ 1490575651] Porqupine_Fox        (   13.3,     5.9,    34.4)
+2022-06-20T01:57:34Z: PLAYER CHATTED [  459825711] train_lover2         (   -4.0,     5.9, -32869.0)
+  ;name me ##### ###
+2022-06-20T01:57:38Z: PLAYER CHATTED [ 3587096454] Rip_Noobbloxfruit123 (   -7.9,     6.0, -1337.9)
+  how to speed faster
+2022-06-20T01:57:41Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   19.1,     5.9,    30.2)
+2022-06-20T01:57:42Z: PLAYER CHATTED [  459825711] train_lover2         (    2.2,     5.9, -32878.1)
+  ;name me consumed person
+2022-06-20T01:57:49Z: PLAYER REMOVED [  822320199] ReverseFlashSullivan
+2022-06-20T01:57:50Z: PLAYER ADDED   [ 3183670693] kaipo2013
+2022-06-20T01:57:52Z: CHRCTER ADDED  [ 1490575651] Porqupine_Fox        (    7.2,     5.9,    34.4)
+2022-06-20T01:57:52Z: PLAYER ADDED   [ 3170360554] Lildez3D
+2022-06-20T01:57:53Z: PLAYER CHATTED [ 2441265354] General_Ripley       (   10.5,     6.0,    35.8)
+  ;morph me chai
+2022-06-20T01:57:55Z: PLAYER ADDED   [  822320199] ReverseFlashSullivan
+2022-06-20T01:57:55Z: PLAYER REMOVED [  822320199] ReverseFlashSullivan
+2022-06-20T01:58:02Z: PLAYER CHATTED [  493699204] gavfishy             (    7.3,    10.5, -33125.5)
+  w h a t
+2022-06-20T01:58:03Z: CHRCTER ADDED  [ 3122798049] Fat0cat0tango        (   12.6,     5.9,    35.2)
+2022-06-20T01:58:04Z: PLAYER CHATTED [  459825711] train_lover2         (    7.4,     6.0, -33125.0)
+  this furry ate me
+2022-06-20T01:58:10Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    7.7,     6.0,    15.8)
+  wanna go to the very end
+2022-06-20T01:58:15Z: PLAYER REMOVED [ 2010122908] mrflimfan_EPIC
+2022-06-20T01:58:16Z: PLAYER CHATTED [  459825711] train_lover2         (   -9.3,     6.1, -33223.1)
+  eat eaten by a furry
+2022-06-20T01:58:18Z: PLAYER ADDED   [ 1338018992] Eyancha1
+2022-06-20T01:58:24Z: PLAYER CHATTED [  459825711] train_lover2         (  -15.5,     5.0, -33265.3)
+  get eaten by a fire
+2022-06-20T01:58:27Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    9.3,     6.0,    17.0)
+  hey you
+2022-06-20T01:58:30Z: PLAYER ADDED   [  389538680] GirlyPandas11
+2022-06-20T01:58:31Z: CHRCTER ADDED  [ 3216345245] ttgutyyts            (   19.3,     5.7,    31.3)
+2022-06-20T01:58:32Z: PLAYER CHATTED [ 1507539545] antakfortnite3       (    5.5,     6.0, -23576.8)
+  hi
+2022-06-20T01:58:32Z: CHRCTER ADDED  [  389538680] GirlyPandas11        (    7.7,     5.7,    32.1)
+2022-06-20T01:58:33Z: PLAYER CHATTED [  459825711] train_lover2         (   19.9,     6.0, -33273.3)
+  ;char me train
+2022-06-20T01:58:34Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    8.7,     6.0,    24.0)
+  wanna go to the very end
+2022-06-20T01:58:35Z: PLAYER CHATTED [  493699204] gavfishy             (   10.5,    16.0, -33297.9)
+  ;fire
+2022-06-20T01:58:38Z: PLAYER ADDED   [  322285213] mindcarf_rocks
+2022-06-20T01:58:38Z: PLAYER REMOVED [  456710547] DarkColum7727
+2022-06-20T01:58:40Z: PLAYER CHATTED [ 1507539545] antakfortnite3       (    4.8,     6.0, -23709.8)
+  spidrr man
+2022-06-20T01:58:42Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (   -1.4,     6.1, -5751.5)
+  I CANT I WANNA RUN FAST
+2022-06-20T01:58:43Z: PLAYER REMOVED [  459825711] train_lover2
+2022-06-20T01:58:44Z: PLAYER CHATTED [ 1572418343] Lennoxson            (    1.8,     6.0, -23612.4)
+  hi boy
+2022-06-20T01:58:54Z: PLAYER CHATTED [  493699204] gavfishy             (    5.0,    15.0, -33355.2)
+  ;reset
+2022-06-20T01:58:54Z: CHRCTER ADDED  [  493699204] gavfishy             (    4.9,    18.5, -33355.2)
+2022-06-20T01:59:01Z: PLAYER CHATTED [  493699204] gavfishy             (    4.9,     6.0, -33355.1)
+  ;name me not a furry
+2022-06-20T01:59:01Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    5.3,     6.0,  -276.6)
+  get on
+2022-06-20T01:59:02Z: PLAYER ADDED   [ 3638094514] sgfhbjjhkgftyt
+2022-06-20T01:59:05Z: PLAYER CHATTED [  322285213] mindcarf_rocks       (    7.8,     5.1,  -228.0)
+  !le
+2022-06-20T01:59:06Z: PLAYER CHATTED [  493699204] gavfishy             (    2.7,     6.0, -33347.0)
+  ;size me 4
+2022-06-20T01:59:09Z: PLAYER CHATTED [ 2441265354] General_Ripley       (    5.1,     6.0, -2743.6)
+  weeeeeeeeeeeeeeeeeeeeeeee
+2022-06-20T01:59:10Z: CHRCTER ADDED  [  493699204] gavfishy             (    2.6,    14.8, -33346.7)
+2022-06-20T01:59:10Z: PLAYER CHATTED [  493699204] gavfishy             (    2.6,    14.8, -33346.7)
+  ;reset
+2022-06-20T01:59:10Z: PLAYER CHATTED [ 1572418343] Lennoxson            (   12.9,     6.0, -23918.6)
+  join ,me
+2022-06-20T01:59:14Z: PLAYER CHATTED [ 1507539545] antakfortnite3       (    9.5,     6.0, -24134.2)
+  wait
+2022-06-20T01:59:18Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   34.4,     6.0,  -185.4)
+  yay let's gooooo b____
+2022-06-20T01:59:19Z: PLAYER CHATTED [  389538680] GirlyPandas11        (    5.0,     5.8, -7944.4)
+  OML
+2022-06-20T01:59:21Z: PLAYER CHATTED [ 1572418343] Lennoxson            (   -1.5,     6.0, -24136.7)
+  I 2 games
+2022-06-20T01:59:22Z: PLAYER ADDED   [   35627154] RainyAngry
+2022-06-20T01:59:27Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (   -7.9,     7.2, -3076.6)
+   Hello i will be your chair uber for today please take a seat say weeeee to start your journey to the end :)
+2022-06-20T01:59:32Z: PLAYER CHATTED [ 2241750917] BaBaBoEy1912         (  -11.4,     7.2, -3030.9)
+  oh wsp bro
+2022-06-20T01:59:32Z: PLAYER CHATTED [ 1572418343] Lennoxson            (   30.3,     6.0, -24277.0)
+  In*
+2022-06-20T01:59:35Z: PLAYER CHATTED [ 1507539545] antakfortnite3       (    9.4,     6.0, -24446.2)
+  i wanna finish this'
+2022-06-20T01:59:38Z: PLAYER REMOVED [ 3183670693] kaipo2013
+2022-06-20T01:59:40Z: PLAYER CHATTED [  493699204] gavfishy             (    1.6,     6.0, -33344.6)
+  ;name me not a furry
+2022-06-20T01:59:43Z: CHRCTER ADDED  [ 3216345245] ttgutyyts            (   11.1,     5.7,    33.1)
+2022-06-20T01:59:45Z: PLAYER CHATTED [  493699204] gavfishy             (    0.0,     6.0, -33341.8)
+  ;size me 4
+2022-06-20T01:59:46Z: PLAYER CHATTED [ 2554031887] SuperMario_6477      (   -5.2,     6.1, -6655.4)
+  I wanna run fast can someone help me
+2022-06-20T01:59:50Z: PLAYER CHATTED [  417116567] JustThatGamerOnIine  (    1.5,     6.1, -6712.9)
+  no
+2022-06-20T01:59:50Z: CHRCTER ADDED  [  493699204] gavfishy             (   -0.0,    14.8, -33341.5)
+2022-06-20T01:59:50Z: PLAYER CHATTED [  493699204] gavfishy             (   -0.0,    14.8, -33341.5)
+  ;reset
+2022-06-20T01:59:51Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   41.8,     6.0,  -408.3)
+  ;name me NOT A FURRY
+2022-06-20T01:59:54Z: PLAYER CHATTED [  304140850] WolfWater5           (   -4.0,    18.8, -48533.5)
+  ;re
+2022-06-20T01:59:55Z: CHRCTER ADDED  [  304140850] WolfWater5           (   -2.0,    25.2, -48555.0)
+2022-06-20T01:59:55Z: PLAYER CHATTED [  493699204] gavfishy             (    0.1,     6.0, -33342.0)
+  ;size me 4
+2022-06-20T01:59:59Z: CHRCTER ADDED  [  304140850] WolfWater5           (   -3.2,     6.0, -48560.9)
+2022-06-20T01:59:59Z: PLAYER CHATTED [  304140850] WolfWater5           (   -3.2,     6.0, -48560.9)
+  ;r6
+2022-06-20T02:00:02Z: CHRCTER ADDED  [ 1578945339] Max_Construction     (   19.3,     5.7,    37.3)
+2022-06-20T02:00:06Z: PLAYER ADDED   [ 1708795383] noobly_g00d
+2022-06-20T02:00:07Z: PLAYER CHATTED [  304140850] WolfWater5           (    1.3,     6.0, -48557.7)
+  ;morph me chair
+2022-06-20T02:00:09Z: PLAYER CHATTED [  493699204] gavfishy             (    0.1,    15.0, -33342.0)
+  ;name me not a furry
+2022-06-20T02:00:13Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   52.6,     6.0,  -670.7)
+  drifter
+2022-06-20T02:00:15Z: CHRCTER ADDED  [ 2549690992] Potato_crazy9028     (    8.8,     7.2,    29.5)
+2022-06-20T02:00:16Z: PLAYER ADDED   [ 3604990056] lolololloooollo
+2022-06-20T02:00:23Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   52.6,     6.0,  -670.7)
+  plz bring me to the end if u hav admin
+2022-06-20T02:00:32Z: PLAYER ADDED   [ 1744098111] WildKratt1976
+2022-06-20T02:00:45Z: PLAYER CHATTED [ 1708795383] noobly_g00d          (   -1.3,     6.0,   -44.0)
+  /e ;bighead 
+2022-06-20T02:00:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   19.0,     7.0,    32.3)
+2022-06-20T02:00:50Z: PLAYER CHATTED [  304140850] WolfWater5           (  -37.5,     5.7, -49069.0)
+  Ok
+2022-06-20T02:00:53Z: PLAYER CHATTED [  304140850] WolfWater5           (  -32.0,     6.0, -48724.6)
+  where are you
+2022-06-20T02:00:56Z: PLAYER CHATTED [ 1708795383] noobly_g00d          (   -1.3,     6.0,   -44.0)
+  /e ;phead
+2022-06-20T02:00:57Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   17.1,     6.0, -1028.0)
+  idk
+2022-06-20T02:01:02Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   17.1,     6.0, -1028.0)
+  just walkin to the end
+2022-06-20T02:01:03Z: PLAYER ADDED   [ 2595968966] kein_444
+2022-06-20T02:01:08Z: PLAYER CHATTED [  304140850] WolfWater5           (   59.5,     6.0, -44134.9)
+  how many studs
+2022-06-20T02:01:14Z: PLAYER CHATTED [ 1708795383] noobly_g00d          (   -1.1,     6.0,   -37.8)
+  /e ;name me notmonke 
+2022-06-20T02:01:14Z: PLAYER CHATTED [  304140850] WolfWater5           (   49.5,     6.0, -41218.3)
+  like was on the sign
+2022-06-20T02:01:17Z: PLAYER CHATTED [  548722445] Furnace802           (   21.6,     6.0, -48855.3)
+  hello
+2022-06-20T02:01:18Z: PLAYER CHATTED [ 3170360554] Lildez3D             (   17.1,     6.0, -1028.0)
+  idk
+2022-06-20T02:01:22Z: PLAYER CHATTED [  304140850] WolfWater5           (  -34.5,     6.0, -37387.8)
+  .-.
+2022-06-20T02:01:25Z: PLAYER CHATTED [ 2595968966] kein_444             (   11.1,     6.0,   -19.1)
+  :fly
+2022-06-20T02:01:32Z: PLAYER REMOVED [ 2601000734] BOYMANBESS
+2022-06-20T02:01:33Z: PLAYER CHATTED [ 2595968966] kein_444             (   11.1,     6.0,   -19.1)
+  ;fly
+2022-06-20T02:01:33Z: PLAYER REMOVED [ 1338018992] Eyancha1
+2022-06-20T02:01:36Z: PLAYER CHATTED [  304140850] WolfWater5           (  -15.9,     6.0, -30746.5)
+  /w ##################### reset ill bring you there faster
+2022-06-20T02:01:38Z: PLAYER CHATTED [  548722445] Furnace802           (   32.4,     6.0, -50006.3)
+  hello
+2022-06-20T02:01:39Z: PLAYER CHATTED [  304140850] WolfWater5           (   -9.9,     6.0, -28999.1)
+  its fine
+2022-06-20T02:01:42Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-20T02:01:42Z: PLAYER REMOVED [   59144044] Callenator
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1490575651] Porqupine_Fox
+2022-06-20T02:01:42Z: PLAYER REMOVED [  493699204] gavfishy
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2549690992] Potato_crazy9028
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1785879428] Nolanxn1234
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1256271776] ItsBonesTurn
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1572418343] Lennoxson
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2241750917] BaBaBoEy1912
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1494214516] JadenPlaysWasTaken
+2022-06-20T02:01:42Z: PLAYER REMOVED [  977928982] PartlyNooby
+2022-06-20T02:01:42Z: PLAYER REMOVED [  548722445] Furnace802
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3620781146] adfsafddffdfdfdfd
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3216345245] ttgutyyts
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2284014156] Awesomedude_f
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3122798049] Fat0cat0tango
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1202455184] RJMagic94
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1569646765] bananac0ooo
+2022-06-20T02:01:42Z: PLAYER REMOVED [  417116567] JustThatGamerOnIine
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2255251507] Kaanapaliuwo
+2022-06-20T02:01:42Z: PLAYER REMOVED [  447856728] ChocolateCati
+2022-06-20T02:01:42Z: PLAYER REMOVED [  329616036] MKSisLIVE
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2554031887] SuperMario_6477
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1578945339] Max_Construction
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1507539545] antakfortnite3
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2441265354] General_Ripley
+2022-06-20T02:01:42Z: PLAYER REMOVED [  138460629] dr_roblox248
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2450097643] Jordan311sh
+2022-06-20T02:01:42Z: PLAYER REMOVED [  304140850] WolfWater5
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3587096454] Rip_Noobbloxfruit123
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3170360554] Lildez3D
+2022-06-20T02:01:42Z: PLAYER REMOVED [  389538680] GirlyPandas11
+2022-06-20T02:01:42Z: PLAYER REMOVED [  322285213] mindcarf_rocks
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3638094514] sgfhbjjhkgftyt
+2022-06-20T02:01:42Z: PLAYER REMOVED [   35627154] RainyAngry
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1708795383] noobly_g00d
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 3604990056] lolololloooollo
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 1744098111] WildKratt1976
+2022-06-20T02:01:42Z: PLAYER REMOVED [ 2595968966] kein_444

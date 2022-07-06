@@ -1,0 +1,1052 @@
+[    1630228] : [ 9256427353] ASYNC | The Backrooms - 1beebb31-b234-49cf-82aa-444fa720035c
+2022-05-29T04:56:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-29T04:56:18Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-29T04:56:18Z: PLAYER ADDED   [  217617708] ChrisMacArthur
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 1300794398] MIHAI44783
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3434268433] zillacoolboy1231
+2022-05-29T04:56:18Z: PLAYER ADDED   [   74014069] Grim_Dev200
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2219032116] jackleeyk20
+2022-05-29T04:56:18Z: PLAYER ADDED   [  492775138] LukePoo200
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3214899515] paintroller32
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2990677806] Thecheeseyboi17
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2202454613] grandpa_gwizz
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3464484398] 08sheepboyMIC
+2022-05-29T04:56:18Z: PLAYER ADDED   [   58106596] AwesomeSuperRichie
+2022-05-29T04:56:18Z: PLAYER ADDED   [   75473524] Mike_Developer
+2022-05-29T04:56:18Z: PLAYER ADDED   [  132177857] adam5212d
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2361327414] Sw0rdFit
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2248811721] Xxpresident_obamaX
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2032740998] WealthyEthereal
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 2749203869] IlIFIA_ECHOIlI
+2022-05-29T04:56:18Z: PLAYER ADDED   [  436155682] nikita212342
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3473784889] bluelondon913
+2022-05-29T04:56:18Z: PLAYER ADDED   [  571069062] WanitingBuilders
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3225295236] jackle2342546
+2022-05-29T04:56:18Z: PLAYER ADDED   [  317387063] Thecokegod2
+2022-05-29T04:56:18Z: PLAYER ADDED   [  163008936] badgasher
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 3056559812] chicken_onthinice
+2022-05-29T04:56:18Z: PLAYER ADDED   [   87092913] Denis0606
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 1059131113] ThanosIsAC00N
+2022-05-29T04:56:18Z: PLAYER ADDED   [   52753115] Deathlyghostreaperi
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 1305830811] MuPoH89
+2022-05-29T04:56:18Z: PLAYER ADDED   [ 1488446241] rca12adiib2
+2022-05-29T04:56:18Z: PLAYER ADDED   [  616764614] packman7rules2
+2022-05-29T04:56:21Z: PLAYER ADDED   [ 3095267647] thanhlongksx
+2022-05-29T04:56:32Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.3,     3.3,   -87.9)
+  Volunteers, out.
+2022-05-29T04:56:38Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -34.3,     3.3,   -90.8)
+  Out.
+2022-05-29T04:56:39Z: PLAYER ADDED   [ 3021042197] VVIIPP99
+2022-05-29T04:56:39Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -23.8,     3.2,  -109.9)
+  Nice you got here.
+2022-05-29T04:56:42Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (    0.6,     3.8,    62.0)
+  Out.
+2022-05-29T04:56:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.0,     3.3,   -85.7)
+  Volunteers, out.
+2022-05-29T04:56:47Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -23.4,     3.2,  -119.9)
+  no sd
+2022-05-29T04:56:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -551.9,     7.2,   738.8)
+2022-05-29T04:56:49Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -22.7,     3.3,   -89.0)
+  Man
+2022-05-29T04:56:52Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -26.3,     3.3,   -89.8)
+  Please
+2022-05-29T04:56:53Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -32.2,     3.2,  -103.1)
+  can i grab a mask
+2022-05-29T04:56:57Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -27.3,     3.3,   -89.2)
+  No.
+2022-05-29T04:56:58Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -27.3,     3.3,   -89.2)
+  Get out.
+2022-05-29T04:57:01Z: PLAYER REMOVED [   58106596] AwesomeSuperRichie
+2022-05-29T04:57:03Z: CHRCTER ADDED  [ 1488446241] rca12adiib2          (  -28.4,     6.0,   540.2)
+2022-05-29T04:57:08Z: PLAYER ADDED   [ 3101295022] ycat2110
+2022-05-29T04:57:08Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.8,     3.3,  -126.4)
+  I GOT A MASK
+2022-05-29T04:57:09Z: CHRCTER ADDED  [ 3464484398] 08sheepboyMIC        (   29.2,    58.2,  -182.8)
+2022-05-29T04:57:10Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.3,  -122.7)
+  I DID IT
+2022-05-29T04:57:11Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -24.8,     3.3,   -90.1)
+  ugly sd
+2022-05-29T04:57:12Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.2,     3.3,   -90.2)
+  Get out.
+2022-05-29T04:57:14Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.2,     3.3,   -90.2)
+  Final warning.
+2022-05-29T04:57:14Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.3,  -122.7)
+  I FULLY HELD F
+2022-05-29T04:57:18Z: PLAYER ADDED   [ 1683564943] Syclone04
+2022-05-29T04:57:19Z: PLAYER REMOVED [ 3434268433] zillacoolboy1231
+2022-05-29T04:57:21Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -12.5,     3.3,   -89.8)
+  OUT.
+2022-05-29T04:57:23Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -19.1,     3.3,   -87.5)
+  3
+2022-05-29T04:57:23Z: CHRCTER ADDED  [ 3021042197] VVIIPP99             (  -25.4,     6.0,   542.9)
+2022-05-29T04:57:23Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -30.5,     3.3,   -96.8)
+  im sad
+2022-05-29T04:57:23Z: CHRCTER ADDED  [ 3021042197] VVIIPP99             (  522.3,     5.7,   478.4)
+2022-05-29T04:57:24Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -19.1,     3.3,   -87.5)
+  2
+2022-05-29T04:57:24Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.4,     3.3,   -86.5)
+  Get out
+2022-05-29T04:57:25Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -19.1,     3.3,   -87.5)
+  1
+2022-05-29T04:57:27Z: PLAYER ADDED   [ 3454604242] TanRong13
+2022-05-29T04:57:28Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.1,     3.3,   -89.5)
+  Stay out.
+2022-05-29T04:57:29Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -33.9,     3.2,  -112.5)
+  Okay where do i go
+2022-05-29T04:57:30Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -45.0,     3.2,  -107.9)
+  ####
+2022-05-29T04:57:31Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T04:57:33Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -43.0,     3.2,  -106.7)
+  ####
+2022-05-29T04:57:35Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -43.0,     3.2,  -106.7)
+  ####
+2022-05-29T04:57:37Z: PLAYER REMOVED [ 3021042197] VVIIPP99
+2022-05-29T04:57:39Z: PLAYER CHATTED [ 3225295236] jackle2342546        (   76.9,     3.2,  -103.6)
+  pst
+2022-05-29T04:57:42Z: PLAYER CHATTED [ 3225295236] jackle2342546        (   76.9,     3.2,  -103.6)
+  did you get the mask
+2022-05-29T04:57:48Z: PLAYER CHATTED [ 3056559812] chicken_onthinice    (   76.8,     3.2,  -109.5)
+  What mask?
+2022-05-29T04:57:52Z: PLAYER CHATTED [ 3225295236] jackle2342546        (   76.8,     3.2,  -104.8)
+  shut
+2022-05-29T04:57:54Z: PLAYER REMOVED [ 3464484398] 08sheepboyMIC
+2022-05-29T04:57:55Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.6,     3.2,  -104.9)
+  This is your final stop for now.
+2022-05-29T04:57:56Z: PLAYER CHATTED [ 2219032116] jackleeyk20          (  -27.4,     3.2,  -111.4)
+  #####################
+2022-05-29T04:57:59Z: PLAYER CHATTED [  132177857] adam5212d            (    2.1,     3.6,    35.4)
+  ?
+2022-05-29T04:58:00Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.6,     3.2,  -104.9)
+  Not much else to do.
+2022-05-29T04:58:02Z: PLAYER REMOVED [ 2219032116] jackleeyk20
+2022-05-29T04:58:03Z: PLAYER ADDED   [  503148860] duckman6465
+2022-05-29T04:58:04Z: PLAYER CHATTED [   87092913] Denis0606            ( -230.7,     5.0,   782.1)
+  Hello
+2022-05-29T04:58:08Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -25.9,     3.2,  -107.4)
+  Sir,do you know when i can finaly do tryouts?
+2022-05-29T04:58:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.6,     3.2,  -104.9)
+  I suggest talking with other people, can be kinda fun.
+2022-05-29T04:58:09Z: PLAYER CHATTED [ 1059131113] ThanosIsAC00N        ( -236.7,     5.0,   748.4)
+  Don't talk to me
+2022-05-29T04:58:11Z: PLAYER REMOVED [ 1683564943] Syclone04
+2022-05-29T04:58:15Z: PLAYER CHATTED [  132177857] adam5212d            (    8.0,     3.6,    52.9)
+  CLOSE THE DOOR!
+2022-05-29T04:58:16Z: PLAYER CHATTED [   74014069] Grim_Dev200          (    7.6,     3.8,    56.7)
+  hurry up
+2022-05-29T04:58:20Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -34.8,     3.2,  -104.1)
+  Ah, the most recent tryout was a few hours ago.
+2022-05-29T04:58:27Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -34.4,     3.2,  -103.6)
+  Although there are tryouts on weekends, normally.
+2022-05-29T04:58:30Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -29.2,     3.2,  -102.1)
+  Away.
+2022-05-29T04:58:33Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.4,     3.2,  -101.2)
+  let me stand in my corner
+2022-05-29T04:58:35Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -37.2,     3.2,  -115.2)
+  Where do i go now?
+2022-05-29T04:58:35Z: PLAYER REMOVED [  503148860] duckman6465
+2022-05-29T04:58:39Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  You have 5 seconds to move.
+2022-05-29T04:58:40Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  5
+2022-05-29T04:58:41Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  4
+2022-05-29T04:58:42Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  3
+2022-05-29T04:58:43Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  2
+2022-05-29T04:58:44Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -28.7,     3.2,  -104.6)
+  1
+2022-05-29T04:58:44Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.9,     3.2,  -105.2)
+  Anywhere here.
+2022-05-29T04:58:47Z: PLAYER ADDED   [ 3579291631] CDVsans
+2022-05-29T04:58:49Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -38.7,     3.2,  -106.7)
+  Just not back in that room
+2022-05-29T04:58:54Z: PLAYER CHATTED [   74014069] Grim_Dev200          (    7.2,     3.6,    27.1)
+  DONT MOVE
+2022-05-29T04:58:55Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -19.0,     3.2,  -106.4)
+  i cant even have my own corner :(
+2022-05-29T04:58:59Z: PLAYER REMOVED [ 3101295022] ycat2110
+2022-05-29T04:59:00Z: PLAYER CHATTED [ 2990677806] Thecheeseyboi17      (  -19.7,     3.3,  -160.5)
+  ###############
+2022-05-29T04:59:02Z: CHRCTER ADDED  [ 1305830811] MuPoH89              (  -20.5,     6.0,   539.9)
+2022-05-29T04:59:03Z: PLAYER ADDED   [  130679748] SomeOtherGuyRB
+2022-05-29T04:59:05Z: PLAYER REMOVED [ 3095267647] thanhlongksx
+2022-05-29T04:59:07Z: PLAYER CHATTED [  616764614] packman7rules2       (   -0.2,     3.6,    33.4)
+  Entity behaviour has reportedly changed.
+2022-05-29T04:59:14Z: PLAYER CHATTED [   74014069] Grim_Dev200          (   -5.7,     3.6,    23.5)
+  yep
+2022-05-29T04:59:16Z: PLAYER CHATTED [  163008936] badgasher            (  -12.1,     3.6,   538.5)
+  #########
+2022-05-29T04:59:16Z: PLAYER ADDED   [ 3444924726] qwq358ii
+2022-05-29T04:59:19Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -37.9,     3.2,  -107.3)
+  Click # ## man
+2022-05-29T04:59:20Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -37.9,     3.2,  -101.2)
+  Back off.
+2022-05-29T04:59:24Z: PLAYER CHATTED [ 1059131113] ThanosIsAC00N        ( -149.2,    38.7,   412.1)
+  Down there is the backrooms
+2022-05-29T04:59:24Z: PLAYER CHATTED [   87092913] Denis0606            ( -153.9,    38.7,   399.2)
+  white neon
+2022-05-29T04:59:25Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -14.3,     3.6,    30.3)
+  Going to be fun for you to research that.
+2022-05-29T04:59:25Z: PLAYER CHATTED [ 3214899515] paintroller32        (  -11.2,     3.6,    37.7)
+  PACMAN.
+2022-05-29T04:59:27Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  Get out of the corner now!
+2022-05-29T04:59:28Z: PLAYER REMOVED [ 3579291631] CDVsans
+2022-05-29T04:59:29Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  5
+2022-05-29T04:59:29Z: PLAYER CHATTED [ 3214899515] paintroller32        (  -11.0,     3.6,    37.7)
+  New entity.
+2022-05-29T04:59:30Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  4
+2022-05-29T04:59:31Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  3
+2022-05-29T04:59:33Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  2
+2022-05-29T04:59:33Z: PLAYER CHATTED [ 3214899515] paintroller32        (  -14.6,     3.6,    42.5)
+  Packman.
+2022-05-29T04:59:34Z: PLAYER CHATTED [ 1059131113] ThanosIsAC00N        ( -150.0,    38.7,   412.2)
+  So how do we get to the other level
+2022-05-29T04:59:34Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  1
+2022-05-29T04:59:36Z: PLAYER CHATTED [ 3214899515] paintroller32        (  -14.6,     3.6,    42.5)
+  New entity.
+2022-05-29T04:59:38Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -33.6,     3.2,  -108.2)
+  bang
+2022-05-29T04:59:39Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -37.9,     3.2,  -108.0)
+  Turn around and click E
+2022-05-29T04:59:40Z: PLAYER CHATTED [ 2990677806] Thecheeseyboi17      (  -54.3,     3.2,  -115.1)
+  ##############################################################################################################
+2022-05-29T04:59:41Z: PLAYER CHATTED [   87092913] Denis0606            ( -154.3,    38.7,   402.5)
+  I don't know.
+2022-05-29T04:59:47Z: PLAYER CHATTED [ 1059131113] ThanosIsAC00N        ( -150.0,    38.7,   412.2)
+  ;-;
+2022-05-29T04:59:59Z: PLAYER REMOVED [ 3444924726] qwq358ii
+2022-05-29T05:00:00Z: PLAYER REMOVED [ 1488446241] rca12adiib2
+2022-05-29T05:00:02Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:00:05Z: PLAYER CHATTED [  132177857] adam5212d            (   20.5,     3.8,    42.4)
+  Another corpse.
+2022-05-29T05:00:07Z: PLAYER ADDED   [ 3444924726] qwq358ii
+2022-05-29T05:00:09Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -39.1,     3.2,  -101.6)
+  AWAY.
+2022-05-29T05:00:11Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -39.1,     3.2,  -101.6)
+  FINAL WARNING.
+2022-05-29T05:00:20Z: PLAYER CHATTED [  616764614] packman7rules2       (   25.1,     3.7,    35.0)
+  Hey uh.
+2022-05-29T05:00:24Z: PLAYER CHATTED [  616764614] packman7rules2       (   26.0,     3.7,    34.9)
+  What is going on?
+2022-05-29T05:00:34Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.1,     3.2,  -114.5)
+  b u t t o n
+2022-05-29T05:00:37Z: PLAYER CHATTED [  132177857] adam5212d            (   24.9,     3.7,    30.0)
+  It just died infront of us.
+2022-05-29T05:00:41Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Please refrain from doing that.
+2022-05-29T05:00:44Z: PLAYER CHATTED [ 3214899515] paintroller32        (   28.3,     3.7,    39.0)
+  Hello?
+2022-05-29T05:00:44Z: PLAYER ADDED   [  201182066] AbstractedGammer
+2022-05-29T05:00:45Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -26.7,     3.2,  -113.1)
+  Stop
+2022-05-29T05:00:48Z: PLAYER CHATTED [ 3056559812] chicken_onthinice    (  -24.7,     3.2,  -117.5)
+  ◉_◉
+2022-05-29T05:00:49Z: PLAYER CHATTED [   87092913] Denis0606            (   50.9,     3.6,    35.9)
+  Hello.
+2022-05-29T05:00:49Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -38.5,     3.2,  -101.5)
+  Get close again and you will be shot.
+2022-05-29T05:00:49Z: PLAYER REMOVED [ 3454604242] TanRong13
+2022-05-29T05:00:50Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.8,     3.2,  -110.5)
+  i want food
+2022-05-29T05:00:50Z: PLAYER CHATTED [  132177857] adam5212d            (   25.2,     3.7,    27.3)
+  Maybe because of starvation?
+2022-05-29T05:00:52Z: PLAYER REMOVED [ 3444924726] qwq358ii
+2022-05-29T05:00:52Z: PLAYER ADDED   [ 3278441136] among_usiiiii
+2022-05-29T05:00:53Z: PLAYER CHATTED [ 3214899515] paintroller32        (   33.8,     3.6,    38.6)
+  Get back behind us.
+2022-05-29T05:00:54Z: CHRCTER ADDED  [ 2749203869] IlIFIA_ECHOIlI       (   21.8,    58.2,  -187.2)
+2022-05-29T05:00:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.4,     3.2,  -102.8)
+  Then come here.
+2022-05-29T05:00:56Z: PLAYER CHATTED [  163008936] badgasher            (   35.0,     3.6,    30.1)
+  Sir
+2022-05-29T05:00:56Z: PLAYER ADDED   [ 3444924726] qwq358ii
+2022-05-29T05:00:59Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -35.6,     3.2,  -109.2)
+  Shimber me timbers
+2022-05-29T05:01:04Z: CHRCTER ADDED  [ 2749203869] IlIFIA_ECHOIlI       ( -107.8,     3.4,  -110.0)
+2022-05-29T05:01:04Z: PLAYER CHATTED [  616764614] packman7rules2       (   27.0,     3.7,    34.6)
+  I'm just gonna go back inside.
+2022-05-29T05:01:06Z: PLAYER CHATTED [  132177857] adam5212d            (   32.0,     3.6,    25.6)
+  Should we shoot it?
+2022-05-29T05:01:08Z: PLAYER CHATTED [  616764614] packman7rules2       (   24.8,     3.7,    34.9)
+  Thank you mr skinwalker.
+2022-05-29T05:01:12Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -12.9,     4.7,  -148.5)
+  can i place a order
+2022-05-29T05:01:16Z: CHRCTER ADDED  [  201182066] AbstractedGammer     (  215.5,    56.1,   232.3)
+2022-05-29T05:01:18Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -31.4,     3.2,  -108.1)
+  Missed
+2022-05-29T05:01:24Z: PLAYER CHATTED [  132177857] adam5212d            (   26.0,     3.7,    42.1)
+  What the-
+2022-05-29T05:01:26Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -13.3,     4.7,  -148.6)
+  yay a upg bar
+2022-05-29T05:01:27Z: PLAYER CHATTED [ 3214899515] paintroller32        (   26.2,     3.7,    32.4)
+  Shoo.
+2022-05-29T05:01:29Z: PLAYER CHATTED [  132177857] adam5212d            (   26.0,     3.7,    42.1)
+  Why is there rope attached to me.
+2022-05-29T05:01:31Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.1,     3.3,  -124.2)
+  If you're hungry or thirsty, tell me.
+2022-05-29T05:01:31Z: PLAYER CHATTED [ 3214899515] paintroller32        (   27.9,     3.7,    33.3)
+  Please.
+2022-05-29T05:01:33Z: PLAYER CHATTED [ 3214899515] paintroller32        (   25.5,     3.7,    32.2)
+  Your docile.
+2022-05-29T05:01:35Z: PLAYER REMOVED [ 3444924726] qwq358ii
+2022-05-29T05:01:35Z: PLAYER CHATTED [ 3214899515] paintroller32        (   29.5,     3.7,    32.9)
+  Shoo.
+2022-05-29T05:01:41Z: PLAYER CHATTED [ 3214899515] paintroller32        (   26.2,     3.7,    33.6)
+  Now.
+2022-05-29T05:01:41Z: PLAYER ADDED   [  876829693] porgcute
+2022-05-29T05:01:44Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -34.5,     3.2,  -114.2)
+  also can i have almond water
+2022-05-29T05:01:48Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:01:49Z: PLAYER ADDED   [ 2880188423] NOOBMAN4647G
+2022-05-29T05:01:53Z: PLAYER CHATTED [ 3214899515] paintroller32        (   25.1,     3.7,    30.5)
+  FOr the love of god.
+2022-05-29T05:01:53Z: PLAYER ADDED   [ 3101490125] umairplayzmincraft
+2022-05-29T05:01:54Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -12.4,     3.2,  -105.6)
+  Of course.
+2022-05-29T05:01:57Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -58.8,     3.7,    40.2)
+  come in
+2022-05-29T05:01:57Z: PLAYER CHATTED [ 1305830811] MuPoH89              (  -70.8,     3.7,    38.1)
+  hi
+2022-05-29T05:01:57Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.9,     3.2,  -117.6)
+  i got my dinner
+2022-05-29T05:01:58Z: PLAYER CHATTED [ 3214899515] paintroller32        (   29.0,     3.7,    31.0)
+  GO.
+2022-05-29T05:02:09Z: PLAYER CHATTED [  132177857] adam5212d            (   36.4,     3.7,    27.2)
+  Should we shoot the body?
+2022-05-29T05:02:09Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -28.6,     3.2,  -112.2)
+  Welp, i don't have candy bar
+2022-05-29T05:02:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -16.8,     3.2,  -108.4)
+  Are any of you hungry or thirsty?
+2022-05-29T05:02:10Z: PLAYER CHATTED [ 3056559812] chicken_onthinice    (  -39.7,     3.2,  -111.1)
+  So we are stuck here?
+2022-05-29T05:02:12Z: PLAYER REMOVED [ 3278441136] among_usiiiii
+2022-05-29T05:02:13Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -23.2,     3.6,    34.5)
+  ok survivors follow me
+2022-05-29T05:02:15Z: PLAYER CHATTED [ 3214899515] paintroller32        (   26.4,     3.7,    26.4)
+  I think.
+2022-05-29T05:02:16Z: PLAYER CHATTED [ 2248811721] Xxpresident_obamaX   (   26.2,     3.7,    42.6)
+  no
+2022-05-29T05:02:23Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -35.3,     3.2,  -106.4)
+  /e dance
+2022-05-29T05:02:23Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -31.7,     3.2,  -115.9)
+  im eating
+2022-05-29T05:02:25Z: PLAYER REMOVED [  876829693] porgcute
+2022-05-29T05:02:27Z: PLAYER REMOVED [ 3101490125] umairplayzmincraft
+2022-05-29T05:02:28Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -10.7,     3.6,    28.0)
+  Come
+2022-05-29T05:02:29Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -15.8,     3.2,  -108.2)
+  There's a candy bar.
+2022-05-29T05:02:30Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -38.2,     3.2,  -101.5)
+  Back off.
+2022-05-29T05:02:30Z: PLAYER REMOVED [  492775138] LukePoo200
+2022-05-29T05:02:35Z: PLAYER CHATTED [  163008936] badgasher            (   -0.3,     3.6,    32.5)
+  #####################
+2022-05-29T05:02:38Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -24.5,     3.2,  -116.5)
+  Ok?
+2022-05-29T05:02:39Z: PLAYER CHATTED [  616764614] packman7rules2       (   30.2,     3.7,    45.0)
+  ...
+2022-05-29T05:02:43Z: CHRCTER ADDED  [  436155682] nikita212342         (   40.9,    59.2,  -185.1)
+2022-05-29T05:02:48Z: PLAYER ADDED   [ 3105459391] RoyceTheGreat2021
+2022-05-29T05:02:53Z: PLAYER CHATTED [  616764614] packman7rules2       (   30.2,     3.7,    45.0)
+  Can we cut the whole rp thing? What is going on?
+2022-05-29T05:02:54Z: CHRCTER ADDED  [ 3473784889] bluelondon913        (  514.4,     5.7,   484.2)
+2022-05-29T05:02:54Z: CHRCTER ADDED  [ 3473784889] bluelondon913        ( -552.1,     6.2,   740.8)
+2022-05-29T05:02:54Z: CHRCTER ADDED  [ 3473784889] bluelondon913        ( -555.3,     6.2,   732.8)
+2022-05-29T05:02:54Z: CHRCTER ADDED  [ 3473784889] bluelondon913        (  -21.1,     6.0,   542.0)
+2022-05-29T05:02:57Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.1,     3.2,  -109.7)
+  b u t t o n
+2022-05-29T05:02:58Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -21.6,     3.3,   -20.9)
+  Come on
+2022-05-29T05:03:01Z: PLAYER ADDED   [  876829693] porgcute
+2022-05-29T05:03:03Z: PLAYER ADDED   [ 3435740042] mukhriz_EXE
+2022-05-29T05:03:03Z: PLAYER CHATTED [  132177857] adam5212d            (   40.9,     3.6,    34.1)
+  okay i honestly dont know
+2022-05-29T05:03:03Z: PLAYER REMOVED [ 3214899515] paintroller32
+2022-05-29T05:03:05Z: CHRCTER ADDED  [ 3056559812] chicken_onthinice    (   29.4,    58.2,  -187.0)
+2022-05-29T05:03:06Z: PLAYER ADDED   [ 3581113400] Hello_Creeper5
+2022-05-29T05:03:07Z: PLAYER CHATTED [  132177857] adam5212d            (   41.4,     3.6,    34.5)
+  it just died infront of us
+2022-05-29T05:03:10Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -38.6,     3.2,  -101.2)
+  Final warning.
+2022-05-29T05:03:19Z: PLAYER REMOVED [ 3105459391] RoyceTheGreat2021
+2022-05-29T05:03:19Z: PLAYER CHATTED [  132177857] adam5212d            (   41.4,     3.6,    34.5)
+  im serious
+2022-05-29T05:03:21Z: PLAYER REMOVED [  436155682] nikita212342
+2022-05-29T05:03:23Z: CHRCTER ADDED  [ 3056559812] chicken_onthinice    ( -115.3,     3.4,  -225.9)
+2022-05-29T05:03:23Z: CHRCTER ADDED  [ 3056559812] chicken_onthinice    ( -115.3,     3.4,  -225.9)
+2022-05-29T05:03:23Z: PLAYER ADDED   [ 1186912937] Tylercraft101
+2022-05-29T05:03:28Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -42.0,     3.2,  -105.0)
+  *SNIFF*
+2022-05-29T05:03:32Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -24.8,     3.2,  -105.5)
+  What's good party people
+2022-05-29T05:03:33Z: CHRCTER ADDED  [ 3056559812] chicken_onthinice    (   35.7,    58.2,  -179.2)
+2022-05-29T05:03:35Z: CHRCTER ADDED  [ 3473784889] bluelondon913        (   41.6,    59.2,  -186.1)
+2022-05-29T05:03:37Z: PLAYER REMOVED [ 2880188423] NOOBMAN4647G
+2022-05-29T05:03:37Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.9,     3.2,  -103.1)
+  Welcome.
+2022-05-29T05:03:38Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -31.7,     3.2,  -111.2)
+  sniff button
+2022-05-29T05:03:38Z: PLAYER REMOVED [  876829693] porgcute
+2022-05-29T05:03:43Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.0,     3.2,  -103.0)
+  Feel free to enjoy the music.
+2022-05-29T05:03:44Z: CHRCTER ADDED  [ 3056559812] chicken_onthinice    (  -24.7,     6.0,   538.9)
+2022-05-29T05:03:46Z: CHRCTER ADDED  [ 1186912937] Tylercraft101        ( -547.7,     6.2,   737.7)
+2022-05-29T05:03:48Z: PLAYER ADDED   [  647697862] pluh2000
+2022-05-29T05:03:52Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.7,     3.2,  -102.7)
+  You're going to be here a while, so don't hesitate to ask any questions.
+2022-05-29T05:03:57Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -24.8,     3.2,  -109.9)
+  run while you still can
+2022-05-29T05:03:58Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.5,     3.2,  -113.4)
+  this is litterl HELL
+2022-05-29T05:03:58Z: PLAYER REMOVED [ 3581113400] Hello_Creeper5
+2022-05-29T05:04:00Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -28.4,     3.2,  -109.0)
+  Music mid can we go back out 
+2022-05-29T05:04:02Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:04:03Z: PLAYER ADDED   [ 3387189529] amnoobaimbt
+2022-05-29T05:04:05Z: PLAYER ADDED   [ 3529693636] babubabubaubau
+2022-05-29T05:04:07Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -24.8,     3.2,  -107.4)
+  I BEEN WAITING FOR SO LONG
+2022-05-29T05:04:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  It's slightly less hellish in a department.
+2022-05-29T05:04:13Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  I suggest waiting for a tryout.
+2022-05-29T05:04:13Z: CHRCTER ADDED  [  130679748] SomeOtherGuyRB       (  518.2,     5.7,   482.8)
+2022-05-29T05:04:16Z: PLAYER CHATTED [   74014069] Grim_Dev200          (   25.4,     3.7,    29.8)
+  still here.
+2022-05-29T05:04:19Z: PLAYER CHATTED [  163008936] badgasher            (    6.9,     3.2,  -108.6)
+  Denis lets go
+2022-05-29T05:04:19Z: PLAYER ADDED   [ 2208691988] Vhastnom_yt
+2022-05-29T05:04:22Z: PLAYER REMOVED [ 3473784889] bluelondon913
+2022-05-29T05:04:22Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.4,     3.6,  -100.1)
+  Cease trying to enter this room.
+2022-05-29T05:04:23Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -12.9,     5.5,   -47.1)
+  thanks
+2022-05-29T05:04:23Z: PLAYER CHATTED [   87092913] Denis0606            (  -18.6,     3.3,  -136.9)
+  Hm.
+2022-05-29T05:04:23Z: CHRCTER ADDED  [ 3387189529] amnoobaimbt          ( -115.3,     3.4,  -225.9)
+2022-05-29T05:04:25Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.1,     3.2,  -113.3)
+  i got a question
+2022-05-29T05:04:25Z: PLAYER ADDED   [ 3177415704] Pingu_plays72627
+2022-05-29T05:04:26Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -26.5,     3.2,  -100.5)
+  This is the one room you can't enter.
+2022-05-29T05:04:28Z: PLAYER CHATTED [  616764614] packman7rules2       (   24.7,     3.7,    44.9)
+  I'm just logging this
+2022-05-29T05:04:29Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.7,     3.2,  -108.9)
+  can i stand in dat corner
+2022-05-29T05:04:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -100.8)
+  Ask away.
+2022-05-29T05:04:31Z: PLAYER CHATTED [  616764614] packman7rules2       (   24.7,     3.7,    44.9)
+  Weird.
+2022-05-29T05:04:35Z: PLAYER CHATTED [  616764614] packman7rules2       (   27.7,     3.7,    40.6)
+  Very very weird.
+2022-05-29T05:04:37Z: PLAYER CHATTED [  163008936] badgasher            (  -26.9,     3.2,  -107.5)
+  Please let me out.
+2022-05-29T05:04:39Z: CHRCTER ADDED  [   87092913] Denis0606            (   27.7,    59.2,  -183.2)
+2022-05-29T05:04:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  Any corner that isn't near the door.
+2022-05-29T05:04:43Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  You are out.
+2022-05-29T05:04:45Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.5,     3.2,  -108.9)
+  :(
+2022-05-29T05:04:48Z: PLAYER CHATTED [  163008936] badgasher            (  -26.5,     3.2,  -106.5)
+  Can I leave
+2022-05-29T05:04:48Z: PLAYER REMOVED [  647697862] pluh2000
+2022-05-29T05:04:50Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   24.6,     3.7,    35.9)
+  Get back in.
+2022-05-29T05:04:52Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  No.
+2022-05-29T05:04:52Z: CHRCTER ADDED  [   87092913] Denis0606            (  -23.5,     6.0,   538.6)
+2022-05-29T05:04:55Z: PLAYER CHATTED [  163008936] badgasher            (  -26.5,     3.2,  -106.5)
+  I want to go back in the maze
+2022-05-29T05:04:58Z: PLAYER CHATTED [  317387063] Thecokegod2          (   25.6,     3.7,    34.1)
+  Poke it with a stick
+2022-05-29T05:05:00Z: CHRCTER ADDED  [ 2208691988] Vhastnom_yt          (  211.9,    56.1,   231.0)
+2022-05-29T05:05:01Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  No can do.
+2022-05-29T05:05:07Z: PLAYER CHATTED [  163008936] badgasher            (  -26.8,     3.2,  -106.6)
+  jerk
+2022-05-29T05:05:07Z: PLAYER REMOVED [ 3435740042] mukhriz_EXE
+2022-05-29T05:05:08Z: PLAYER ADDED   [ 3553886092] floppa66672
+2022-05-29T05:05:11Z: PLAYER CHATTED [  163008936] badgasher            (  -26.8,     3.2,  -106.6)
+  everyone revolt
+2022-05-29T05:05:12Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  If you really wish to re-enter the maze, then you can rejoin.
+2022-05-29T05:05:14Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -21.0,     3.2,  -110.0)
+  sir do you have any idea when the next tryout will happen
+2022-05-29T05:05:15Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  Or menu.
+2022-05-29T05:05:17Z: PLAYER CHATTED [  163008936] badgasher            (  -26.8,     3.2,  -106.6)
+  You peice of crap
+2022-05-29T05:05:19Z: PLAYER ADDED   [ 1520814829] entong_2013
+2022-05-29T05:05:23Z: PLAYER ADDED   [  817875635] XXrobloxforeverXXx
+2022-05-29T05:05:24Z: PLAYER CHATTED [  317387063] Thecokegod2          (   37.4,     5.8,    23.5)
+  jiggle it 
+2022-05-29T05:05:24Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -22.0,     3.2,  -107.0)
+  should of stayed
+2022-05-29T05:05:27Z: PLAYER CHATTED [  163008936] badgasher            (  -27.3,     3.2,  -105.1)
+  Let me out crap
+2022-05-29T05:05:27Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.1)
+  There may be one tomorrow, but that's unlikely.
+2022-05-29T05:05:30Z: PLAYER REMOVED [ 1520814829] entong_2013
+2022-05-29T05:05:31Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.1)
+  Next week, however, likely.
+2022-05-29T05:05:34Z: PLAYER REMOVED [ 3177415704] Pingu_plays72627
+2022-05-29T05:05:35Z: PLAYER ADDED   [ 3581109616] sam1315alex
+2022-05-29T05:05:40Z: PLAYER ADDED   [ 1800187844] Reddybash
+2022-05-29T05:05:41Z: PLAYER ADDED   [ 3532705212] Chokeiae
+2022-05-29T05:05:41Z: PLAYER REMOVED [ 3532705212] Chokeiae
+2022-05-29T05:05:43Z: PLAYER CHATTED [  317387063] Thecokegod2          (   40.4,     5.8,    22.8)
+  Welp
+2022-05-29T05:05:46Z: PLAYER CHATTED [  317387063] Thecokegod2          (   40.4,     5.8,    22.8)
+  I know what dinner is 
+2022-05-29T05:05:46Z: PLAYER CHATTED [ 2202454613] grandpa_gwizz        (  -25.6,     3.2,  -107.1)
+  NEXT WEEK!
+2022-05-29T05:05:48Z: PLAYER CHATTED [ 3387189529] amnoobaimbt          (  -30.4,     3.2,  -108.2)
+  rip
+2022-05-29T05:05:51Z: PLAYER ADDED   [ 1993588074] Operative_Unit
+2022-05-29T05:05:52Z: PLAYER REMOVED [ 2208691988] Vhastnom_yt
+2022-05-29T05:05:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.4,     3.2,  -101.2)
+  That's a rough estimate.
+2022-05-29T05:05:58Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -31.8,     3.2,  -106.2)
+  Who do I contact to be hazmat?
+2022-05-29T05:06:00Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.4,     3.2,  -101.2)
+  Could be later, or earlier.
+2022-05-29T05:06:07Z: PLAYER CHATTED [  163008936] badgasher            (  -33.4,     3.2,  -104.7)
+  Can I leave please
+2022-05-29T05:06:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.4,     3.2,  -101.2)
+  Can't contact anyone for it, really.
+2022-05-29T05:06:10Z: PLAYER ADDED   [ 1176425482] BMA_Onkill
+2022-05-29T05:06:11Z: PLAYER CHATTED [  163008936] badgasher            (  -30.4,     3.2,  -104.5)
+  i am a survivor
+2022-05-29T05:06:11Z: PLAYER ADDED   [ 2208691988] Vhastnom_yt
+2022-05-29T05:06:11Z: PLAYER CHATTED [ 3387189529] amnoobaimbt          (  -30.4,     3.2,  -108.2)
+  there was a tryout but we were to late
+2022-05-29T05:06:12Z: PLAYER REMOVED [ 2202454613] grandpa_gwizz
+2022-05-29T05:06:14Z: PLAYER REMOVED [  817875635] XXrobloxforeverXXx
+2022-05-29T05:06:15Z: PLAYER REMOVED [ 1800187844] Reddybash
+2022-05-29T05:06:19Z: PLAYER CHATTED [  163008936] badgasher            (  -30.1,     3.2,  -105.5)
+  Please
+2022-05-29T05:06:20Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.8,     3.2,  -101.0)
+  You can do a tryout for bio-initiative or bio-security, though
+2022-05-29T05:06:23Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -33.1,     3.2,  -107.5)
+  Then how?
+2022-05-29T05:06:24Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -33.1,     3.2,  -107.5)
+  Ah
+2022-05-29T05:06:25Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.8,     3.2,  -101.0)
+  Lets you have a hazmat.
+2022-05-29T05:06:27Z: PLAYER CHATTED [  317387063] Thecokegod2          (   37.9,     5.8,    23.4)
+  yall should shoot it 
+2022-05-29T05:06:27Z: PLAYER CHATTED [ 2990677806] Thecheeseyboi17      (  -52.5,     3.2,  -110.0)
+  :)
+2022-05-29T05:06:28Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -32.5,     3.2,  -111.0)
+  Dude.
+2022-05-29T05:06:29Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -38.0,     3.2,  -108.1)
+  how be soldier
+2022-05-29T05:06:30Z: CHRCTER ADDED  [ 2208691988] Vhastnom_yt          ( -115.3,     3.4,  -225.9)
+2022-05-29T05:06:33Z: PLAYER CHATTED [  317387063] Thecokegod2          (   37.9,     5.8,    23.4)
+  for saftey 
+2022-05-29T05:06:34Z: PLAYER REMOVED [ 1186912937] Tylercraft101
+2022-05-29T05:06:35Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -38.0,     3.2,  -103.8)
+  Some tryouts are a bit-
+2022-05-29T05:06:36Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -38.0,     3.2,  -108.1)
+  when tryout done
+2022-05-29T05:06:37Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -38.0,     3.2,  -103.8)
+  One moment.
+2022-05-29T05:06:37Z: PLAYER CHATTED [  163008936] badgasher            (  -21.9,     3.3,   -87.9)
+  Please let me out
+2022-05-29T05:06:41Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -15.1,     3.3,   -88.3)
+  Out.
+2022-05-29T05:06:43Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.3,     3.3,   -90.9)
+  Get out.
+2022-05-29T05:06:45Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -38.9,     3.2,  -106.2)
+  atleast he is nice
+2022-05-29T05:06:48Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -37.2,     3.2,  -113.5)
+  They died.
+2022-05-29T05:06:49Z: PLAYER ADDED   [ 1186912937] Tylercraft101
+2022-05-29T05:06:50Z: PLAYER CHATTED [ 3387189529] amnoobaimbt          (  -30.8,     3.2,  -105.1)
+  yep
+2022-05-29T05:06:51Z: PLAYER CHATTED [  163008936] badgasher            (  -20.7,     3.3,   -90.6)
+  Let me ou
+2022-05-29T05:06:54Z: CHRCTER ADDED  [ 1176425482] BMA_Onkill           (  319.4,     6.0,   766.7)
+2022-05-29T05:06:54Z: PLAYER CHATTED [  163008936] badgasher            (  -20.6,     3.3,   -90.8)
+  Let me out
+2022-05-29T05:06:55Z: PLAYER CHATTED [  317387063] Thecokegod2          (   34.6,     3.7,    23.6)
+  can I jiggle it 
+2022-05-29T05:06:56Z: PLAYER CHATTED [  163008936] badgasher            (  -20.6,     3.3,   -90.8)
+  Let me out
+2022-05-29T05:06:56Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -25.3,     3.3,   -87.1)
+  1
+2022-05-29T05:06:56Z: CHRCTER ADDED  [ 1993588074] Operative_Unit       ( -107.8,     3.4,  -110.0)
+2022-05-29T05:06:57Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -32.6,     3.4,  -104.3)
+  SIR
+2022-05-29T05:06:58Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -33.4,     3.3,   -87.9)
+  Final warning. Get out.
+2022-05-29T05:06:58Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -25.3,     3.3,   -87.1)
+  2
+2022-05-29T05:07:00Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.3,   -93.9)
+  Bye
+2022-05-29T05:07:04Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.8,     3.2,  -101.3)
+  can i grab a ma-
+2022-05-29T05:07:05Z: PLAYER CHATTED [ 3387189529] amnoobaimbt          (  -34.9,     3.2,  -104.6)
+  hes dead
+2022-05-29T05:07:09Z: CHRCTER ADDED  [ 1186912937] Tylercraft101        (  -23.6,     6.0,   543.2)
+2022-05-29T05:07:09Z: PLAYER CHATTED [  163008936] badgasher            (  -15.9,     2.5,   -91.6)
+  Let me outI am a survivor 
+2022-05-29T05:07:09Z: PLAYER CHATTED [  132177857] adam5212d            (   49.1,     3.6,    29.9)
+  Okay now this is just stupid.
+2022-05-29T05:07:10Z: CHRCTER ADDED  [  163008936] badgasher            (  518.7,     5.7,   478.9)
+2022-05-29T05:07:11Z: PLAYER REMOVED [ 3553886092] floppa66672
+2022-05-29T05:07:11Z: PLAYER CHATTED [  616764614] packman7rules2       (   33.4,     3.6,    40.2)
+  Don't acknowledge anything outside the KV other than survivors from now on.
+2022-05-29T05:07:12Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -19.5,     3.2,  -111.7)
+  oh god
+2022-05-29T05:07:14Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.6,     3.3,   -88.5)
+  Get out
+2022-05-29T05:07:15Z: PLAYER CHATTED [  132177857] adam5212d            (   47.4,     3.6,    36.9)
+  HES FLOATING.
+2022-05-29T05:07:16Z: PLAYER CHATTED [ 1305830811] MuPoH89              (  -18.3,     3.2,  -117.5)
+  hi
+2022-05-29T05:07:18Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -33.5,     3.2,  -114.3)
+  There no nothing here
+2022-05-29T05:07:20Z: PLAYER CHATTED [  132177857] adam5212d            (   47.4,     3.6,    36.9)
+  PRACTICALLY FLOATING.
+2022-05-29T05:07:21Z: PLAYER REMOVED [ 2208691988] Vhastnom_yt
+2022-05-29T05:07:22Z: PLAYER CHATTED [ 3387189529] amnoobaimbt          (  -37.1,     3.2,  -108.7)
+  ################################################################################################## ##########
+2022-05-29T05:07:23Z: PLAYER REMOVED [ 3387189529] amnoobaimbt
+2022-05-29T05:07:24Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.5,     3.2,  -111.1)
+  i heard a nerf gun go off
+2022-05-29T05:07:25Z: PLAYER CHATTED [  616764614] packman7rules2       (   33.4,     3.6,    40.2)
+  It is vital to our continued survival and research.
+2022-05-29T05:07:25Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.6,     3.2,  -107.2)
+  As you were saying\
+2022-05-29T05:07:27Z: PLAYER ADDED   [  169854262] epicpotatoes444
+2022-05-29T05:07:27Z: CHRCTER ADDED  [ 2361327414] Sw0rdFit             (   80.1,     3.6,    55.3)
+2022-05-29T05:07:30Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -45.7,     3.2,  -109.3)
+  Disperse.
+2022-05-29T05:07:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Please refrain from disobeying reasonable instructions.
+2022-05-29T05:07:32Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   80.1,     3.6,    55.3)
+  thx
+2022-05-29T05:07:34Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Oh, right, as I was saying.
+2022-05-29T05:07:37Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   79.8,     3.6,    54.8)
+  IM NORMAL AGAIN
+2022-05-29T05:07:38Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (   36.3,    58.2,  -180.4)
+2022-05-29T05:07:41Z: PLAYER ADDED   [ 3402517689] jsishsibsisbsis
+2022-05-29T05:07:42Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   32.8,     4.3,    37.2)
+  thanks to
+2022-05-29T05:07:43Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   34.8,     3.6,    38.8)
+  some ghost
+2022-05-29T05:07:45Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  I forgot what I was saying.
+2022-05-29T05:07:47Z: PLAYER REMOVED [ 1176425482] BMA_Onkill
+2022-05-29T05:07:48Z: PLAYER ADDED   [ 3572863192] ndussw74
+2022-05-29T05:07:49Z: PLAYER REMOVED [ 3056559812] chicken_onthinice
+2022-05-29T05:07:49Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.1,     3.2,  -109.2)
+  tryouts
+2022-05-29T05:07:50Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  I think it was about tryouts?
+2022-05-29T05:07:50Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   42.6,     3.6,    28.2)
+  ok so
+2022-05-29T05:07:50Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -29.6,     3.2,  -104.8)
+  death korps or krieg
+2022-05-29T05:07:50Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.2,     3.2,  -106.7)
+  Bio
+2022-05-29T05:07:52Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   40.6,     3.6,    28.0)
+  do we give it food
+2022-05-29T05:07:55Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Oh, is my morph bugged?
+2022-05-29T05:07:55Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.1,     3.2,  -109.2)
+  IT WAS TRYOUT
+2022-05-29T05:07:56Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      ( -115.3,     3.4,  -225.9)
+2022-05-29T05:07:56Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   40.6,     3.6,    28.0)
+  does it make it alive again
+2022-05-29T05:07:58Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.0,     3.2,  -106.5)
+  Bio something
+2022-05-29T05:07:59Z: PLAYER REMOVED [ 1186912937] Tylercraft101
+2022-05-29T05:08:01Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.0,     3.6,    32.2)
+  guys give it food
+2022-05-29T05:08:01Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -30.8,     3.2,  -103.2)
+  Yeah your hat shows
+2022-05-29T05:08:03Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  I'll change out.
+2022-05-29T05:08:04Z: PLAYER ADDED   [ 2710443902] Whittysans2323
+2022-05-29T05:08:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  Does it pair well?
+2022-05-29T05:08:10Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -35.7,     3.2,  -102.1)
+  its alright
+2022-05-29T05:08:11Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (   26.1,    58.2,  -178.8)
+2022-05-29T05:08:13Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   39.5,    59.2,  -179.6)
+2022-05-29T05:08:14Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -31.4,     3.2,  -108.5)
+  yes
+2022-05-29T05:08:15Z: PLAYER REMOVED [ 3572863192] ndussw74
+2022-05-29T05:08:16Z: CHRCTER ADDED  [  169854262] epicpotatoes444      (  319.6,     6.0,   772.6)
+2022-05-29T05:08:16Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -31.4,     3.2,  -108.5)
+  your fancy
+2022-05-29T05:08:17Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.8,     3.6,    33.6)
+  itll probably just alive itslef
+2022-05-29T05:08:18Z: PLAYER CHATTED [  132177857] adam5212d            (   43.3,     3.6,    27.1)
+  Dont we want it to stay dead so we can research its body?
+2022-05-29T05:08:18Z: CHRCTER ADDED  [  201182066] AbstractedGammer     ( -551.0,     6.2,   737.4)
+2022-05-29T05:08:19Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -31.7,     3.2,  -103.9)
+  yeah
+2022-05-29T05:08:21Z: PLAYER CHATTED [  616764614] packman7rules2       (   33.1,     3.6,    40.4)
+  The entity is ballin.
+2022-05-29T05:08:21Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.9,     3.6,    29.8)
+  oh
+2022-05-29T05:08:23Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:08:23Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  Nice.
+2022-05-29T05:08:24Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.9,     3.6,    29.8)
+  whered it go
+2022-05-29T05:08:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  319.5,     7.0,   765.4)
+2022-05-29T05:08:27Z: PLAYER CHATTED [  317387063] Thecokegod2          (   36.5,     3.7,    26.8)
+  this is like feeding a #### #### fish
+2022-05-29T05:08:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  So, tryouts are normally held on the weekends.
+2022-05-29T05:08:31Z: PLAYER CHATTED [  317387063] Thecokegod2          (   36.5,     3.7,    26.8)
+  bc you can't accept it's dead
+2022-05-29T05:08:31Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -31.7,     3.2,  -103.9)
+  lemme get mine
+2022-05-29T05:08:31Z: PLAYER ADDED   [ 3572863192] ndussw74
+2022-05-29T05:08:33Z: PLAYER REMOVED [  201182066] AbstractedGammer
+2022-05-29T05:08:34Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.2,     3.2,  -107.9)
+  Ah
+2022-05-29T05:08:34Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   49.3,     3.6,    31.4)
+  its gone
+2022-05-29T05:08:36Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  Though times may not be super fair.
+2022-05-29T05:08:36Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   46.1,     3.6,    31.2)
+  entity ballin
+2022-05-29T05:08:38Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   16.3,     3.6,    38.5)
+  Get back in.
+2022-05-29T05:08:39Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.7)
+  But they're consistent
+2022-05-29T05:08:40Z: PLAYER CHATTED [  132177857] adam5212d            (   42.3,     3.6,    28.4)
+  It nocclipped out of this reality.
+2022-05-29T05:08:41Z: PLAYER ADDED   [ 1784117538] DOLBAEB129_7
+2022-05-29T05:08:41Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   42.9,     3.9,    30.6)
+  oh
+2022-05-29T05:08:43Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -31.6,     3.2,  -112.9)
+  I need soda
+2022-05-29T05:08:45Z: PLAYER ADDED   [ 2575632266] niling56812
+2022-05-29T05:08:45Z: PLAYER CHATTED [  132177857] adam5212d            (   42.3,     3.6,    28.4)
+  Ridiculous.
+2022-05-29T05:08:45Z: PLAYER REMOVED [ 2575632266] niling56812
+2022-05-29T05:08:46Z: CHRCTER ADDED  [   87092913] Denis0606            (   29.4,    58.2,  -184.4)
+2022-05-29T05:08:46Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   24.8,     3.7,    32.0)
+  pls let me in
+2022-05-29T05:08:49Z: CHRCTER ADDED  [   75473524] Mike_Developer       (   81.6,     9.5,    70.2)
+2022-05-29T05:08:49Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -27.5,     3.2,  -105.1)
+  How about water?
+2022-05-29T05:08:50Z: PLAYER CHATTED [   74014069] Grim_Dev200          (   27.1,     3.7,    30.5)
+  we ###### ## back in packman
+2022-05-29T05:08:52Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.2,  -108.6)
+  do you need disco to get tryouts?
+2022-05-29T05:08:53Z: PLAYER REMOVED [ 3572863192] ndussw74
+2022-05-29T05:08:54Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   24.7,     3.7,    29.4)
+  OH MY GOD
+2022-05-29T05:08:54Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -31.6,     3.2,  -112.9)
+  Water?
+2022-05-29T05:08:54Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   24.7,     3.7,    29.4)
+  OPEN
+2022-05-29T05:08:55Z: CHRCTER ADDED  [   87092913] Denis0606            (  -28.2,     6.0,   540.4)
+2022-05-29T05:09:00Z: PLAYER REMOVED [ 3581109616] sam1315alex
+2022-05-29T05:09:02Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  You do.
+2022-05-29T05:09:03Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      ( -115.3,     3.4,  -225.9)
+2022-05-29T05:09:06Z: CHRCTER ADDED  [   87092913] Denis0606            (   26.0,    58.2,  -183.8)
+2022-05-29T05:09:09Z: CHRCTER ADDED  [ 1993588074] Operative_Unit       (   27.1,    60.2,  -181.9)
+2022-05-29T05:09:10Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.2,  -108.6)
+  bc my mike is broke
+2022-05-29T05:09:10Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -31.6,     3.2,  -112.9)
+  What does do?
+2022-05-29T05:09:11Z: PLAYER CHATTED [  616764614] packman7rules2       (   33.1,     3.6,    40.4)
+  Well, I've blended in
+2022-05-29T05:09:13Z: PLAYER ADDED   [ 2575632266] niling56812
+2022-05-29T05:09:13Z: PLAYER REMOVED [ 2575632266] niling56812
+2022-05-29T05:09:16Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.2,  -108.6)
+  i have no make
+2022-05-29T05:09:16Z: CHRCTER ADDED  [   87092913] Denis0606            ( -115.3,     3.4,  -225.9)
+2022-05-29T05:09:17Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.2,  -108.6)
+  or camera
+2022-05-29T05:09:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  Don't need a mic, though.
+2022-05-29T05:09:20Z: CHRCTER ADDED  [  163008936] badgasher            (  -29.7,     6.0,   545.8)
+2022-05-29T05:09:22Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  Nor a camera, of course.
+2022-05-29T05:09:23Z: CHRCTER ADDED  [ 1993588074] Operative_Unit       ( -107.8,     3.4,  -110.0)
+2022-05-29T05:09:23Z: CHRCTER ADDED  [ 1993588074] Operative_Unit       ( -107.8,     3.4,  -110.0)
+2022-05-29T05:09:26Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  Just need dizzy itself.
+2022-05-29T05:09:28Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.6,     3.2,  -108.6)
+  oh thank god
+2022-05-29T05:09:31Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -33.8,     3.2,  -113.8)
+  I drink
+2022-05-29T05:09:31Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (   22.5,    58.2,  -180.2)
+2022-05-29T05:09:33Z: PLAYER REMOVED [ 2710443902] Whittysans2323
+2022-05-29T05:09:34Z: PLAYER ADDED   [ 1300949240] dhdjdhdhdjdhdh
+2022-05-29T05:09:35Z: PLAYER ADDED   [ 2710443902] Whittysans2323
+2022-05-29T05:09:35Z: CHRCTER ADDED  [ 1784117538] DOLBAEB129_7         (  319.5,     6.0,   765.5)
+2022-05-29T05:09:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.2)
+  That really does pair well.
+2022-05-29T05:09:40Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      ( -115.3,     3.4,  -225.9)
+2022-05-29T05:09:40Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      ( -115.3,     3.4,  -225.9)
+2022-05-29T05:09:48Z: PLAYER REMOVED [  163008936] badgasher
+2022-05-29T05:09:49Z: PLAYER ADDED   [ 2507204154] ezra201019
+2022-05-29T05:09:50Z: CHRCTER ADDED  [ 3529693636] babubabubaubau       (  -20.3,     7.0,   545.1)
+2022-05-29T05:09:50Z: CHRCTER ADDED  [ 3529693636] babubabubaubau       ( -546.4,     7.2,   737.6)
+2022-05-29T05:09:55Z: PLAYER CHATTED [  169854262] epicpotatoes444      (   72.2,     3.6,    37.3)
+  uh
+2022-05-29T05:09:57Z: PLAYER CHATTED [  169854262] epicpotatoes444      (   72.2,     3.6,    37.3)
+  hello
+2022-05-29T05:09:59Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -33.9,     3.2,  -112.7)
+  He's have sam
+2022-05-29T05:10:00Z: PLAYER ADDED   [ 1828608493] StandUprightRightUp
+2022-05-29T05:10:01Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -30.1,     3.2,  -108.9)
+  Open this up rq
+2022-05-29T05:10:03Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.5,     3.2,  -108.9)
+  sir i got a question
+2022-05-29T05:10:03Z: PLAYER REMOVED [ 1784117538] DOLBAEB129_7
+2022-05-29T05:10:05Z: PLAYER REMOVED [   87092913] Denis0606
+2022-05-29T05:10:05Z: PLAYER CHATTED [  169854262] epicpotatoes444      (   54.9,     3.6,    41.4)
+  hi
+2022-05-29T05:10:06Z: PLAYER CHATTED [  132177857] adam5212d            (  -39.3,     3.2,  -101.2)
+  ?
+2022-05-29T05:10:06Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -30.1,     3.2,  -108.9)
+  I needa smell the air
+2022-05-29T05:10:07Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (   36.7,     3.6,    33.6)
+  Come with me.
+2022-05-29T05:10:08Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.5,     3.2,  -108.9)
+  whats in that door down there
+2022-05-29T05:10:09Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -30.6,     3.2,  -102.9)
+  SNIFF
+2022-05-29T05:10:11Z: PLAYER CHATTED [  169854262] epicpotatoes444      (   54.9,     3.6,    41.4)
+  Sure thing
+2022-05-29T05:10:12Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (   21.8,    58.2,  -181.5)
+2022-05-29T05:10:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.5,     3.2,  -101.7)
+  In that one?
+2022-05-29T05:10:21Z: CHRCTER ADDED  [ 3529693636] babubabubaubau       (   42.7,    59.2,  -181.6)
+2022-05-29T05:10:21Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.5,     3.2,  -108.9)
+  yes
+2022-05-29T05:10:21Z: CHRCTER ADDED  [ 1828608493] StandUprightRightUp  (  321.8,     6.0,   766.4)
+2022-05-29T05:10:22Z: PLAYER ADDED   [ 3018447068] haunamms
+2022-05-29T05:10:22Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (  517.2,     5.7,   485.9)
+2022-05-29T05:10:23Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:10:24Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.8,     3.2,  -102.6)
+  Empty room
+2022-05-29T05:10:26Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -22.5,     3.2,  -108.9)
+  oh
+2022-05-29T05:10:27Z: CHRCTER ADDED  [   75473524] Mike_Developer       ( -712.5,    11.2,   843.0)
+2022-05-29T05:10:28Z: PLAYER CHATTED [  132177857] adam5212d            (  -14.6,     3.2,  -113.0)
+  We dont know.
+2022-05-29T05:10:29Z: PLAYER REMOVED [ 3529693636] babubabubaubau
+2022-05-29T05:10:30Z: PLAYER ADDED   [ 3385671568] leahslyu
+2022-05-29T05:10:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.9,     3.2,  -105.4)
+  Away from the door.
+2022-05-29T05:10:34Z: PLAYER CHATTED [  616764614] packman7rules2       (  -58.8,     3.6,    27.1)
+  Y'know what would be funny? If the lights went out now.
+2022-05-29T05:10:39Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -27.0,     3.3,  -120.7)
+  It's air cold
+2022-05-29T05:10:39Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -24.0,     3.2,  -101.2)
+  I shall die
+2022-05-29T05:10:41Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.9,     3.2,  -105.4)
+  Chris, get away from the door.
+2022-05-29T05:10:42Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -24.0,     3.2,  -101.2)
+  For my cause
+2022-05-29T05:10:43Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      (   41.0,    58.2,  -182.0)
+2022-05-29T05:10:47Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -15.1,     3.6,    55.9)
+  Yeah i was just watching a guys tream
+2022-05-29T05:10:49Z: PLAYER ADDED   [  164726968] DIP3333
+2022-05-29T05:10:50Z: CHRCTER ADDED  [ 1300949240] dhdjdhdhdjdhdh       ( -556.0,     6.2,   738.5)
+2022-05-29T05:10:50Z: CHRCTER ADDED  [ 1300949240] dhdjdhdhdjdhdh       ( -551.9,     6.2,   734.9)
+2022-05-29T05:10:50Z: CHRCTER ADDED  [ 1300949240] dhdjdhdhdjdhdh       (  318.7,     6.0,   767.8)
+2022-05-29T05:10:50Z: PLAYER CHATTED [  616764614] packman7rules2       (  -28.3,     3.6,    34.0)
+  Gasmask Operative
+2022-05-29T05:10:50Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -35.4,     3.2,  -105.0)
+  Uh.
+2022-05-29T05:10:51Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -21.7,     3.2,  -110.6)
+  this is not court
+2022-05-29T05:10:51Z: PLAYER REMOVED [ 2710443902] Whittysans2323
+2022-05-29T05:10:54Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.3,     3.2,  -109.2)
+  Don't make this any more difficult than it needs to be.
+2022-05-29T05:10:55Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -35.4,     3.2,  -105.0)
+  What is this
+2022-05-29T05:10:55Z: CHRCTER ADDED  [ 2507204154] ezra201019           ( -553.3,     6.2,   734.4)
+2022-05-29T05:10:55Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -15.1,     3.6,    55.9)
+  the lights went ou and the long ######## boy ran up on him
+2022-05-29T05:10:56Z: PLAYER ADDED   [  503148860] duckman6465
+2022-05-29T05:10:56Z: PLAYER REMOVED [ 3402517689] jsishsibsisbsis
+2022-05-29T05:10:58Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (   -8.6,     3.6,    29.6)
+  this is my gasmask
+2022-05-29T05:10:59Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -15.1,     3.6,    55.9)
+  was funny
+2022-05-29T05:11:00Z: PLAYER REMOVED [ 3385671568] leahslyu
+2022-05-29T05:11:01Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -29.0,     3.6,    45.0)
+  God dam it Corrupt
+2022-05-29T05:11:01Z: PLAYER ADDED   [ 2241568932] fazbear14536
+2022-05-29T05:11:03Z: PLAYER CHATTED [  616764614] packman7rules2       (  -17.4,     3.6,    41.1)
+  Fair enough
+2022-05-29T05:11:04Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.4,     3.2,  -110.2)
+  pop his head of plz
+2022-05-29T05:11:05Z: CHRCTER ADDED  [ 1300949240] dhdjdhdhdjdhdh       (   30.3,    58.2,  -179.2)
+2022-05-29T05:11:06Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -15.1,     3.6,    55.7)
+  oh hey
+2022-05-29T05:11:07Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   -9.0,     3.6,    49.7)
+  -B.
+2022-05-29T05:11:07Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -15.1,     3.6,    55.7)
+  what's good
+2022-05-29T05:11:08Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -23.4,     3.2,  -110.2)
+  i want to see action
+2022-05-29T05:11:09Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -39.5,     3.2,  -112.1)
+  lowkey kind of want to go back
+2022-05-29T05:11:10Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -23.5,     3.2,  -101.3)
+  What he said
+2022-05-29T05:11:12Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -39.5,     3.2,  -112.1)
+  it was pretty nice in there
+2022-05-29T05:11:13Z: PLAYER CHATTED [ 2507204154] ezra201019           ( -513.6,     3.6,   701.9)
+  ???
+2022-05-29T05:11:20Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -13.4,     3.6,    52.3)
+  DO NOT.
+2022-05-29T05:11:23Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.1,     3.2,  -101.2)
+  Watch this
+2022-05-29T05:11:23Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -32.9,     3.2,  -104.9)
+  Chris, get away from the door.
+2022-05-29T05:11:24Z: CHRCTER ADDED  [ 2990677806] Thecheeseyboi17      ( -115.3,     3.4,  -225.9)
+2022-05-29T05:11:26Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -21.0,     3.6,    52.5)
+  it grew up 
+2022-05-29T05:11:26Z: PLAYER CHATTED [  132177857] adam5212d            (  -34.0,     3.2,  -112.5)
+  If i was able to do warning shots, i would have done 3 of them into the roof.
+2022-05-29T05:11:27Z: PLAYER REMOVED [ 2241568932] fazbear14536
+2022-05-29T05:11:28Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  Thank you.
+2022-05-29T05:11:28Z: PLAYER CHATTED [  616764614] packman7rules2       (   -1.3,     3.6,    57.3)
+  Everyone back in, we're shutting KV-31.
+2022-05-29T05:11:28Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -17.2,     3.6,    47.4)
+  let it in 
+2022-05-29T05:11:29Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -17.2,     3.6,    47.4)
+  no balls
+2022-05-29T05:11:32Z: PLAYER REMOVED [ 3018447068] haunamms
+2022-05-29T05:11:36Z: PLAYER ADDED   [ 1953458335] gael_4635
+2022-05-29T05:11:38Z: PLAYER CHATTED [  616764614] packman7rules2       (   -9.3,     3.6,    50.7)
+  In, all of you.
+2022-05-29T05:11:40Z: PLAYER ADDED   [ 2241568932] fazbear14536
+2022-05-29T05:11:42Z: CHRCTER ADDED  [  503148860] duckman6465          (  -23.5,     6.0,   544.4)
+2022-05-29T05:11:42Z: CHRCTER ADDED  [  503148860] duckman6465          (  212.4,    56.1,   223.8)
+2022-05-29T05:11:43Z: PLAYER REMOVED [ 1300949240] dhdjdhdhdjdhdh
+2022-05-29T05:11:44Z: PLAYER CHATTED [ 1993588074] Operative_Unit       (  -13.8,     3.6,    38.7)
+  sir its called the "death korps of ######
+2022-05-29T05:11:45Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -28.2,     3.3,     8.1)
+  Come with me.
+2022-05-29T05:11:45Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -26.3,     3.2,  -104.0)
+  Hippity hoppity your my property
+2022-05-29T05:11:46Z: PLAYER ADDED   [ 1514390346] kidvarga
+2022-05-29T05:11:47Z: CHRCTER ADDED  [  164726968] DIP3333              ( -551.9,     6.2,   739.0)
+2022-05-29T05:11:49Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -24.8,     3.3,   -16.5)
+  ok papi 
+2022-05-29T05:11:51Z: PLAYER CHATTED [  616764614] packman7rules2       (  -23.6,     3.6,    36.3)
+  It's becoming hazardous to remain in this place.
+2022-05-29T05:11:54Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.5,     3.3,   -89.3)
+  OUT.
+2022-05-29T05:11:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -11.8,     3.3,   -87.3)
+  Get out
+2022-05-29T05:11:57Z: PLAYER ADDED   [ 3046825802] Iminmywayguy546
+2022-05-29T05:11:59Z: CHRCTER ADDED  [  164726968] DIP3333              (   26.9,    58.2,  -182.0)
+2022-05-29T05:12:02Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -32.9,     3.2,  -113.0)
+  He's just censored
+2022-05-29T05:12:02Z: PLAYER ADDED   [ 3466182514] fgfydgfdf228
+2022-05-29T05:12:08Z: PLAYER ADDED   [ 2867910142] Giavanni49312
+2022-05-29T05:12:09Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -24.4,     3.3,   -88.4)
+  jit said
+2022-05-29T05:12:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -13.0,     3.3,   -86.3)
+  This is your only warning. Exit the room.
+2022-05-29T05:12:10Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -24.4,     3.3,   -88.4)
+  trool 
+2022-05-29T05:12:11Z: PLAYER CHATTED [  616764614] packman7rules2       (  -26.8,     3.4,    12.0)
+  I advise you enter, I'm shutting the gateway
+2022-05-29T05:12:14Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -10.2,     3.5,   -84.9)
+  Five seconds.
+2022-05-29T05:12:16Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -11.5,     3.3,   -86.2)
+  Four.
+2022-05-29T05:12:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -11.5,     3.3,   -86.2)
+  Three.
+2022-05-29T05:12:18Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -32.2,     3.3,   -89.1)
+  can someone open door 
+2022-05-29T05:12:18Z: PLAYER ADDED   [ 2533289808] scpgrty
+2022-05-29T05:12:19Z: CHRCTER ADDED  [  164726968] DIP3333              (  -22.9,     6.0,   544.8)
+2022-05-29T05:12:19Z: CHRCTER ADDED  [  164726968] DIP3333              (  325.0,     6.0,   766.4)
+2022-05-29T05:12:19Z: CHRCTER ADDED  [  164726968] DIP3333              (  516.4,     5.7,   485.5)
+2022-05-29T05:12:19Z: CHRCTER ADDED  [  164726968] DIP3333              ( -549.0,     6.2,   737.4)
+2022-05-29T05:12:20Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -32.2,     3.3,   -89.1)
+  I need in 
+2022-05-29T05:12:21Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -11.5,     3.3,   -87.0)
+  Two.
+2022-05-29T05:12:21Z: PLAYER ADDED   [ 3525336325] pizza72221
+2022-05-29T05:12:22Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -116.4)
+  hi
+2022-05-29T05:12:24Z: PLAYER ADDED   [ 3377613216] BaconBest_93
+2022-05-29T05:12:25Z: PLAYER REMOVED [ 3046825802] Iminmywayguy546
+2022-05-29T05:12:26Z: PLAYER REMOVED [  503148860] duckman6465
+2022-05-29T05:12:27Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:12:29Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.4,     3.3,   -89.9)
+  ## #######
+2022-05-29T05:12:34Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -32.9,     3.2,  -113.0)
+  You're not my brother
+2022-05-29T05:12:34Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (   26.8,     3.7,    27.8)
+  HEY
+2022-05-29T05:12:36Z: CHRCTER ADDED  [ 3466182514] fgfydgfdf228         (  211.1,    56.1,   225.4)
+2022-05-29T05:12:36Z: CHRCTER ADDED  [ 3466182514] fgfydgfdf228         (  316.6,     6.0,   772.2)
+2022-05-29T05:12:37Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -34.4,     3.2,  -105.5)
+  What's up fellow white people 
+2022-05-29T05:12:38Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.9,     3.2,  -111.3)
+  is it hard to do the tryouts sir????????
+2022-05-29T05:12:40Z: PLAYER ADDED   [ 3082693675] ghj123456f
+2022-05-29T05:12:41Z: PLAYER REMOVED [ 2507204154] ezra201019
+2022-05-29T05:12:44Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (   27.2,     3.7,    28.3)
+  HEY
+2022-05-29T05:12:48Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.6,     3.2,  -101.2)
+  That's up to personal opinion.
+2022-05-29T05:12:48Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (   28.6,     3.7,    27.6)
+  OVER HERE
+2022-05-29T05:12:52Z: CHRCTER ADDED  [ 2241568932] fazbear14536         (  -25.4,     6.0,   541.4)
+2022-05-29T05:12:56Z: PLAYER REMOVED [ 1514390346] kidvarga
+2022-05-29T05:13:02Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.9,     3.2,  -111.3)
+  is it like the other military group tryouts
+2022-05-29T05:13:03Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.8,     3.2,  -106.7)
+  That was fun
+2022-05-29T05:13:07Z: PLAYER REMOVED [ 2867910142] Giavanni49312
+2022-05-29T05:13:08Z: PLAYER CHATTED [  616764614] packman7rules2       (  -31.5,    20.6,   -53.6)
+  We can't do much else, the dev trolling cannot be stopped.
+2022-05-29T05:13:10Z: PLAYER REMOVED [ 1953458335] gael_4635
+2022-05-29T05:13:11Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.8,     3.2,  -106.7)
+  You #### ## ## ## ####
+2022-05-29T05:13:12Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -19.7,     3.2,  -112.7)
+  where are the tryouts
+2022-05-29T05:13:16Z: PLAYER CHATTED [  132177857] adam5212d            (  -30.5,     3.2,  -100.3)
+  In my opinion, surviving being in the backrooms while in a
+2022-05-29T05:13:18Z: PLAYER ADDED   [ 1514390346] kidvarga
+2022-05-29T05:13:18Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.4,     3.2,  -100.5)
+  tryout
+2022-05-29T05:13:21Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.4,     3.2,  -100.5)
+  slowly becomes harder
+2022-05-29T05:13:25Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.4,     3.2,  -100.5)
+  as you attempt to survive
+2022-05-29T05:13:26Z: PLAYER CHATTED [  616764614] packman7rules2       (  -25.1,    22.8,   -41.9)
+  So just keep an eye on that door for anything clipping through is my advice
+2022-05-29T05:13:26Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.3,     3.2,  -107.8)
+  ok let me in the backrooms
+2022-05-29T05:13:27Z: PLAYER REMOVED [ 2241568932] fazbear14536
+2022-05-29T05:13:28Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.4,     3.2,  -100.5)
+  much entities
+2022-05-29T05:13:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -100.9)
+  The tryouts are stated in the dizzy.
+2022-05-29T05:13:31Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -37.1,    20.6,   -52.8)
+  hes my friend. and i messaged him

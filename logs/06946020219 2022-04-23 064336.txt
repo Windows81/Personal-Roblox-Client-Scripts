@@ -1,0 +1,254 @@
+[    1630228] : [ 6946020219] [EGG HUNT]Comedy World RP Fixed - f5ea4272-7e31-4709-859d-e5c23d9177b8
+2022-04-23T06:43:36Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-23T06:43:37Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 2810983728] lautaroromina24
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 2475522808] Sssonictheheadchoggg
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 2026402423] ANelson1213
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1381851201] PlayLandy2020
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1224592153] pastel_girlun1corn
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1436413881] JOECOOL5314
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 3224698025] logan2022p
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 3310695815] mermaidlover010416
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1675184414] jacksonnoah46
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1225258477] reporeto
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 2404001159] 21chep
+2022-04-23T06:43:37Z: PLAYER ADDED   [  288262317] andrewmypal
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 3354156493] Fayyadh1012wal
+2022-04-23T06:43:37Z: PLAYER ADDED   [ 1819767439] sunflowersareawsom1
+2022-04-23T06:43:41Z: PLAYER CHATTED [ 2404001159] 21chep               ( 1478.8,     4.0, -1896.0)
+  :(
+2022-04-23T06:43:41Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -861.4,    36.5,   561.7)
+  beep!
+2022-04-23T06:43:45Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -871.3,    36.5,   554.3)
+  I can be gitch
+2022-04-23T06:43:46Z: PLAYER CHATTED [ 2404001159] 21chep               ( 1478.8,     4.0, -1896.0)
+  beep:(
+2022-04-23T06:43:48Z: PLAYER REMOVED [ 1436413881] JOECOOL5314
+2022-04-23T06:43:52Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -861.4,    36.5,   555.9)
+  NOOOOOO ##
+2022-04-23T06:43:56Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -866.5,    36.5,   558.1)
+  don't help him
+2022-04-23T06:44:00Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -845.0,    40.4,   552.8)
+2022-04-23T06:44:01Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -865.1,    36.5,   555.6)
+  I'm unstoppable 
+2022-04-23T06:44:02Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -864.2,    36.5,   562.9)
+  lol
+2022-04-23T06:44:04Z: PLAYER CHATTED [ 1819767439] sunflowersareawsom1  ( -867.7,    36.9,   544.6)
+  what's going on
+2022-04-23T06:44:04Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -859.8,    41.4,   563.0)
+2022-04-23T06:44:07Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -845.0,    40.5,   552.8)
+2022-04-23T06:44:08Z: CHRCTER ADDED  [ 2404001159] 21chep               ( -346.0,    81.4,   699.9)
+2022-04-23T06:44:09Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -845.0,    40.5,   552.8)
+2022-04-23T06:44:11Z: PLAYER REMOVED [ 1225258477] reporeto
+2022-04-23T06:44:16Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -855.2,    36.5,   558.9)
+  uh oh
+2022-04-23T06:44:16Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -857.6,    36.5,   565.7)
+  yeah dbjehuwha
+2022-04-23T06:44:18Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -865.2,    36.5,   561.5)
+  finally that je ## is gone
+2022-04-23T06:44:21Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -863.0,    36.5,   561.0)
+  ####
+2022-04-23T06:44:32Z: PLAYER REMOVED [ 2026402423] ANelson1213
+2022-04-23T06:44:32Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -880.5,    39.7,   558.8)
+  run bun bun
+2022-04-23T06:44:35Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -839.7,    36.5,   548.3)
+  Wait Stop
+2022-04-23T06:44:37Z: PLAYER CHATTED [ 3354156493] Fayyadh1012wal       ( -858.6,    36.5,   560.6)
+  I glitch duck computer
+2022-04-23T06:44:38Z: PLAYER CHATTED [ 1819767439] sunflowersareawsom1  ( -871.6,    36.9,   541.2)
+  is ti behavior card day 
+2022-04-23T06:44:43Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -853.2,    41.4,   558.5)
+2022-04-23T06:44:47Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -849.0,    36.5,   553.7)
+  don't do this to us
+2022-04-23T06:44:48Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -853.0,    41.4,   556.4)
+2022-04-23T06:44:57Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -847.9,    41.4,   556.0)
+2022-04-23T06:44:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -876.5,    37.2,   548.3)
+  It's always behaviour card day.
+2022-04-23T06:45:01Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -856.6,    36.5,   552.9)
+  NOOOOO BUN BUN
+2022-04-23T06:45:01Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -865.6,    36.5,   567.4)
+  ?
+2022-04-23T06:45:05Z: PLAYER CHATTED [ 1819767439] sunflowersareawsom1  ( -871.6,    36.9,   541.2)
+  oh
+2022-04-23T06:45:06Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -855.6,    36.5,   549.7)
+  run
+2022-04-23T06:45:06Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -865.6,    36.5,   567.4)
+  uh hello?
+2022-04-23T06:45:06Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -846.6,    41.4,   551.2)
+2022-04-23T06:45:08Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -863.9,    36.5,   559.7)
+  inplants 
+2022-04-23T06:45:10Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -861.9,    36.5,   567.4)
+  hi
+2022-04-23T06:45:20Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -861.9,    36.5,   567.4)
+  *screech*
+2022-04-23T06:45:20Z: PLAYER REMOVED [ 1819767439] sunflowersareawsom1
+2022-04-23T06:45:29Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -862.9,    36.5,   561.0)
+  step "728£(: glitch the pibby
+2022-04-23T06:45:37Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -858.3,    36.5,   560.1)
+  I'm going jail 
+2022-04-23T06:45:38Z: CHRCTER ADDED  [  288262317] andrewmypal          ( 1408.8,     5.0, -1922.5)
+2022-04-23T06:45:38Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -852.7,    36.5,   561.5)
+  Feed Me Pibby
+2022-04-23T06:45:45Z: CHRCTER ADDED  [ 2404001159] 21chep               ( 1412.6,     8.0, -1930.9)
+2022-04-23T06:45:46Z: CHRCTER ADDED  [  288262317] andrewmypal          ( 1408.8,     5.0, -1922.5)
+2022-04-23T06:45:46Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -857.8,    36.5,   558.6)
+  for this
+2022-04-23T06:45:50Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -861.0,    36.5,   558.3)
+  mio ooo
+2022-04-23T06:45:53Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -834.5,    36.5,   544.2)
+  nucky
+2022-04-23T06:45:53Z: CHRCTER ADDED  [ 2404001159] 21chep               ( 1412.6,     8.0, -1930.9)
+2022-04-23T06:45:56Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -856.2,    41.4,   554.6)
+2022-04-23T06:46:00Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -861.4,    36.5,   558.0)
+  *falls*
+2022-04-23T06:46:01Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -856.3,    36.5,   562.2)
+  *pee*
+2022-04-23T06:46:03Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -861.2,    36.5,   562.6)
+  I #### ##### with mop
+2022-04-23T06:46:05Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -857.6,    36.5,   554.5)
+  ow
+2022-04-23T06:46:07Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -855.0,    36.5,   560.4)
+  EW WHAT THE HELL
+2022-04-23T06:46:09Z: PLAYER CHATTED [ 2404001159] 21chep               ( 1412.5,     4.1, -1925.9)
+  invisible
+2022-04-23T06:46:11Z: PLAYER REMOVED [ 3310695815] mermaidlover010416
+2022-04-23T06:46:15Z: CHRCTER ADDED  [ 2404001159] 21chep               ( 1421.8,     8.0, -1922.0)
+2022-04-23T06:46:18Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -857.2,    36.5,   560.5)
+  *shock*
+2022-04-23T06:46:19Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -860.3,    41.4,   559.4)
+2022-04-23T06:46:20Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -847.9,    36.5,   551.7)
+  grabs pibby to my home
+2022-04-23T06:46:20Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -863.7,    36.5,   556.0)
+  smokes 
+2022-04-23T06:46:25Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -853.1,    36.5,   557.9)
+  WE HAVE TOILETS FOR A REASON USE THEM
+2022-04-23T06:46:30Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -862.6,    41.4,   560.6)
+2022-04-23T06:46:34Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -856.4,    36.5,   547.4)
+  *shoots*
+2022-04-23T06:46:35Z: CHRCTER ADDED  [ 2810983728] lautaroromina24      ( -855.8,    41.4,   551.4)
+2022-04-23T06:46:36Z: CHRCTER ADDED  [  288262317] andrewmypal          ( 1408.8,     8.9, -1922.5)
+2022-04-23T06:46:36Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -857.5,    40.4,   556.3)
+2022-04-23T06:46:42Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -859.2,    41.4,   557.7)
+2022-04-23T06:46:43Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -879.0,    36.5,   561.1)
+  miss
+2022-04-23T06:46:44Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -864.5,    36.5,   555.6)
+  Smokes 
+2022-04-23T06:46:46Z: PLAYER ADDED   [  351777581] riffknox
+2022-04-23T06:46:48Z: CHRCTER ADDED  [  351777581] riffknox             ( 1409.4,     7.1, -1922.6)
+2022-04-23T06:46:49Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -864.7,    36.5,   567.3)
+  hahahaha
+2022-04-23T06:46:56Z: PLAYER ADDED   [ 3441219830] petttrrr89
+2022-04-23T06:46:56Z: PLAYER CHATTED [ 3354156493] Fayyadh1012wal       ( -858.4,    36.5,   561.2)
+  star wars me
+2022-04-23T06:46:57Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -864.7,    41.4,   567.3)
+2022-04-23T06:46:58Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -858.7,    36.5,   555.5)
+  AAAAAAA
+2022-04-23T06:46:58Z: CHRCTER ADDED  [ 3441219830] petttrrr89           ( 1409.4,    13.1, -1922.6)
+2022-04-23T06:47:00Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -847.7,    36.5,   549.8)
+  *shoots*
+2022-04-23T06:47:03Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -863.2,    41.4,   568.0)
+2022-04-23T06:47:09Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -861.7,    36.5,   566.1)
+  I am clone
+2022-04-23T06:47:12Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -857.8,    36.5,   552.5)
+  pibby come
+2022-04-23T06:47:13Z: CHRCTER ADDED  [ 2404001159] 21chep               ( 1421.8,     8.0, -1922.0)
+2022-04-23T06:47:14Z: PLAYER CHATTED [  288262317] andrewmypal          ( -833.4,    36.5,   544.9)
+  XD
+2022-04-23T06:47:18Z: PLAYER CHATTED [  288262317] andrewmypal          ( -847.7,    36.5,   561.3)
+  #######
+2022-04-23T06:47:19Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -862.1,    36.5,   559.5)
+  ############ YOURSELF
+2022-04-23T06:47:21Z: PLAYER CHATTED [  288262317] andrewmypal          ( -847.0,    36.5,   561.3)
+  AM
+2022-04-23T06:47:22Z: PLAYER CHATTED [  288262317] andrewmypal          ( -847.0,    36.5,   561.3)
+  CUTE
+2022-04-23T06:47:28Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -852.2,    36.5,   550.1)
+  AAAAAAAA
+2022-04-23T06:47:29Z: PLAYER CHATTED [  288262317] andrewmypal          ( -845.8,    36.5,   558.8)
+  DOES PUPPY EYES
+2022-04-23T06:47:29Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -857.9,    41.4,   551.8)
+2022-04-23T06:47:30Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -851.5,    40.4,   558.1)
+2022-04-23T06:47:33Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -854.5,    41.4,   552.5)
+2022-04-23T06:47:34Z: PLAYER CHATTED [  288262317] andrewmypal          ( -845.8,    36.5,   558.8)
+  meow
+2022-04-23T06:47:34Z: CHRCTER ADDED  [  351777581] riffknox             ( 1408.3,     8.3, -1922.6)
+2022-04-23T06:47:35Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -850.7,    36.5,   568.8)
+  *screech like fox*
+2022-04-23T06:47:39Z: PLAYER CHATTED [ 3354156493] Fayyadh1012wal       ( -848.6,    36.5,   553.9)
+  janba
+2022-04-23T06:47:40Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -848.6,    36.5,   559.1)
+  grabs baseball bat 
+2022-04-23T06:47:42Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -834.6,    41.4,   512.8)
+2022-04-23T06:47:45Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -858.1,    36.5,   566.5)
+  BRO LEAVE ME ALONE
+2022-04-23T06:47:47Z: PLAYER CHATTED [ 3354156493] Fayyadh1012wal       ( -848.6,    36.5,   553.9)
+  jabba
+2022-04-23T06:47:51Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -836.2,    36.5,   534.8)
+  ajajaj Jsijsijoqzjksoswudhkahskhdekhdw
+2022-04-23T06:47:53Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -841.0,    36.5,   551.2)
+  why you
+2022-04-23T06:47:53Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -845.5,    36.5,   548.5)
+  garfield
+2022-04-23T06:47:57Z: CHRCTER ADDED  [ 2810983728] lautaroromina24      ( -875.9,    41.4,   545.1)
+2022-04-23T06:48:05Z: PLAYER CHATTED [  351777581] riffknox             ( -844.5,    36.5,   551.3)
+  It’s the funny green man from Star Wars 
+2022-04-23T06:48:06Z: CHRCTER ADDED  [ 3354156493] Fayyadh1012wal       ( -841.5,    40.4,   544.8)
+2022-04-23T06:48:09Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -844.6,    36.5,   544.6)
+  ew
+2022-04-23T06:48:09Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -849.9,    36.5,   557.7)
+  i should hit him with baseball 
+2022-04-23T06:48:13Z: PLAYER CHATTED [  288262317] andrewmypal          ( -849.5,    36.5,   565.4)
+  PUTS HIM IN ######
+2022-04-23T06:48:15Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -846.8,    36.5,   560.6)
+  do I have to put you outside
+2022-04-23T06:48:19Z: PLAYER CHATTED [  288262317] andrewmypal          ( -844.5,    36.5,   556.1)
+  MAILS HIM
+2022-04-23T06:48:20Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -841.5,    41.4,   548.3)
+2022-04-23T06:48:20Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -858.0,    36.5,   570.4)
+  *bites*
+2022-04-23T06:48:22Z: CHRCTER ADDED  [ 2810983728] lautaroromina24      ( -868.1,    44.2,   537.4)
+2022-04-23T06:48:23Z: PLAYER CHATTED [  288262317] andrewmypal          ( -841.2,    36.5,   549.5)
+  8I9 HATE U
+2022-04-23T06:48:27Z: CHRCTER ADDED  [ 3224698025] logan2022p           ( -840.0,    41.4,   545.2)
+2022-04-23T06:48:29Z: PLAYER CHATTED [  288262317] andrewmypal          ( -832.3,    36.5,   544.6)
+  LEAVES
+2022-04-23T06:48:39Z: CHRCTER ADDED  [ 2404001159] 21chep               ( -180.3,   141.0,   459.9)
+2022-04-23T06:48:42Z: CHRCTER ADDED  [  288262317] andrewmypal          ( 1409.4,     4.2, -1922.6)
+2022-04-23T06:48:42Z: PLAYER ADDED   [ 3170165029] richbaconboypro2011
+2022-04-23T06:48:43Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -861.5,    36.5,   562.0)
+  *kicks*
+2022-04-23T06:48:45Z: CHRCTER ADDED  [ 3170165029] richbaconboypro2011  ( 1409.4,     7.5, -1922.6)
+2022-04-23T06:48:47Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -860.1,    36.5,   556.0)
+  *bites*
+2022-04-23T06:48:49Z: PLAYER CHATTED [ 1675184414] jacksonnoah46        ( -837.8,    36.5,   543.2)
+  pees 
+2022-04-23T06:48:50Z: PLAYER CHATTED [ 2810983728] lautaroromina24      ( -848.2,    36.5,   548.8)
+  *transform in #########
+2022-04-23T06:48:56Z: CHRCTER ADDED  [  351777581] riffknox             ( -838.7,    36.5,   551.2)
+2022-04-23T06:48:57Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -862.8,    41.5,   553.9)
+  *dodges*
+2022-04-23T06:49:00Z: CHRCTER ADDED  [ 2475522808] Sssonictheheadchoggg ( -849.1,    42.4,   552.7)
+2022-04-23T06:49:06Z: PLAYER CHATTED [ 3224698025] logan2022p           ( -843.0,    36.5,   544.2)
+  *bleeding glitch*
+2022-04-23T06:49:08Z: PLAYER CHATTED [ 1224592153] pastel_girlun1corn   ( -839.2,    36.5,   555.6)
+  lol
+2022-04-23T06:49:11Z: PLAYER CHATTED [  351777581] riffknox             ( -836.4,    36.5,   548.3)
+  I can’t be the man known as jon from the hit show garfield
+2022-04-23T06:49:11Z: PLAYER CHATTED [ 2475522808] Sssonictheheadchoggg ( -848.6,    36.5,   552.9)
+  shoot
+2022-04-23T06:49:15Z: PLAYER CHATTED [ 1381851201] PlayLandy2020        ( -842.8,    36.5,   558.7)
+  *dodges off*
+2022-04-23T06:49:15Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 2810983728] lautaroromina24
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 2475522808] Sssonictheheadchoggg
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 1381851201] PlayLandy2020
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 1224592153] pastel_girlun1corn
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 3224698025] logan2022p
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 1675184414] jacksonnoah46
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 2404001159] 21chep
+2022-04-23T06:49:15Z: PLAYER REMOVED [  288262317] andrewmypal
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 3354156493] Fayyadh1012wal
+2022-04-23T06:49:15Z: PLAYER REMOVED [  351777581] riffknox
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 3441219830] petttrrr89
+2022-04-23T06:49:15Z: PLAYER REMOVED [ 3170165029] richbaconboypro2011
+2022-04-23T06:49:15Z: CHAT STREAM SUCCESSFULLY ENDED

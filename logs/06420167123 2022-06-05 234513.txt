@@ -1,0 +1,81 @@
+[    1630228] : [ 6420167123]  Numberblocks Creation Place - 34c3c9af-01de-4da3-bc2e-6605864b4037
+2022-06-05T23:45:13Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-05T23:45:14Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-05T23:45:14Z: PLAYER ADDED   [ 2660200121] BaconChillPill2
+2022-06-05T23:45:14Z: PLAYER ADDED   [  461038942] Unikornmug
+2022-06-05T23:45:14Z: PLAYER ADDED   [ 1902624072] ShortyTOC
+2022-06-05T23:45:20Z: PLAYER ADDED   [ 2328170774] Zmanzmana
+2022-06-05T23:45:26Z: PLAYER CHATTED [  461038942] Unikornmug           (   33.1,    73.9,    13.9)
+  the world is logoland 
+2022-06-05T23:45:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.3,    73.9,   -15.7)
+  Let's become our OWN numberblocks!
+2022-06-05T23:45:45Z: PLAYER REMOVED [ 2328170774] Zmanzmana
+2022-06-05T23:45:48Z: PLAYER CHATTED [  461038942] Unikornmug           (  -49.3,    73.9,   -48.8)
+  ok
+2022-06-05T23:45:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.6,    73.9,   -14.3)
+  I'll be 3.1415926535897!
+2022-06-05T23:45:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.1,    73.9,     6.5)
+  And I'll be 3.14159!
+2022-06-05T23:46:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.2,    73.9,    50.3)
+  And you be 10.
+2022-06-05T23:46:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.3,    73.9,    48.1)
+  Unikorn can be 14.
+2022-06-05T23:46:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -6.4,    73.9,    16.5)
+  Bryson can be 2.71.
+2022-06-05T23:46:55Z: PLAYER ADDED   [ 1702560063] piggy_kitty0
+2022-06-05T23:47:29Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      (  -65.6,    73.9,   142.8)
+  ;re
+2022-06-05T23:47:29Z: CHRCTER ADDED  [ 2660200121] BaconChillPill2      (  -65.6,    73.9,   142.8)
+2022-06-05T23:47:30Z: PLAYER CHATTED [ 1702560063] piggy_kitty0         (  -25.1,    73.9,   108.8)
+  ;m someone insert morphs
+2022-06-05T23:47:30Z: PLAYER REMOVED [ 1902624072] ShortyTOC
+2022-06-05T23:47:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -57.2,    82.4,   117.4)
+  WHO WANTS TO BE 19.8?
+2022-06-05T23:47:36Z: PLAYER CHATTED [ 1702560063] piggy_kitty0         (  -23.4,    73.9,   111.0)
+  ;btools
+2022-06-05T23:47:36Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      ( -125.1,    76.8,   140.8)
+  ;btools
+2022-06-05T23:47:41Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      ( -125.1,    76.8,   140.8)
+  ballpit
+2022-06-05T23:48:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -32.6,    73.9,    81.1)
+  ;re
+2022-06-05T23:49:12Z: PLAYER CHATTED [ 1702560063] piggy_kitty0         (    8.0,    73.9,    19.4)
+  ;undisco
+2022-06-05T23:49:44Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      (   43.1,   171.9,   132.3)
+  what
+2022-06-05T23:49:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:49:47Z: CHRCTER ADDED  [ 1702560063] piggy_kitty0         (    0.0,   103.0,     0.0)
+2022-06-05T23:49:48Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:49:53Z: PLAYER REMOVED [ 1702560063] piggy_kitty0
+2022-06-05T23:49:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:49:56Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:01Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:03Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:11Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:19Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:27Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:35Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:43Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:50:47Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-06-05T23:50:51Z: CHRCTER ADDED  [  461038942] Unikornmug           (    0.0,   103.0,     0.0)
+2022-06-05T23:52:30Z: PLAYER ADDED   [ 1826212633] yellowsir6
+2022-06-05T23:52:35Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      (   92.0,    18.2,  -146.9)
+  /e ;kill all
+2022-06-05T23:52:40Z: CHRCTER ADDED  [ 2660200121] BaconChillPill2      (   73.9,   -37.6,   -95.5)
+2022-06-05T23:52:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   74.0,   -37.6,  -111.9)
+2022-06-05T23:52:40Z: CHRCTER ADDED  [  461038942] Unikornmug           (   70.0,   -37.6,  -101.2)
+2022-06-05T23:52:40Z: CHRCTER ADDED  [ 1826212633] yellowsir6           (   77.4,   -37.6,  -102.5)
+2022-06-05T23:52:50Z: PLAYER CHATTED [ 1826212633] yellowsir6           (  120.0,   -39.4,  -112.9)
+  :btools
+2022-06-05T23:52:56Z: PLAYER REMOVED [ 1826212633] yellowsir6
+2022-06-05T23:53:00Z: PLAYER CHATTED [ 2660200121] BaconChillPill2      (   84.3,   -31.2,   -92.4)
+  /e ;smg welcome to weegee planet
+2022-06-05T23:53:16Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-05T23:53:16Z: PLAYER REMOVED [ 2660200121] BaconChillPill2
+2022-06-05T23:53:16Z: PLAYER REMOVED [  461038942] Unikornmug
+2022-06-05T23:53:16Z: CHAT STREAM SUCCESSFULLY ENDED

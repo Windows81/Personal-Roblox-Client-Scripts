@@ -1,0 +1,602 @@
+[    1630228] : [ 9216594523] PX: Dev - 10d7b4a2-8fa9-4be9-86a1-30d15f73e56c
+2022-06-18T09:16:05Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-18T09:16:05Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-18T09:16:05Z: PLAYER ADDED   [ 1137136239] OOPS_Imwrong
+2022-06-18T09:16:05Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-18T09:16:05Z: PLAYER ADDED   [   25525981] Widgeon
+2022-06-18T09:16:05Z: PLAYER ADDED   [  119594716] xh123456789
+2022-06-18T09:16:05Z: PLAYER ADDED   [ 3624152071] huperor208bruh22
+2022-06-18T09:16:05Z: PLAYER ADDED   [ 2376204984] zoro123258
+2022-06-18T09:16:06Z: PLAYER ADDED   [ 2404086408] liquidboy102
+2022-06-18T09:16:06Z: PLAYER ADDED   [  507217490] Retifiy
+2022-06-18T09:16:17Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -104.5,   603.3, -2711.1)
+  Wid hru?
+2022-06-18T09:16:22Z: PLAYER CHATTED [   25525981] Widgeon              (  826.0,    76.2,  2111.1)
+  good
+2022-06-18T09:16:24Z: CHRCTER ADDED  [ 2376204984] zoro123258           ( -321.1,    45.0, -1745.9)
+2022-06-18T09:16:27Z: PLAYER CHATTED [  119594716] xh123456789          (  504.7,    11.3,  1706.2)
+  wait will the monorails be AI ones like in plaza 1 or require drivers
+2022-06-18T09:16:34Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -107.9,   603.3, -2712.0)
+  Long time no talk :D i see you’ve implemented the elvators
+2022-06-18T09:16:35Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -167.5,    40.5, -2000.5)
+  I've seen him before!
+2022-06-18T09:16:43Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -184.8,    39.8, -1968.9)
+  Ofcourse you did
+2022-06-18T09:16:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -186.4,    40.5, -1971.3)
+  On TeamSpeak.
+2022-06-18T09:16:50Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -107.0,   603.3, -2710.6)
+  They elevators are still kinda buggy tho
+2022-06-18T09:16:52Z: CHRCTER ADDED  [  507217490] Retifiy              ( -321.1,    45.0, -1745.9)
+2022-06-18T09:16:55Z: CHRCTER ADDED  [ 2404086408] liquidboy102         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:17:04Z: PLAYER CHATTED [   25525981] Widgeon              (  962.9,    81.4,  2229.9)
+  ye
+2022-06-18T09:17:07Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -187.8,    41.9, -1964.7)
+  hi
+2022-06-18T09:17:08Z: PLAYER CHATTED [  119594716] xh123456789          (  889.4,    95.4,  2149.5)
+  yes
+2022-06-18T09:17:10Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -187.0,    40.5, -1972.2)
+  Hi.
+2022-06-18T09:17:11Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -107.7,   603.1, -2706.9)
+  Yeah, im glitched rn lol
+2022-06-18T09:17:18Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -188.8,    41.0, -1975.5)
+  hot ar you
+2022-06-18T09:17:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -187.2,    40.5, -1972.2)
+  I'm tall.
+2022-06-18T09:17:27Z: PLAYER ADDED   [  149277395] cleverclogsin
+2022-06-18T09:17:27Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -188.8,    41.0, -1975.5)
+  #######
+2022-06-18T09:17:30Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -185.5,    39.8, -1974.3)
+  ooooo
+2022-06-18T09:17:31Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -188.8,    41.0, -1975.5)
+  nono no no no
+2022-06-18T09:17:39Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -188.8,    41.0, -1975.5)
+  i say
+2022-06-18T09:17:40Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -104.4,   603.2, -2708.9)
+  @wid why dont u install a freezing system so you cant move until the elevator stops?
+2022-06-18T09:17:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -187.4,    40.5, -1971.9)
+  I'm just as fine as I'm tall.
+2022-06-18T09:17:46Z: CHRCTER ADDED  [ 3624152071] huperor208bruh22     (  -53.9,    43.5, -2320.4)
+2022-06-18T09:17:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -188.0,    40.5, -1972.7)
+  So you must be doing fantasticly.
+2022-06-18T09:17:52Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -188.8,    41.0, -1975.5)
+  how ### you
+2022-06-18T09:17:55Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -171.6,    41.8, -1970.2)
+  Get in
+2022-06-18T09:17:59Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -147.8,    41.6, -1978.5)
+  nows not the time
+2022-06-18T09:17:59Z: CHRCTER ADDED  [ 1137136239] OOPS_Imwrong         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:18:02Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -151.6,    40.5, -1981.9)
+  hoy
+2022-06-18T09:18:02Z: PLAYER CHATTED [  119594716] xh123456789          ( 1048.1,    53.0,  2247.6)
+  Widgeon
+2022-06-18T09:18:02Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -145.5,    39.8, -2329.8)
+  OMG WIDGEON
+2022-06-18T09:18:03Z: PLAYER CHATTED [  507217490] Retifiy              (  290.9,   191.5,  -841.4)
+  this is new
+2022-06-18T09:18:08Z: PLAYER CHATTED [ 2404086408] liquidboy102         (  282.4,   180.3,  -867.4)
+  yes
+2022-06-18T09:18:10Z: PLAYER CHATTED [  119594716] xh123456789          ( 1048.1,    53.8,  2247.2)
+  will the monorails be driven or AI?
+2022-06-18T09:18:22Z: CHRCTER ADDED  [ 2376204984] zoro123258           ( -321.1,    45.0, -1745.9)
+2022-06-18T09:18:30Z: PLAYER CHATTED [   25525981] Widgeon              ( 1171.1,    19.5,  2081.7)
+  AI
+2022-06-18T09:18:36Z: PLAYER CHATTED [  119594716] xh123456789          ( 1167.1,    29.4,  2024.0)
+  ok like plaza 1
+2022-06-18T09:18:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -166.6,    43.4, -2666.7)
+  Widgeon:
+2022-06-18T09:18:44Z: PLAYER CHATTED [  507217490] Retifiy              (  350.9,   178.4,  -891.2)
+  alright gonna make a new home here
+2022-06-18T09:18:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -166.7,    43.4, -2666.6)
+  I play Roblox in Spanish,
+2022-06-18T09:18:53Z: PLAYER CHATTED [   25525981] Widgeon              ( 1867.0,    11.5,  1200.7)
+  nice
+2022-06-18T09:18:56Z: PLAYER CHATTED [  149277395] cleverclogsin        (  -82.6,    42.1, -2687.7)
+  IVE ALWAYS WANTED TO MEET WIDGEON SINCE PLAZA 1 RELEASED
+2022-06-18T09:18:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -166.7,    43.4, -2666.6)
+  And I notice that the Driver and Passenger dialogues appear twice.
+2022-06-18T09:19:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -173.5,    43.4, -2673.5)
+  But they're translated correctly.
+2022-06-18T09:19:06Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -105.8,   435.4, -2711.0)
+  Wod, why dont uninstall a floor freeze to the elevators so while the elevator moves, you cant
+2022-06-18T09:19:11Z: PLAYER CHATTED [   25525981] Widgeon              ( 1859.5,    11.5,  -261.5)
+  interesting lol
+2022-06-18T09:19:12Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -102.8,   435.3, -2695.3)
+  Wid*
+2022-06-18T09:19:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -174.8,    40.9, -2676.3)
+  One in blue/black and the other in black/white.
+2022-06-18T09:19:27Z: PLAYER CHATTED [  119594716] xh123456789          ( 1862.9,    11.2,  -632.7)
+  after the first few times of meeting widgeon it gets normal
+2022-06-18T09:19:32Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1876.7,    12.4, -1877.6)
+  the vehicles are laggy
+2022-06-18T09:19:38Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1892.6,    12.0, -1878.0)
+  gosh
+2022-06-18T09:19:41Z: PLAYER CHATTED [   25525981] Widgeon              ( 1979.2,    11.9, -1885.0)
+  rlly?
+2022-06-18T09:19:41Z: PLAYER CHATTED [  149277395] cleverclogsin        (  -93.7,   185.1, -2710.9)
+  /w Widgeon  Are you the creator of Plaza 1?
+2022-06-18T09:19:48Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.4,    36.1, -1255.8)
+  #### it affect the elevators
+2022-06-18T09:19:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -142.4,    44.4, -2561.6)
+  Do they display different text in the original localisation?
+2022-06-18T09:20:00Z: PLAYER CHATTED [   25525981] Widgeon              ( 1980.6,    11.5, -2044.2)
+  you have fps lag?
+2022-06-18T09:20:02Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.5,    36.1, -1255.8)
+  #### moving effect the elevators speed or somethin
+2022-06-18T09:20:04Z: PLAYER CHATTED [   25525981] Widgeon              ( 1980.6,    11.5, -2044.2)
+  only in vehicle?
+2022-06-18T09:20:04Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 2001.6,    11.8, -1879.8)
+  yeah
+2022-06-18T09:20:09Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 2016.3,    11.7, -1878.8)
+  yep
+2022-06-18T09:20:10Z: PLAYER CHATTED [  119594716] xh123456789          ( 2016.7,    12.3, -2034.7)
+  playing on a potato?
+2022-06-18T09:20:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -108.9,    40.1, -2514.4)
+  I haven't tested anything else.
+2022-06-18T09:20:14Z: PLAYER CHATTED [   25525981] Widgeon              ( 2004.2,     7.9, -1955.1)
+  do you have old comp
+2022-06-18T09:20:14Z: PLAYER CHATTED [  149277395] cleverclogsin        (  -93.5,    42.2, -2701.0)
+  How is the creator like-
+2022-06-18T09:20:15Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.5,    36.1, -1255.8)
+  oh noes
+2022-06-18T09:20:22Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.5,    36.1, -1255.8)
+  i flipped my car'
+2022-06-18T09:20:30Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 2034.2,    14.3, -1761.6)
+  yeah probably
+2022-06-18T09:20:40Z: PLAYER CHATTED [  149277395] cleverclogsin        (  350.3,    43.6, -2548.2)
+  after 8 years i have finally seen him
+2022-06-18T09:20:45Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  -15.3,    40.2, -2581.3)
+  Hey wid, i got into aviwtion so i barely play roblox, im usually flying real planes
+2022-06-18T09:20:56Z: PLAYER CHATTED [  119594716] xh123456789          ( 1952.6,    11.2, -1448.0)
+  you mean 6 years?
+2022-06-18T09:20:57Z: PLAYER CHATTED [   25525981] Widgeon              ( 1860.0,    10.0, -1443.8)
+  nice
+2022-06-18T09:21:05Z: PLAYER CHATTED [ 2376204984] zoro123258           ( 1743.1,     4.4, -1383.0)
+   /e dance
+2022-06-18T09:21:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1979.4,     7.7, -2041.8)
+  For the fire engine,
+2022-06-18T09:21:08Z: PLAYER CHATTED [  149277395] cleverclogsin        (   29.3,    39.4, -2512.3)
+  was it 2016?
+2022-06-18T09:21:11Z: PLAYER CHATTED [  119594716] xh123456789          ( 1603.9,     7.3, -1305.6)
+  ####### only been out for 6 years max
+2022-06-18T09:21:13Z: PLAYER CHATTED [   25525981] Widgeon              ( 1512.3,    11.5, -1182.3)
+  dang I can see your computer dying
+2022-06-18T09:21:14Z: PLAYER CHATTED [  119594716] xh123456789          ( 1567.8,    11.2, -1268.2)
+  plaza
+2022-06-18T09:21:14Z: PLAYER CHATTED [  149277395] cleverclogsin        (   28.4,    39.4, -2512.6)
+  i thought the first was 2014-
+2022-06-18T09:21:15Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.7,    36.1, -1255.7)
+  hey wid is there a flipping system my car is flipped over
+2022-06-18T09:21:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1979.4,     7.7, -2041.8)
+  I get 'PasajeroA' on the left seat.
+2022-06-18T09:21:20Z: PLAYER CHATTED [   25525981] Widgeon              ( 1398.1,    16.2, -1306.4)
+  @blue not rn
+2022-06-18T09:21:21Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -143.9,    39.8, -2386.2)
+  Wid, can u tp me?
+2022-06-18T09:21:24Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -855.8,    36.1, -1255.6)
+  oh
+2022-06-18T09:21:26Z: PLAYER CHATTED [  119594716] xh123456789          ( 1397.1,    15.7, -1337.1)
+  yeah plaza was 16
+2022-06-18T09:21:26Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1979.4,     7.7, -2041.9)
+  Pasajero A.
+2022-06-18T09:21:28Z: CHRCTER ADDED  [ 2404086408] liquidboy102         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:21:30Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -111.8,    42.2, -2621.9)
+  oh
+2022-06-18T09:21:31Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1967.3,     7.7, -2032.5)
+  Without the space.
+2022-06-18T09:21:36Z: PLAYER CHATTED [   25525981] Widgeon              ( 1193.9,    29.5, -1405.3)
+  @rtk is it on and off or like constantly laggy?
+2022-06-18T09:21:44Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -132.8,    40.2, -2574.4)
+  back in its prime though
+2022-06-18T09:21:47Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1093.5,    37.5, -1454.8)
+  constantly laggy
+2022-06-18T09:21:49Z: PLAYER CHATTED [ 2376204984] zoro123258           ( 1129.3,    42.1, -1428.1)
+  goooooooooooooo
+2022-06-18T09:21:51Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -172.3,    40.2, -2584.2)
+  now it only has 12 players
+2022-06-18T09:21:54Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1097.3,    36.5, -1450.6)
+  it lags when im near a vehicle
+2022-06-18T09:22:05Z: PLAYER CHATTED [   25525981] Widgeon              ( 1125.5,    29.9, -1444.9)
+  do you have old computer
+2022-06-18T09:22:09Z: PLAYER CHATTED [  119594716] xh123456789          ( 1126.1,    30.2, -1436.2)
+  on my screen it looks smooth
+2022-06-18T09:22:10Z: PLAYER CHATTED [   25525981] Widgeon              ( 1125.4,    30.0, -1443.0)
+  like windows vista 
+2022-06-18T09:22:13Z: PLAYER CHATTED [  119594716] xh123456789          ( 1140.3,    29.5, -1428.4)
+  just slow
+2022-06-18T09:22:15Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1118.6,    34.6, -1455.6)
+  10
+2022-06-18T09:22:16Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -279.4,    39.2, -2616.7)
+  widgeon lowkey roasting 
+2022-06-18T09:22:17Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -297.7,    39.6, -1764.9)
+  Wid, can u tp me?
+2022-06-18T09:22:22Z: CHRCTER ADDED  [   25525981] Widgeon              ( -321.1,    45.0, -1745.9)
+2022-06-18T09:22:22Z: PLAYER CHATTED [  119594716] xh123456789          ( 1112.3,    31.3, -1432.8)
+  when was your PC/computer made?
+2022-06-18T09:22:32Z: PLAYER CHATTED [  119594716] xh123456789          ( 1111.1,    32.0, -1426.7)
+  and/or is it a dell
+2022-06-18T09:22:38Z: PLAYER CHATTED [  119594716] xh123456789          ( 1065.4,    42.9, -1449.8)
+  (Roasted dell)
+2022-06-18T09:22:39Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1094.2,    39.1, -1476.6)
+  toshiba
+2022-06-18T09:22:39Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -96.0,    39.6, -2284.2)
+  1996
+2022-06-18T09:22:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1094.9,    34.5, -1427.2)
+  I have tonnes of issues playing on my Samsing S8.
+2022-06-18T09:22:52Z: PLAYER CHATTED [  119594716] xh123456789          ( 1077.3,    35.8, -1439.3)
+  this game is only for... pc
+2022-06-18T09:22:53Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1081.0,    36.6, -1422.7)
+  So if a 10-year-old laptop can't play it,
+2022-06-18T09:22:55Z: PLAYER ADDED   [  837161229] olimp_uks
+2022-06-18T09:22:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 1069.2,    38.7, -1418.7)
+  Neither can your phone.
+2022-06-18T09:23:04Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -129.7,    77.3, -1443.7)
+  So wid, plaza x is gonna feature jobs now?
+2022-06-18T09:23:09Z: PLAYER CHATTED [   25525981] Widgeon              (  -84.2,   100.8, -1248.2)
+  yes
+2022-06-18T09:23:10Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1049.5,    43.6, -1427.3)
+  goofy
+2022-06-18T09:23:11Z: PLAYER CHATTED [  119594716] xh123456789          ( 1047.4,    43.8, -1423.1)
+  widgeon?
+2022-06-18T09:23:16Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1074.4,    41.6, -1422.6)
+  goofy ahh hands
+2022-06-18T09:23:18Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (   13.7,   150.9,  -951.2)
+  L bozo, what about the casino?
+2022-06-18T09:23:21Z: PLAYER CHATTED [  119594716] xh123456789          ( 1126.3,    35.2, -1420.8)
+  will you be able to play plaza on samsung smart fridge?
+2022-06-18T09:23:36Z: PLAYER CHATTED [  149277395] cleverclogsin        (  -30.8,    40.2, -2585.3)
+  widgeon was the reason i started roblox
+2022-06-18T09:23:38Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  205.4,   182.4,  -866.8)
+  How do u get out on mobile?
+2022-06-18T09:23:42Z: PLAYER REMOVED [  837161229] olimp_uks
+2022-06-18T09:23:45Z: PLAYER CHATTED [  119594716] xh123456789          ( 1318.1,    19.5, -1404.5)
+  same i think
+2022-06-18T09:23:48Z: PLAYER CHATTED [  507217490] Retifiy              (  369.0,   178.4,  -890.1)
+  hello
+2022-06-18T09:23:51Z: PLAYER CHATTED [ 1137136239] OOPS_Imwrong         ( 1444.0,    14.4, -1441.1)
+  gosh i need a house
+2022-06-18T09:23:52Z: PLAYER CHATTED [  119594716] xh123456789          ( 1440.0,    14.6, -1437.6)
+  i enjoyed lumber tycoon and plaza
+2022-06-18T09:23:52Z: PLAYER CHATTED [   25525981] Widgeon              (  383.7,   183.6,  -881.8)
+  Oh I shouldve disabled mobile lol
+2022-06-18T09:23:56Z: PLAYER CHATTED [  119594716] xh123456789          ( 1494.5,    11.3, -1434.0)
+  would play them for hours
+2022-06-18T09:24:03Z: PLAYER CHATTED [  149277395] cleverclogsin        (  502.7,    80.0, -2310.1)
+  ONLY OGS PLAYED PLAZA 1
+2022-06-18T09:24:03Z: PLAYER CHATTED [  119594716] xh123456789          ( 1587.0,    22.1, -1608.8)
+  i got like over 500 flight hours in plaza
+2022-06-18T09:24:05Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  272.7,   182.3,  -902.5)
+  Im stuck lmo
+2022-06-18T09:24:07Z: PLAYER CHATTED [  119594716] xh123456789          ( 1568.6,    41.1, -1678.1)
+  or something stupid
+2022-06-18T09:24:18Z: PLAYER CHATTED [  149277395] cleverclogsin        (  623.8,   113.3, -2157.6)
+  I was like a kid then
+2022-06-18T09:24:19Z: CHRCTER ADDED  [ 1137136239] OOPS_Imwrong         (  -50.8,    43.5, -2320.3)
+2022-06-18T09:24:20Z: PLAYER CHATTED [  149277395] cleverclogsin        (  662.8,   133.9, -2117.1)
+  time flies
+2022-06-18T09:24:22Z: PLAYER ADDED   [ 1926951826] XxTristan_GodlyxX
+2022-06-18T09:24:23Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  289.4,   182.4,  -905.4)
+  R u gonna bring the casino into the game?
+2022-06-18T09:24:30Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  287.5,   182.5,  -888.6)
+  Improved or sum
+2022-06-18T09:24:30Z: PLAYER CHATTED [  119594716] xh123456789          ( 1570.9,    41.6, -1679.4)
+  yeah i just listen to the meepcity sound track
+2022-06-18T09:24:35Z: PLAYER CHATTED [  119594716] xh123456789          ( 1570.9,    41.6, -1679.4)
+  and that was 6/7 years ago
+2022-06-18T09:24:39Z: PLAYER REMOVED [ 1926951826] XxTristan_GodlyxX
+2022-06-18T09:24:40Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -173.3,    76.6, -1408.5)
+  the ragdoll is a little bitbuggy
+2022-06-18T09:24:51Z: CHRCTER ADDED  [  119594716] xh123456789          ( -321.1,    45.0, -1745.9)
+2022-06-18T09:24:56Z: PLAYER CHATTED [  149277395] cleverclogsin        (  675.0,   182.0, -1746.2)
+  i feel like you should've remastered the original
+2022-06-18T09:24:59Z: PLAYER CHATTED [  149277395] cleverclogsin        (  668.4,   179.9, -1741.3)
+  i mean you did once
+2022-06-18T09:25:12Z: CHRCTER ADDED  [ 2376204984] zoro123258           ( -321.1,    45.0, -1745.9)
+2022-06-18T09:25:12Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  594.9,   159.1, -1663.7)
+  Wid, r u gonna bring the casino to the game?
+2022-06-18T09:25:14Z: PLAYER CHATTED [  119594716] xh123456789          ( -264.8,    39.6, -1845.3)
+  someone "remastered" it
+2022-06-18T09:25:26Z: PLAYER REMOVED [  149277395] cleverclogsin
+2022-06-18T09:25:27Z: PLAYER CHATTED [  119594716] xh123456789          ( -273.0,    54.5, -1736.6)
+  they made it trash
+2022-06-18T09:25:36Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-18T09:25:38Z: PLAYER ADDED   [  149277395] cleverclogsin
+2022-06-18T09:25:59Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  614.0,   168.5, -1776.4)
+  Imagine making it trash
+2022-06-18T09:26:01Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( 1118.3,    41.6, -1867.8)
+  they should add more games to the casino
+2022-06-18T09:26:10Z: PLAYER CHATTED [ 2376204984] zoro123258           ( 1538.8,    40.7, -1895.3)
+  what
+2022-06-18T09:26:11Z: PLAYER CHATTED [  119594716] xh123456789          ( -325.0,    39.7, -1724.3)
+  Plaza Jack was perfect
+2022-06-18T09:26:12Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( 1541.3,    40.6, -1894.8)
+  currently theres only 2
+2022-06-18T09:26:23Z: PLAYER CHATTED [  119594716] xh123456789          ( -345.9,    43.7, -1880.2)
+  bit of skill bit of luck
+2022-06-18T09:26:27Z: PLAYER CHATTED [  119594716] xh123456789          ( -273.4,    43.7, -1911.2)
+  and big wheel
+2022-06-18T09:26:30Z: PLAYER CHATTED [  149277395] cleverclogsin        (  -69.6,    39.7, -2318.7)
+  Widgeon, plaza 1 was just brookhaven but for us OGs.
+2022-06-18T09:26:35Z: PLAYER CHATTED [ 2404086408] liquidboy102         (  389.1,    41.6, -1912.9)
+  lol
+2022-06-18T09:26:37Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( 1850.9,    17.5, -2034.0)
+  # #### ## ##### so honestly, he’s not far off, the only games there are other than what wid added are games impossible to make on roblox
+2022-06-18T09:26:38Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -225.0,    39.8, -2454.8)
+  you made an awesome game and memories
+2022-06-18T09:26:39Z: PLAYER CHATTED [  119594716] xh123456789          ( -138.9,    45.4, -1713.4)
+  HOW DARE YOU
+2022-06-18T09:26:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -146.8,    44.2, -2328.4)
+2022-06-18T09:26:44Z: PLAYER CHATTED [  119594716] xh123456789          ( -209.6,    53.2, -1588.7)
+  BROOKHAVEN?
+2022-06-18T09:26:44Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( 1661.6,    27.1, -1906.9)
+  Im in sin city
+2022-06-18T09:26:47Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -215.1,    42.3, -1718.7)
+  i used to play plaza on an old acc
+2022-06-18T09:26:49Z: PLAYER CHATTED [  119594716] xh123456789          ( -234.5,    57.7, -1556.7)
+  that's an insult to plaza
+2022-06-18T09:26:57Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -508.1,   176.5, -2473.7)
+  better than brookhaven
+2022-06-18T09:27:00Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  826.2,    43.8, -1909.0)
+  Wid, r u gonna bring the casino into the game?
+2022-06-18T09:27:00Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -517.9,   179.3, -2473.2)
+  same style game
+2022-06-18T09:27:05Z: PLAYER CHATTED [  119594716] xh123456789          ( -576.1,    71.3, -1229.4)
+  guess so
+2022-06-18T09:27:10Z: PLAYER CHATTED [  119594716] xh123456789          ( -584.0,    64.7, -1244.5)
+  but with way better code and community
+2022-06-18T09:27:10Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -332.5,    49.2, -1529.3)
+  why not get out
+2022-06-18T09:27:11Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -639.4,   183.6, -2459.4)
+  STOP ASKING FOR THE CASINO
+2022-06-18T09:27:14Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -373.7,    44.1, -1850.1)
+  Younp did
+2022-06-18T09:27:15Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -732.6,   124.5, -2432.3)
+  gosh
+2022-06-18T09:27:16Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -383.3,    52.2, -1492.9)
+  lss
+2022-06-18T09:27:21Z: PLAYER CHATTED [ 2376204984] zoro123258           ( -484.5,    48.8, -1445.5)
+  plss
+2022-06-18T09:27:32Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1000.9,    74.8, -1010.5)
+  Xstro u dint gotta be rude
+2022-06-18T09:27:36Z: CHRCTER ADDED  [ 2404086408] liquidboy102         ( -144.8,    43.5, -2319.1)
+2022-06-18T09:27:39Z: CHRCTER ADDED  [ 2404086408] liquidboy102         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:27:43Z: PLAYER CHATTED [  149277395] cleverclogsin        ( -868.6,    13.0, -2164.0)
+  ngl we all wanted to meet the creator back in 2016
+2022-06-18T09:27:44Z: PLAYER CHATTED [  119594716] xh123456789          (-1036.0,   116.5,  -878.9)
+  hmm i should try blendering
+2022-06-18T09:27:47Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -321.1,    39.6, -1745.4)
+  i mean this game is clearly better than brookhaven
+2022-06-18T09:27:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -93.8,   759.1, -2708.9)
+  Add some Orona call buttons to the lifts!
+2022-06-18T09:27:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -94.3,   759.0, -2695.8)
+  Maybe some Ecodisc ones too.
+2022-06-18T09:27:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -95.0,   759.0, -2673.7)
+  KONE ones.
+2022-06-18T09:28:08Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1069.9,   108.9,  -892.2)
+  Wid, r u gonna add those minigames too? (And/or an airport)
+2022-06-18T09:28:13Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -139.7,   759.0, -2648.1)
+  Otis will be better than nothing though.
+2022-06-18T09:28:16Z: PLAYER CHATTED [  119594716] xh123456789          (-1330.3,   108.4,  -777.2)
+  Airport yes
+2022-06-18T09:28:28Z: PLAYER CHATTED [  119594716] xh123456789          (-1247.7,   107.9,  -845.2)
+  widgeon confirmed planes ages ago
+2022-06-18T09:28:45Z: PLAYER REMOVED [  149277395] cleverclogsin
+2022-06-18T09:28:47Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1069.9,   108.9,  -892.2)
+  I quit roblox for the most part so i dont keep track
+2022-06-18T09:29:07Z: PLAYER CHATTED [  119594716] xh123456789          (-1209.2,   114.2,  -715.9)
+  he told me 747 (200 seats)
+2022-06-18T09:29:07Z: PLAYER CHATTED [   25525981] Widgeon              (-1437.4,    21.0,  -588.3)
+  yes minigames yes airport
+2022-06-18T09:29:14Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1069.9,   108.9,  -892.2)
+  But i support wid ao # come back every aomoften
+2022-06-18T09:29:16Z: PLAYER CHATTED [  119594716] xh123456789          (-1257.1,    90.8,  -664.9)
+  that might have been a joke
+2022-06-18T09:29:18Z: PLAYER CHATTED [  119594716] xh123456789          (-1284.6,    74.1,  -622.1)
+  but boeing 747
+2022-06-18T09:29:26Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -437.9,    51.7, -1461.6)
+  hey wid i think you should make it that if you hit a tree with any vehicle going 50 mph+ will cause the tree to fall
+2022-06-18T09:29:33Z: PLAYER CHATTED [   25525981] Widgeon              (-1412.8,    30.4,  -612.5)
+  yea
+2022-06-18T09:29:40Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1070.4,   108.7,  -892.4)
+  @xh aviation enthusiast or nah?
+2022-06-18T09:29:43Z: PLAYER CHATTED [  119594716] xh123456789          (-1380.0,    23.8,  -498.5)
+  yeah
+2022-06-18T09:29:45Z: PLAYER CHATTED [  119594716] xh123456789          (-1382.1,    23.6,  -499.5)
+  i'd say so
+2022-06-18T09:29:53Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1070.4,   108.7,  -892.4)
+  Favorite plane?
+2022-06-18T09:29:58Z: PLAYER CHATTED [  119594716] xh123456789          (-1240.1,    79.5,  -575.8)
+  747s are cool
+2022-06-18T09:30:03Z: PLAYER CHATTED [  119594716] xh123456789          (-1156.0,   115.8,  -646.6)
+  but A320s are great aircraft
+2022-06-18T09:30:07Z: PLAYER CHATTED [  119594716] xh123456789          (-1154.6,   117.2,  -647.8)
+  so 747 for looks
+2022-06-18T09:30:08Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1070.4,   108.7,  -892.4)
+  Common, but good so i cant complain
+2022-06-18T09:30:11Z: PLAYER CHATTED [  119594716] xh123456789          (-1154.6,   117.2,  -647.8)
+  A320 for functionality
+2022-06-18T09:30:12Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1065.8,   107.1,  -893.9)
+  sup
+2022-06-18T09:30:16Z: CHRCTER ADDED  [   25525981] Widgeon              ( -321.1,    45.0, -1745.9)
+2022-06-18T09:30:21Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1070.7,   103.0,  -892.5)
+  A300 family is my favorite, i fly a321 all the time
+2022-06-18T09:30:28Z: PLAYER CHATTED [  119594716] xh123456789          (-1065.7,   119.7,  -846.4)
+  you're a pilot?
+2022-06-18T09:30:30Z: PLAYER CHATTED [  119594716] xh123456789          (-1065.7,   119.7,  -846.4)
+  or a passenger
+2022-06-18T09:30:46Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -999.5,    95.0,  -911.1)
+  Im 14 but im starting flightnschool soon
+2022-06-18T09:30:52Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -999.5,    95.0,  -911.1)
+  Im gonna work on ground then my ppl
+2022-06-18T09:31:06Z: PLAYER CHATTED [  119594716] xh123456789          (-1050.8,   110.5,  -880.0)
+  sounds good
+2022-06-18T09:31:08Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1052.2,   114.3,  -872.0)
+  Then get an instrument rating somi can ifr
+2022-06-18T09:31:09Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1044.0,   122.3,  -854.5)
+  same
+2022-06-18T09:31:10Z: PLAYER CHATTED [  119594716] xh123456789          (-1050.8,   110.5,  -880.0)
+  i'm also good at trains
+2022-06-18T09:31:15Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1052.1,   121.9,  -857.5)
+  Same
+2022-06-18T09:31:20Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1052.1,   121.9,  -857.5)
+  ##### are so simple
+2022-06-18T09:31:29Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.6,   116.6,  -878.7)
+  i've had an airline in plaza for years
+2022-06-18T09:31:31Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1035.9,   115.3,  -881.5)
+  #####
+2022-06-18T09:31:34Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.1,   115.8,  -881.7)
+  Nice
+2022-06-18T09:31:42Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.7,   116.9,  -878.8)
+  Parrot Airways
+2022-06-18T09:31:47Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.0,   115.3,  -881.6)
+  Have u foown a320 family?
+2022-06-18T09:31:49Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.0,   115.4,  -881.6)
+  Flown
+2022-06-18T09:31:52Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.0,   115.4,  -881.7)
+  As a pilot
+2022-06-18T09:31:53Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.6,   116.6,  -878.7)
+  yes
+2022-06-18T09:31:54Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.6,   116.6,  -878.7)
+  no
+2022-06-18T09:32:00Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.6,   116.6,  -878.7)
+  i'm not a pilot irl
+2022-06-18T09:32:00Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1031.6,   116.7,  -879.3)
+  ####
+2022-06-18T09:32:04Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.0,   115.4,  -881.7)
+  It’s really fun, it’s so simple
+2022-06-18T09:32:04Z: PLAYER REMOVED [ 2376204984] zoro123258
+2022-06-18T09:32:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -92.7,   747.4, -2709.1)
+  This lift goes at 13.25 metres per second!
+2022-06-18T09:32:06Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1031.6,   116.7,  -879.3)
+  reality??
+2022-06-18T09:32:13Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1036.1,   115.6,  -881.6)
+  @xh there’s simulators
+2022-06-18T09:32:20Z: PLAYER CHATTED [  119594716] xh123456789          (-1034.9,   116.9,  -878.2)
+  yeah i've played a few
+2022-06-18T09:32:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -88.9,   759.0, -2698.2)
+  The fastest lifts in Europe go at around 10 m/s.
+2022-06-18T09:32:25Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1031.1,   116.8,  -879.2)
+  oh
+2022-06-18T09:32:29Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1035.9,   115.9,  -881.0)
+  @xh want xplane? I can get it for free for u
+2022-06-18T09:32:32Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.1,   117.1,  -878.1)
+  Anyone remember Acceleration Flight Simulator?
+2022-06-18T09:32:43Z: PLAYER CHATTED [  119594716] xh123456789          (-1035.1,   117.0,  -878.1)
+  Videogame piracy?
+2022-06-18T09:32:49Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1035.4,   116.2,  -880.5)
+  Yeah lol
+2022-06-18T09:32:54Z: PLAYER CHATTED [  119594716] xh123456789          (-1028.2,   122.7,  -858.4)
+  na
+2022-06-18T09:32:56Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (-1035.2,   116.6,  -880.4)
+  Aight
+2022-06-18T09:33:00Z: CHRCTER ADDED  [ 3624152071] huperor208bruh22     (  -51.7,    43.5, -2328.3)
+2022-06-18T09:33:13Z: PLAYER CHATTED [  119594716] xh123456789          (-1237.7,    16.0, -1157.6)
+  in plaza 1
+2022-06-18T09:33:18Z: PLAYER CHATTED [  119594716] xh123456789          (-1272.2,    10.2, -1268.5)
+  i've been to all # ####### by plane
+2022-06-18T09:33:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -94.9,    44.9, -2708.3)
+  ~58 studs/sec.
+2022-06-18T09:33:21Z: PLAYER CHATTED [  119594716] xh123456789          (-1267.9,    10.3, -1254.9)
+  all islands
+2022-06-18T09:33:22Z: PLAYER CHATTED [  119594716] xh123456789          (-1267.9,    10.3, -1254.9)
+  by plane
+2022-06-18T09:33:26Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     (  -51.6,    39.8, -2281.8)
+  Overall flying is fun though, i fine commercial airliners easier to land than private planes
+2022-06-18T09:33:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -93.0,   148.5, -2709.7)
+  Nice choice for floor 13.
+2022-06-18T09:33:45Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1281.9,     9.3, -1309.9)
+  hey wid
+2022-06-18T09:33:57Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -229.8,    39.4, -1896.8)
+  Hey wid, how does the money system work?
+2022-06-18T09:33:59Z: CHRCTER ADDED  [  507217490] Retifiy              ( -321.1,    45.0, -1745.9)
+2022-06-18T09:34:04Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1281.9,     9.3, -1309.9)
+  can you add arrow keys to the vehicle controls
+2022-06-18T09:34:07Z: PLAYER CHATTED [  119594716] xh123456789          (-1430.3,    11.4, -1246.7)
+  earn money buy stuff
+2022-06-18T09:34:08Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1282.1,     9.8, -1292.0)
+  im left handed
+2022-06-18T09:34:10Z: PLAYER CHATTED [  119594716] xh123456789          (-1430.3,    11.4, -1246.7)
+  capitalism
+2022-06-18T09:34:18Z: PLAYER CHATTED [   25525981] Widgeon              ( -777.0,    56.4,  3004.0)
+  @huper uh
+2022-06-18T09:34:19Z: PLAYER CHATTED [  119594716] xh123456789          (-1253.8,    12.0, -1206.1)
+  left handed people don't exist
+2022-06-18T09:34:20Z: PLAYER CHATTED [   25525981] Widgeon              ( -777.1,    56.3,  3003.7)
+  jobs
+2022-06-18T09:34:30Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -331.3,    39.6, -1718.7)
+  I #### how is money earned cuz im not working and somehow earned 1ak
+2022-06-18T09:34:33Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -331.3,    39.6, -1718.7)
+  11k
+2022-06-18T09:34:41Z: PLAYER CHATTED [  119594716] xh123456789          (-1230.5,    15.1, -1198.5)
+  also i'm basically ambidecstrus
+2022-06-18T09:34:43Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1236.8,    12.7, -1190.4)
+  i mean left handed in writting and using a ####
+2022-06-18T09:34:45Z: PLAYER CHATTED [ 2404086408] liquidboy102         (-1236.8,    12.7, -1190.4)
+  mouse
+2022-06-18T09:34:46Z: PLAYER CHATTED [  119594716] xh123456789          (-1230.5,    15.1, -1198.5)
+  if that's how you spell it
+2022-06-18T09:35:11Z: PLAYER CHATTED [  119594716] xh123456789          ( -897.9,     9.2, -1616.4)
+  YEEHAW
+2022-06-18T09:35:28Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -401.9,    15.7, -2060.0)
+  intense camera shake
+2022-06-18T09:35:45Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -401.2,    15.7, -2057.8)
+  wid you should add a setting where you can increase or decrease camera shake 
+2022-06-18T09:35:47Z: CHRCTER ADDED  [ 2404086408] liquidboy102         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:35:49Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -351.5,    39.6, -1764.4)
+  How do u work?
+2022-06-18T09:35:51Z: PLAYER CHATTED [  119594716] xh123456789          ( -334.1,    39.7, -1775.0)
+  oh yeah you know the youtuber Jelly?
+2022-06-18T09:35:57Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -335.4,    39.7, -1735.0)
+  oh yea
+2022-06-18T09:36:05Z: PLAYER CHATTED [  119594716] xh123456789          ( -347.4,    43.8, -1785.5)
+  did you know he played plaza?
+2022-06-18T09:36:08Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -335.5,    39.7, -1735.3)
+  i havent watched his vids in a long time
+2022-06-18T09:36:10Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -335.5,    39.7, -1735.3)
+  he did??
+2022-06-18T09:36:16Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.0,    39.7, -1751.6)
+  once or twice i think
+2022-06-18T09:36:20Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -335.5,    39.7, -1735.3)
+  oh
+2022-06-18T09:36:22Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.0,    39.7, -1751.6)
+  but he had to get to the volcano #######
+2022-06-18T09:36:24Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.0,    39.7, -1751.6)
+  island
+2022-06-18T09:36:28Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.0,    39.7, -1751.6)
+  he didn't have a plane
+2022-06-18T09:36:30Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.9,    39.7, -1748.5)
+  guess who did?
+2022-06-18T09:36:35Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -342.0,    39.6, -1743.6)
+  Howd u get a suit?
+2022-06-18T09:36:35Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.9,    39.7, -1748.5)
+  head of parrot airways
+2022-06-18T09:36:35Z: PLAYER REMOVED [  507217490] Retifiy
+2022-06-18T09:36:36Z: PLAYER CHATTED [  119594716] xh123456789          ( -351.9,    39.7, -1748.5)
+  Me
+2022-06-18T09:36:41Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -345.4,    44.0, -1736.5)
+  lol
+2022-06-18T09:36:42Z: PLAYER CHATTED [  119594716] xh123456789          ( -350.2,    39.7, -1749.8)
+  go to top of screen
+2022-06-18T09:36:44Z: PLAYER ADDED   [  507217490] Retifiy
+2022-06-18T09:36:45Z: PLAYER CHATTED [  119594716] xh123456789          ( -350.2,    39.7, -1749.8)
+  press case
+2022-06-18T09:36:49Z: PLAYER CHATTED [  119594716] xh123456789          ( -350.2,    39.7, -1749.8)
+  then join FD
+2022-06-18T09:36:49Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -347.9,    39.6, -1749.6)
+  Ohhh
+2022-06-18T09:36:51Z: CHRCTER ADDED  [ 3624152071] huperor208bruh22     ( -321.1,    45.0, -1745.9)
+2022-06-18T09:37:02Z: PLAYER CHATTED [  119594716] xh123456789          ( -349.6,    39.7, -1747.6)
+  so i had jelly ride my airline
+2022-06-18T09:37:06Z: PLAYER CHATTED [  119594716] xh123456789          ( -340.3,    39.7, -1746.2)
+  to volcano island
+2022-06-18T09:37:22Z: CHRCTER ADDED  [ 1137136239] OOPS_Imwrong         ( -321.1,    45.0, -1745.9)
+2022-06-18T09:37:27Z: PLAYER CHATTED [ 3624152071] huperor208bruh22     ( -346.2,    39.1, -1782.2)
+  I cant drive on mobile lol
+2022-06-18T09:37:33Z: PLAYER CHATTED [ 2404086408] liquidboy102         ( -153.4,    43.7, -1950.0)
+  i litteraly have task manager on to keep track of my cpu
+2022-06-18T09:37:43Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-18T09:37:43Z: PLAYER REMOVED [ 1137136239] OOPS_Imwrong
+2022-06-18T09:37:43Z: PLAYER REMOVED [   25525981] Widgeon
+2022-06-18T09:37:43Z: PLAYER REMOVED [  119594716] xh123456789
+2022-06-18T09:37:43Z: PLAYER REMOVED [ 3624152071] huperor208bruh22
+2022-06-18T09:37:43Z: PLAYER REMOVED [ 2404086408] liquidboy102
+2022-06-18T09:37:43Z: PLAYER REMOVED [  507217490] Retifiy

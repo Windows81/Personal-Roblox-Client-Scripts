@@ -1,0 +1,57 @@
+[    1630228] : [ 9368118951] Las Flores Hotel - 2e3d4f33-8e44-479a-b886-45759ddc3896
+2022-04-14T20:01:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-14T20:01:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-14T20:01:38Z: PLAYER ADDED   [ 1828155758] ARINETAMAMA
+2022-04-14T20:01:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -23.5,    93.7,   -16.0)
+  Come here!
+2022-04-14T20:02:05Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  268.0,   226.0,   168.2)
+  :to v
+2022-04-14T20:02:18Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -26.6,    92.9,   -20.0)
+  oh u found one of mine
+2022-04-14T20:02:34Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -50.5,    92.9,   -32.2)
+  /e :light
+2022-04-14T20:02:41Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -28.9,    92.9,   -10.1)
+  nope nvm
+2022-04-14T20:02:49Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -48.0,    93.4,   -26.7)
+  wait yes
+2022-04-14T20:02:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -39.8,    93.7,   -16.3)
+  This is weird.
+2022-04-14T20:02:59Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -50.8,    92.9,   -34.3)
+  ik
+2022-04-14T20:03:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -43.1,    93.7,   -31.3)
+  How do I get out?
+2022-04-14T20:03:05Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -50.8,    92.9,   -34.3)
+  hold up
+2022-04-14T20:03:24Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -44.6,    91.0,    66.8)
+  :bring v
+2022-04-14T20:03:29Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -41.8,    91.5,    68.3)
+  :unlight
+2022-04-14T20:03:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.6,    91.7,    66.8)
+  :unlight
+2022-04-14T20:03:56Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -60.0,    92.8,   185.2)
+  :unlight v
+2022-04-14T20:03:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -76.7,    93.7,   184.1)
+  I should get going now.
+2022-04-14T20:04:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.5,    93.7,   186.1)
+  I have school soon.
+2022-04-14T20:04:04Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -73.3,    92.5,   190.5)
+  Ok nice meeting u
+2022-04-14T20:04:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -72.5,    93.7,   186.1)
+  Join my comms server!
+2022-04-14T20:04:10Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -77.6,    92.9,   186.0)
+  i'll fix the lights
+2022-04-14T20:04:14Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -77.1,    92.9,   184.6)
+  And rooms
+2022-04-14T20:04:26Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -76.9,    92.9,   185.4)
+  Ty again for the advice and info
+2022-04-14T20:04:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.0,    93.7,   183.3)
+  No problem!
+2022-04-14T20:04:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -74.0,    93.7,   183.3)
+  Go to the Kubla Khan's page.
+2022-04-14T20:04:43Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -72.5,    88.3,   171.7)
+  Ok cya soon
+2022-04-14T20:04:45Z: PLAYER CHATTED [ 1828155758] ARINETAMAMA          (  -76.5,    92.9,   182.0)
+  :)
+2022-04-14T20:04:47Z: PLAYER REMOVED [ 1828155758] ARINETAMAMA
+2022-04-14T20:04:49Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-14T20:04:49Z: CHAT STREAM SUCCESSFULLY ENDED

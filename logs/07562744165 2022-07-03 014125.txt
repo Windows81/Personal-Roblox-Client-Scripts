@@ -1,0 +1,50 @@
+[    1630228] : [ 7562744165] A Blockate World. - 4aed64e4-fe8b-43eb-b989-d2b650dd6dfe
+2022-07-03T01:41:25Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T01:41:25Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T01:41:25Z: PLAYER ADDED   [ 1788128968] Cryptilysm
+2022-07-03T01:41:25Z: PLAYER ADDED   [ 1158873760] 1SmrtC00kie
+2022-07-03T01:41:25Z: PLAYER ADDED   [ 2029799608] IPlayAlot101
+2022-07-03T01:41:25Z: PLAYER ADDED   [  225368542] dakota1142
+2022-07-03T01:41:25Z: PLAYER ADDED   [  828411658] piemanzoo2
+2022-07-03T01:41:25Z: PLAYER ADDED   [  106352651] Laylabuggy07
+2022-07-03T01:41:33Z: PLAYER CHATTED [  225368542] dakota1142           (    1.7,     5.0,    -8.0)
+  i did
+2022-07-03T01:41:34Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (    3.6,     5.0,    -4.5)
+  BUCKET
+2022-07-03T01:41:35Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    4.5,     5.0,    -7.8)
+  okay
+2022-07-03T01:41:40Z: CHRCTER ADDED  [ 1158873760] 1SmrtC00kie          (    4.0,     3.6,   -16.0)
+2022-07-03T01:41:40Z: PLAYER CHATTED [  106352651] Laylabuggy07         (   14.1,     5.0,    -5.1)
+  shush
+2022-07-03T01:41:41Z: PLAYER CHATTED [  225368542] dakota1142           (    1.7,     5.0,    -8.0)
+  tell him to not fling
+2022-07-03T01:41:44Z: CHRCTER ADDED  [ 1158873760] 1SmrtC00kie          (    4.0,     3.6,   -16.0)
+2022-07-03T01:41:46Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    8.4,     5.0,    -9.3)
+  we are having a convo 
+2022-07-03T01:41:48Z: PLAYER REMOVED [  828411658] piemanzoo2
+2022-07-03T01:41:49Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    7.0,     5.0,   -12.3)
+  u can wait
+2022-07-03T01:41:51Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (   15.0,     5.0,   -14.0)
+  bill no
+2022-07-03T01:41:52Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (   13.3,     5.0,   -13.7)
+  no
+2022-07-03T01:41:54Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (   13.3,     5.0,   -13.7)
+  i cant wait
+2022-07-03T01:41:58Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    8.8,     5.0,    -8.2)
+  werid
+2022-07-03T01:42:01Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (    7.6,     5.0,    -6.5)
+  How about you wait lady
+2022-07-03T01:42:05Z: PLAYER CHATTED [ 2029799608] IPlayAlot101         ( -182.3,    48.6,   575.5)
+  owner
+2022-07-03T01:42:06Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    8.9,     5.0,    -8.4)
+  fedish for now it’s givinggg 
+2022-07-03T01:42:10Z: PLAYER CHATTED [ 1158873760] 1SmrtC00kie          (    7.6,     5.0,    -6.5)
+  Your question was over
+2022-07-03T01:42:11Z: PLAYER CHATTED [  106352651] Laylabuggy07         (    9.5,     5.0,    -8.7)
+  shut ur mouth
+2022-07-03T01:42:13Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-03T01:42:13Z: PLAYER REMOVED [ 1788128968] Cryptilysm
+2022-07-03T01:42:13Z: PLAYER REMOVED [ 1158873760] 1SmrtC00kie
+2022-07-03T01:42:13Z: PLAYER REMOVED [ 2029799608] IPlayAlot101
+2022-07-03T01:42:13Z: PLAYER REMOVED [  225368542] dakota1142
+2022-07-03T01:42:13Z: PLAYER REMOVED [  106352651] Laylabuggy07

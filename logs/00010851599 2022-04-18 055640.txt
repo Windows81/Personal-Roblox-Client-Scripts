@@ -1,0 +1,427 @@
+[    1630228] : [   10851599]  Roblox Talent Show 🎤 - c9a2a5be-cf31-5388-4df8-87326a036076
+2022-04-18T05:56:40Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-18T05:56:41Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 3479577000] ApliteAnt
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 3467888346] shaynmya
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 1477175411] Jasmy114
+2022-04-18T05:56:41Z: PLAYER ADDED   [   39086765] cheif2517
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 1337262829] savator_925
+2022-04-18T05:56:41Z: PLAYER ADDED   [  976671681] kuremii
+2022-04-18T05:56:41Z: PLAYER ADDED   [   28556997] destroyer22368
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 3218756278] asjdlknasdksad
+2022-04-18T05:56:41Z: PLAYER ADDED   [  212501167] BleachRamen
+2022-04-18T05:56:41Z: PLAYER ADDED   [  383275247] mariamios
+2022-04-18T05:56:41Z: PLAYER ADDED   [  482736467] MAG1lC
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 1357242253] predingus
+2022-04-18T05:56:41Z: PLAYER ADDED   [   69037887] Intel_Z
+2022-04-18T05:56:41Z: PLAYER ADDED   [   82322561] rockturd
+2022-04-18T05:56:41Z: PLAYER ADDED   [  501058894] xxcat_loverxxbackup2
+2022-04-18T05:56:41Z: PLAYER ADDED   [ 3068656544] caradanvis
+2022-04-18T05:56:41Z: PLAYER ADDED   [   59939146] Paradoxxi
+2022-04-18T05:56:43Z: PLAYER REMOVED [ 3218756278] asjdlknasdksad
+2022-04-18T05:56:47Z: PLAYER ADDED   [ 2788350068] ARUNGUNGUN
+2022-04-18T05:56:52Z: PLAYER ADDED   [ 1818660087] BLackWhitE_51
+2022-04-18T05:58:00Z: CHRCTER ADDED  [ 3479577000] ApliteAnt            (  260.1,   100.6,  -398.2)
+2022-04-18T05:58:10Z: CHRCTER ADDED  [ 3467888346] shaynmya             (   79.1,   102.7,  -571.7)
+2022-04-18T05:58:10Z: PLAYER REMOVED [  976671681] kuremii
+2022-04-18T05:58:22Z: CHRCTER ADDED  [  383275247] mariamios            (   91.9,   107.1,  -489.6)
+2022-04-18T05:58:22Z: CHRCTER ADDED  [   28556997] destroyer22368       (   91.9,   107.0,  -489.6)
+2022-04-18T05:58:23Z: CHRCTER ADDED  [ 1357242253] predingus            (  260.1,   100.2,  -398.2)
+2022-04-18T05:58:23Z: CHRCTER ADDED  [  501058894] xxcat_loverxxbackup2 (  277.1,   100.2,  -389.7)
+2022-04-18T05:58:31Z: CHRCTER ADDED  [ 1357242253] predingus            (   54.3,   101.7,  -574.4)
+2022-04-18T05:58:35Z: CHRCTER ADDED  [  501058894] xxcat_loverxxbackup2 (   50.5,   101.7,  -567.7)
+2022-04-18T05:58:41Z: PLAYER ADDED   [  976671681] kuremii
+2022-04-18T05:58:42Z: CHRCTER ADDED  [ 3479577000] ApliteAnt            (   50.5,   102.5,  -567.7)
+2022-04-18T05:58:59Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    96.1,  -407.8)
+2022-04-18T05:59:09Z: CHRCTER ADDED  [  383275247] mariamios            (  285.1,   100.7,  -389.7)
+2022-04-18T05:59:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.9,   107.7,  -489.6)
+2022-04-18T05:59:11Z: CHRCTER ADDED  [   28556997] destroyer22368       (  293.1,   100.6,  -398.2)
+2022-04-18T05:59:14Z: PLAYER CHATTED [  383275247] mariamios            (  285.1,   100.7,  -389.7)
+  Cuff u 
+2022-04-18T05:59:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   95.5,   103.1,  -467.5)
+  Hi.
+2022-04-18T05:59:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.0,   103.0,  -401.9)
+  Flying.
+2022-04-18T05:59:33Z: CHRCTER ADDED  [   28556997] destroyer22368       (   66.2,   102.4,  -579.4)
+2022-04-18T05:59:39Z: PLAYER ADDED   [   53221055] draggy553
+2022-04-18T05:59:39Z: CHRCTER ADDED  [  383275247] mariamios            (   66.2,   102.5,  -579.4)
+2022-04-18T05:59:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   99.3,   140.8,  -389.4)
+  And becoming host.
+2022-04-18T05:59:52Z: PLAYER ADDED   [ 1328307858] thelittel_cats
+2022-04-18T05:59:55Z: CHRCTER ADDED  [ 3068656544] caradanvis           (   50.5,   101.5,  -567.7)
+2022-04-18T06:00:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.7,   103.1,  -418.5)
+  ÒÓ
+2022-04-18T06:00:03Z: CHRCTER ADDED  [  482736467] MAG1lC               (  119.6,   101.6,  -479.4)
+2022-04-18T06:00:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   75.9,   103.1,  -566.0)
+2022-04-18T06:00:09Z: CHRCTER ADDED  [   59939146] Paradoxxi            (  260.1,   100.2,  -389.7)
+2022-04-18T06:00:11Z: CHRCTER ADDED  [ 2788350068] ARUNGUNGUN           (   91.9,   107.1,  -489.6)
+2022-04-18T06:00:11Z: CHRCTER ADDED  [ 1818660087] BLackWhitE_51        (   91.9,   107.1,  -489.6)
+2022-04-18T06:00:33Z: CHRCTER ADDED  [   59939146] Paradoxxi            (   60.7,   101.7,  -585.8)
+2022-04-18T06:00:36Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    96.1,  -407.8)
+2022-04-18T06:00:55Z: CHRCTER ADDED  [  482736467] MAG1lC               (   66.2,   101.4,  -579.4)
+2022-04-18T06:00:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  119.6,   118.2,  -479.4)
+2022-04-18T06:01:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  110.5,   103.0,  -401.2)
+  Told you I had a talent.
+2022-04-18T06:01:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.6,   103.0,  -406.8)
+  ÒÓ
+2022-04-18T06:01:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  108.9,   103.0,  -401.9)
+  I'm not a very efficient host.
+2022-04-18T06:01:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.7,   103.0,  -404.2)
+  Go no?
+2022-04-18T06:01:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  115.7,   103.0,  -404.2)
+  *On?
+2022-04-18T06:01:28Z: PLAYER REMOVED [  482736467] MAG1lC
+2022-04-18T06:01:32Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    98.6,  -407.8)
+2022-04-18T06:01:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  118.8,   102.7,  -410.0)
+  I can't hear?
+2022-04-18T06:01:49Z: PLAYER ADDED   [ 2607366536] m1raIol
+2022-04-18T06:01:54Z: PLAYER CHATTED [  383275247] mariamios            (  135.2,    97.0,  -379.4)
+  Lemme be host 
+2022-04-18T06:02:08Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    98.6,  -407.8)
+2022-04-18T06:02:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.3,   103.0,  -392.1)
+  If I let go and let Mari be host,
+2022-04-18T06:02:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.3,   103.0,  -392.1)
+  Someone else may take over before here.
+2022-04-18T06:02:21Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    98.6,  -407.8)
+2022-04-18T06:02:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.3,   103.0,  -392.1)
+  *Her.
+2022-04-18T06:02:26Z: PLAYER CHATTED [  383275247] mariamios            (  115.2,    96.4,  -383.2)
+  Oh okay
+2022-04-18T06:02:31Z: PLAYER CHATTED [  383275247] mariamios            (  115.2,    96.4,  -383.2)
+  Let’s see tho 
+2022-04-18T06:02:33Z: CHRCTER ADDED  [ 3479577000] ApliteAnt            (  260.1,   100.6,  -406.6)
+2022-04-18T06:02:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  103.6,   103.0,  -406.9)
+  I shall let the next person go.
+2022-04-18T06:02:36Z: PLAYER CHATTED [  383275247] mariamios            (  115.2,    96.4,  -383.2)
+  Clicking game 
+2022-04-18T06:02:45Z: CHRCTER ADDED  [ 2788350068] ARUNGUNGUN           (  285.1,   100.7,  -406.6)
+2022-04-18T06:02:45Z: CHRCTER ADDED  [ 1818660087] BLackWhitE_51        (  260.1,   100.7,  -398.2)
+2022-04-18T06:02:47Z: CHRCTER ADDED  [  383275247] mariamios            (   91.9,   107.1,  -489.6)
+2022-04-18T06:02:49Z: PLAYER REMOVED [ 1818660087] BLackWhitE_51
+2022-04-18T06:02:49Z: CHRCTER ADDED  [ 3479577000] ApliteAnt            (   54.3,   102.5,  -574.4)
+2022-04-18T06:02:50Z: PLAYER REMOVED [ 2788350068] ARUNGUNGUN
+2022-04-18T06:03:02Z: PLAYER CHATTED [  383275247] mariamios            (   95.1,   102.9,  -483.0)
+  No lemme be host 
+2022-04-18T06:03:02Z: PLAYER REMOVED [ 2607366536] m1raIol
+2022-04-18T06:03:09Z: PLAYER CHATTED [  383275247] mariamios            (   89.4,   102.9,  -475.9)
+  I am
+2022-04-18T06:03:13Z: PLAYER CHATTED [  383275247] mariamios            (   89.4,   102.9,  -475.9)
+  Host 
+2022-04-18T06:03:14Z: PLAYER REMOVED [ 1328307858] thelittel_cats
+2022-04-18T06:03:20Z: PLAYER CHATTED [  383275247] mariamios            (   96.5,   100.5,  -481.6)
+  Bruh
+2022-04-18T06:03:20Z: CHRCTER ADDED  [ 3068656544] caradanvis           (   91.9,   106.9,  -489.6)
+2022-04-18T06:03:21Z: CHRCTER ADDED  [  383275247] mariamios            (  260.1,   100.7,  -398.2)
+2022-04-18T06:03:22Z: PLAYER CHATTED [   82322561] rockturd             (  129.0,    96.6,  -408.8)
+  REAL
+2022-04-18T06:03:28Z: PLAYER ADDED   [ 2788350068] ARUNGUNGUN
+2022-04-18T06:03:34Z: CHRCTER ADDED  [  383275247] mariamios            (   60.7,   102.5,  -585.8)
+2022-04-18T06:03:36Z: CHRCTER ADDED  [ 3479577000] ApliteAnt            (  293.1,   100.6,  -398.2)
+2022-04-18T06:03:36Z: PLAYER ADDED   [ 2607366536] m1raIol
+2022-04-18T06:03:38Z: PLAYER CHATTED [   82322561] rockturd             (  129.0,    96.6,  -408.8)
+  HIS PRESCENSE IS OF VISUAL ############## AND ############ 
+2022-04-18T06:03:43Z: PLAYER ADDED   [ 1818660087] BLackWhitE_51
+2022-04-18T06:03:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.4,   103.0,  -404.2)
+  EXPLOTTTS!!
+2022-04-18T06:04:01Z: CHRCTER ADDED  [ 3068656544] caradanvis           (  293.1,    99.9,  -398.2)
+2022-04-18T06:04:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.4,   103.0,  -416.3)
+  The contestants shall recite the phrase!
+2022-04-18T06:04:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.4,   103.0,  -416.3)
+  I love raises!
+2022-04-18T06:04:22Z: CHRCTER ADDED  [  501058894] xxcat_loverxxbackup2 (   91.9,   107.2,  -489.6)
+2022-04-18T06:04:22Z: CHRCTER ADDED  [ 1357242253] predingus            (   91.9,   107.2,  -489.6)
+2022-04-18T06:04:32Z: PLAYER REMOVED [ 3068656544] caradanvis
+2022-04-18T06:04:47Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    97.7,  -407.8)
+2022-04-18T06:04:52Z: PLAYER REMOVED [ 3479577000] ApliteAnt
+2022-04-18T06:05:08Z: PLAYER ADDED   [ 3189184242] daixxei
+2022-04-18T06:05:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.2,   103.2,  -408.1)
+  ¿?aNo full recitation,
+2022-04-18T06:05:14Z: PLAYER CHATTED [  383275247] mariamios            (  118.9,    96.4,  -384.1)
+  Visual lemme be host. 
+2022-04-18T06:05:15Z: PLAYER ADDED   [   32387683] ninjaunicorn66
+2022-04-18T06:05:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.2,   103.2,  -408.1)
+  No play.
+2022-04-18T06:05:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  117.2,   103.2,  -408.1)
+  ÒÓ
+2022-04-18T06:05:31Z: CHRCTER ADDED  [ 3189184242] daixxei              (  260.1,   100.7,  -398.2)
+2022-04-18T06:05:35Z: PLAYER CHATTED [  383275247] mariamios            (  120.1,    96.4,  -385.4)
+  Host lemme be host. 
+2022-04-18T06:05:48Z: CHRCTER ADDED  [ 1357242253] predingus            (  293.1,   100.7,  -398.2)
+2022-04-18T06:05:48Z: CHRCTER ADDED  [  501058894] xxcat_loverxxbackup2 (  277.1,   100.7,  -398.2)
+2022-04-18T06:05:48Z: PLAYER ADDED   [  297645884] thelolingpug
+2022-04-18T06:05:48Z: CHRCTER ADDED  [   59939146] Paradoxxi            (   91.9,   103.0,  -489.6)
+2022-04-18T06:05:49Z: PLAYER CHATTED [  383275247] mariamios            (  120.1,    96.4,  -385.4)
+  HOST
+2022-04-18T06:06:10Z: PLAYER CHATTED [  383275247] mariamios            (  121.0,    96.4,  -385.8)
+  VISUAL ATOP
+2022-04-18T06:06:13Z: PLAYER CHATTED [  383275247] mariamios            (  121.0,    96.4,  -385.8)
+  Stop
+2022-04-18T06:06:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.8,    77.2,  -407.3)
+  I am atop!
+2022-04-18T06:06:17Z: PLAYER CHATTED [  383275247] mariamios            (  121.0,    96.4,  -385.8)
+  Stoppppp
+2022-04-18T06:06:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  119.6,   118.2,  -479.4)
+2022-04-18T06:06:23Z: PLAYER REMOVED [ 2607366536] m1raIol
+2022-04-18T06:06:24Z: PLAYER ADDED   [ 2607366536] m1raIol
+2022-04-18T06:06:27Z: PLAYER CHATTED [  383275247] mariamios            (  116.4,    96.4,  -382.0)
+  LEMME BE HOSY 
+2022-04-18T06:06:30Z: CHRCTER ADDED  [   39086765] cheif2517            (   68.9,   102.5,  -553.6)
+2022-04-18T06:06:31Z: PLAYER CHATTED [  383275247] mariamios            (  116.4,    96.4,  -382.0)
+  Host
+2022-04-18T06:06:34Z: PLAYER CHATTED [  383275247] mariamios            (  116.4,    96.4,  -382.0)
+  NOWWW
+2022-04-18T06:06:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.7,   102.9,  -390.4)
+  Sure.
+2022-04-18T06:06:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  260.1,   101.3,  -398.2)
+2022-04-18T06:06:42Z: CHRCTER ADDED  [  383275247] mariamios            (  119.6,   117.6,  -479.4)
+2022-04-18T06:06:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  280.3,   101.3,  -376.4)
+  Told you I'm bad.
+2022-04-18T06:07:05Z: CHRCTER ADDED  [   59939146] Paradoxxi            (  293.1,   100.2,  -389.7)
+2022-04-18T06:07:06Z: PLAYER CHATTED [  976671681] kuremii              (   39.2,   102.0,  -248.4)
+  /e dance
+2022-04-18T06:07:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  280.3,   101.3,  -376.4)
+  I'm not efficient either.
+2022-04-18T06:07:10Z: PLAYER CHATTED [   82322561] rockturd             (  129.1,    96.6,  -409.2)
+  what is this host
+2022-04-18T06:07:10Z: PLAYER CHATTED [   82322561] rockturd             (  129.1,    96.6,  -409.2)
+  ?
+2022-04-18T06:07:13Z: PLAYER CHATTED [   82322561] rockturd             (  129.1,    96.6,  -409.2)
+  WHY DO THIS
+2022-04-18T06:07:16Z: PLAYER CHATTED [   82322561] rockturd             (  129.1,    96.6,  -409.2)
+  HE WAS SPEECH
+2022-04-18T06:07:29Z: CHRCTER ADDED  [  383275247] mariamios            (  119.6,   117.6,  -479.4)
+2022-04-18T06:07:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  279.0,   101.3,  -376.0)
+  That's just for my pleasure.
+2022-04-18T06:07:46Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    96.6,  -407.8)
+2022-04-18T06:07:47Z: CHRCTER ADDED  [   53221055] draggy553            (   91.9,   107.2,  -489.6)
+2022-04-18T06:08:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  279.0,   101.3,  -376.0)
+  I'm kinda SFK.
+2022-04-18T06:08:02Z: CHRCTER ADDED  [   69037887] Intel_Z              (  163.7,    96.1,  -407.8)
+2022-04-18T06:08:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  279.0,   101.3,  -376.0)
+  AFK.
+2022-04-18T06:08:08Z: PLAYER REMOVED [   59939146] Paradoxxi
+2022-04-18T06:08:09Z: CHRCTER ADDED  [ 1337262829] savator_925          (   66.2,   102.6,  -579.4)
+2022-04-18T06:08:14Z: PLAYER CHATTED [  297645884] thelolingpug         (  -24.2,   102.7,  -408.5)
+  I AM THE TALENT
+2022-04-18T06:08:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  279.0,   101.3,  -376.0)
+  Now I'm back.
+2022-04-18T06:08:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  273.9,   101.2,  -383.2)
+  Chatting in full punctuation is difficult!
+2022-04-18T06:08:49Z: PLAYER REMOVED [   53221055] draggy553
+2022-04-18T06:08:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  okey
+2022-04-18T06:08:51Z: PLAYER ADDED   [  670503488] m0Idyt03s
+2022-04-18T06:08:55Z: CHRCTER ADDED  [ 2788350068] ARUNGUNGUN           (   91.9,   107.1,  -489.6)
+2022-04-18T06:08:55Z: CHRCTER ADDED  [ 1818660087] BLackWhitE_51        (   91.9,   107.1,  -489.6)
+2022-04-18T06:08:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  I don't use a mike.
+2022-04-18T06:09:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  Mine is not connected.
+2022-04-18T06:09:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  My PHONE is the mike.
+2022-04-18T06:09:14Z: PLAYER CHATTED [  297645884] thelolingpug         (  -19.0,   102.7,  -418.8)
+  BYE
+2022-04-18T06:09:18Z: PLAYER CHATTED [  501058894] xxcat_loverxxbackup2 (  280.9,   100.7,  -383.0)
+  mic
+2022-04-18T06:09:18Z: PLAYER CHATTED [ 1357242253] predingus            (  277.1,   100.7,  -382.1)
+  mic
+2022-04-18T06:09:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  To do that, I need to reconnect.
+2022-04-18T06:09:26Z: PLAYER CHATTED [   28556997] destroyer22368       (  -36.2,   102.1,  -409.6)
+  mic muted 4 a sec
+2022-04-18T06:09:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  'Mic' or 'mike'.
+2022-04-18T06:09:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  275.9,   101.3,  -385.5)
+  It's either.
+2022-04-18T06:09:33Z: PLAYER CHATTED [   28556997] destroyer22368       (  -36.2,   102.1,  -409.6)
+  gonna have to log in a  min tho\
+2022-04-18T06:09:37Z: PLAYER REMOVED [ 2607366536] m1raIol
+2022-04-18T06:09:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.4,   101.3,  -384.9)
+  I like 'mike' because it's better when you use 'miking'.
+2022-04-18T06:09:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.4,   101.3,  -384.9)
+  I'm 21.6.
+2022-04-18T06:10:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  'Miking' vs 'micing'.
+2022-04-18T06:10:07Z: CHRCTER ADDED  [ 1477175411] Jasmy114             (  128.8,    96.8,  -402.4)
+2022-04-18T06:10:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I know.
+2022-04-18T06:10:12Z: PLAYER REMOVED [  670503488] m0Idyt03s
+2022-04-18T06:10:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  Roblox is my home.
+2022-04-18T06:10:17Z: PLAYER REMOVED [   28556997] destroyer22368
+2022-04-18T06:10:23Z: PLAYER ADDED   [ 2607366536] m1raIol
+2022-04-18T06:10:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I'm not only 21.
+2022-04-18T06:10:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  No.
+2022-04-18T06:10:37Z: PLAYER ADDED   [  255667224] puppybrayan09
+2022-04-18T06:10:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I'm just weird.
+2022-04-18T06:10:39Z: PLAYER CHATTED [ 3189184242] daixxei              (  121.3,    96.5,  -376.6)
+  .
+2022-04-18T06:10:40Z: CHRCTER ADDED  [ 1818660087] BLackWhitE_51        (  277.1,   100.7,  -389.7)
+2022-04-18T06:10:43Z: CHRCTER ADDED  [ 1477175411] Jasmy114             (  163.7,    97.0,  -407.8)
+2022-04-18T06:10:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  No.
+2022-04-18T06:10:52Z: PLAYER REMOVED [ 2607366536] m1raIol
+2022-04-18T06:10:55Z: PLAYER REMOVED [  255667224] puppybrayan09
+2022-04-18T06:10:57Z: CHRCTER ADDED  [  297645884] thelolingpug         (   91.9,   107.5,  -489.6)
+2022-04-18T06:10:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I've voted in the 2020 US elections.
+2022-04-18T06:10:59Z: CHRCTER ADDED  [ 2788350068] ARUNGUNGUN           (  285.1,   100.7,  -398.2)
+2022-04-18T06:11:01Z: PLAYER CHATTED [  297645884] thelolingpug         (   88.7,   102.9,  -486.6)
+  PUR ITS ME
+2022-04-18T06:11:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  So I'm definitely an adult.
+2022-04-18T06:11:10Z: PLAYER REMOVED [ 3467888346] shaynmya
+2022-04-18T06:11:12Z: PLAYER CHATTED [  297645884] thelolingpug         (  110.7,   102.8,  -409.7)
+  singing
+2022-04-18T06:11:13Z: CHRCTER ADDED  [ 1337262829] savator_925          (   75.9,   102.6,  -566.0)
+2022-04-18T06:11:14Z: PLAYER REMOVED [  976671681] kuremii
+2022-04-18T06:11:15Z: PLAYER ADDED   [  825892327] Daychanelle1
+2022-04-18T06:11:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I'm 21.6.
+2022-04-18T06:11:22Z: PLAYER ADDED   [  255667224] puppybrayan09
+2022-04-18T06:11:22Z: PLAYER CHATTED [  297645884] thelolingpug         (  110.7,   102.8,  -409.7)
+  let me get the lyrics wait
+2022-04-18T06:11:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  And I'm always watching.
+2022-04-18T06:11:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  Only text chats thankfully.
+2022-04-18T06:11:44Z: PLAYER CHATTED [  212501167] BleachRamen          (  129.6,    96.2,  -405.8)
+  /e dance
+2022-04-18T06:12:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  Do you know what exploting is?
+2022-04-18T06:12:02Z: PLAYER REMOVED [  255667224] puppybrayan09
+2022-04-18T06:12:04Z: PLAYER ADDED   [  255667224] puppybrayan09
+2022-04-18T06:12:08Z: CHRCTER ADDED  [  297645884] thelolingpug         (  285.1,   101.1,  -389.7)
+2022-04-18T06:12:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  ExplOITing.
+2022-04-18T06:12:10Z: PLAYER ADDED   [ 3076247574] NUSHOPHEE
+2022-04-18T06:12:16Z: PLAYER CHATTED [  297645884] thelolingpug         (  285.1,   101.1,  -389.7)
+  CANCELLED
+2022-04-18T06:12:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  My keyboard isn't very good.
+2022-04-18T06:12:21Z: PLAYER REMOVED [  255667224] puppybrayan09
+2022-04-18T06:12:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  277.0,   101.3,  -386.2)
+  I can fly and become host on the fly.
+2022-04-18T06:12:28Z: CHRCTER ADDED  [   39086765] cheif2517            (   91.9,   107.1,  -489.6)
+2022-04-18T06:12:38Z: PLAYER CHATTED [   39086765] cheif2517            (  100.3,   102.4,  -412.1)
+  piano
+2022-04-18T06:12:39Z: PLAYER CHATTED [  297645884] thelolingpug         (  178.5,   101.8,  -403.1)
+  CANCELLED
+2022-04-18T06:12:39Z: PLAYER CHATTED [   39086765] cheif2517            (  100.3,   102.4,  -412.1)
+  now
+2022-04-18T06:12:48Z: CHRCTER ADDED  [   39086765] cheif2517            (  285.1,   100.7,  -398.2)
+2022-04-18T06:12:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  274.5,   101.3,  -404.0)
+  Look up JJSploit.
+2022-04-18T06:12:52Z: PLAYER CHATTED [   39086765] cheif2517            (  277.5,   100.7,  -387.3)
+  #####
+2022-04-18T06:13:00Z: CHRCTER ADDED  [  825892327] Daychanelle1         (   91.9,   107.2,  -489.6)
+2022-04-18T06:13:01Z: CHRCTER ADDED  [ 1818660087] BLackWhitE_51        (   60.7,   102.5,  -585.8)
+2022-04-18T06:13:02Z: CHRCTER ADDED  [ 1337262829] savator_925          (   79.1,   102.6,  -571.7)
+2022-04-18T06:13:03Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  260.1,   101.3,  -389.7)
+2022-04-18T06:13:05Z: PLAYER CHATTED [   39086765] cheif2517            (  178.5,   101.4,  -406.0)
+  woman moment
+2022-04-18T06:13:06Z: CHRCTER ADDED  [  297645884] thelolingpug         (   57.5,   103.0,  -580.0)
+2022-04-18T06:13:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  260.1,   101.3,  -388.1)
+  If you get from the right sources, not really.
+2022-04-18T06:13:11Z: PLAYER CHATTED [   39086765] cheif2517            (  178.5,   101.4,  -406.0)
+  sensitive esh
+2022-04-18T06:13:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  278.7,   101.3,  -405.6)
+  Yes.
+2022-04-18T06:13:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  278.7,   101.3,  -405.6)
+  I write most of my own scripts.
+2022-04-18T06:13:48Z: PLAYER REMOVED [ 3076247574] NUSHOPHEE
+2022-04-18T06:13:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  262.9,   101.3,  -405.1)
+  That's jut the injector.
+2022-04-18T06:14:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  262.9,   101.3,  -405.1)
+   I don't use a VPN on Roblox.
+2022-04-18T06:14:04Z: CHRCTER ADDED  [ 2788350068] ARUNGUNGUN           (   60.7,   102.5,  -585.8)
+2022-04-18T06:14:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  258.4,   101.3,  -414.5)
+  I use a proxy.
+2022-04-18T06:14:12Z: PLAYER CHATTED [ 3189184242] daixxei              (  128.3,    96.5,  -385.5)
+  doremifasollatido
+2022-04-18T06:14:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  266.8,   101.3,  -412.8)
+  Not nearly as secure,
+2022-04-18T06:14:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  266.8,   101.3,  -412.8)
+  For 2embed.
+2022-04-18T06:14:24Z: PLAYER ADDED   [ 2714076615] saymeowvel
+2022-04-18T06:14:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  277.1,   101.3,  -398.2)
+2022-04-18T06:14:48Z: PLAYER ADDED   [ 3076247574] NUSHOPHEE
+2022-04-18T06:14:49Z: CHRCTER ADDED  [  825892327] Daychanelle1         (  277.1,   100.2,  -406.6)
+2022-04-18T06:14:49Z: CHRCTER ADDED  [  297645884] thelolingpug         (   91.9,   107.5,  -489.6)
+2022-04-18T06:14:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  272.3,   101.3,  -405.4)
+  Windows Defender exemptions.
+2022-04-18T06:15:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  293.1,   101.3,  -398.2)
+2022-04-18T06:15:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   73.6,   103.1,  -578.1)
+2022-04-18T06:15:29Z: PLAYER REMOVED [  825892327] Daychanelle1
+2022-04-18T06:15:42Z: PLAYER ADDED   [  825892327] Daychanelle1
+2022-04-18T06:15:58Z: CHRCTER ADDED  [  297645884] thelolingpug         (  277.1,   101.1,  -406.6)
+2022-04-18T06:16:21Z: CHRCTER ADDED  [ 3076247574] NUSHOPHEE            (   91.9,   106.9,  -489.6)
+2022-04-18T06:16:54Z: PLAYER REMOVED [ 3076247574] NUSHOPHEE
+2022-04-18T06:17:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.9,   107.7,  -489.6)
+2022-04-18T06:17:02Z: CHRCTER ADDED  [  297645884] thelolingpug         (   60.7,   103.0,  -585.8)
+2022-04-18T06:17:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   91.9,   103.1,  -489.6)
+  Hi.
+2022-04-18T06:17:23Z: CHRCTER ADDED  [ 1337262829] savator_925          (   68.9,   102.6,  -553.6)
+2022-04-18T06:17:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.5,   109.9,  -407.0)
+  Flying.
+2022-04-18T06:17:33Z: PLAYER CHATTED [  297645884] thelolingpug         (  100.5,   103.0,  -529.2)
+  /e dance
+2022-04-18T06:17:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   75.9,   103.1,  -566.0)
+2022-04-18T06:17:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   57.5,   103.1,  -580.0)
+2022-04-18T06:17:41Z: CHRCTER ADDED  [ 2714076615] saymeowvel           (   91.9,   106.9,  -489.6)
+2022-04-18T06:17:50Z: PLAYER REMOVED [ 2714076615] saymeowvel
+2022-04-18T06:18:04Z: PLAYER REMOVED [ 1357242253] predingus
+2022-04-18T06:18:07Z: PLAYER REMOVED [  501058894] xxcat_loverxxbackup2
+2022-04-18T06:18:15Z: CHRCTER ADDED  [  825892327] Daychanelle1         (   91.9,   107.2,  -489.6)
+2022-04-18T06:18:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   50.5,   103.1,  -567.7)
+2022-04-18T06:18:16Z: CHRCTER ADDED  [ 1337262829] savator_925          (   79.1,   102.6,  -571.7)
+2022-04-18T06:18:25Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   60.7,   103.1,  -585.8)
+2022-04-18T06:18:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   54.3,   103.1,  -574.4)
+2022-04-18T06:18:45Z: PLAYER REMOVED [   39086765] cheif2517
+2022-04-18T06:19:08Z: PLAYER ADDED   [  206174944] Axume
+2022-04-18T06:19:09Z: PLAYER ADDED   [ 2714076615] saymeowvel
+2022-04-18T06:19:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   79.1,   103.1,  -571.7)
+2022-04-18T06:19:33Z: PLAYER ADDED   [ 3076247574] NUSHOPHEE
+2022-04-18T06:19:34Z: CHRCTER ADDED  [  825892327] Daychanelle1         (  277.1,   100.2,  -398.2)
+2022-04-18T06:19:37Z: CHRCTER ADDED  [  297645884] thelolingpug         (   91.9,   107.5,  -489.6)
+2022-04-18T06:19:38Z: PLAYER REMOVED [  825892327] Daychanelle1
+2022-04-18T06:19:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  119.7,    96.9,  -404.0)
+  Int!
+2022-04-18T06:19:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  119.8,    97.1,  -404.0)
+  As in integer?
+2022-04-18T06:20:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  127.1,    97.0,  -399.8)
+  I like float better.
+2022-04-18T06:20:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  124.5,    71.0,  -401.2)
+  All numbers in Lua are floats.
+2022-04-18T06:20:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   75.9,   103.1,  -566.0)
+2022-04-18T06:20:38Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   50.5,   103.1,  -567.7)
+2022-04-18T06:21:28Z: CHRCTER ADDED  [  297645884] thelolingpug         (  285.1,   101.1,  -398.2)
+2022-04-18T06:21:33Z: PLAYER REMOVED [  297645884] thelolingpug
+2022-04-18T06:21:33Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.9,   107.7,  -489.6)
+2022-04-18T06:21:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  127.9,    97.0,  -412.1)
+  Hi.
+2022-04-18T06:21:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  129.4,   104.2,  -418.3)
+  I am not a HOLE person.
+2022-04-18T06:22:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  129.4,   104.2,  -418.3)
+  I am a WHOLE plugin!
+2022-04-18T06:22:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.9,   107.7,  -489.6)
+2022-04-18T06:22:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   91.9,   107.7,  -489.6)
+2022-04-18T06:22:28Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   54.3,   103.1,  -574.4)
+2022-04-18T06:22:37Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 1477175411] Jasmy114
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 1337262829] savator_925
+2022-04-18T06:22:37Z: PLAYER REMOVED [  212501167] BleachRamen
+2022-04-18T06:22:37Z: PLAYER REMOVED [  383275247] mariamios
+2022-04-18T06:22:37Z: PLAYER REMOVED [   69037887] Intel_Z
+2022-04-18T06:22:37Z: PLAYER REMOVED [   82322561] rockturd
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 2788350068] ARUNGUNGUN
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 1818660087] BLackWhitE_51
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 3189184242] daixxei
+2022-04-18T06:22:37Z: PLAYER REMOVED [   32387683] ninjaunicorn66
+2022-04-18T06:22:37Z: PLAYER REMOVED [  206174944] Axume
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 2714076615] saymeowvel
+2022-04-18T06:22:37Z: PLAYER REMOVED [ 3076247574] NUSHOPHEE
+2022-04-18T06:22:37Z: CHAT STREAM SUCCESSFULLY ENDED

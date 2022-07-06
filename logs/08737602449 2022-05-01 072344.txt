@@ -1,0 +1,684 @@
+[    1630228] : [ 8737602449] PLS DONATE 💸 - b8712670-4868-4568-8f0a-491b21e9dc0e
+2022-05-01T07:23:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-01T07:23:45Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-01T07:23:45Z: PLAYER ADDED   [   51788964] fastrider7
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 3366471949] Ro_PrismomanScript
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 2409029310] furvez
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 2620022601] macan_totol
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 1464688865] B1oodyRos3
+2022-05-01T07:23:45Z: PLAYER ADDED   [  307273459] asyasu1
+2022-05-01T07:23:45Z: PLAYER ADDED   [  965808762] MagikGnome
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 1223237233] 123xdmoi
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 1513858932] Flamedancer12346
+2022-05-01T07:23:45Z: PLAYER ADDED   [  317501536] gavril4161
+2022-05-01T07:23:45Z: PLAYER ADDED   [   70165881] Mixxars
+2022-05-01T07:23:45Z: PLAYER ADDED   [  858345693] JoyDog76
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 2622533500] GalactisBeastAgain
+2022-05-01T07:23:45Z: PLAYER ADDED   [  145283253] RaspyEliteultra
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 2989313986] xSevamonster
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 1596480064] sergio123rrr
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 3045778522] gonza_juan8
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 3427648266] j4strr
+2022-05-01T07:23:45Z: PLAYER ADDED   [  692800327] jjjohi689
+2022-05-01T07:23:45Z: PLAYER ADDED   [ 2720252046] catito212
+2022-05-01T07:23:57Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:23:59Z: PLAYER REMOVED [ 1596480064] sergio123rrr
+2022-05-01T07:24:03Z: PLAYER ADDED   [  693163437] iCatKyo
+2022-05-01T07:24:27Z: PLAYER ADDED   [ 1211187221] elchalitojr1
+2022-05-01T07:24:31Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:24:42Z: PLAYER ADDED   [  684188353] alex_gamer664
+2022-05-01T07:24:49Z: PLAYER REMOVED [  693163437] iCatKyo
+2022-05-01T07:24:57Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:25:03Z: PLAYER REMOVED [ 3045778522] gonza_juan8
+2022-05-01T07:25:29Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:26:08Z: PLAYER CHATTED [  684188353] alex_gamer664        (   84.4,     3.7,    52.1)
+  #### #### ._.
+2022-05-01T07:26:11Z: PLAYER CHATTED [  684188353] alex_gamer664        (   84.4,     3.7,    52.1)
+  ####
+2022-05-01T07:26:21Z: PLAYER ADDED   [ 2972627873] zero5wo0
+2022-05-01T07:26:26Z: PLAYER CHATTED [  684188353] alex_gamer664        (   84.4,     3.7,    52.1)
+  everyone has. very high amount 
+2022-05-01T07:26:40Z: PLAYER ADDED   [ 3299922817] carsonplaysreal
+2022-05-01T07:26:50Z: PLAYER ADDED   [ 1788840154] Clash_066
+2022-05-01T07:26:50Z: PLAYER CHATTED [ 1211187221] elchalitojr1         (   60.7,     4.3,   171.0)
+  :(
+2022-05-01T07:26:52Z: PLAYER REMOVED [ 3299922817] carsonplaysreal
+2022-05-01T07:26:57Z: PLAYER CHATTED [  684188353] alex_gamer664        (   19.4,     3.9,   166.8)
+  19k
+2022-05-01T07:27:01Z: PLAYER CHATTED [  684188353] alex_gamer664        (   19.4,     3.9,   166.8)
+  ._____.
+2022-05-01T07:27:10Z: PLAYER REMOVED [ 1788840154] Clash_066
+2022-05-01T07:27:12Z: PLAYER CHATTED [ 1211187221] elchalitojr1         (   61.2,     4.3,   170.4)
+  I help you spiderman
+2022-05-01T07:27:39Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:27:55Z: PLAYER REMOVED [ 1211187221] elchalitojr1
+2022-05-01T07:28:11Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:28:13Z: PLAYER ADDED   [ 2987982828] OFE_Smn
+2022-05-01T07:28:18Z: PLAYER ADDED   [  378181848] damiwyd
+2022-05-01T07:28:21Z: PLAYER CHATTED [  684188353] alex_gamer664        (  101.5,     3.7,    94.0)
+  waaaaaaaaaaaaaaa
+2022-05-01T07:28:47Z: PLAYER ADDED   [ 3372498864] cami9_312013
+2022-05-01T07:28:48Z: PLAYER CHATTED [  684188353] alex_gamer664        (  100.6,     3.7,    96.4)
+  What happens in this game ._. 
+2022-05-01T07:29:01Z: PLAYER CHATTED [ 2720252046] catito212            (   94.7,     3.0,   161.1)
+  xd
+2022-05-01T07:29:10Z: PLAYER ADDED   [  420461052] xj3susxdx
+2022-05-01T07:29:11Z: PLAYER CHATTED [ 3372498864] cami9_312013         (   90.8,     2.9,   158.0)
+  wuenas
+2022-05-01T07:29:15Z: PLAYER CHATTED [ 2720252046] catito212            (   94.7,     3.0,   161.1)
+  hola
+2022-05-01T07:29:18Z: PLAYER CHATTED [ 2720252046] catito212            (   94.7,     3.0,   161.1)
+  lesu
+2022-05-01T07:29:19Z: PLAYER REMOVED [  378181848] damiwyd
+2022-05-01T07:29:24Z: PLAYER CHATTED [ 2720252046] catito212            (   93.0,     3.0,   153.1)
+  aqui donde dise 1
+2022-05-01T07:29:29Z: PLAYER CHATTED [  420461052] xj3susxdx            (   91.9,     3.4,   152.8)
+  Ya
+2022-05-01T07:29:30Z: PLAYER REMOVED [ 2972627873] zero5wo0
+2022-05-01T07:29:35Z: PLAYER CHATTED [ 2720252046] catito212            (   95.5,     3.0,   150.8)
+  gracias bro
+2022-05-01T07:29:42Z: PLAYER CHATTED [  420461052] xj3susxdx            (   91.9,     3.4,   152.8)
+  De nada bro
+2022-05-01T07:29:49Z: PLAYER REMOVED [  307273459] asyasu1
+2022-05-01T07:29:53Z: PLAYER CHATTED [ 2720252046] catito212            (   89.1,     3.4,   151.4)
+  vamos a otro juego
+2022-05-01T07:29:55Z: PLAYER CHATTED [  420461052] xj3susxdx            (   91.9,     3.4,   152.8)
+  Si
+2022-05-01T07:29:55Z: PLAYER ADDED   [ 2251974676] RJBOSS_525
+2022-05-01T07:29:59Z: PLAYER REMOVED [  420461052] xj3susxdx
+2022-05-01T07:29:59Z: PLAYER CHATTED [ 2720252046] catito212            (   89.0,     3.3,   151.4)
+  ok
+2022-05-01T07:30:07Z: PLAYER CHATTED [ 2720252046] catito212            (   87.2,     3.3,   148.8)
+  vamos cami
+2022-05-01T07:30:07Z: PLAYER ADDED   [  363171711] PewPewPuppie
+2022-05-01T07:30:09Z: PLAYER REMOVED [ 2720252046] catito212
+2022-05-01T07:30:11Z: PLAYER CHATTED [  684188353] alex_gamer664        (   94.0,     4.0,   147.5)
+  tengo # :v
+2022-05-01T07:30:17Z: PLAYER ADDED   [  693163437] iCatKyo
+2022-05-01T07:30:29Z: PLAYER CHATTED [  684188353] alex_gamer664        (   54.5,     4.3,   170.5)
+  ##
+2022-05-01T07:30:31Z: PLAYER CHATTED [ 3372498864] cami9_312013         (   80.3,     3.7,   150.9)
+  donde estas 
+2022-05-01T07:30:35Z: PLAYER CHATTED [ 3372498864] cami9_312013         (   80.3,     3.7,   150.9)
+  ?
+2022-05-01T07:30:36Z: PLAYER REMOVED [  693163437] iCatKyo
+2022-05-01T07:30:37Z: PLAYER ADDED   [ 1409727187] isabellan127
+2022-05-01T07:30:41Z: PLAYER ADDED   [  454990596] FatCheeksYT
+2022-05-01T07:30:43Z: PLAYER ADDED   [  952772830] chreist2nd
+2022-05-01T07:31:11Z: PLAYER CHATTED [ 3372498864] cami9_312013         (   61.1,     3.7,   161.9)
+  raptor????
+2022-05-01T07:31:36Z: PLAYER CHATTED [  684188353] alex_gamer664        (   50.4,     4.2,    31.5)
+  hey
+2022-05-01T07:31:37Z: PLAYER ADDED   [ 3399845152] SignpoopXD
+2022-05-01T07:31:46Z: PLAYER CHATTED [  684188353] alex_gamer664        (   50.4,     4.2,    31.5)
+  donateme pls :"3
+2022-05-01T07:31:47Z: PLAYER ADDED   [  420970602] shermq01
+2022-05-01T07:31:54Z: PLAYER CHATTED [ 3399845152] SignpoopXD           (   14.2,     3.5,    55.4)
+  hi
+2022-05-01T07:32:02Z: PLAYER REMOVED [ 3372498864] cami9_312013
+2022-05-01T07:32:03Z: PLAYER CHATTED [  684188353] alex_gamer664        (   82.3,     4.3,    57.8)
+  hi
+2022-05-01T07:32:05Z: PLAYER REMOVED [  952772830] chreist2nd
+2022-05-01T07:32:05Z: PLAYER REMOVED [  454990596] FatCheeksYT
+2022-05-01T07:32:19Z: PLAYER ADDED   [ 1828460899] otu023
+2022-05-01T07:32:21Z: PLAYER REMOVED [ 3399845152] SignpoopXD
+2022-05-01T07:32:23Z: PLAYER REMOVED [ 2251974676] RJBOSS_525
+2022-05-01T07:32:32Z: PLAYER REMOVED [  363171711] PewPewPuppie
+2022-05-01T07:32:36Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:32:37Z: PLAYER ADDED   [ 1517549759] ShlokLegend1
+2022-05-01T07:32:46Z: PLAYER REMOVED [ 1828460899] otu023
+2022-05-01T07:32:55Z: PLAYER CHATTED [ 1409727187] isabellan127         (  -15.2,     3.2,    45.9)
+  Donate 5 robox and all jump 20 times 
+2022-05-01T07:32:59Z: PLAYER CHATTED [  684188353] alex_gamer664        (   52.1,     3.7,   107.0)
+  hi
+2022-05-01T07:33:09Z: PLAYER CHATTED [  684188353] alex_gamer664        (   52.0,     3.8,   104.8)
+  i sell shirt
+2022-05-01T07:33:44Z: PLAYER CHATTED [  684188353] alex_gamer664        (  101.8,     3.7,    92.1)
+  Ve do #### ;-;
+2022-05-01T07:34:10Z: PLAYER ADDED   [ 3499807494] xxx_darwin10
+2022-05-01T07:34:22Z: PLAYER ADDED   [ 2610066078] cabijeric15
+2022-05-01T07:34:25Z: PLAYER CHATTED [ 1409727187] isabellan127         (  -16.5,     3.2,    47.8)
+  Donate 5 robox and all jump 20 times
+2022-05-01T07:34:25Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:34:29Z: PLAYER CHATTED [ 3499807494] xxx_darwin10         (   79.5,     3.3,   156.1)
+  hi
+2022-05-01T07:34:35Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (   82.6,     3.5,   158.4)
+  sorry i cant donate
+2022-05-01T07:34:39Z: PLAYER ADDED   [ 1007393226] karibus25
+2022-05-01T07:34:40Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (   85.7,     3.5,   155.6)
+  im broke
+2022-05-01T07:34:41Z: PLAYER CHATTED [ 2610066078] cabijeric15          (  -23.8,     3.9,    83.5)
+  hi
+2022-05-01T07:34:43Z: PLAYER REMOVED [  692800327] jjjohi689
+2022-05-01T07:34:47Z: PLAYER REMOVED [ 3499807494] xxx_darwin10
+2022-05-01T07:34:47Z: PLAYER CHATTED [ 2610066078] cabijeric15          (  -28.6,    15.3,    73.7)
+  could you visit my stand?
+2022-05-01T07:35:11Z: PLAYER REMOVED [ 2610066078] cabijeric15
+2022-05-01T07:35:24Z: PLAYER ADDED   [  953670336] litle_boy1200
+2022-05-01T07:35:53Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -23.6,     3.0,   149.2)
+  hi
+2022-05-01T07:35:59Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -20.6,     3.0,   150.4)
+  how may i help
+2022-05-01T07:36:13Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.2,     3.0,   149.1)
+  may i help 
+2022-05-01T07:36:14Z: PLAYER CHATTED [ 1409727187] isabellan127         (   -9.9,    15.2,    47.2)
+  Donate and all jump 20 times
+2022-05-01T07:36:21Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.2,     3.0,   149.1)
+  its all legit
+2022-05-01T07:36:22Z: PLAYER CHATTED [ 1007393226] karibus25            (   52.6,     3.0,    28.4)
+  sir plss po donate me 
+2022-05-01T07:36:24Z: PLAYER CHATTED [  684188353] alex_gamer664        (  -15.0,     3.4,   146.7)
+  ;-; I only traded the robux of my outfit 
+2022-05-01T07:36:27Z: PLAYER ADDED   [ 2791693255] rip_Bear124
+2022-05-01T07:36:32Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.2,     3.0,   149.1)
+  ??
+2022-05-01T07:36:35Z: PLAYER CHATTED [ 1409727187] isabellan127         (   -9.9,    15.2,    47.2)
+  Donate and all jump 20 times
+2022-05-01T07:36:35Z: PLAYER CHATTED [ 1007393226] karibus25            (   53.1,     3.0,    27.3)
+  :(
+2022-05-01T07:36:46Z: PLAYER CHATTED [ 1007393226] karibus25            (    5.9,     2.8,   111.4)
+  v
+2022-05-01T07:36:49Z: PLAYER CHATTED [ 1007393226] karibus25            (   34.4,     3.3,   109.8)
+  sir plss po donate me 
+2022-05-01T07:37:02Z: PLAYER CHATTED [ 1007393226] karibus25            (   35.8,     3.3,   108.8)
+  sir plss po 
+2022-05-01T07:37:04Z: PLAYER CHATTED [ 1409727187] isabellan127         (   -9.9,    15.2,    47.2)
+  Donate and all jump 20 times
+2022-05-01T07:37:06Z: PLAYER CHATTED [ 1007393226] karibus25            (   39.2,     3.3,   110.0)
+  :(
+2022-05-01T07:37:10Z: PLAYER REMOVED [ 2791693255] rip_Bear124
+2022-05-01T07:37:16Z: PLAYER ADDED   [  342143197] clashroyalezgj
+2022-05-01T07:37:18Z: PLAYER CHATTED [ 1007393226] karibus25            (   45.9,     3.3,   111.5)
+  T-T
+2022-05-01T07:37:26Z: PLAYER REMOVED [  342143197] clashroyalezgj
+2022-05-01T07:37:41Z: PLAYER CHATTED [ 1007393226] karibus25            (   18.7,     2.3,     3.7)
+  sir akopo
+2022-05-01T07:37:47Z: PLAYER CHATTED [ 1007393226] karibus25            (   -2.6,     3.3,    51.2)
+  sir ako po
+2022-05-01T07:37:52Z: PLAYER CHATTED [ 1007393226] karibus25            (   -1.6,     3.3,    51.6)
+  plss
+2022-05-01T07:37:53Z: PLAYER REMOVED [ 2987982828] OFE_Smn
+2022-05-01T07:37:58Z: PLAYER CHATTED [ 1007393226] karibus25            (   -2.0,     3.3,    52.8)
+  come p osir
+2022-05-01T07:38:02Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:38:08Z: PLAYER CHATTED [  684188353] alex_gamer664        (   27.0,     3.7,    42.1)
+  I sell sweater 
+2022-05-01T07:38:14Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:38:17Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:38:20Z: PLAYER CHATTED [ 1007393226] karibus25            (    6.3,     3.0,   167.9)
+  plss po sir
+2022-05-01T07:38:25Z: PLAYER CHATTED [ 1007393226] karibus25            (    6.3,     3.0,   167.9)
+  12
+2022-05-01T07:38:27Z: PLAYER REMOVED [  965808762] MagikGnome
+2022-05-01T07:38:31Z: PLAYER CHATTED [ 1007393226] karibus25            (    6.3,     3.0,   167.9)
+  ty
+2022-05-01T07:38:32Z: PLAYER CHATTED [  684188353] alex_gamer664        (   12.4,     3.8,   159.1)
+  buy me a sweater pls 
+2022-05-01T07:38:41Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:38:43Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:38:46Z: PLAYER ADDED   [  693163437] iCatKyo
+2022-05-01T07:38:52Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:38:55Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:39:02Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:39:07Z: PLAYER CHATTED [  684188353] alex_gamer664        (  -12.0,     3.7,    61.8)
+  ;-;
+2022-05-01T07:39:08Z: PLAYER ADDED   [  867483438] jake167511
+2022-05-01T07:39:09Z: PLAYER ADDED   [ 1596480064] sergio123rrr
+2022-05-01T07:39:14Z: PLAYER CHATTED [  684188353] alex_gamer664        (  -12.0,     3.7,    61.8)
+  o :D
+2022-05-01T07:39:15Z: PLAYER ADDED   [ 3403019155] itzme_ashleyxX
+2022-05-01T07:39:19Z: PLAYER CHATTED [  684188353] alex_gamer664        (  -12.0,     3.7,    61.8)
+  thaaaaaanks
+2022-05-01T07:39:37Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   18.9,     3.1,   169.7)
+  hi sir
+2022-05-01T07:39:46Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   18.9,     3.1,   169.7)
+  mind helping me reach my goal?
+2022-05-01T07:39:49Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   18.9,     3.1,   169.7)
+  please
+2022-05-01T07:40:08Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   18.9,     3.1,   169.7)
+  please sir
+2022-05-01T07:40:21Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   95.8,     3.0,    64.7)
+  hi ya'll
+2022-05-01T07:40:30Z: PLAYER REMOVED [ 1596480064] sergio123rrr
+2022-05-01T07:40:30Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   94.9,     3.0,    57.6)
+  mind helping me reach my goal?
+2022-05-01T07:40:39Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   96.1,     3.1,    58.2)
+  please
+2022-05-01T07:40:43Z: PLAYER CHATTED [ 1409727187] isabellan127         (  -11.4,    15.3,    48.5)
+  Donate and all jump 20 times 
+2022-05-01T07:40:44Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   95.0,     3.0,    61.9)
+  sir
+2022-05-01T07:40:58Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   89.8,     3.0,    83.7)
+  can you please donate me?
+2022-05-01T07:41:05Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   63.6,     3.6,   168.3)
+  sir
+2022-05-01T07:41:08Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   63.6,     3.6,   168.3)
+  like 10
+2022-05-01T07:41:08Z: PLAYER CHATTED [  953670336] litle_boy1200        (   61.4,     3.3,   165.2)
+  k
+2022-05-01T07:41:13Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (   63.6,     3.6,   168.3)
+  ocome
+2022-05-01T07:41:22Z: PLAYER REMOVED [ 1007393226] karibus25
+2022-05-01T07:41:27Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (    7.0,     2.7,    35.6)
+  here
+2022-05-01T07:41:36Z: PLAYER REMOVED [ 1409727187] isabellan127
+2022-05-01T07:41:39Z: PLAYER REMOVED [  953670336] litle_boy1200
+2022-05-01T07:41:47Z: PLAYER CHATTED [ 3403019155] itzme_ashleyxX       (    5.7,     2.7,    32.4)
+  oh he left -_-
+2022-05-01T07:41:55Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:41:58Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:42:00Z: PLAYER REMOVED [ 3403019155] itzme_ashleyxX
+2022-05-01T07:42:03Z: PLAYER ADDED   [ 2416946951] MarlonDaluzPH
+2022-05-01T07:42:27Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -23.6,     3.0,   147.4)
+  hi
+2022-05-01T07:42:41Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -16.7,     3.0,   149.0)
+  consider donating
+2022-05-01T07:42:47Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -15.8,     3.0,   148.6)
+  thx
+2022-05-01T07:42:51Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:43:02Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:43:05Z: CHRCTER ADDED  [  423131397] zombiezcom           (   54.8,     6.9,   101.9)
+2022-05-01T07:43:10Z: PLAYER REMOVED [ 2416946951] MarlonDaluzPH
+2022-05-01T07:43:11Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:43:14Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:43:15Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:43:29Z: PLAYER ADDED   [ 1721016755] eboyelias12
+2022-05-01T07:43:41Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.9,     3.0,   149.5)
+  hello
+2022-05-01T07:43:45Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.9,     3.0,   149.5)
+  consider donating
+2022-05-01T07:43:48Z: PLAYER ADDED   [  837459435] ELPATOMAN12
+2022-05-01T07:43:58Z: PLAYER CHATTED [  423131397] zombiezcom           (  -13.7,     3.6,   146.5)
+  not pick inglis 
+2022-05-01T07:44:00Z: PLAYER CHATTED [ 1721016755] eboyelias12          (   99.7,     3.6,    60.4)
+  hi can you read my sign
+2022-05-01T07:44:02Z: PLAYER CHATTED [  423131397] zombiezcom           (  -13.7,     3.6,   146.5)
+  U.U
+2022-05-01T07:44:06Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.9,     3.0,   149.5)
+  oo
+2022-05-01T07:44:09Z: PLAYER CHATTED [  423131397] zombiezcom           (  -13.7,     3.6,   146.5)
+  español
+2022-05-01T07:44:28Z: PLAYER REMOVED [ 1721016755] eboyelias12
+2022-05-01T07:44:32Z: PLAYER ADDED   [ 2579767658] naranchxas
+2022-05-01T07:44:32Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.6,     3.0,   149.8)
+  
+Considere donar
+2022-05-01T07:44:42Z: CHRCTER ADDED  [  837459435] ELPATOMAN12          (   42.1,     6.9,    89.3)
+2022-05-01T07:44:48Z: PLAYER CHATTED [  423131397] zombiezcom           (  -14.0,     3.9,   144.9)
+  I can't find servers in español 
+2022-05-01T07:44:54Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -16.7,     3.0,   148.7)
+  estoy usando el traductor de google
+2022-05-01T07:44:59Z: PLAYER CHATTED [  423131397] zombiezcom           (  -12.7,     3.9,   145.3)
+  x2
+2022-05-01T07:45:00Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -17.0,     3.0,   148.6)
+  :)
+2022-05-01T07:45:16Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:45:25Z: PLAYER ADDED   [  584434310] ace_dapo123
+2022-05-01T07:45:26Z: PLAYER REMOVED [ 2579767658] naranchxas
+2022-05-01T07:45:38Z: PLAYER ADDED   [ 2579767658] naranchxas
+2022-05-01T07:45:41Z: PLAYER ADDED   [ 3184475787] kitsweer
+2022-05-01T07:45:42Z: PLAYER REMOVED [  684188353] alex_gamer664
+2022-05-01T07:45:55Z: PLAYER CHATTED [ 3184475787] kitsweer             (   59.5,     3.6,    31.9)
+  hi sir
+2022-05-01T07:46:07Z: PLAYER REMOVED [  837459435] ELPATOMAN12
+2022-05-01T07:46:09Z: PLAYER CHATTED [  584434310] ace_dapo123          (   53.0,     3.6,    36.3)
+  kinsa ni
+2022-05-01T07:46:13Z: PLAYER CHATTED [ 3184475787] kitsweer             (   55.9,     4.2,    32.0)
+  pless 
+2022-05-01T07:46:15Z: PLAYER REMOVED [  317501536] gavril4161
+2022-05-01T07:46:22Z: PLAYER CHATTED [  584434310] ace_dapo123          (   53.0,     3.6,    36.3)
+  kinsa ni
+2022-05-01T07:46:24Z: PLAYER CHATTED [ 3184475787] kitsweer             (   54.5,     3.8,    33.5)
+  pless 
+2022-05-01T07:46:27Z: PLAYER REMOVED [ 2579767658] naranchxas
+2022-05-01T07:46:35Z: PLAYER CHATTED [ 3184475787] kitsweer             (   60.3,     3.7,    30.9)
+  donated me
+2022-05-01T07:46:42Z: PLAYER REMOVED [  584434310] ace_dapo123
+2022-05-01T07:46:59Z: PLAYER CHATTED [ 3184475787] kitsweer             (   60.3,     3.2,    31.0)
+  pless donate 10 rubox
+2022-05-01T07:47:14Z: PLAYER CHATTED [  867483438] jake167511           (  -27.3,    15.0,   129.7)
+  /e dance
+2022-05-01T07:47:35Z: PLAYER CHATTED [ 3184475787] kitsweer             (   60.3,     3.2,    31.1)
+  pless donate mi
+2022-05-01T07:47:46Z: PLAYER CHATTED [ 3184475787] kitsweer             (   53.5,     3.2,    26.4)
+  pless sir
+2022-05-01T07:48:16Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.7,     3.0,    92.7)
+  hi
+2022-05-01T07:48:20Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.7,     3.0,    92.7)
+  consider donating
+2022-05-01T07:48:21Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  hi sir
+2022-05-01T07:48:23Z: PLAYER REMOVED [ 1464688865] B1oodyRos3
+2022-05-01T07:48:27Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  yes
+2022-05-01T07:48:33Z: PLAYER ADDED   [ 1689150592] mikecrack03023
+2022-05-01T07:48:41Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  pless donate mi 20 rubox
+2022-05-01T07:48:49Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  plesssssssss
+2022-05-01T07:48:52Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  sir
+2022-05-01T07:48:52Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.7,     3.0,    92.7)
+  im broke rn , 0 robuz i have
+2022-05-01T07:49:25Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -29.7,     3.8,    93.7)
+  pless 10 rubox
+2022-05-01T07:49:34Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -33.7,     3.0,    91.9)
+  i have no robux
+2022-05-01T07:49:48Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -30.8,     3.4,    94.5)
+  ####################
+2022-05-01T07:49:54Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (  -19.7,     3.7,   102.2)
+  hello
+2022-05-01T07:49:58Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -20.8,     3.9,    99.9)
+  hi
+2022-05-01T07:49:59Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (  -26.5,     3.3,    97.9)
+  me donate
+2022-05-01T07:50:00Z: PLAYER ADDED   [ 1332505060] Familiamerna13
+2022-05-01T07:50:00Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -33.7,     3.0,    91.9)
+  hello
+2022-05-01T07:50:08Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -33.7,     3.0,    91.9)
+  consider donating
+2022-05-01T07:50:11Z: PLAYER CHATTED [ 3184475787] kitsweer             (  -27.8,     4.0,    94.7)
+  pless donated mi 
+2022-05-01T07:50:16Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (  -27.5,     3.3,    98.6)
+  ok
+2022-05-01T07:50:29Z: PLAYER CHATTED [ 3184475787] kitsweer             (   81.5,     4.0,   162.7)
+  hi mam
+2022-05-01T07:50:30Z: PLAYER ADDED   [ 2316758531] Papu_Uniko
+2022-05-01T07:50:41Z: PLAYER CHATTED [ 3184475787] kitsweer             (   81.5,     4.0,   162.7)
+  pless donate mi 10 rubox
+2022-05-01T07:50:46Z: PLAYER ADDED   [ 3106005228] COJEGALLINAS28
+2022-05-01T07:50:57Z: PLAYER ADDED   [  177498267] hello10615
+2022-05-01T07:51:08Z: PLAYER CHATTED [ 3184475787] kitsweer             (  103.8,     3.2,   142.9)
+  hi mam
+2022-05-01T07:51:35Z: PLAYER CHATTED [ 3184475787] kitsweer             (  103.8,     3.2,   142.9)
+  pless donate mi 10 rubox ate catowah
+2022-05-01T07:51:36Z: PLAYER REMOVED [  177498267] hello10615
+2022-05-01T07:51:39Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:51:44Z: PLAYER ADDED   [ 3497750852] keziahHAHA1
+2022-05-01T07:51:51Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:52:11Z: PLAYER CHATTED [ 3184475787] kitsweer             (   82.3,     3.8,    40.5)
+  ples donate mi sir
+2022-05-01T07:52:16Z: PLAYER CHATTED [ 3184475787] kitsweer             (   82.3,     3.8,    40.5)
+  hi sir
+2022-05-01T07:52:19Z: PLAYER REMOVED [ 2316758531] Papu_Uniko
+2022-05-01T07:52:20Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:52:21Z: PLAYER REMOVED [  420970602] shermq01
+2022-05-01T07:52:22Z: PLAYER ADDED   [ 1983008450] 1kav01
+2022-05-01T07:52:30Z: PLAYER REMOVED [ 3497750852] keziahHAHA1
+2022-05-01T07:52:31Z: PLAYER CHATTED [ 3184475787] kitsweer             (   97.9,     3.8,    59.5)
+  hi sir
+2022-05-01T07:52:32Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:52:38Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:52:45Z: PLAYER CHATTED [ 3184475787] kitsweer             (   97.6,     3.7,    59.9)
+  pless donate mi 
+2022-05-01T07:52:45Z: PLAYER CHATTED [ 1983008450] 1kav01               (   96.7,     3.3,    99.5)
+  I’m trying to get an axolotl suit.. could you donate me? :D
+2022-05-01T07:52:57Z: PLAYER REMOVED [  693163437] iCatKyo
+2022-05-01T07:53:00Z: PLAYER REMOVED [ 1689150592] mikecrack03023
+2022-05-01T07:53:04Z: PLAYER ADDED   [ 2931542359] gmili10
+2022-05-01T07:53:05Z: PLAYER CHATTED [ 3184475787] kitsweer             (   95.7,     3.5,    99.1)
+  hi is
+2022-05-01T07:53:10Z: PLAYER ADDED   [ 1689150592] mikecrack03023
+2022-05-01T07:53:12Z: PLAYER REMOVED [ 3184475787] kitsweer
+2022-05-01T07:53:13Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:53:27Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:53:28Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -33.4,     3.0,    91.9)
+  hi
+2022-05-01T07:53:31Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   90.7,     3.3,   110.6)
+  hello
+2022-05-01T07:53:33Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -31.9,     3.0,    92.8)
+  consider donating
+2022-05-01T07:53:33Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:53:34Z: PLAYER REMOVED [ 1983008450] 1kav01
+2022-05-01T07:53:36Z: PLAYER ADDED   [ 1983008450] 1kav01
+2022-05-01T07:53:39Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -31.9,     3.0,    92.8)
+  :)
+2022-05-01T07:53:39Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:53:42Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:53:44Z: PLAYER CHATTED [  867483438] jake167511           (  -11.4,     3.3,    74.6)
+  hi sir
+2022-05-01T07:53:48Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:53:50Z: PLAYER ADDED   [  423131397] zombiezcom
+2022-05-01T07:53:52Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (    7.8,     3.9,    41.5)
+  no
+2022-05-01T07:53:55Z: PLAYER CHATTED [  867483438] jake167511           (    9.1,     3.3,    47.5)
+  can you buy one of my sales
+2022-05-01T07:53:57Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   54.4,     3.3,    38.1)
+  hello
+2022-05-01T07:53:58Z: PLAYER REMOVED [  423131397] zombiezcom
+2022-05-01T07:53:59Z: PLAYER CHATTED [  867483438] jake167511           (   12.7,     3.6,    40.5)
+  just one
+2022-05-01T07:54:04Z: PLAYER CHATTED [ 1983008450] 1kav01               (   74.6,     3.3,    42.7)
+  Hello I’m trying to get an axolotl suit.. could you donate me? :D
+2022-05-01T07:54:05Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   10.8,     3.6,    34.1)
+  no
+2022-05-01T07:54:05Z: PLAYER CHATTED [  867483438] jake167511           (   12.7,     3.6,    40.5)
+  just 10 rb
+2022-05-01T07:54:08Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   10.8,     3.6,    34.1)
+  no
+2022-05-01T07:54:10Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   10.8,     3.6,    34.1)
+  no
+2022-05-01T07:54:12Z: PLAYER CHATTED [  867483438] jake167511           (   13.0,     3.6,    39.5)
+  please sir
+2022-05-01T07:54:12Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   10.8,     3.6,    34.1)
+  no
+2022-05-01T07:54:14Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   17.9,     3.8,    36.2)
+  me donas
+2022-05-01T07:54:14Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   10.8,     3.6,    34.1)
+  no
+2022-05-01T07:54:18Z: PLAYER ADDED   [   40460073] mlpbigmac28
+2022-05-01T07:54:19Z: PLAYER CHATTED [  867483438] jake167511           (  -10.3,     3.0,    51.0)
+  ok
+2022-05-01T07:54:23Z: PLAYER CHATTED [  867483438] jake167511           (  -19.1,     3.3,    99.3)
+  here
+2022-05-01T07:54:29Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   20.3,     3.3,   156.9)
+  hello
+2022-05-01T07:54:31Z: PLAYER CHATTED [  867483438] jake167511           (  -20.0,     3.3,   129.0)
+  jons
+2022-05-01T07:54:34Z: PLAYER CHATTED [ 1983008450] 1kav01               (   73.4,    15.1,    32.3)
+  Hello I’m trying to get an axolotl suit.. could you donate me? :D
+2022-05-01T07:54:39Z: PLAYER CHATTED [  867483438] jake167511           (   14.6,     3.3,   164.4)
+  hi brilliant
+2022-05-01T07:54:39Z: PLAYER CHATTED [ 2931542359] gmili10              (   91.2,     4.4,    38.9)
+  alguien abla
+2022-05-01T07:54:39Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   19.2,     3.9,   168.5)
+  me donate
+2022-05-01T07:54:41Z: PLAYER CHATTED [   40460073] mlpbigmac28          (   62.4,     4.1,   171.0)
+  ayo?
+2022-05-01T07:54:43Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   87.3,     3.4,    48.5)
+  si
+2022-05-01T07:54:44Z: PLAYER CHATTED [ 2931542359] gmili10              (   91.2,     4.4,    38.9)
+  español
+2022-05-01T07:54:46Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   24.1,     3.3,   165.4)
+  si
+2022-05-01T07:54:46Z: PLAYER CHATTED [  867483438] jake167511           (   15.5,     3.7,   168.1)
+  hi brilliant
+2022-05-01T07:54:48Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   40.1,     3.6,   139.1)
+  yo xD
+2022-05-01T07:54:48Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:54:50Z: PLAYER ADDED   [ 1288401053] ciel_peque
+2022-05-01T07:54:52Z: PLAYER ADDED   [ 2695894769] TsgkunoValeria
+2022-05-01T07:54:53Z: PLAYER CHATTED [ 2931542359] gmili10              (   91.2,     4.4,    38.9)
+  a hola
+2022-05-01T07:54:54Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   94.3,     2.7,    40.6)
+  habla*
+2022-05-01T07:54:57Z: PLAYER CHATTED [  867483438] jake167511           (   19.6,     3.9,   167.9)
+  can you donate me?
+2022-05-01T07:54:58Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   94.3,     2.7,    40.6)
+  hola
+2022-05-01T07:55:02Z: PLAYER CHATTED [ 2931542359] gmili10              (   91.2,     4.4,    38.9)
+  holisss
+2022-05-01T07:55:02Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   45.5,     3.7,    55.8)
+  hola
+2022-05-01T07:55:20Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -31.9,     3.0,    92.8)
+  hi
+2022-05-01T07:55:23Z: PLAYER CHATTED [  867483438] jake167511           (   17.6,     3.3,   149.1)
+  hi sir
+2022-05-01T07:55:28Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (   50.7,     3.1,   125.0)
+  ontan
+2022-05-01T07:55:33Z: PLAYER CHATTED [  867483438] jake167511           (   99.2,     3.3,   140.2)
+  sir
+2022-05-01T07:55:35Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   -5.7,     3.0,    95.3)
+  aqui
+2022-05-01T07:55:38Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (    0.4,     3.5,   100.8)
+  a xD
+2022-05-01T07:55:42Z: PLAYER CHATTED [  867483438] jake167511           (   90.6,     3.6,   150.9)
+  sir
+2022-05-01T07:55:44Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   -2.3,     3.6,    96.9)
+  oye me podrias donar un poco?
+2022-05-01T07:55:47Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   -2.3,     3.6,    96.9)
+  solo 2
+2022-05-01T07:55:49Z: PLAYER CHATTED [  867483438] jake167511           (   90.6,     3.6,   150.9)
+  can you buy one of my item?
+2022-05-01T07:55:52Z: PLAYER CHATTED [  867483438] jake167511           (   90.6,     3.6,   150.9)
+  please
+2022-05-01T07:55:55Z: PLAYER REMOVED [ 1288401053] ciel_peque
+2022-05-01T07:55:55Z: PLAYER CHATTED [ 1689150592] mikecrack03023       (    0.4,     3.5,   100.8)
+  no tengo por eso entre xD
+2022-05-01T07:55:58Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   -1.0,     3.5,    97.9)
+  aaaa
+2022-05-01T07:55:59Z: PLAYER CHATTED [ 1983008450] 1kav01               (   73.4,    15.1,    32.3)
+  Hello I’m trying to get an axolotl suit.. could you donate me? :D
+2022-05-01T07:56:00Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   -1.0,     3.5,    97.9)
+  ok
+2022-05-01T07:56:03Z: PLAYER CHATTED [  867483438] jake167511           (   78.7,     3.3,   160.8)
+  hi maam
+2022-05-01T07:56:04Z: PLAYER REMOVED [ 1689150592] mikecrack03023
+2022-05-01T07:56:10Z: PLAYER ADDED   [ 1454579940] DACATMEGA11
+2022-05-01T07:56:14Z: PLAYER CHATTED [  867483438] jake167511           (   81.2,     3.6,   160.3)
+  sure?
+2022-05-01T07:56:23Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   19.5,     3.0,   155.8)
+  what
+2022-05-01T07:56:23Z: PLAYER ADDED   [ 2738008485] TeManzanita
+2022-05-01T07:56:24Z: PLAYER CHATTED [  867483438] jake167511           (   26.4,     3.3,   157.7)
+  would you donate me?
+2022-05-01T07:56:28Z: PLAYER CHATTED [  867483438] jake167511           (   26.2,     3.3,   156.6)
+  please
+2022-05-01T07:56:34Z: PLAYER CHATTED [  867483438] jake167511           (   26.2,     3.3,   156.6)
+  i just want to reach my goal
+2022-05-01T07:56:39Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   22.9,     3.0,   157.0)
+  yea
+2022-05-01T07:56:41Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (   22.9,     3.0,   157.0)
+  me too
+2022-05-01T07:56:42Z: PLAYER CHATTED [  867483438] jake167511           (   25.1,     3.3,   158.0)
+  yay
+2022-05-01T07:56:47Z: PLAYER CHATTED [  867483438] jake167511           (   25.1,     3.3,   158.0)
+  donate me please
+2022-05-01T07:56:49Z: PLAYER CHATTED [  867483438] jake167511           (   24.7,     3.3,   159.0)
+  here
+2022-05-01T07:56:55Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  there
+2022-05-01T07:56:57Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (  -16.2,     3.0,   131.5)
+  is so expensive
+2022-05-01T07:56:58Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  just 10
+2022-05-01T07:57:00Z: PLAYER REMOVED [ 1983008450] 1kav01
+2022-05-01T07:57:01Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (  -19.7,     3.0,   130.3)
+  i cant
+2022-05-01T07:57:02Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  please
+2022-05-01T07:57:04Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  why
+2022-05-01T07:57:05Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  ?
+2022-05-01T07:57:08Z: PLAYER CHATTED [ 1332505060] Familiamerna13       (  -19.7,     3.0,   130.3)
+  i only have 6
+2022-05-01T07:57:12Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  wait
+2022-05-01T07:57:14Z: PLAYER CHATTED [  867483438] jake167511           (  -23.4,     3.9,   127.8)
+  i will make
+2022-05-01T07:57:16Z: PLAYER CHATTED [ 1454579940] DACATMEGA11          (    1.1,     3.1,   168.2)
+  pasele paseleeee
+2022-05-01T07:57:18Z: PLAYER ADDED   [ 1342809194] gustavo_jjajaja
+2022-05-01T07:57:22Z: PLAYER CHATTED [  867483438] jake167511           (  -22.0,     3.5,   127.6)
+  wait sir\
+2022-05-01T07:57:44Z: PLAYER REMOVED [ 1332505060] Familiamerna13
+2022-05-01T07:57:46Z: PLAYER ADDED   [  308796879] shoutmonxb
+2022-05-01T07:57:50Z: PLAYER CHATTED [ 2931542359] gmili10              (   83.5,     4.4,    41.1)
+  alguien sabe como puedo aser para ganar robux?
+2022-05-01T07:57:55Z: PLAYER REMOVED [  867483438] jake167511
+2022-05-01T07:58:02Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.1,     3.0,    92.9)
+  HI
+2022-05-01T07:58:03Z: PLAYER ADDED   [ 1689150592] mikecrack03023
+2022-05-01T07:58:03Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:06Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:07Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.1,     3.0,    92.9)
+  /consider donating
+2022-05-01T07:58:08Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:10Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:10Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -32.1,     3.0,    92.9)
+  :)
+2022-05-01T07:58:12Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:15Z: PLAYER CHATTED [ 1342809194] gustavo_jjajaja      (   81.1,     4.3,    42.4)
+  no
+2022-05-01T07:58:28Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -31.7,     3.0,    92.3)
+  what the name of ur cat face
+2022-05-01T07:58:40Z: PLAYER CHATTED [ 2931542359] gmili10              (   83.5,     4.4,    41.1)
+  :(
+2022-05-01T07:58:55Z: PLAYER CHATTED [ 2738008485] TeManzanita          (  -21.8,     3.3,    94.6)
+  :3
+2022-05-01T07:58:56Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -14.1,     3.3,    94.1)
+  i ran 4
+2022-05-01T07:58:59Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -14.1,     3.3,    94.1)
+  6
+2022-05-01T07:59:05Z: PLAYER CHATTED [ 1517549759] ShlokLegend1         (  -15.7,     3.3,    99.7)
+  6 cuz u have 2
+2022-05-01T07:59:07Z: PLAYER REMOVED [ 2695894769] TsgkunoValeria
+2022-05-01T07:59:12Z: PLAYER ADDED   [ 1737281711] notiamunicornnsss
+2022-05-01T07:59:15Z: PLAYER REMOVED [ 1342809194] gustavo_jjajaja
+2022-05-01T07:59:18Z: PLAYER REMOVED [ 1737281711] notiamunicornnsss
+2022-05-01T07:59:22Z: PLAYER ADDED   [ 2676177600] Rafaelwordl2022
+2022-05-01T07:59:54Z: PLAYER REMOVED [ 3106005228] COJEGALLINAS28
+2022-05-01T07:59:56Z: PLAYER ADDED   [ 3374097659] DANIFANTOM109
+2022-05-01T08:00:02Z: PLAYER ADDED   [ 1983008450] 1kav01
+2022-05-01T08:00:08Z: PLAYER CHATTED [ 2931542359] gmili10              (  -25.4,     4.4,    74.4)
+  me donas robux plis
+2022-05-01T08:00:30Z: PLAYER REMOVED [ 1689150592] mikecrack03023
+2022-05-01T08:01:08Z: PLAYER CHATTED [ 1983008450] 1kav01               (  -21.4,    14.7,    58.4)
+  Hola! Estoy tratando de hacer mi propio diseñó de ajolote… alguien me dona? Porfa :D
+2022-05-01T08:01:36Z: PLAYER CHATTED [ 2676177600] Rafaelwordl2022      (   93.5,     3.4,   151.7)
+  hola :D
+2022-05-01T08:01:48Z: PLAYER CHATTED [ 2676177600] Rafaelwordl2022      (   93.1,     3.9,   150.6)
+  muchas gracias xd
+2022-05-01T08:01:51Z: PLAYER CHATTED [ 2738008485] TeManzanita          (   85.4,     3.3,   146.2)
+  /e wave
+2022-05-01T08:01:53Z: PLAYER REMOVED [ 1454579940] DACATMEGA11
+2022-05-01T08:01:54Z: PLAYER CHATTED [ 2676177600] Rafaelwordl2022      (   92.8,     3.9,   150.3)
+  Thank you so much
+2022-05-01T08:01:56Z: PLAYER REMOVED [ 1517549759] ShlokLegend1
+2022-05-01T08:02:00Z: PLAYER CHATTED [ 2738008485] TeManzanita          (   76.2,     3.3,   152.9)
+  de nada
+2022-05-01T08:02:10Z: PLAYER CHATTED [ 1983008450] 1kav01               (  -18.4,     3.5,    65.2)
+  Hola! Estoy tratando de hacer mi propio diseñó de ajolote… alguien me dona? Porfa 
+2022-05-01T08:02:44Z: PLAYER CHATTED [ 2931542359] gmili10              (   88.1,     5.1,    42.4)
+  lguien me dona robux plis
+2022-05-01T08:02:53Z: PLAYER ADDED   [ 1606003045] iaario
+2022-05-01T08:02:56Z: PLAYER CHATTED [ 2738008485] TeManzanita          (   99.6,     3.3,    64.0)
+  Hi?
+2022-05-01T08:02:59Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-01T08:02:59Z: PLAYER REMOVED [   51788964] fastrider7
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 3366471949] Ro_PrismomanScript
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2409029310] furvez
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2620022601] macan_totol
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 1223237233] 123xdmoi
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 1513858932] Flamedancer12346
+2022-05-01T08:02:59Z: PLAYER REMOVED [   70165881] Mixxars
+2022-05-01T08:02:59Z: PLAYER REMOVED [  858345693] JoyDog76
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2622533500] GalactisBeastAgain
+2022-05-01T08:02:59Z: PLAYER REMOVED [  145283253] RaspyEliteultra
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2989313986] xSevamonster
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 3427648266] j4strr
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2931542359] gmili10
+2022-05-01T08:02:59Z: PLAYER REMOVED [   40460073] mlpbigmac28
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2738008485] TeManzanita
+2022-05-01T08:02:59Z: PLAYER REMOVED [  308796879] shoutmonxb
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 2676177600] Rafaelwordl2022
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 3374097659] DANIFANTOM109
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 1983008450] 1kav01
+2022-05-01T08:02:59Z: PLAYER REMOVED [ 1606003045] iaario
+2022-05-01T08:02:59Z: CHAT STREAM SUCCESSFULLY ENDED

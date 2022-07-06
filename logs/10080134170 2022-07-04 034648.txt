@@ -1,0 +1,78 @@
+[    1630228] : [10080134170] A Blockate World. - d484ca1e-6548-4e89-a51b-b60f92468502
+2022-07-04T03:46:48Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-04T03:46:48Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-04T03:47:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.0,     7.5,   132.0)
+  !cmds
+2022-07-04T03:47:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.0,     7.5,   132.0)
+  !cmds
+2022-07-04T03:47:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.0,     7.5,   132.0)
+  !cmds
+2022-07-04T03:48:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.0,     7.5,   132.0)
+  !movable force 0 1000 0
+2022-07-04T03:48:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  152.9,     5.0,   138.3)
+  !movable force 0 100 0 
+2022-07-04T03:48:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  152.9,     5.0,   138.3)
+  !effect force 0 0 0
+2022-07-04T03:52:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  143.4,     5.0,   132.4)
+  !movable rideable
+2022-07-04T03:52:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.8,     8.9,   133.5)
+  !cmds
+2022-07-04T03:52:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.8,     8.9,   133.5)
+  !cmds
+2022-07-04T03:53:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  141.8,     8.9,   133.5)
+  !movable ridable
+2022-07-04T03:53:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  153.7,     5.0,   130.2)
+  !movable ridable
+2022-07-04T04:06:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.3,     5.0,    11.6)
+  !movable ridable
+2022-07-04T04:08:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.0,     9.0,    12.8)
+  !movable force 0 0 -10000
+2022-07-04T04:16:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.5,     5.0,    10.2)
+  !movable force 0 0 1000000
+2022-07-04T04:16:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.3,     5.0,    14.5)
+  !movable force 0 0 100000
+2022-07-04T04:21:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -4.2,    13.0,    24.2)
+  !ragdoll
+2022-07-04T04:22:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.9,    13.0,    24.0)
+  !trip me
+2022-07-04T04:22:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.9,    12.4,    23.8)
+  !trip me
+2022-07-04T04:22:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.9,    12.4,    23.8)
+  !trip me
+2022-07-04T04:23:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.6,    29.2,    23.9)
+  !trip me
+2022-07-04T04:24:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -3.6,    29.2,    23.9)
+  !trip me
+2022-07-04T04:47:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.8,     5.0,    16.1)
+  !mtele
+2022-07-04T04:47:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.2,     5.0,    16.9)
+  !mtele
+2022-07-04T04:47:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.6,     5.0,    19.1)
+  !mtele
+2022-07-04T04:47:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    8.6,     5.0,    19.1)
+  !mtele
+2022-07-04T04:48:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     5.0,    18.6)
+  !motele
+2022-07-04T04:48:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    5.1,     5.0,    18.6)
+  !motele
+2022-07-04T04:48:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.0,     5.0,    17.1)
+  !eztele
+2022-07-04T04:48:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.0,     5.0,    17.1)
+  !eztele
+2022-07-04T04:49:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.0,     5.0,    17.1)
+  !exit
+2022-07-04T04:49:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.8,     5.0,    15.5)
+  !exit
+2022-07-04T04:49:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.6,     5.0,    19.2)
+  !motele
+2022-07-04T04:49:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.6,     5.0,    19.2)
+  !motele
+2022-07-04T04:50:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.9,     5.0,    16.6)
+  !exit
+2022-07-04T04:50:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.9,     5.0,    16.6)
+  !mtele
+2022-07-04T04:50:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.6,     5.0,    19.7)
+  !mtele
+2022-07-04T04:50:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.6,     5.0,    19.7)
+  !mtele
+2022-07-04T05:05:05Z: PLAYER REMOVED [    1630228] VisualPlugin

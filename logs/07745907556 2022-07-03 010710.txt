@@ -1,0 +1,441 @@
+[    1630228] : [ 7745907556] A Blockate World. - 713ffef2-a677-458e-870c-d99aaec3aaad
+2022-07-03T01:07:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T01:07:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T01:07:38Z: PLAYER ADDED   [  958150235] iiXStar_MoonXii
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1380809447] Drizzy_Drewww
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1536341006] Physical_Roblox
+2022-07-03T01:07:38Z: PLAYER ADDED   [  513616330] iknowilovecookies
+2022-07-03T01:07:38Z: PLAYER ADDED   [  336310703] sonicmarsiano
+2022-07-03T01:07:38Z: PLAYER ADDED   [  232283494] XxMythical_DavexX
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1512407785] noobkk911k
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 3506064757] SkullBody82
+2022-07-03T01:07:38Z: PLAYER ADDED   [  356321846] thegamerbpatricko
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1291151988] tristanmors
+2022-07-03T01:07:38Z: PLAYER ADDED   [  141543571] adrinin
+2022-07-03T01:07:38Z: PLAYER ADDED   [  564192894] badlaboss
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1594636948] Foxyclipse
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1682008533] mr_blocksio
+2022-07-03T01:07:38Z: PLAYER ADDED   [  784255849] livie2013
+2022-07-03T01:07:38Z: PLAYER ADDED   [  585665435] hearted_keys
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1876985496] IHateIUseCookie
+2022-07-03T01:07:38Z: PLAYER ADDED   [  337920487] Uian_I
+2022-07-03T01:07:38Z: PLAYER ADDED   [  425282139] NatezNoodlez
+2022-07-03T01:07:38Z: PLAYER ADDED   [   39825801] LegltSi
+2022-07-03T01:07:38Z: PLAYER ADDED   [  195325081] TheOosh
+2022-07-03T01:07:38Z: PLAYER ADDED   [  870142355] Surviv_r
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 2316968418] dagaozinho28
+2022-07-03T01:07:38Z: PLAYER ADDED   [  145386974] Xylinxium
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1068700305] Brosidious
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1295069601] egg_man9999
+2022-07-03T01:07:38Z: PLAYER ADDED   [  405396052] TooDambFilthy
+2022-07-03T01:07:38Z: PLAYER ADDED   [  370263198] augermeister_exe
+2022-07-03T01:07:38Z: PLAYER ADDED   [  941004842] WarAngil
+2022-07-03T01:07:38Z: PLAYER ADDED   [ 1056949351] DoubleBarrelDaniel
+2022-07-03T01:07:44Z: PLAYER CHATTED [  370263198] augermeister_exe     (  -97.6,    -7.0,  -135.8)
+  ok
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1068700305] Brosidious           (    0.0,   109.5,     0.0)
+  where
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (    8.4,     5.0,  -110.1)
+  reset dont work
+2022-07-03T01:07:44Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  your messing up
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  -10.3,     5.0,  -122.7)
+  P: 36, s: 5, 2 meetings
+2022-07-03T01:07:44Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Its at left
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1068700305] Brosidious           (    0.0,   109.5,     0.0)
+  what line
+2022-07-03T01:07:44Z: PLAYER CHATTED [  141543571] adrinin              (    0.0,     5.0,   -73.3)
+  no
+2022-07-03T01:07:44Z: PLAYER CHATTED [  370263198] augermeister_exe     (  -97.6,    -7.0,  -135.8)
+  im ready for it
+2022-07-03T01:07:44Z: PLAYER CHATTED [  564192894] badlaboss            (  845.0,    15.6,  1991.2)
+  im not techno
+2022-07-03T01:07:44Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Come
+2022-07-03T01:07:44Z: PLAYER CHATTED [  141543571] adrinin              (    0.0,     5.0,   -73.3)
+  do superviso
+2022-07-03T01:07:44Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   37.7,    29.0,  -205.6)
+  reset
+2022-07-03T01:07:44Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  What
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1056949351] DoubleBarrelDaniel   (    0.0,   103.0,     0.0)
+  where are the investors
+2022-07-03T01:07:44Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  !tp ph me
+2022-07-03T01:07:44Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  NPC
+2022-07-03T01:07:44Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  timmy
+2022-07-03T01:07:44Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  NPCCC
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1512407785] noobkk911k           (   47.7,    28.9,  -228.3)
+  ima go afk and come back when mono does admin surveys
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (    7.0,   235.7,   -21.2)
+  ?
+2022-07-03T01:07:44Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (    9.5,     5.0,  -112.5)
+  go to the thing where u stock files
+2022-07-03T01:07:44Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -93.5,    -7.0,  -131.0)
+  no i need to read what i tell you
+2022-07-03T01:07:44Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  your being demoted
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  -10.3,     5.0,  -122.7)
+  :
+2022-07-03T01:07:45Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -93.5,    -7.0,  -131.0)
+  brb
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (    9.5,     5.0,  -112.5)
+  and get killed by it
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (    9.5,     5.0,  -112.5)
+  uh
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 1068700305] Brosidious           (    0.0,   109.5,     0.0)
+  ok
+2022-07-03T01:07:45Z: PLAYER CHATTED [  564192894] badlaboss            (  845.0,    15.6,  1991.2)
+  lol
+2022-07-03T01:07:45Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  When should I attend a meeting
+2022-07-03T01:07:45Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Hi
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  -10.3,     5.0,  -122.7)
+  what
+2022-07-03T01:07:45Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  ?
+2022-07-03T01:07:45Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   37.7,    29.0,  -205.6)
+  !tp dag me
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 1056949351] DoubleBarrelDaniel   (    0.0,   103.0,     0.0)
+  how did u start the company with no investors
+2022-07-03T01:07:45Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      (  -99.8,    -7.0,  -113.2)
+  /e dance
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (    9.5,     5.0,  -112.5)
+  i think
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  -10.3,     5.0,  -122.7)
+  uh I have no idea
+2022-07-03T01:07:45Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  and losing admin
+2022-07-03T01:07:45Z: CHRCTER ADDED  [  941004842] WarAngil             (    0.9,     5.0,  -221.0)
+2022-07-03T01:07:45Z: CHRCTER ADDED  [ 2316968418] dagaozinho28         (    0.0,    65.6,     0.0)
+2022-07-03T01:07:45Z: CHRCTER ADDED  [ 2316968418] dagaozinho28         (    0.0,    99.6,     0.0)
+2022-07-03T01:07:45Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (    0.0,    99.6,     0.0)
+  one question
+2022-07-03T01:07:45Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  What rank
+2022-07-03T01:07:45Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  ..
+2022-07-03T01:07:45Z: PLAYER CHATTED [  141543571] adrinin              (    0.0,     5.0,   -73.3)
+  can someone dosupervisor training
+2022-07-03T01:07:45Z: PLAYER CHATTED [  564192894] badlaboss            (  845.0,    15.6,  1991.2)
+  DUDE
+2022-07-03T01:07:45Z: CHRCTER ADDED  [ 2316968418] dagaozinho28         (    0.0,    35.2,     0.0)
+2022-07-03T01:07:45Z: CHRCTER ADDED  [ 2316968418] dagaozinho28         (    0.0,     5.0,     0.0)
+2022-07-03T01:07:45Z: CHRCTER ADDED  [ 2316968418] dagaozinho28         (   -2.8,     5.0,   -73.8)
+2022-07-03T01:07:45Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   37.7,    29.0,  -205.6)
+  ?
+2022-07-03T01:07:46Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Stand here and wait for training
+2022-07-03T01:07:46Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   67.0,     5.0,  -158.5)
+  ok
+2022-07-03T01:07:46Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (    7.0,   235.7,   -21.2)
+  !kill iknow
+2022-07-03T01:07:46Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (    7.0,   235.7,   -21.2)
+  m
+2022-07-03T01:07:46Z: PLAYER CHATTED [ 1068700305] Brosidious           (    0.0,   109.5,     0.0)
+  here?
+2022-07-03T01:07:46Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   -2.8,     5.0,   -73.8)
+  how fix junior work section
+2022-07-03T01:07:46Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   37.7,    29.0,  -205.6)
+  Your rank is wrong.
+2022-07-03T01:07:46Z: PLAYER CHATTED [  564192894] badlaboss            (  845.0,    15.6,  1991.2)
+  honestly harash (ik joke)
+2022-07-03T01:07:46Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (    7.0,   235.7,   -21.2)
+  nice chat bubbles
+2022-07-03T01:07:46Z: PLAYER ADDED   [ 2799508184] JumboTr0n
+2022-07-03T01:07:46Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,     7.5,  1991.2)
+  !tp sur
+2022-07-03T01:07:46Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      (  -99.8,    -7.0,  -113.2)
+  i forgot to update this thing
+2022-07-03T01:07:46Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Face me
+2022-07-03T01:07:46Z: PLAYER ADDED   [  214031144] cooljeremy777
+2022-07-03T01:07:46Z: CHRCTER ADDED  [  958150235] iiXStar_MoonXii      (  -99.9,    -7.0,  -112.9)
+2022-07-03T01:07:46Z: PLAYER REMOVED [  784255849] livie2013
+2022-07-03T01:07:46Z: CHRCTER ADDED  [ 1056949351] DoubleBarrelDaniel   (  -89.3,    18.5,   -12.5)
+2022-07-03T01:07:46Z: PLAYER ADDED   [  892952350] s3nW
+2022-07-03T01:07:46Z: CHRCTER ADDED  [  513616330] iknowilovecookies    (  845.0,    25.4,  1991.2)
+2022-07-03T01:07:46Z: CHRCTER ADDED  [  141543571] adrinin              (    8.1,     5.0,   -33.0)
+2022-07-03T01:07:47Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   -2.9,     5.0,   -76.4)
+  Ship the files.
+2022-07-03T01:07:49Z: PLAYER CHATTED [  195325081] TheOosh              (   35.0,     5.5,  -113.0)
+  Face host or
+2022-07-03T01:07:49Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   -2.9,     5.0,   -76.4)
+  Anyways.
+2022-07-03T01:07:50Z: PLAYER CHATTED [ 1068700305] Brosidious           ( -115.0,    -7.0,  -113.2)
+  ok
+2022-07-03T01:07:50Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      (  -99.9,    -7.0,  -112.9)
+  !sign 5/8
+2022-07-03T01:07:53Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (  -39.7,     5.0,   -64.4)
+  !tp
+2022-07-03T01:07:53Z: PLAYER CHATTED [  564192894] badlaboss            (  849.5,     8.9,  1984.6)
+  lol
+2022-07-03T01:07:53Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.6,    -7.0,  -112.7)
+  No here
+2022-07-03T01:07:54Z: PLAYER CHATTED [  370263198] augermeister_exe     ( -124.1,    -7.0,  -118.4)
+  its a security training
+2022-07-03T01:07:56Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.6,    -7.0,  -112.7)
+  Stay there
+2022-07-03T01:07:57Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   -2.8,     5.0,   -73.8)
+  they not going in it
+2022-07-03T01:07:59Z: PLAYER CHATTED [  214031144] cooljeremy777        (  845.0,    16.5,  1991.2)
+  !tp su
+2022-07-03T01:08:00Z: CHRCTER ADDED  [  337920487] Uian_I               (    0.0,   102.7,     0.0)
+2022-07-03T01:08:01Z: CHRCTER ADDED  [  232283494] XxMythical_DavexX    (    0.0,   104.8,     0.0)
+2022-07-03T01:08:03Z: PLAYER CHATTED [  585665435] hearted_keys         (   35.7,    28.9,  -227.5)
+  where is 
+2022-07-03T01:08:03Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   -2.9,     5.0,   -76.4)
+  !teamer 4 | Junior Worker
+2022-07-03T01:08:05Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      (  -99.9,    -7.0,  -112.9)
+  security training? funn
+2022-07-03T01:08:05Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   18.8,     5.0,    16.3)
+  /c system
+2022-07-03T01:08:05Z: PLAYER CHATTED [  585665435] hearted_keys         (   35.7,    28.9,  -227.5)
+  he
+2022-07-03T01:08:06Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  847.2,     5.0,  1991.5)
+  hi
+2022-07-03T01:08:06Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.6,    -7.0,  -112.7)
+  Security training is on your left
+2022-07-03T01:08:07Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  hi jeremy
+2022-07-03T01:08:07Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   24.4,     5.0,  -154.7)
+  kk i think i did atleast 100 files
+2022-07-03T01:08:08Z: PLAYER CHATTED [  214031144] cooljeremy777        (  851.3,     5.0,  1982.2)
+  nom what r u making
+2022-07-03T01:08:09Z: PLAYER CHATTED [  214031144] cooljeremy777        (  852.2,     5.0,  1989.6)
+  hi
+2022-07-03T01:08:09Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  847.2,     5.0,  1991.4)
+  big fan
+2022-07-03T01:08:09Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (   -4.3,     5.0,   -77.0)
+  OI
+2022-07-03T01:08:10Z: PLAYER CHATTED [ 1682008533] mr_blocksio          (    4.2,     8.3,  -134.5)
+  another bug
+2022-07-03T01:08:14Z: PLAYER CHATTED [ 1291151988] tristanmors          (   40.8,    28.9,  -227.4)
+  well to to him
+2022-07-03T01:08:14Z: PLAYER CHATTED [  214031144] cooljeremy777        (  852.2,     5.0,  1989.6)
+  /w iknowilovecookies  /e
+2022-07-03T01:08:15Z: CHRCTER ADDED  [  356321846] thegamerbpatricko    (    0.0,   102.8,     0.0)
+2022-07-03T01:08:15Z: PLAYER CHATTED [ 1068700305] Brosidious           ( -115.0,    -7.0,  -113.2)
+  /e dance2
+2022-07-03T01:08:16Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  im making noting
+2022-07-03T01:08:17Z: PLAYER CHATTED [  214031144] cooljeremy777        (  852.2,     5.0,  1992.0)
+  cookie
+2022-07-03T01:08:20Z: PLAYER REMOVED [ 1056949351] DoubleBarrelDaniel
+2022-07-03T01:08:20Z: PLAYER CHATTED [  232283494] XxMythical_DavexX    (   87.6,     5.0,     8.0)
+  !teamer 12 | Overwatch
+2022-07-03T01:08:22Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.6,    -7.0,  -112.7)
+  E
+2022-07-03T01:08:24Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  alright
+2022-07-03T01:08:25Z: PLAYER CHATTED [ 3506064757] SkullBody82          ( -129.0,  -221.4,   247.3)
+  !tp
+2022-07-03T01:08:25Z: PLAYER CHATTED [ 1295069601] egg_man9999          (    3.8,     5.0,  -118.4)
+  what are files
+2022-07-03T01:08:26Z: CHRCTER ADDED  [  232283494] XxMythical_DavexX    (    0.0,   103.0,     0.0)
+2022-07-03T01:08:27Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.5,    -7.0,  -113.0)
+  Stand on blue line
+2022-07-03T01:08:27Z: PLAYER CHATTED [ 1068700305] Brosidious           ( -115.0,    -7.0,  -113.2)
+  when is training starting?
+2022-07-03T01:08:27Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  373.3,  8397.6,  1143.5)
+  !tp
+2022-07-03T01:08:28Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  849.6,     5.0,  1986.2)
+  yea
+2022-07-03T01:08:29Z: PLAYER ADDED   [ 1620375808] AzureBIoxer
+2022-07-03T01:08:31Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  373.1,  5622.9,  1115.8)
+  !tp
+2022-07-03T01:08:31Z: PLAYER CHATTED [  195325081] TheOosh              ( -124.5,    -7.0,  -113.0)
+  Idk
+2022-07-03T01:08:32Z: PLAYER CHATTED [ 3506064757] SkullBody82          (  373.0,  3550.3,  1100.3)
+  !tp
+2022-07-03T01:08:32Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  are u here for senior to?
+2022-07-03T01:08:32Z: PLAYER REMOVED [  892952350] s3nW
+2022-07-03T01:08:34Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  849.6,     5.0,  1986.2)
+  we are just making auto teamer
+2022-07-03T01:08:34Z: CHRCTER ADDED  [ 3506064757] SkullBody82          (    0.0,   108.2,     0.0)
+2022-07-03T01:08:39Z: PLAYER CHATTED [  564192894] badlaboss            (  869.4,     8.7,  1957.6)
+  !teamer Neutral
+2022-07-03T01:08:41Z: PLAYER ADDED   [  363934433] Aggarr_11
+2022-07-03T01:08:43Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      (  -99.9,    -7.0,  -112.9)
+  Who's gonna do the training exactly?
+2022-07-03T01:08:43Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  welcome to sercurity training
+2022-07-03T01:08:45Z: PLAYER ADDED   [  861040800] OopsMyGamesAreToGood
+2022-07-03T01:08:47Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  !tp # ##
+2022-07-03T01:08:49Z: PLAYER ADDED   [ 1886547958] wooloowave
+2022-07-03T01:08:51Z: PLAYER CHATTED [  941004842] WarAngil             (   28.6,     5.0,  -112.8)
+  no i need to see what are files for
+2022-07-03T01:08:51Z: PLAYER REMOVED [  145386974] Xylinxium
+2022-07-03T01:08:51Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  foxy
+2022-07-03T01:08:52Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  there are 2 phases
+2022-07-03T01:08:53Z: PLAYER REMOVED [ 1620375808] AzureBIoxer
+2022-07-03T01:08:54Z: PLAYER CHATTED [ 1594636948] Foxyclipse           (  842.0,     5.0,  1987.6)
+  Yes?
+2022-07-03T01:08:54Z: PLAYER ADDED   [  235886534] Jorvin18
+2022-07-03T01:08:56Z: PLAYER CHATTED [  370263198] augermeister_exe     ( -105.3,    -7.0,  -193.1)
+  ok
+2022-07-03T01:08:57Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  arent you worker
+2022-07-03T01:08:58Z: PLAYER ADDED   [  462249628] alexfire1516
+2022-07-03T01:08:59Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  your being demoted
+2022-07-03T01:09:00Z: PLAYER CHATTED [  564192894] badlaboss            (  849.5,     4.8,  1989.8)
+  idk which is real mono anymore
+2022-07-03T01:09:00Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  you should know
+2022-07-03T01:09:00Z: PLAYER CHATTED [ 1682008533] mr_blocksio          (   28.6,     5.0,  -124.8)
+  I have found another
+2022-07-03T01:09:02Z: PLAYER CHATTED [  941004842] WarAngil             (   28.5,     5.0,  -111.8)
+  yes 
+2022-07-03T01:09:02Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (  -18.1,    29.0,  -165.9)
+  !tp Uian me
+2022-07-03T01:09:03Z: PLAYER CHATTED [ 3506064757] SkullBody82          (   38.5,     5.0,  -108.3)
+  for next rank
+2022-07-03T01:09:03Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  from junior
+2022-07-03T01:09:05Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  phase # #############
+2022-07-03T01:09:05Z: PLAYER CHATTED [ 1594636948] Foxyclipse           (  842.0,     5.0,  1987.6)
+  What?
+2022-07-03T01:09:05Z: PLAYER CHATTED [  363934433] Aggarr_11            (   20.0,     5.0,  -112.2)
+  Oh my god!
+2022-07-03T01:09:06Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (  -18.1,    29.0,  -165.9)
+  Wrong rank
+2022-07-03T01:09:07Z: PLAYER CHATTED [ 3506064757] SkullBody82          (   38.2,     5.0,  -109.9)
+  wait
+2022-07-03T01:09:10Z: PLAYER CHATTED [  337920487] Uian_I               (  -23.2,    41.0,  -165.0)
+  you cannot stop me
+2022-07-03T01:09:10Z: PLAYER CHATTED [ 1594636948] Foxyclipse           (  842.0,     5.0,  1987.6)
+  Why?
+2022-07-03T01:09:10Z: PLAYER CHATTED [  564192894] badlaboss            (  845.2,     7.4,  1986.3)
+  its joke
+2022-07-03T01:09:11Z: PLAYER CHATTED [  363934433] Aggarr_11            (   22.1,     5.0,  -111.8)
+  Have yall seen Joe?
+2022-07-03T01:09:11Z: PLAYER CHATTED [ 1512407785] noobkk911k           (   47.7,    28.9,  -228.3)
+  /did she leave
+2022-07-03T01:09:11Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  omg
+2022-07-03T01:09:12Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   40.4,     5.0,  -124.1)
+  you know how fix junior worker section
+2022-07-03T01:09:13Z: PLAYER ADDED   [ 1620375808] AzureBIoxer
+2022-07-03T01:09:13Z: PLAYER CHATTED [  195325081] TheOosh              ( -116.3,    -7.0,  -114.4)
+  And wait there
+2022-07-03T01:09:14Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.0,    10.3,  1991.2)
+  your losing perms
+2022-07-03T01:09:15Z: PLAYER CHATTED [  337920487] Uian_I               (  -31.7,    25.0,  -234.3)
+  i have nothing to lose
+2022-07-03T01:09:15Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  mama
+2022-07-03T01:09:15Z: PLAYER CHATTED [ 1594636948] Foxyclipse           (  842.0,     5.0,  1987.6)
+  Oh
+2022-07-03T01:09:16Z: PLAYER CHATTED [ 3506064757] SkullBody82          (   35.0,     5.5,  -113.0)
+  ughhh
+2022-07-03T01:09:18Z: PLAYER CHATTED [  564192894] badlaboss            (  846.2,     3.9,  1986.0)
+  DONT ########
+2022-07-03T01:09:19Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  its so hard to spell
+2022-07-03T01:09:19Z: PLAYER CHATTED [  370263198] augermeister_exe     ( -105.3,    -7.0,  -193.1)
+  phase 1
+2022-07-03T01:09:20Z: PLAYER CHATTED [  363934433] Aggarr_11            (   22.1,     5.0,  -111.8)
+  bruh
+2022-07-03T01:09:21Z: PLAYER CHATTED [ 1068700305] Brosidious           ( -129.5,    -6.5,  -109.8)
+  trainee button?
+2022-07-03T01:09:22Z: PLAYER CHATTED [  564192894] badlaboss            (  842.7,    10.2,  1987.9)
+  a
+2022-07-03T01:09:23Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (  -19.7,    29.0,  -166.9)
+  !tp Uian me
+2022-07-03T01:09:24Z: PLAYER ADDED   [  823113342] spykid9100
+2022-07-03T01:09:25Z: PLAYER CHATTED [  941004842] WarAngil             (   28.5,     5.0,  -111.8)
+  yea
+2022-07-03T01:09:26Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   39.2,     5.0,  -110.3)
+  so
+2022-07-03T01:09:26Z: PLAYER CHATTED [  564192894] badlaboss            (  851.6,    10.3,  1987.7)
+  WHos real
+2022-07-03T01:09:30Z: PLAYER ADDED   [ 1132299946] CrunchyTheDog
+2022-07-03T01:09:30Z: PLAYER REMOVED [  235886534] Jorvin18
+2022-07-03T01:09:30Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   39.2,     5.0,  -110.3)
+  yes or no
+2022-07-03T01:09:30Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  824.4,     5.0,  1989.4)
+  what u doing
+2022-07-03T01:09:31Z: PLAYER CHATTED [  337920487] Uian_I               (  -24.0,    25.0,  -174.2)
+  nice try
+2022-07-03T01:09:32Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      ( -126.9,    -7.0,  -109.4)
+  it'll make sense in your training.
+2022-07-03T01:09:33Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.1,    10.3,  1991.2)
+  me
+2022-07-03T01:09:33Z: PLAYER CHATTED [  564192894] badlaboss            (  851.6,    10.3,  1987.7)
+  u look like mono
+2022-07-03T01:09:34Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  phase 1 being good with your power
+2022-07-03T01:09:35Z: PLAYER CHATTED [  405396052] TooDambFilthy        (  800.9,     5.0,  1991.0)
+  tiles
+2022-07-03T01:09:36Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  845.1,    10.3,  1991.2)
+  me
+2022-07-03T01:09:37Z: PLAYER CHATTED [  564192894] badlaboss            (  847.2,    10.3,  1988.9)
+  and u also
+2022-07-03T01:09:38Z: PLAYER REMOVED [ 1291151988] tristanmors
+2022-07-03T01:09:38Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  813.6,     5.0,  1993.1)
+  y
+2022-07-03T01:09:39Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  im here for senior rank
+2022-07-03T01:09:40Z: PLAYER CHATTED [  195325081] TheOosh              ( -116.3,    -8.1,  -114.4)
+  Yea press to give people trainne
+2022-07-03T01:09:41Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (  -19.8,    29.0,  -167.5)
+  !tp Uian me
+2022-07-03T01:09:42Z: PLAYER REMOVED [ 1620375808] AzureBIoxer
+2022-07-03T01:09:42Z: PLAYER CHATTED [  405396052] TooDambFilthy        (  805.7,     5.0,  1982.0)
+  better sight
+2022-07-03T01:09:42Z: PLAYER REMOVED [  462249628] alexfire1516
+2022-07-03T01:09:45Z: PLAYER CHATTED [ 1512407785] noobkk911k           (   48.1,    28.9,  -228.6)
+  did he leave
+2022-07-03T01:09:45Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  cheaper way of saying it
+2022-07-03T01:09:45Z: PLAYER CHATTED [ 1876985496] IHateIUseCookie      (   25.3,     5.0,  -112.1)
+  i did 100 files
+2022-07-03T01:09:45Z: PLAYER CHATTED [  405396052] TooDambFilthy        (  802.5,     5.0,  1981.9)
+  i wont go blind
+2022-07-03T01:09:45Z: PLAYER CHATTED [  513616330] iknowilovecookies    (  835.5,    10.3,  1994.4)
+  ima copy his avatar
+2022-07-03T01:09:47Z: CHRCTER ADDED  [  141543571] adrinin              (    0.0,   102.7,     0.0)
+2022-07-03T01:09:47Z: PLAYER CHATTED [ 1512407785] noobkk911k           (   48.1,    28.9,  -228.6)
+  ??????????????????
+2022-07-03T01:09:48Z: PLAYER CHATTED [ 1068700305] Brosidious           ( -123.3,    -7.0,  -113.6)
+  ok
+2022-07-03T01:09:49Z: PLAYER CHATTED [  564192894] badlaboss            (  842.6,    10.3,  1997.8)
+  i think this
+2022-07-03T01:09:49Z: PLAYER CHATTED [ 2316968418] dagaozinho28         (   -0.1,     5.0,  -175.1)
+  thanks
+2022-07-03T01:09:49Z: PLAYER CHATTED [  823113342] spykid9100           (    1.5,   352.6,    -6.3)
+  !tp ph
+2022-07-03T01:09:49Z: PLAYER CHATTED [ 1536341006] Physical_Roblox      (  841.1,     5.0,  1988.7)
+  sir
+2022-07-03T01:09:49Z: PLAYER CHATTED [ 1594636948] Foxyclipse           (  844.9,    10.5,  1988.6)
+  its him
+2022-07-03T01:09:51Z: PLAYER CHATTED [  337920487] Uian_I               (  -18.8,    41.0,  -169.7)
+  what do you want
+2022-07-03T01:09:53Z: PLAYER CHATTED [  336310703] sonicmarsiano        (  -96.4,    -7.0,  -194.0)
+  phase 2 
+2022-07-03T01:09:54Z: PLAYER CHATTED [  337920487] Uian_I               (  -18.8,    41.0,  -169.7)
+  im tried
+2022-07-03T01:09:54Z: PLAYER CHATTED [  958150235] iiXStar_MoonXii      ( -100.5,    -7.0,  -113.8)
+  I'm gonna go see if there's any others.
+2022-07-03T01:09:55Z: PLAYER ADDED   [ 1620375808] AzureBIoxer
+2022-07-03T01:09:57Z: PLAYER CHATTED [  356321846] thegamerbpatricko    (  -16.3,    41.0,  -171.6)
+  To fix your rank.
+2022-07-03T01:09:58Z: PLAYER CHATTED [  823113342] spykid9100           (  855.8,    10.2,  1995.7)
+  timmy
+2022-07-03T01:09:58Z: PLAYER CHATTED [ 3506064757] SkullBody82          (   40.1,     5.0,  -110.1)
+  :/
+2022-07-03T01:10:00Z: PLAYER CHATTED [  195325081] TheOosh              ( -116.3,    -7.0,  -114.4)
+  Wait here
+2022-07-03T01:10:00Z: CHRCTER ADDED  [ 1886547958] wooloowave           (    0.0,   108.0,     0.0)
+2022-07-03T01:10:00Z: PLAYER REMOVED [ 2799508184] JumboTr0n

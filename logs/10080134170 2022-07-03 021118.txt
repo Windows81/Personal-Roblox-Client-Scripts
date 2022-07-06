@@ -1,0 +1,35 @@
+[    1630228] : [10080134170] A Blockate World. - 46946274-107f-440a-aa63-e3c91f3fe0bc
+2022-07-03T02:11:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T02:11:18Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T02:11:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T02:12:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-03T02:13:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-03T02:14:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-03T02:15:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T02:15:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T02:16:27Z: PLAYER ADDED   [  863947324] pokeguy123456pokeguy
+2022-07-03T02:16:54Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T02:17:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    38.6)
+  Gues how long the obby is.
+2022-07-03T02:17:22Z: PLAYER CHATTED [  863947324] pokeguy123456pokeguy (   -0.3,     5.0,     0.4)
+  made it
+2022-07-03T02:17:30Z: PLAYER CHATTED [  863947324] pokeguy123456pokeguy (   -0.3,     5.0,     0.4)
+  uhhhhh
+2022-07-03T02:17:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  I guess you did.
+2022-07-03T02:17:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  Red to red.
+2022-07-03T02:17:44Z: PLAYER CHATTED [  863947324] pokeguy123456pokeguy (   -0.3,     5.0,     0.4)
+  funni number
+2022-07-03T02:17:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  Both ends are red.
+2022-07-03T02:17:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  You started on red and ended on red.
+2022-07-03T02:17:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  Good work.
+2022-07-03T02:18:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     3.4)
+  You are in fact correct.
+2022-07-03T02:18:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.1,     5.0,    25.8)
+  !instaspawn on
+2022-07-03T02:19:04Z: PLAYER REMOVED [  863947324] pokeguy123456pokeguy
+2022-07-03T02:26:14Z: PLAYER REMOVED [    1630228] VisualPlugin

@@ -1,0 +1,59 @@
+[    1630228] : [ 6420167123]  Numberblocks Creation Place - 9965b7d7-6388-4445-8f71-9e206dad87fe
+2022-06-05T04:12:35Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-05T04:12:36Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 1301409553] stomachache23
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 1364132413] Xandros3000
+2022-06-05T04:12:36Z: PLAYER ADDED   [  461038942] Unikornmug
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 3094271709] rjjrroblox
+2022-06-05T04:12:36Z: PLAYER ADDED   [  875505245] verdedani
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 1942905259] TylerChadd1317
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 3437042275] Nellywaterpower
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 1883872869] maaaaseee
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 2324306595] SHRKXXR_ALT
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 3128439598] DanialTheTerminial
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 3552574536] MUGENSACRIFIACE
+2022-06-05T04:12:36Z: PLAYER ADDED   [ 3508173333] BlueLemon5468
+2022-06-05T04:12:39Z: PLAYER CHATTED [ 1942905259] TylerChadd1317       (   -4.5,     3.0,  -275.9)
+  ;handto danial
+2022-06-05T04:12:39Z: PLAYER CHATTED [ 3508173333] BlueLemon5468        (  -75.7,     3.0,  -219.5)
+  How do you have admin
+2022-06-05T04:12:40Z: PLAYER CHATTED [ 3128439598] DanialTheTerminial   ( -100.6,     3.0,  -207.1)
+  /e laugh
+2022-06-05T04:12:41Z: PLAYER CHATTED [ 1364132413] Xandros3000          ( -286.6,     3.0,  -419.6)
+  ;m World numbers 1 has started...
+2022-06-05T04:12:42Z: CHRCTER ADDED  [ 1883872869] maaaaseee            (   -6.0,     3.0,  -297.1)
+2022-06-05T04:12:42Z: PLAYER CHATTED [ 1883872869] maaaaseee            (   -6.0,     3.0,  -297.1)
+  ;re
+2022-06-05T04:12:45Z: CHRCTER ADDED  [ 3128439598] DanialTheTerminial   ( -100.6,     3.0,  -207.1)
+2022-06-05T04:12:45Z: PLAYER CHATTED [ 3128439598] DanialTheTerminial   ( -100.6,     3.0,  -207.1)
+  ;re ;sword
+2022-06-05T04:12:46Z: PLAYER CHATTED [  875505245] verdedani            ( -166.9,     3.0,  -182.2)
+  /e ;createteam B Other numbers
+2022-06-05T04:12:51Z: PLAYER CHATTED [ 3128439598] DanialTheTerminial   (  -88.0,     3.0,  -193.2)
+  /e laugh
+2022-06-05T04:12:53Z: PLAYER CHATTED [ 1942905259] TylerChadd1317       ( -126.2,     3.0,  -215.2)
+  tWOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+2022-06-05T04:12:55Z: PLAYER CHATTED [ 3437042275] Nellywaterpower      (   11.3,     3.0,  -298.0)
+  Why are we spinning xandros!?
+2022-06-05T04:12:55Z: PLAYER CHATTED [  875505245] verdedani            ( -167.7,     3.0,  -182.8)
+  /e ;createteam O Twos
+2022-06-05T04:13:03Z: PLAYER CHATTED [  875505245] verdedani            ( -168.5,     3.0,  -213.3)
+  /e ;removeteam do
+2022-06-05T04:13:04Z: PLAYER CHATTED [ 1364132413] Xandros3000          ( -183.6,    38.6,  -324.9)
+  ;m THE POWER OF TWOOOOOOO!!!
+2022-06-05T04:13:11Z: PLAYER CHATTED [ 3128439598] DanialTheTerminial   ( -169.1,     3.0,  -209.2)
+  ;m nathaniel join me
+2022-06-05T04:13:12Z: PLAYER CHATTED [ 1364132413] Xandros3000          (  -60.8,     3.0,  -264.8)
+  ;m I was talking about topot
+2022-06-05T04:13:13Z: PLAYER CHATTED [  875505245] verdedani            ( -168.5,     3.0,  -213.2)
+  ## ;removeteam T
+2022-06-05T04:13:17Z: CHRCTER ADDED  [ 1301409553] stomachache23        ( -104.3,     3.6,  -106.1)
+2022-06-05T04:13:17Z: PLAYER CHATTED [ 1301409553] stomachache23        ( -104.3,     3.6,  -106.1)
+  :re
+2022-06-05T04:13:19Z: PLAYER CHATTED [  875505245] verdedani            ( -168.5,     3.0,  -213.2)
+  /e ;createteam O Twos!
+2022-06-05T04:13:24Z: PLAYER CHATTED [  875505245] verdedani            ( -142.2,     3.0,  -177.1)
+  /e ;removeteam t
+2022-06-05T04:13:26Z: PLAYER CHATTED [ 3437042275] Nellywaterpower      (  -60.3,     3.0,  -230.4)
+  What the…
+2022-06-05T04:13:28Z: PLAYER REMOVED [ 3128439598] DanialTheTerminial

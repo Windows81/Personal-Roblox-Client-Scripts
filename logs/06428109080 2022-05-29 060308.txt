@@ -1,0 +1,409 @@
+[    1630228] : [ 6428109080] Roblox Developer Hangout - c3faa321-efba-44d6-864b-33909193fffd
+2022-05-29T06:03:08Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-29T06:03:12Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 1278361874] dyvkx
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 2256777066] trulegend_isneverdie
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 1377887674] Not_Champion12K
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 1661675565] Taliawanjiru
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 2937510266] 26kLaz
+2022-05-29T06:03:12Z: PLAYER ADDED   [ 1774815506] SANTIAGORAFAELDB
+2022-05-29T06:03:16Z: PLAYER ADDED   [ 2636387978] Kcuxa5477
+2022-05-29T06:03:16Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (   26.3,    66.6,    19.4)
+  oh ok
+2022-05-29T06:03:24Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  134.6,    64.3,    23.8)
+  /clear
+2022-05-29T06:03:45Z: PLAYER ADDED   [ 1395220684] kimchein2
+2022-05-29T06:03:49Z: PLAYER ADDED   [ 1429887513] L_0Limted
+2022-05-29T06:03:51Z: PLAYER ADDED   [ 2662019304] Justplayforme_yt
+2022-05-29T06:04:03Z: PLAYER REMOVED [ 2636387978] Kcuxa5477
+2022-05-29T06:04:06Z: PLAYER CHATTED [ 2662019304] Justplayforme_yt     (  -48.4,    67.3,     3.0)
+  hello
+2022-05-29T06:04:07Z: PLAYER CHATTED [ 1774815506] SANTIAGORAFAELDB     (  -67.4,    66.6,    -5.3)
+  i want to make a tower defense mage
+2022-05-29T06:04:10Z: PLAYER CHATTED [ 1774815506] SANTIAGORAFAELDB     (  -67.4,    66.6,    -5.3)
+  game*
+2022-05-29T06:04:12Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -52.3,    66.6,    -2.7)
+  sup
+2022-05-29T06:04:14Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (   24.0,    67.6,    19.7)
+  unfortunately thats a big fix not in my cattegory
+2022-05-29T06:04:19Z: PLAYER CHATTED [ 2937510266] 26kLaz               (   20.4,    66.5,    18.7)
+  k
+2022-05-29T06:04:20Z: PLAYER ADDED   [ 2238726095] Rocky_theshad
+2022-05-29T06:04:21Z: PLAYER CHATTED [ 2937510266] 26kLaz               (   20.4,    66.5,    18.7)
+  cya
+2022-05-29T06:04:22Z: PLAYER REMOVED [ 2937510266] 26kLaz
+2022-05-29T06:04:26Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.3,    66.6,     0.9)
+  robot
+2022-05-29T06:04:27Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (   24.0,    67.6,    19.7)
+  but i tried
+2022-05-29T06:04:27Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.3,    66.6,     0.9)
+  robot
+2022-05-29T06:04:29Z: PLAYER ADDED   [ 2529646984] SERVER_O1
+2022-05-29T06:04:30Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.3,    66.6,     0.9)
+  robot is smart
+2022-05-29T06:04:31Z: PLAYER ADDED   [ 2661643763] XxIrichCool_Gamer
+2022-05-29T06:04:33Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.3,    66.6,     0.9)
+  he might helpppp
+2022-05-29T06:04:34Z: PLAYER CHATTED [ 1774815506] SANTIAGORAFAELDB     (  -64.3,    66.6,    -5.3)
+  yes
+2022-05-29T06:04:43Z: PLAYER CHATTED [ 1774815506] SANTIAGORAFAELDB     (  -64.3,    66.6,    -5.3)
+  how to make a tower defense game robot
+2022-05-29T06:04:50Z: PLAYER REMOVED [ 1395220684] kimchein2
+2022-05-29T06:04:59Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -56.3,    66.6,     0.5)
+  watch in yt
+2022-05-29T06:05:04Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.4,    66.6,    -0.2)
+  to how make tds game
+2022-05-29T06:05:04Z: PLAYER CHATTED [ 1774815506] SANTIAGORAFAELDB     (  -65.0,    66.6,    -5.7)
+  ok
+2022-05-29T06:05:05Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.4,    66.6,    -0.2)
+  in roblox
+2022-05-29T06:05:13Z: PLAYER REMOVED [ 1774815506] SANTIAGORAFAELDB
+2022-05-29T06:05:14Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.4,    66.6,    -0.2)
+  watch on gnome code
+2022-05-29T06:05:15Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -54.9,    66.6,     2.1)
+  make your own models
+2022-05-29T06:05:19Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  wat
+2022-05-29T06:05:22Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  thats not script
+2022-05-29T06:05:24Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -56.1,    66.6,     1.5)
+  And make your scipt
+2022-05-29T06:05:35Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i d k
+2022-05-29T06:05:35Z: PLAYER ADDED   [ 3515223573] P0tato_ManV2
+2022-05-29T06:05:35Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  pay some one to do the scipt
+2022-05-29T06:05:40Z: PLAYER ADDED   [ 2937510266] 26kLaz
+2022-05-29T06:05:43Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i want to learn
+2022-05-29T06:05:47Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i can pay 5 robuck
+2022-05-29T06:05:48Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  #######
+2022-05-29T06:05:52Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  Nah
+2022-05-29T06:05:54Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  but im less than 10-
+2022-05-29T06:05:56Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -62.0,    66.5,    -1.6)
+  u didnt leave it
+2022-05-29T06:06:03Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  so i can make my dad proud
+2022-05-29T06:06:04Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  ou see pet sim x
+2022-05-29T06:06:04Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  /clear
+2022-05-29T06:06:08Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  Big games
+2022-05-29T06:06:09Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -63.7,    67.6,    -4.3)
+  u sure?
+2022-05-29T06:06:10Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  yes pet sim the scam
+2022-05-29T06:06:13Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  They have a team
+2022-05-29T06:06:14Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -64.1,    66.5,    -1.5)
+  yea-
+2022-05-29T06:06:17Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -63.7,    67.6,    -4.3)
+  how im i playing rn?
+2022-05-29T06:06:17Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -64.1,    66.5,    -1.5)
+  it says your name..
+2022-05-29T06:06:21Z: PLAYER ADDED   [ 1461689335] gthgthdj1
+2022-05-29T06:06:26Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  ok
+2022-05-29T06:06:27Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -55.4,    66.6,     2.0)
+  make a team
+2022-05-29T06:06:30Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  no
+2022-05-29T06:06:32Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i want to learn
+2022-05-29T06:06:36Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i want it to do solo
+2022-05-29T06:06:41Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -54.5,    66.6,     1.8)
+  Gl :/
+2022-05-29T06:06:46Z: PLAYER CHATTED [ 1461689335] gthgthdj1            (  -57.5,    66.8,     3.3)
+  i need to learn all
+2022-05-29T06:06:52Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  if i have team
+2022-05-29T06:06:53Z: PLAYER ADDED   [ 2705406560] jacobmarure14
+2022-05-29T06:06:53Z: PLAYER CHATTED [ 1461689335] gthgthdj1            (  -57.5,    66.8,     3.3)
+  bc im noob developing
+2022-05-29T06:06:56Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i cant learn that much
+2022-05-29T06:07:09Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -54.7,    66.6,     0.3)
+  your probobly a 7 year old xD
+2022-05-29T06:07:10Z: PLAYER REMOVED [ 2529646984] SERVER_O1
+2022-05-29T06:07:13Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  no 9
+2022-05-29T06:07:20Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -54.1,    66.6,     1.2)
+  Even worse XDDD
+2022-05-29T06:07:20Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  THATS TUFF
+2022-05-29T06:07:22Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  PERSON
+2022-05-29T06:07:23Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  OMG
+2022-05-29T06:07:24Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  OMG
+2022-05-29T06:07:26Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i want to learn
+2022-05-29T06:07:26Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  OMG
+2022-05-29T06:07:27Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  BRO
+2022-05-29T06:07:28Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i want to learn
+2022-05-29T06:07:31Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  LEAVE
+2022-05-29T06:07:32Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -57.7,    66.6,    -0.6)
+  i wanr to learn script
+2022-05-29T06:07:34Z: PLAYER REMOVED [ 2705406560] jacobmarure14
+2022-05-29T06:07:37Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -37.4,    66.5,     0.3)
+  dude
+2022-05-29T06:07:37Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -58.0,    66.6,     1.0)
+  U GAVE ME IDEA
+2022-05-29T06:07:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -53.9,    67.3,     3.6)
+  He's 7 + 9 + some more.
+2022-05-29T06:07:40Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  YOU FINNA GET TOUCHED
+2022-05-29T06:07:42Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -58.0,    66.6,     1.0)
+  U GAVE ME IDEA
+2022-05-29T06:07:43Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.0,    18.8)
+  lave studio-
+2022-05-29T06:07:45Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -53.8,    66.6,     1.3)
+  I learnd to scipt when i was 8
+2022-05-29T06:07:46Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -58.0,    66.6,     1.0)
+  U GAVE ME IDEAAA
+2022-05-29T06:07:48Z: PLAYER CHATTED [ 2662019304] Justplayforme_yt     (  -69.1,    74.8,     8.9)
+  hey
+2022-05-29T06:07:49Z: PLAYER CHATTED [ 2256777066] trulegend_isneverdie (  -58.0,    66.6,     1.0)
+  OM BYE
+2022-05-29T06:07:49Z: PLAYER REMOVED [ 2256777066] trulegend_isneverdie
+2022-05-29T06:07:51Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.0,    18.8)
+  im trying to go abck to a vrsion
+2022-05-29T06:07:51Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -55.8,    66.6,    -2.8)
+  leave
+2022-05-29T06:07:54Z: PLAYER CHATTED [ 1429887513] L_0Limted            (  -66.3,    74.0,    11.8)
+  ?
+2022-05-29T06:07:57Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.0,    18.8)
+  back to a version
+2022-05-29T06:07:59Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -54.6,    66.6,     0.7)
+  Dis qiest tion
+2022-05-29T06:08:03Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -66.6,    66.6,    -0.6)
+  oorah
+2022-05-29T06:08:04Z: PLAYER ADDED   [ 3491587798] unarchify
+2022-05-29T06:08:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.3,     3.1)
+  I joined Roblox when I was 8.
+2022-05-29T06:08:05Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -66.6,    66.6,    -0.6)
+  oorah
+2022-05-29T06:08:07Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -66.6,    66.6,    -0.6)
+  oorah
+2022-05-29T06:08:07Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -56.3,    66.6,    -0.1)
+  How to scipt animation
+2022-05-29T06:08:10Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -72.5,    66.7,    -9.8)
+  ?
+2022-05-29T06:08:18Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -70.6,    66.6,    -9.3)
+  oorah
+2022-05-29T06:08:26Z: PLAYER ADDED   [ 1256818341] gcxksks
+2022-05-29T06:08:28Z: PLAYER REMOVED [ 2238726095] Rocky_theshad
+2022-05-29T06:08:28Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -38.4,    78.8,    23.5)
+  im not in ur game just in studio
+2022-05-29T06:08:29Z: PLAYER ADDED   [ 3575366324] Phogie45
+2022-05-29T06:08:29Z: PLAYER CHATTED [ 1429887513] L_0Limted            (  -66.3,    74.0,    11.8)
+  man im just gonna go to GRP
+2022-05-29T06:08:29Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -68.7,    66.6,    -9.5)
+  wait what uniform is that
+2022-05-29T06:08:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.3,     3.1)
+  Humanoids and Animation objects.
+2022-05-29T06:08:33Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.4,    20.3)
+  right
+2022-05-29T06:08:35Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -74.1,    66.6,   -28.9)
+  marine?
+2022-05-29T06:08:35Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.4,    20.3)
+  leave studio-
+2022-05-29T06:08:36Z: PLAYER ADDED   [ 1337328083] fawad123452
+2022-05-29T06:08:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.3,     3.1)
+  That's how it's done.
+2022-05-29T06:08:38Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -78.3,    66.6,   -32.7)
+  Ussf
+2022-05-29T06:08:38Z: PLAYER REMOVED [ 1429887513] L_0Limted
+2022-05-29T06:08:39Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -56.9,    66.6,     0.3)
+  Alr
+2022-05-29T06:08:39Z: PLAYER CHATTED [ 1461689335] gthgthdj1            (  -69.8,    74.2,     8.2)
+  /e gg
+2022-05-29T06:08:39Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -74.1,    66.6,   -28.9)
+  or army
+2022-05-29T06:08:41Z: PLAYER CHATTED [ 1461689335] gthgthdj1            (  -69.8,    74.2,     8.2)
+  /gg
+2022-05-29T06:08:42Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.4,    20.3)
+  i just said that-
+2022-05-29T06:08:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.3,     3.1)
+  Not the most intuitive,
+2022-05-29T06:08:43Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -56.9,    66.6,     0.3)
+  ##########
+2022-05-29T06:08:47Z: PLAYER CHATTED [ 1377887674] Not_Champion12K      (  -74.1,    66.6,   -28.9)
+  Ew.
+2022-05-29T06:08:48Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -56.9,    66.6,     0.3)
+  Lol
+2022-05-29T06:08:49Z: PLAYER CHATTED [ 2662019304] Justplayforme_yt     (  -74.3,    67.2,     3.1)
+  /e dance
+2022-05-29T06:08:51Z: PLAYER ADDED   [ 1750814826] AlienDanBlox
+2022-05-29T06:08:54Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.4,    20.3)
+  there it lt me
+2022-05-29T06:08:55Z: PLAYER ADDED   [ 2957868482] XFitDonutX
+2022-05-29T06:08:56Z: PLAYER CHATTED [ 2937510266] 26kLaz               (  -38.3,    79.4,    20.3)
+  let
+2022-05-29T06:09:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -55.0,    67.3,     3.1)
+  But it isn't a core feature of Roblox anyway.
+2022-05-29T06:09:02Z: PLAYER CHATTED [ 3491587798] unarchify            (  -71.5,    66.6,     2.4)
+  /w Justplayforme_yt  
+2022-05-29T06:09:08Z: PLAYER ADDED   [  166163841] BlueStudiosForever
+2022-05-29T06:09:09Z: PLAYER REMOVED [ 2937510266] 26kLaz
+2022-05-29T06:09:09Z: PLAYER CHATTED [ 3491587798] unarchify            (  -71.5,    66.6,     2.4)
+  what if i made u a sword fighting game
+2022-05-29T06:09:10Z: PLAYER CHATTED [ 2661643763] XxIrichCool_Gamer    (  -57.3,    66.6,     0.5)
+  Yeah true
+2022-05-29T06:09:10Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -38.3,    78.1,    24.7)
+  nah im staying then when i find a customer easy to enter
+2022-05-29T06:09:11Z: PLAYER REMOVED [ 1256818341] gcxksks
+2022-05-29T06:09:20Z: PLAYER CHATTED [ 2662019304] Justplayforme_yt     (  -75.0,    67.3,     2.5)
+  nah but...
+2022-05-29T06:09:22Z: PLAYER CHATTED [ 3491587798] unarchify            (  -71.5,    66.6,     2.4)
+  wth intermission and stats
+2022-05-29T06:09:48Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -72.0,    67.6,     0.1)
+  im in
+2022-05-29T06:10:01Z: PLAYER REMOVED [ 2661643763] XxIrichCool_Gamer
+2022-05-29T06:10:01Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -62.2,    66.3,    -3.9)
+  I Made to big game airplane game but i need help   if u donate me 1k or 2k i will back ur robux in 4 month and  u be partnership of my game 4% 
+2022-05-29T06:10:17Z: PLAYER CHATTED [ 3491587798] unarchify            (  -66.1,    66.6,    -4.7)
+  ?
+2022-05-29T06:10:21Z: PLAYER CHATTED [ 2662019304] Justplayforme_yt     (  -75.0,    67.3,     2.5)
+  can u make a working vote gamemode and team  after a  game is over? 
+2022-05-29T06:10:23Z: PLAYER CHATTED [ 3491587798] unarchify            (  -63.8,    66.6,    -3.7)
+  /w fawad123452  what u need
+2022-05-29T06:10:26Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -75.7,    66.6,    -0.5)
+  yo
+2022-05-29T06:10:27Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  robux
+2022-05-29T06:10:29Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -75.7,    66.6,    -0.5)
+  im a builder
+2022-05-29T06:10:30Z: PLAYER ADDED   [ 3575687813] whofard8
+2022-05-29T06:10:32Z: PLAYER CHATTED [ 3491587798] unarchify            (  -62.6,    66.6,    -2.8)
+  oh
+2022-05-29T06:10:32Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  for donate to my team
+2022-05-29T06:10:34Z: PLAYER REMOVED [ 3575366324] Phogie45
+2022-05-29T06:10:35Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  1k
+2022-05-29T06:10:40Z: PLAYER CHATTED [ 1750814826] AlienDanBlox         (  -49.4,    68.1,     7.8)
+  /e dance3
+2022-05-29T06:10:43Z: PLAYER CHATTED [ 1278361874] dyvkx                (  -74.0,    66.6,     1.2)
+  real?
+2022-05-29T06:10:44Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  if u donate me 1k i back ur robux 1300
+2022-05-29T06:10:45Z: PLAYER ADDED   [ 3373576385] jdcmdnn
+2022-05-29T06:10:47Z: PLAYER REMOVED [ 3575687813] whofard8
+2022-05-29T06:10:48Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -70.6,    66.6,     1.0)
+  yes sir
+2022-05-29T06:10:50Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  I Made to big game airplane game but i need help if u donate me 1k or 2k i will back ur robux in 4 month and u be partnership of my game 40% and u will be admin in ## ###
+2022-05-29T06:10:50Z: PLAYER ADDED   [ 2220899884] jeesliedacaloslara
+2022-05-29T06:10:57Z: PLAYER CHATTED [ 1278361874] dyvkx                (  -74.0,    66.6,     1.2)
+  oh
+2022-05-29T06:11:04Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  I Made to big game airplane game but i need help   if u donate me 1k or 2k i will back ur robux in 4 month and  u be partnership of my game 40% and u will be admin in my dis  CO owner
+2022-05-29T06:11:08Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  in game
+2022-05-29T06:11:11Z: PLAYER REMOVED [ 1461689335] gthgthdj1
+2022-05-29T06:11:17Z: PLAYER ADDED   [ 3419383671] WiiThemeMusic123
+2022-05-29T06:11:18Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -58.3,    66.6,    -2.6)
+  yo im a builder i can help
+2022-05-29T06:11:20Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -61.2,    66.3,    -5.0)
+  Hi
+2022-05-29T06:11:28Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -66.0,    66.7,     4.2)
+  Hi
+2022-05-29T06:11:30Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -60.5,    66.3,    -4.1)
+  i need robux to donate to my team
+2022-05-29T06:11:35Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -60.5,    66.3,    -4.1)
+  500 or 400
+2022-05-29T06:11:38Z: PLAYER ADDED   [ 2799648361] bowmaster846
+2022-05-29T06:11:40Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -60.5,    66.3,    -4.1)
+  i back ur robux in 2 month
+2022-05-29T06:11:41Z: PLAYER ADDED   [ 1445956393] stevelove007123
+2022-05-29T06:11:43Z: PLAYER REMOVED [ 3373576385] jdcmdnn
+2022-05-29T06:11:47Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -66.0,    66.7,     4.2)
+  Can I see what your loading screens look like
+2022-05-29T06:11:49Z: PLAYER ADDED   [ 1462395302] Fireamo8
+2022-05-29T06:11:50Z: PLAYER CHATTED [ 3491587798] unarchify            (  -58.0,    66.6,     3.3)
+  /w dyvkx  could i make u a swordfighting gamen  with intemission and stas?
+2022-05-29T06:11:53Z: PLAYER CHATTED [ 3491587798] unarchify            (  -58.5,    66.6,     1.1)
+  stats
+2022-05-29T06:12:03Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.0,    66.3,    12.2)
+  What you can make
+2022-05-29T06:12:04Z: PLAYER CHATTED [ 2220899884] jeesliedacaloslara   (  -52.2,    66.3,     7.5)
+  hey
+2022-05-29T06:12:07Z: PLAYER CHATTED [ 1750814826] AlienDanBlox         (  -49.4,    68.1,     7.8)
+  hi
+2022-05-29T06:12:10Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -40.8,    67.6,     5.0)
+  ########
+2022-05-29T06:12:13Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -56.5,    66.6,    16.7)
+  anything
+2022-05-29T06:12:15Z: PLAYER CHATTED [ 2220899884] jeesliedacaloslara   (  -52.2,    66.3,     7.5)
+  25 usd?
+2022-05-29T06:12:18Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.0,    66.3,    12.2)
+  for free?
+2022-05-29T06:12:18Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -56.5,    66.6,    16.7)
+  houses.cars
+2022-05-29T06:12:20Z: PLAYER CHATTED [ 2220899884] jeesliedacaloslara   (  -52.2,    66.3,     7.5)
+  to cheap!
+2022-05-29T06:12:22Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.0,    66.3,    12.2)
+  plane?
+2022-05-29T06:12:23Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -56.5,    66.6,    16.7)
+  will see
+2022-05-29T06:12:27Z: PLAYER CHATTED [ 1750814826] AlienDanBlox         (  -49.4,    68.1,     7.8)
+  eh?
+2022-05-29T06:12:30Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  Tags
+2022-05-29T06:12:34Z: PLAYER ADDED   [ 2248437419] LittleSonicALT
+2022-05-29T06:12:38Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -40.8,    67.6,     5.0)
+  ###########
+2022-05-29T06:12:42Z: PLAYER REMOVED [ 2799648361] bowmaster846
+2022-05-29T06:12:43Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.0,    66.3,    12.2)
+  you can make plane?
+2022-05-29T06:12:43Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -40.8,    67.6,     5.0)
+  ######
+2022-05-29T06:12:44Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -56.5,    66.6,    16.7)
+  yeah i can probs make a plane
+2022-05-29T06:12:44Z: PLAYER CHATTED [ 1750814826] AlienDanBlox         (  -49.4,    68.1,     7.8)
+  how much should it be
+2022-05-29T06:12:48Z: PLAYER CHATTED [ 1661675565] Taliawanjiru         (  -38.4,    67.6,     6.7)
+  dis
+2022-05-29T06:12:50Z: PLAYER CHATTED [ 2220899884] jeesliedacaloslara   (  -53.1,    66.3,     6.7)
+  i can pay you per hour 50 usd
+2022-05-29T06:12:51Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.4,    66.3,    13.4)
+  Dis?
+2022-05-29T06:12:55Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -56.5,    66.6,    16.7)
+  yes
+2022-05-29T06:12:55Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  Here,
+2022-05-29T06:12:57Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -55.3,    66.6,    20.8)
+  #####
+2022-05-29T06:12:57Z: PLAYER CHATTED [ 1337328083] fawad123452          (  -57.4,    66.3,    13.4)
+  Ok
+2022-05-29T06:13:01Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  FAZ4OFFICIAL
+2022-05-29T06:13:01Z: PLAYER CHATTED [ 2220899884] jeesliedacaloslara   (  -53.5,    66.3,     6.6)
+  nvm
+2022-05-29T06:13:02Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -57.1,    66.6,    20.6)
+  add me
+2022-05-29T06:13:03Z: PLAYER CHATTED [ 1750814826] AlienDanBlox         (  -49.4,    68.1,     7.8)
+  depends wut u want
+2022-05-29T06:13:04Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  #####
+2022-05-29T06:13:04Z: PLAYER CHATTED [ 2957868482] XFitDonutX           (  -55.6,    66.6,    20.2)
+  dc
+2022-05-29T06:13:07Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  000
+2022-05-29T06:13:08Z: PLAYER CHATTED [ 3515223573] P0tato_ManV2         (  -42.9,    66.6,     1.8)
+  1
+2022-05-29T06:13:09Z: PLAYER ADDED   [ 2408470337] CoaRDeveloper
+2022-05-29T06:13:11Z: PLAYER CHATTED [ 3491587798] unarchify            (  -66.3,    66.6,    -0.6)
+  hey

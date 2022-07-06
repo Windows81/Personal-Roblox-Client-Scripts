@@ -1,0 +1,390 @@
+[    1630228] : [ 8737602449] PLS DONATE 💸 - ac8bbb3f-afd1-4275-9ea8-08bb8506676d
+2022-05-01T09:09:01Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-01T09:09:03Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-01T09:09:03Z: PLAYER ADDED   [  416455369] privatebeans2017
+2022-05-01T09:09:03Z: PLAYER ADDED   [  379753381] thepetcaller12
+2022-05-01T09:09:03Z: PLAYER ADDED   [  533774561] demonkiller99991
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 2587171771] rubydacherry_satin42
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 3230110102] vskpt0
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 3190560365] YamiKawalI
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 1487317451] I2W5
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 2420306607] badrff2001
+2022-05-01T09:09:03Z: PLAYER ADDED   [  412588256] biggg_papa
+2022-05-01T09:09:03Z: PLAYER ADDED   [  454137777] zaidiscool7
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 2209801848] DAVIONDRIPDRIP
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 1193496709] birdywing123
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 1385611030] bigHerobente
+2022-05-01T09:09:03Z: PLAYER ADDED   [   82670162] johnkingwtf
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 3046510904] Via_potato
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 2048400632] C_CBABY
+2022-05-01T09:09:03Z: PLAYER ADDED   [  384874703] lMidnightSkyl
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 1595735132] Reginaa_023
+2022-05-01T09:09:03Z: PLAYER ADDED   [  774913793] houssein0000
+2022-05-01T09:09:03Z: PLAYER ADDED   [ 1971465394] jakerepompo
+2022-05-01T09:09:03Z: PLAYER ADDED   [  877356156] johncaloy8
+2022-05-01T09:09:03Z: PLAYER ADDED   [  653939983] olliecloudd
+2022-05-01T09:09:08Z: PLAYER CHATTED [  412588256] biggg_papa           (   99.4,     3.2,    56.3)
+  /e dance
+2022-05-01T09:09:08Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.9,     3.7,    92.8)
+  SHEE
+2022-05-01T09:09:09Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.9,     6.1,    86.0)
+  Who?
+2022-05-01T09:09:10Z: PLAYER ADDED   [  292374663] SilverBullet391
+2022-05-01T09:09:12Z: PLAYER CHATTED [   82670162] johnkingwtf          (   45.3,     4.7,   164.4)
+  it borblox
+2022-05-01T09:09:15Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.7,     3.7,    89.4)
+  midnight
+2022-05-01T09:09:17Z: PLAYER CHATTED [ 1385611030] bigHerobente         (   43.9,     3.1,   167.9)
+  ok
+2022-05-01T09:09:19Z: PLAYER REMOVED [ 1595735132] Reginaa_023
+2022-05-01T09:09:19Z: PLAYER CHATTED [ 3230110102] vskpt0               (  -24.6,     3.4,    85.2)
+  :(
+2022-05-01T09:09:19Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.9,     6.1,    86.0)
+  Noice.
+2022-05-01T09:09:20Z: PLAYER ADDED   [ 2729488858] tanjiro217123
+2022-05-01T09:09:21Z: PLAYER ADDED   [ 2022366239] Alexbouuy
+2022-05-01T09:09:24Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.7,     3.7,    89.4)
+  i never get dono
+2022-05-01T09:09:24Z: PLAYER ADDED   [  727667437] KaanoftheYildizYT
+2022-05-01T09:09:25Z: PLAYER CHATTED [ 1385611030] bigHerobente         (   42.3,     3.3,   164.4)
+  can you help me too
+2022-05-01T09:09:26Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.7,     3.7,    89.4)
+  YESSSSS
+2022-05-01T09:09:27Z: PLAYER ADDED   [ 1570101006] FundsForYou
+2022-05-01T09:09:32Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.9,     5.9,    86.0)
+  Woah.
+2022-05-01T09:09:32Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.7,     3.7,    89.4)
+  YEAUAIWO
+2022-05-01T09:09:34Z: PLAYER CHATTED [  877356156] johncaloy8           (  -31.7,     2.9,    93.3)
+  wow
+2022-05-01T09:09:36Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (   52.7,     3.3,    50.4)
+  midnight
+2022-05-01T09:09:36Z: PLAYER CHATTED [ 3230110102] vskpt0               (   -0.0,     3.7,    43.3)
+  :(
+2022-05-01T09:09:37Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.7,     3.7,    89.4)
+  BAHABH YESSS
+2022-05-01T09:09:41Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (   93.2,     3.3,    98.8)
+  can you donate me?
+2022-05-01T09:09:42Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.9,     3.2,    92.1)
+  I wish I can also get.
+2022-05-01T09:09:42Z: PLAYER CHATTED [ 1570101006] FundsForYou          (  -22.4,     4.5,    73.7)
+  wsp
+2022-05-01T09:09:45Z: PLAYER ADDED   [ 3127473281] PHKittensYT2
+2022-05-01T09:09:50Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -27.0,     3.7,    90.5)
+  wow many emo
+2022-05-01T09:09:50Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.4,     3.7,    87.8)
+  OMG IM AT 10K
+2022-05-01T09:09:57Z: PLAYER CHATTED [ 3127473281] PHKittensYT2         (   42.1,     3.0,    89.3)
+  Hi Midnight
+2022-05-01T09:09:58Z: PLAYER CHATTED [ 2022366239] Alexbouuy            (  -24.6,     3.3,    89.5)
+  Please somebody help me on my way to 20K
+2022-05-01T09:10:00Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   29.9,     3.4,    94.8)
+  yo
+2022-05-01T09:10:01Z: PLAYER CHATTED [ 3127473281] PHKittensYT2         (   42.1,     3.0,    89.3)
+  I'm your follower
+2022-05-01T09:10:01Z: PLAYER CHATTED [  412588256] biggg_papa           (   99.4,     3.2,    56.3)
+  /w YamiKawalI  Donate to me 30
+2022-05-01T09:10:02Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.1,     3.7,    86.5)
+  LOL
+2022-05-01T09:10:04Z: PLAYER CHATTED [  412588256] biggg_papa           (   99.4,     3.2,    56.3)
+  Or 14
+2022-05-01T09:10:07Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.7,     6.2,    85.9)
+  /
+2022-05-01T09:10:07Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -18.7,     3.4,   113.3)
+  wsp
+2022-05-01T09:10:08Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.7,     6.2,    85.9)
+  .
+2022-05-01T09:10:12Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -28.3,     3.8,    90.0)
+  sayori wanna help me get zombie animation :D
+2022-05-01T09:10:14Z: PLAYER CHATTED [  412588256] biggg_papa           (   99.4,     3.2,    56.3)
+  U have 10k and u wont donate to me…
+2022-05-01T09:10:15Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   56.5,     2.9,   117.2)
+  yo
+2022-05-01T09:10:22Z: PLAYER CHATTED [ 3127473281] PHKittensYT2         (   -1.3,     3.5,   104.2)
+  WSPPP MIDNIGHT IM A FOLLOWER
+2022-05-01T09:10:29Z: PLAYER REMOVED [ 1570101006] FundsForYou
+2022-05-01T09:10:30Z: PLAYER ADDED   [  148094765] JaydenZ2012
+2022-05-01T09:10:34Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (   -6.0,     3.3,    55.3)
+  hi
+2022-05-01T09:10:36Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  630.5,     2.4,  -108.0)
+  yow
+2022-05-01T09:10:45Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (   -7.0,     3.3,    54.4)
+  im saving up robux could you donate?
+2022-05-01T09:10:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.3,     4.4,    89.3)
+  Hi.
+2022-05-01T09:10:48Z: CHRCTER ADDED  [  384874703] lMidnightSkyl        (   29.8,     6.6,   101.9)
+2022-05-01T09:10:49Z: CHRCTER ADDED  [ 2729488858] tanjiro217123        (   54.8,     7.0,   101.9)
+2022-05-01T09:10:54Z: CHRCTER ADDED  [   82670162] johnkingwtf          (   54.8,     7.3,   101.9)
+2022-05-01T09:10:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.3,     4.4,    89.3)
+  Care to check out my clock booth?
+2022-05-01T09:10:56Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -14.5,     3.4,    84.5)
+  #################
+2022-05-01T09:10:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -26.3,     4.4,    89.3)
+  It updates every 5 seconds!
+2022-05-01T09:11:05Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -24.1,     3.4,    91.8)
+  please donate
+2022-05-01T09:11:06Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (  -22.7,     3.9,    73.8)
+  ooo
+2022-05-01T09:11:10Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -13.2,     3.4,    89.4)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:11:10Z: PLAYER CHATTED [  384874703] lMidnightSkyl        (   24.1,    11.4,    67.5)
+  /w PHKittensYT2  
+2022-05-01T09:11:11Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -30.6,     2.8,    91.4)
+  troy
+2022-05-01T09:11:11Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (  -22.7,     3.9,    73.8)
+  can you donate me?
+2022-05-01T09:11:12Z: PLAYER CHATTED [ 2048400632] C_CBABY              (  -34.8,     2.7,   108.1)
+  midnight if i can find u care tto donate to me
+2022-05-01T09:11:12Z: PLAYER CHATTED [ 3230110102] vskpt0               (   -6.3,     3.3,    67.2)
+  please donate:(
+2022-05-01T09:11:18Z: PLAYER CHATTED [  384874703] lMidnightSkyl        (   24.1,    11.4,    67.5)
+  /w YamiKawalI  congrats on 10k :)
+2022-05-01T09:11:18Z: PLAYER CHATTED [ 2022366239] Alexbouuy            (   -6.8,     3.3,    95.1)
+  troy
+2022-05-01T09:11:19Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -10.5,     3.1,    97.5)
+  nice avatra
+2022-05-01T09:11:19Z: PLAYER CHATTED [  877356156] johncaloy8           (  -26.7,     3.5,    92.0)
+  :D
+2022-05-01T09:11:21Z: PLAYER CHATTED [ 2420306607] badrff2001           (  -25.8,     3.2,    77.3)
+  i have 0
+2022-05-01T09:11:21Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -28.4,     3.7,    92.0)
+  BABABABABA
+2022-05-01T09:11:22Z: PLAYER CHATTED [   82670162] johnkingwtf          (   -9.0,     3.7,    94.1)
+  it yort
+2022-05-01T09:11:22Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.4,     3.6,    41.5)
+  please donate
+2022-05-01T09:11:23Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -26.5,     4.0,    88.5)
+  please donate
+2022-05-01T09:11:25Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (  -22.7,     3.9,    73.8)
+  ok then
+2022-05-01T09:11:28Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -27.4,     3.7,    90.6)
+  TYYYY
+2022-05-01T09:11:30Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -10.5,     3.1,    97.2)
+  oh hey yort
+2022-05-01T09:11:30Z: PLAYER CHATTED [ 2048400632] C_CBABY              (   24.2,    11.3,    67.2)
+  here
+2022-05-01T09:11:30Z: PLAYER CHATTED [  727667437] KaanoftheYildizYT    (  -22.7,     3.3,    87.6)
+  akira
+2022-05-01T09:11:31Z: PLAYER CHATTED [  877356156] johncaloy8           (  -23.6,     3.2,    90.4)
+  Can I get donation?
+2022-05-01T09:11:32Z: PLAYER CHATTED [ 2048400632] C_CBABY              (   24.2,    11.3,    67.2)
+  lol
+2022-05-01T09:11:33Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -25.4,     3.4,    92.1)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:11:34Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.4,     3.6,    41.5)
+  please donate
+2022-05-01T09:11:35Z: PLAYER CHATTED [   82670162] johnkingwtf          (   -9.0,     3.7,    94.1)
+  ello b
+2022-05-01T09:11:36Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -10.6,     3.1,    96.8)
+  donate me yort
+2022-05-01T09:11:37Z: PLAYER CHATTED [  877356156] johncaloy8           (  -28.3,     3.8,    94.5)
+  maybe?
+2022-05-01T09:11:41Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.4,     3.6,    41.5)
+  please donate
+2022-05-01T09:11:42Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -26.9,     3.4,    93.0)
+  /w lMidnightSkyl TY
+2022-05-01T09:11:43Z: PLAYER CHATTED [  412588256] biggg_papa           (  100.1,     3.0,    54.5)
+  /e dance
+2022-05-01T09:11:43Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -23.5,     3.4,    90.2)
+  please donate
+2022-05-01T09:11:45Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -10.2,     3.1,    96.1)
+  if ure kind
+2022-05-01T09:11:45Z: PLAYER CHATTED [   82670162] johnkingwtf          (   -9.0,     3.7,    94.1)
+  donate me
+2022-05-01T09:11:49Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -22.1,     3.4,    95.1)
+  rlly?
+2022-05-01T09:11:59Z: PLAYER CHATTED [ 3046510904] Via_potato           (  -23.4,     3.0,    96.8)
+  can someone donate me?
+2022-05-01T09:12:04Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -26.0,     4.0,    86.3)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:12:04Z: PLAYER CHATTED [ 2022366239] Alexbouuy            (   -1.5,     3.3,    50.3)
+  I have donated all my rbx so please help me on my way to 20K
+2022-05-01T09:12:05Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.4,     3.4,    41.0)
+  please donate
+2022-05-01T09:12:06Z: PLAYER CHATTED [ 1385611030] bigHerobente         (   -8.8,     3.8,    53.5)
+  troy follow me
+2022-05-01T09:12:11Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.4,     3.3,    88.3)
+  lucky..
+2022-05-01T09:12:13Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -28.0,     3.7,    91.7)
+  HHHH
+2022-05-01T09:12:17Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -22.1,     3.4,    88.7)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:12:20Z: PLAYER CHATTED [   82670162] johnkingwtf          (   -4.0,     3.7,    64.8)
+  lol
+2022-05-01T09:12:23Z: PLAYER CHATTED [ 1385611030] bigHerobente         (   -1.6,     3.1,    65.6)
+  troy come
+2022-05-01T09:12:23Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -28.0,     3.7,    91.7)
+  IM ALMOST #### ### XIAYEO
+2022-05-01T09:12:25Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -28.0,     3.7,    91.7)
+  BABABA
+2022-05-01T09:12:29Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.7,     6.2,    85.9)
+  huH?
+2022-05-01T09:12:29Z: PLAYER CHATTED [ 1385611030] bigHerobente         (   -1.6,     3.1,    65.6)
+  u have diamond stand
+2022-05-01T09:12:33Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   57.8,     3.4,    49.1)
+  yow
+2022-05-01T09:12:35Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.1,     3.9,    43.3)
+  please donate
+2022-05-01T09:12:41Z: PLAYER CHATTED [  148094765] JaydenZ2012          (   -8.0,     3.4,    99.0)
+  please donate
+2022-05-01T09:12:42Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -25.3,     3.2,    89.4)
+  sayori
+2022-05-01T09:12:45Z: PLAYER CHATTED [ 3127473281] PHKittensYT2         (   -5.3,     3.0,    87.3)
+  Midnight buy my fresh lemonade it's only 3 
+2022-05-01T09:12:46Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   -8.8,     3.4,    94.3)
+  midnight
+2022-05-01T09:12:49Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   -8.8,     3.4,    94.3)
+  can you donate?
+2022-05-01T09:12:52Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -27.5,     3.8,    87.2)
+  u look amazing
+2022-05-01T09:12:53Z: PLAYER CHATTED [  877356156] johncaloy8           (  -29.1,     3.8,    94.0)
+  ey sayori can I get a little donation..
+2022-05-01T09:12:53Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   -8.8,     3.4,    94.3)
+  for my kit in bedwars
+2022-05-01T09:12:55Z: PLAYER CHATTED [  148094765] JaydenZ2012          (   -7.6,     3.4,    97.1)
+  Please donate
+2022-05-01T09:12:58Z: PLAYER CHATTED [   82670162] johnkingwtf          (  -10.5,     3.7,   119.9)
+  dam
+2022-05-01T09:12:59Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.4,     3.9,    43.0)
+  please donate:(
+2022-05-01T09:13:04Z: PLAYER CHATTED [  877356156] johncaloy8           (  -26.3,     3.2,    94.4)
+  No one donated today tho it's okay if cant.
+2022-05-01T09:13:07Z: PLAYER CHATTED [ 1487317451] I2W5                 (  -15.4,     2.5,    92.3)
+  DONATE ME 30R PLS
+2022-05-01T09:13:09Z: PLAYER CHATTED [  148094765] JaydenZ2012          (   26.0,     3.2,    77.5)
+  pls
+2022-05-01T09:13:10Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.7,     3.2,    93.6)
+  I'm not forcing.
+2022-05-01T09:13:10Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.5,     3.9,    43.6)
+  please
+2022-05-01T09:13:20Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -27.9,     3.7,    86.8)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:13:22Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -27.0,     3.8,    89.2)
+  sayori can you dojate its ok if no i understand
+2022-05-01T09:13:25Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -29.2,     3.7,    94.1)
+  ASK MIDNIGHT HE RICH
+2022-05-01T09:13:25Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.5,     3.9,    43.6)
+  please,donate
+2022-05-01T09:13:27Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -29.2,     3.7,    94.1)
+  ANNOY HIM
+2022-05-01T09:13:29Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -29.2,     3.7,    94.1)
+  LOLL
+2022-05-01T09:13:30Z: PLAYER CHATTED [  148094765] JaydenZ2012          (   55.0,     9.1,   135.0)
+  please
+2022-05-01T09:13:31Z: PLAYER CHATTED [  877356156] johncaloy8           (  -27.4,     3.6,    93.9)
+  uh 
+2022-05-01T09:13:31Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -27.5,     3.8,    91.3)
+  where
+2022-05-01T09:13:37Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (   -6.2,     3.4,    64.4)
+  yow
+2022-05-01T09:13:38Z: PLAYER CHATTED [ 3230110102] vskpt0               (    1.5,     3.9,    43.6)
+  please donate bros
+2022-05-01T09:13:42Z: PLAYER CHATTED [ 3127473281] PHKittensYT2         (  -13.3,     3.0,    73.1)
+  MIDNIGHT 
+2022-05-01T09:13:43Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (    3.6,     3.4,    61.1)
+  midnight
+2022-05-01T09:13:44Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  160.7,     3.3,    68.7)
+  please
+2022-05-01T09:13:47Z: PLAYER CHATTED [  877356156] johncaloy8           (  -24.5,     3.2,    95.1)
+  Even if I did he still won't 
+2022-05-01T09:13:52Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  157.6,     2.4,    54.4)
+  can you listen?
+2022-05-01T09:13:53Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -24.6,     3.1,    91.0)
+  FF
+2022-05-01T09:13:55Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  214.0,     2.4,    66.1)
+  :D
+2022-05-01T09:13:57Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  223.9,     2.4,    68.6)
+  yow
+2022-05-01T09:13:57Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  165.0,     2.3,    61.0)
+  I take that as a no..
+2022-05-01T09:13:58Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -24.9,     3.1,    91.2)
+  Fr
+2022-05-01T09:13:59Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.1,     3.2,    94.4)
+  so imma just stand here Waiting for him to donate lol
+2022-05-01T09:14:01Z: PLAYER REMOVED [ 3127473281] PHKittensYT2
+2022-05-01T09:14:04Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  224.8,     2.4,   132.5)
+  nvm
+2022-05-01T09:14:05Z: PLAYER ADDED   [ 2671424861] Princeivanbalong
+2022-05-01T09:14:05Z: PLAYER CHATTED [ 2022366239] Alexbouuy            (  -23.0,     3.3,    86.4)
+  Ur a game dev right
+2022-05-01T09:14:05Z: PLAYER REMOVED [  727667437] KaanoftheYildizYT
+2022-05-01T09:14:06Z: PLAYER ADDED   [ 1091476935] kaidoeverythingo
+2022-05-01T09:14:09Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  206.2,     3.4,    84.9)
+  midnight
+2022-05-01T09:14:16Z: PLAYER CHATTED [ 3230110102] vskpt0               (   -1.5,    14.8,    38.3)
+  please,donate
+2022-05-01T09:14:18Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  267.9,     2.4,   136.2)
+  stay safe
+2022-05-01T09:14:19Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -31.0,     2.8,    93.2)
+  3K PENDING
+2022-05-01T09:14:22Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -28.8,     3.7,    93.4)
+  LOL
+2022-05-01T09:14:26Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.4,     3.2,    95.5)
+  ...
+2022-05-01T09:14:31Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -28.7,     4.0,    94.8)
+  what
+2022-05-01T09:14:32Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -28.7,     4.0,    94.8)
+  how
+2022-05-01T09:14:35Z: PLAYER CHATTED [  877356156] johncaloy8           (  -25.8,     3.2,    96.5)
+  donate ma some also :(
+2022-05-01T09:14:36Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -22.4,     3.4,    94.4)
+  stay safe midnight :>
+2022-05-01T09:14:38Z: PLAYER CHATTED [ 3230110102] vskpt0               (  -28.3,     3.9,   108.6)
+  :(
+2022-05-01T09:14:44Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -30.8,     6.3,    86.1)
+  hihi
+2022-05-01T09:14:46Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -29.0,     3.7,    96.5)
+  IM JUST HAPPPY TO GET BIG DONO FINALLY 
+2022-05-01T09:14:47Z: PLAYER CHATTED [ 3230110102] vskpt0               (  -30.9,     3.9,   101.5)
+  please,donate bro
+2022-05-01T09:14:48Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -29.2,     2.8,    88.3)
+  W
+2022-05-01T09:14:49Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -20.3,     3.1,   112.3)
+  this
+2022-05-01T09:14:52Z: PLAYER CHATTED [ 2729488858] tanjiro217123        (  -13.7,     3.4,    85.8)
+  Can some one donate fo my kit in bedwars
+2022-05-01T09:14:53Z: PLAYER CHATTED [  877356156] johncaloy8           (  -18.2,     3.2,    82.5)
+  didn't get any donation today...
+2022-05-01T09:14:54Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -13.3,     3.1,   101.4)
+  midnight hey
+2022-05-01T09:14:57Z: PLAYER CHATTED [  148094765] JaydenZ2012          (  -26.4,     3.7,    90.9)
+  how much you got?
+2022-05-01T09:14:57Z: PLAYER CHATTED [ 1971465394] jakerepompo          (  -31.4,     8.5,    90.2)
+  xD.
+2022-05-01T09:14:58Z: PLAYER CHATTED [ 1091476935] kaidoeverythingo     (  -12.6,     3.0,   107.4)
+  Pls donate 
+2022-05-01T09:15:01Z: PLAYER CHATTED [ 3190560365] YamiKawalI           (  -25.6,     3.1,    92.6)
+  TYYYYYYYYY
+2022-05-01T09:15:01Z: PLAYER CHATTED [ 1385611030] bigHerobente         (  -23.1,     3.1,    92.6)
+  nice outfif
+2022-05-01T09:15:03Z: PLAYER CHATTED [  877356156] johncaloy8           (  -21.4,     3.2,    85.1)
+  kinda bad luck.
+2022-05-01T09:15:03Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-01T09:15:03Z: PLAYER REMOVED [  416455369] privatebeans2017
+2022-05-01T09:15:03Z: PLAYER REMOVED [  379753381] thepetcaller12
+2022-05-01T09:15:03Z: PLAYER REMOVED [  533774561] demonkiller99991
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2587171771] rubydacherry_satin42
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 3230110102] vskpt0
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 3190560365] YamiKawalI
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 1487317451] I2W5
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2420306607] badrff2001
+2022-05-01T09:15:03Z: PLAYER REMOVED [  454137777] zaidiscool7
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2209801848] DAVIONDRIPDRIP
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 1193496709] birdywing123
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 1385611030] bigHerobente
+2022-05-01T09:15:03Z: PLAYER REMOVED [   82670162] johnkingwtf
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 3046510904] Via_potato
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2048400632] C_CBABY
+2022-05-01T09:15:03Z: PLAYER REMOVED [  384874703] lMidnightSkyl
+2022-05-01T09:15:03Z: PLAYER REMOVED [  774913793] houssein0000
+2022-05-01T09:15:03Z: PLAYER REMOVED [  412588256] biggg_papa
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 1971465394] jakerepompo
+2022-05-01T09:15:03Z: PLAYER REMOVED [  877356156] johncaloy8
+2022-05-01T09:15:03Z: PLAYER REMOVED [  653939983] olliecloudd
+2022-05-01T09:15:03Z: PLAYER REMOVED [  292374663] SilverBullet391
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2729488858] tanjiro217123
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2022366239] Alexbouuy
+2022-05-01T09:15:03Z: PLAYER REMOVED [  148094765] JaydenZ2012
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 2671424861] Princeivanbalong
+2022-05-01T09:15:03Z: PLAYER REMOVED [ 1091476935] kaidoeverythingo
+2022-05-01T09:15:03Z: CHAT STREAM SUCCESSFULLY ENDED

@@ -1,0 +1,72 @@
+[    1630228] : [ 8884433153] Collect All Pets! - 697b1bb7-23d7-4be2-9982-c944ed72f978
+2022-06-18T08:24:55Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-18T08:24:55Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-18T08:24:55Z: PLAYER ADDED   [  299273441] foxartery
+2022-06-18T08:24:55Z: PLAYER ADDED   [ 3035175161] Adamkaka_5
+2022-06-18T08:24:55Z: PLAYER ADDED   [  313852025] foxy8cool999
+2022-06-18T08:24:55Z: PLAYER ADDED   [   42967975] s_nnys
+2022-06-18T08:24:55Z: PLAYER ADDED   [  475052842] itz_yegenius
+2022-06-18T08:24:55Z: PLAYER ADDED   [ 1554837459] PeachGlory
+2022-06-18T08:24:55Z: PLAYER ADDED   [ 2544134324] strawberry_fr0g0
+2022-06-18T08:24:55Z: PLAYER ADDED   [  133288712] aaronleblanc1
+2022-06-18T08:24:55Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-18T08:25:03Z: PLAYER REMOVED [ 3035175161] Adamkaka_5
+2022-06-18T08:25:22Z: PLAYER CHATTED [ 1554837459] PeachGlory           (  181.3,    57.8,    73.6)
+  oh i know its ridiculous 
+2022-06-18T08:25:52Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -5.6,     5.1,  -125.5)
+  Quality map?
+2022-06-18T08:26:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -32.6,     5.8,  -141.6)
+  Not bad.
+2022-06-18T08:26:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.3,     5.8,  -102.5)
+  When is he coming?
+2022-06-18T08:26:41Z: PLAYER CHATTED [ 3109050268] Avionlix             (   33.7,     5.1,   -92.7)
+  Already here
+2022-06-18T08:26:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   28.7,     5.8,  -100.8)
+  Oh.
+2022-06-18T08:27:05Z: PLAYER CHATTED [  313852025] foxy8cool999         (   65.1,     5.5,   106.0)
+  Alright cya
+2022-06-18T08:27:48Z: PLAYER CHATTED [ 1554837459] PeachGlory           (  251.2,     6.0,   169.6)
+  have  a  gn
+2022-06-18T08:27:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.8,   -60.0)
+  Where is she?
+2022-06-18T08:27:54Z: PLAYER CHATTED [  313852025] foxy8cool999         (  154.5,     5.3,    61.5)
+  Thx
+2022-06-18T08:27:58Z: PLAYER REMOVED [  313852025] foxy8cool999
+2022-06-18T08:28:24Z: PLAYER CHATTED [ 3109050268] Avionlix             (   13.6,     5.1,  -331.0)
+  let me see
+2022-06-18T08:29:42Z: PLAYER REMOVED [ 1554837459] PeachGlory
+2022-06-18T08:29:54Z: PLAYER REMOVED [  133288712] aaronleblanc1
+2022-06-18T08:32:06Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -35.7,     9.9,  -286.4)
+  help
+2022-06-18T08:32:14Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -35.8,     9.9,  -286.3)
+  its not working
+2022-06-18T08:33:08Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -35.9,    10.1,  -286.2)
+  hi
+2022-06-18T08:38:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -34.2,     5.1,  -285.9)
+  looking?
+2022-06-18T08:38:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -36.7,     5.8,  -289.8)
+  You're still near me.
+2022-06-18T08:38:31Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -34.2,     5.1,  -285.9)
+  does not work
+2022-06-18T08:38:35Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -34.2,     5.1,  -285.9)
+  only for a second 
+2022-06-18T08:38:37Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -34.2,     5.1,  -285.9)
+  then breaks
+2022-06-18T08:40:06Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-18T08:40:53Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-18T08:43:06Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -36.3,     5.1,  -270.5)
+  im just still
+2022-06-18T08:43:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.6,     5.8,  -273.5)
+  I had a theory.
+2022-06-18T08:43:52Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -34.7,     5.1,  -262.3)
+  Yes
+2022-06-18T08:49:20Z: PLAYER REMOVED [   42967975] s_nnys
+2022-06-18T08:50:39Z: PLAYER ADDED   [   42967975] s_nnys
+2022-06-18T08:52:36Z: PLAYER CHATTED [ 3109050268] Avionlix             (   12.0,     5.1,  -269.3)
+  Sunny
+2022-06-18T08:52:38Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-18T08:52:38Z: PLAYER REMOVED [  299273441] foxartery
+2022-06-18T08:52:38Z: PLAYER REMOVED [  475052842] itz_yegenius
+2022-06-18T08:52:38Z: PLAYER REMOVED [ 2544134324] strawberry_fr0g0
+2022-06-18T08:52:38Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-18T08:52:38Z: PLAYER REMOVED [   42967975] s_nnys

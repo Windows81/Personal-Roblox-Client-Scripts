@@ -1,0 +1,85 @@
+[    1630228] : [ 9863847818] Unolegy TestingGrounds(PC) - b9a05e35-1cac-453b-84eb-dfe7bb81a11d
+2022-06-13T08:52:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-13T08:52:51Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-13T08:52:51Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-13T08:53:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.1,     4.7,   -75.2)
+  Very well.
+2022-06-13T08:53:52Z: PLAYER CHATTED [ 3109050268] Avionlix             (   33.3,     4.0,   -75.0)
+  and we will grow world wide
+2022-06-13T08:53:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.7,     4.7,   -79.4)
+  I'm secretly Scotch.
+2022-06-13T08:53:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   28.8,     4.7,   -77.8)
+  Scottisch.
+2022-06-13T08:54:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.2,     4.7,   -79.8)
+  And Welch.
+2022-06-13T08:54:16Z: PLAYER CHATTED [ 3109050268] Avionlix             (   30.2,     4.0,   -78.2)
+  so it was a lie
+2022-06-13T08:54:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   27.8,     4.7,   -81.0)
+  And ###ish.
+2022-06-13T08:54:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.0)
+  No.
+2022-06-13T08:54:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.6,     4.7,   -80.6)
+  It was a queue.
+2022-06-13T08:54:42Z: PLAYER CHATTED [ 3109050268] Avionlix             (   28.3,     4.0,   -77.2)
+  then I must say
+2022-06-13T08:54:45Z: PLAYER CHATTED [ 3109050268] Avionlix             (   28.3,     4.0,   -77.2)
+  im 6
+2022-06-13T08:54:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.6,     4.7,   -80.6)
+  Not a line.
+2022-06-13T08:55:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.6,     4.7,   -80.6)
+  Relaunch Uneology in Northern Direland.
+2022-06-13T08:55:28Z: PLAYER CHATTED [ 3109050268] Avionlix             (   28.3,     4.0,   -77.2)
+  yes
+2022-06-13T08:55:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.6,     4.7,   -80.6)
+  You'll be in ire need for support.
+2022-06-13T08:55:39Z: PLAYER CHATTED [ 3109050268] Avionlix             (   30.1,     4.0,   -74.7)
+  yes
+2022-06-13T08:56:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  Uneology never uses tires on their cars.
+2022-06-13T08:56:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  Only tyres.
+2022-06-13T08:56:10Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:56:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  And their cars are all right-hand drive.
+2022-06-13T08:56:16Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  Yes
+2022-06-13T08:56:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  Left-hand-drive are against directive.
+2022-06-13T08:56:26Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:56:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  So relaunch in India and South Africa and Australia.
+2022-06-13T08:56:40Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:56:42Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  ok
+2022-06-13T08:56:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  Avoid USA and Brasil.
+2022-06-13T08:56:46Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  relaunch
+2022-06-13T08:56:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:56:52Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  I must head off
+2022-06-13T08:56:58Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  to a meeting
+2022-06-13T08:56:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  And mainland Europ-ayments.
+2022-06-13T08:57:03Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:57:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  take care
+2022-06-13T08:57:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  Keep the NHS indepen-dum.
+2022-06-13T08:57:14Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yrd
+2022-06-13T08:57:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   25.7,     4.7,   -80.1)
+  You too.
+2022-06-13T08:57:17Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  yes
+2022-06-13T08:57:19Z: PLAYER CHATTED [ 3109050268] Avionlix             (   29.1,     4.0,   -78.4)
+  bye
+2022-06-13T08:57:20Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-13T08:57:20Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-13T08:57:20Z: CHAT STREAM SUCCESSFULLY ENDED

@@ -1,0 +1,246 @@
+[    1630228] : [ 2228128339] Club Iris - c2c31056-1af9-4fce-9e1c-d0545a15155e
+2022-06-03T08:58:20Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-03T08:58:22Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-03T08:58:22Z: PLAYER ADDED   [  993148901] gabrielteenager1717
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1716414007] Roxxy_YTGIRL
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1671678482] Sophia_Rijnsoever
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1515358858] Nancynoodle012
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2336028162] Dark_FAZE879
+2022-06-03T08:58:22Z: PLAYER ADDED   [  410087249] Rubydoorae
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2564995377] FireFrog68684
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1407278967] ariielxa
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1755674545] SuTartPlebs
+2022-06-03T08:58:22Z: PLAYER ADDED   [  182284398] Zhilper
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2299005580] turtlegirl52b
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 3079118420] Shigahpoohin
+2022-06-03T08:58:22Z: PLAYER ADDED   [   82920280] gungumblatt
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1988854191] Qweenbeelover99
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2608461601] Binzikah
+2022-06-03T08:58:22Z: PLAYER ADDED   [   96222445] heroparty1
+2022-06-03T08:58:22Z: PLAYER ADDED   [  410264180] Rasmuskatten
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1666080350] cocopringles2
+2022-06-03T08:58:22Z: PLAYER ADDED   [  933847152] jaydenisbirb
+2022-06-03T08:58:22Z: PLAYER ADDED   [  321774969] superoliver606
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1606192825] Rileydugs11
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1341954838] babyanimal14
+2022-06-03T08:58:22Z: PLAYER ADDED   [  988904671] 1Sharnie
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2229279211] lonkany
+2022-06-03T08:58:22Z: PLAYER ADDED   [  982736789] unishoppies
+2022-06-03T08:58:22Z: PLAYER ADDED   [  848855842] ii_vxlbes
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2449583864] tarasharon2020
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1640488528] vamplol23
+2022-06-03T08:58:22Z: PLAYER ADDED   [  321102702] llamagaming678
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 2483089473] CONTROLLAPLAYA96042
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 1515579354] puchixt
+2022-06-03T08:58:22Z: PLAYER ADDED   [  602148156] iamapenguin55
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 3315505602] Mm_Shadow79
+2022-06-03T08:58:22Z: PLAYER ADDED   [ 3145602254] Sen0blivious
+2022-06-03T08:58:23Z: PLAYER REMOVED [ 1988854191] Qweenbeelover99
+2022-06-03T08:58:25Z: PLAYER CHATTED [ 3315505602] Mm_Shadow79          (  388.8,    35.0,   629.7)
+  Oder
+2022-06-03T08:58:25Z: PLAYER CHATTED [  321774969] superoliver606       (  304.3,    41.3,   599.6)
+  Yeah they are
+2022-06-03T08:58:26Z: PLAYER CHATTED [ 2299005580] turtlegirl52b        (  379.7,    41.0,   699.6)
+  Bc I gtg do ma homework 😑
+2022-06-03T08:58:26Z: PLAYER CHATTED [ 3315505602] Mm_Shadow79          (  388.8,    35.0,   629.7)
+  Ahahahha
+2022-06-03T08:58:27Z: PLAYER CHATTED [ 3145602254] Sen0blivious         (  356.7,    41.0,   795.2)
+  SHEEEESH
+2022-06-03T08:58:30Z: PLAYER CHATTED [ 3315505602] Mm_Shadow79          (  388.8,    35.0,   629.7)
+  Baits
+2022-06-03T08:58:30Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  302.2,    41.5,   596.0)
+  they ain't got the lettuce for no burger
+2022-06-03T08:58:31Z: PLAYER REMOVED [ 2608461601] Binzikah
+2022-06-03T08:58:32Z: PLAYER CHATTED [ 2449583864] tarasharon2020       (  395.4,    34.1,   630.4)
+  ao what the -
+2022-06-03T08:58:33Z: PLAYER CHATTED [ 3109050268] Avionlix             (  268.5,    42.8,   739.5)
+  Hail avionlix
+2022-06-03T08:58:34Z: PLAYER ADDED   [ 2247241277] xTokyo_Chris
+2022-06-03T08:58:35Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  384.5,    41.2,   698.6)
+  ok
+2022-06-03T08:58:35Z: PLAYER CHATTED [  410087249] Rubydoorae           (  377.1,    41.3,   701.0)
+  Rip
+2022-06-03T08:58:35Z: PLAYER CHATTED [ 1755674545] SuTartPlebs          (  376.7,    41.2,   711.3)
+  Duck with a knife
+2022-06-03T08:58:36Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  .
+2022-06-03T08:58:36Z: PLAYER CHATTED [ 2229279211] lonkany              (  332.4,    39.7,   967.0)
+  this Singapore. vibe
+2022-06-03T08:58:37Z: PLAYER ADDED   [ 1468144969] spycakes7773
+2022-06-03T08:58:37Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  391.9,    41.2,   700.0)
+  nice glitch
+2022-06-03T08:58:37Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  384.5,    41.2,   698.6)
+  see you later
+2022-06-03T08:58:39Z: PLAYER CHATTED [   82920280] gungumblatt          (  396.9,    41.3,   697.6)
+  wake up
+2022-06-03T08:58:39Z: PLAYER CHATTED [  321774969] superoliver606       (  304.3,    41.3,   599.6)
+  The sad thing for you guys
+2022-06-03T08:58:40Z: PLAYER CHATTED [ 1407278967] ariielxa             (  391.3,    33.8,   640.3)
+  L
+2022-06-03T08:58:41Z: PLAYER CHATTED [ 2336028162] Dark_FAZE879         (  400.6,    35.0,   619.0)
+  Wanna go in the hotel to talk cuz here there are too many ppl
+2022-06-03T08:58:41Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  yep
+2022-06-03T08:58:41Z: PLAYER CHATTED [ 1341954838] babyanimal14         (  386.6,    41.5,   711.0)
+  yes
+2022-06-03T08:58:42Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  no.
+2022-06-03T08:58:46Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  you.
+2022-06-03T08:58:47Z: PLAYER CHATTED [ 2299005580] turtlegirl52b        (  379.1,    41.0,   698.0)
+  Ight cya
+2022-06-03T08:58:49Z: PLAYER CHATTED [   96222445] heroparty1           (  300.4,    41.4,   599.7)
+  dont like it anyways
+2022-06-03T08:58:51Z: PLAYER REMOVED [ 2299005580] turtlegirl52b
+2022-06-03T08:58:52Z: PLAYER CHATTED [ 1515579354] puchixt              (  396.8,    33.8,   622.1)
+  sure
+2022-06-03T08:58:52Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  it’s been 2 years.
+2022-06-03T08:58:52Z: PLAYER REMOVED [ 1640488528] vamplol23
+2022-06-03T08:58:53Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  330.7,    39.9,   963.1)
+  aRE YOU REAL HEADLESS?
+2022-06-03T08:58:54Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.6,    41.2,   701.6)
+  cyaaaa
+2022-06-03T08:58:55Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  please wake up.
+2022-06-03T08:58:56Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  385.5,    41.2,   705.7)
+  i own your family
+2022-06-03T08:58:57Z: PLAYER CHATTED [ 3109050268] Avionlix             (  272.1,    42.8,   737.3)
+  !char avionlix
+2022-06-03T08:58:57Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  348.2,    41.1,   983.5)
+2022-06-03T08:58:58Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  ????
+2022-06-03T08:58:58Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  330.4,    39.9,   964.1)
+  ahh
+2022-06-03T08:58:58Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.6,    41.2,   701.6)
+  hi
+2022-06-03T08:58:59Z: PLAYER CHATTED [ 3145602254] Sen0blivious         (  394.2,    41.0,   800.0)
+  SHESH
+2022-06-03T08:59:01Z: PLAYER CHATTED [   82920280] gungumblatt          (  396.9,    41.3,   697.6)
+  no
+2022-06-03T08:59:02Z: PLAYER CHATTED [  988904671] 1Sharnie             (  328.4,    39.4,   967.9)
+  Yk it’s not 
+2022-06-03T08:59:03Z: PLAYER CHATTED [   82920280] gungumblatt          (  397.0,    41.3,   697.6)
+  you
+2022-06-03T08:59:04Z: PLAYER CHATTED [ 3109050268] Avionlix             (  285.7,    41.0,   720.4)
+  !char visualplugi n
+2022-06-03T08:59:04Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  301.8,    41.5,   595.4)
+  maybe not even the seeds
+2022-06-03T08:59:04Z: PLAYER CHATTED [  410087249] Rubydoorae           (  377.4,    41.3,   701.1)
+  Hi.
+2022-06-03T08:59:05Z: PLAYER REMOVED [ 3315505602] Mm_Shadow79
+2022-06-03T08:59:05Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  .
+2022-06-03T08:59:05Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  0-0
+2022-06-03T08:59:07Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.6,    41.2,   701.6)
+  im charlie#
+2022-06-03T08:59:07Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  ur ducks
+2022-06-03T08:59:08Z: PLAYER CHATTED [  933847152] jaydenisbirb         (  396.1,    41.2,   692.7)
+  :D
+2022-06-03T08:59:08Z: PLAYER CHATTED [ 1341954838] babyanimal14         (  386.6,    41.5,   711.0)
+  umm
+2022-06-03T08:59:10Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.6,    41.2,   701.6)
+  wbu
+2022-06-03T08:59:10Z: PLAYER CHATTED [ 3109050268] Avionlix             (  285.7,    41.0,   720.4)
+  !char visualplugin
+2022-06-03T08:59:10Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  285.7,    41.0,   720.4)
+2022-06-03T08:59:10Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  this right here/
+2022-06-03T08:59:12Z: PLAYER CHATTED [  321774969] superoliver606       (  304.3,    41.3,   599.6)
+  Is that you can’t go to binley mega chippy
+2022-06-03T08:59:12Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  302.3,    41.5,   595.5)
+  XD
+2022-06-03T08:59:12Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  330.4,    39.9,   964.1)
+  Its looks good on you
+2022-06-03T08:59:12Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  is your mom
+2022-06-03T08:59:13Z: PLAYER CHATTED [ 2336028162] Dark_FAZE879         (  486.9,    42.1,   711.2)
+  LIKE WHY ALL FOLLOWING US
+2022-06-03T08:59:14Z: PLAYER CHATTED [  410087249] Rubydoorae           (  377.4,    41.3,   701.1)
+  Lisa
+2022-06-03T08:59:16Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  and i will eat her
+2022-06-03T08:59:17Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  330.4,    39.9,   964.1)
+  Not bad.
+2022-06-03T08:59:17Z: PLAYER CHATTED [  988904671] 1Sharnie             (  328.4,    39.4,   967.9)
+  Tyy
+2022-06-03T08:59:17Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.5,    41.2,   700.8)
+  nice
+2022-06-03T08:59:18Z: PLAYER CHATTED [ 1716414007] Roxxy_YTGIRL         (  391.1,    41.2,   695.5)
+  :D
+2022-06-03T08:59:18Z: PLAYER CHATTED [  410087249] Rubydoorae           (  377.4,    41.3,   701.1)
+  On my sis acc
+2022-06-03T08:59:19Z: PLAYER CHATTED [   96222445] heroparty1           (  300.4,    41.4,   599.7)
+  oh no...
+2022-06-03T08:59:19Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  302.3,    41.5,   595.5)
+  huh?
+2022-06-03T08:59:22Z: PLAYER CHATTED [ 2229279211] lonkany              (  392.8,    41.2,   698.0)
+  u have dis?
+2022-06-03T08:59:22Z: PLAYER CHATTED [ 1341954838] babyanimal14         (  386.6,    41.5,   711.0)
+  my duckys
+2022-06-03T08:59:22Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  dam
+2022-06-03T08:59:23Z: PLAYER ADDED   [ 2247247835] 01goust
+2022-06-03T08:59:23Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  381.5,    41.2,   700.8)
+  kk
+2022-06-03T08:59:23Z: PLAYER CHATTED [ 1755674545] SuTartPlebs          (  379.6,    41.2,   708.4)
+  DONT EAT HER
+2022-06-03T08:59:25Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  if u dont give me the money
+2022-06-03T08:59:26Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  ok
+2022-06-03T08:59:26Z: PLAYER ADDED   [ 1993384138] scemochilegge21365
+2022-06-03T08:59:26Z: PLAYER CHATTED [ 3145602254] Sen0blivious         (  340.0,    39.8,   962.6)
+  mom?
+2022-06-03T08:59:27Z: PLAYER CHATTED [   96222445] heroparty1           (  300.4,    41.4,   599.7)
+  binleyyy mega chippyyy
+2022-06-03T08:59:28Z: PLAYER CHATTED [  321774969] superoliver606       (  304.1,    41.3,   598.6)
+  It’s a meme
+2022-06-03T08:59:28Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  330.4,    39.9,   964.1)
+  Dang a Vlk!
+2022-06-03T08:59:28Z: PLAYER CHATTED [ 3109050268] Avionlix             (  312.1,    41.7,   724.9)
+  please no
+2022-06-03T08:59:29Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  301.4,    41.5,   595.1)
+  what's that?
+2022-06-03T08:59:29Z: PLAYER CHATTED [ 1515579354] puchixt              (  757.4,   124.5,   729.8)
+  idk
+2022-06-03T08:59:32Z: PLAYER CHATTED [ 1606192825] Rileydugs11          (  383.4,    41.3,   711.0)
+  i never liked her
+2022-06-03T08:59:33Z: PLAYER CHATTED [ 3109050268] Avionlix             (  312.1,    41.7,   724.9)
+  please im sorry
+2022-06-03T08:59:34Z: PLAYER ADDED   [ 1849080775] Baloonwing
+2022-06-03T08:59:34Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  301.4,    41.5,   595.1)
+  a meme?
+2022-06-03T08:59:34Z: PLAYER ADDED   [ 2205290135] pippamia06
+2022-06-03T08:59:35Z: PLAYER CHATTED [ 1671678482] Sophia_Rijnsoever    (  332.8,    39.9,   963.5)
+  A Ice Valkyrie?!!
+2022-06-03T08:59:36Z: PLAYER CHATTED [   96222445] heroparty1           (  299.6,    41.4,   599.1)
+  u dont know???
+2022-06-03T08:59:36Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  384.5,    41.2,   707.4)
+  ayo
+2022-06-03T08:59:36Z: PLAYER CHATTED [ 1341954838] babyanimal14         (  386.6,    41.5,   711.0)
+  I have 29p
+2022-06-03T08:59:36Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  384.3,    41.2,   704.4)
+  deep
+2022-06-03T08:59:37Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  301.4,    41.5,   595.1)
+  hm
+2022-06-03T08:59:37Z: PLAYER CHATTED [  321774969] superoliver606       (  304.1,    41.3,   598.6)
+  BINLY MEGA CHILPY
+2022-06-03T08:59:38Z: PLAYER CHATTED [ 3145602254] Sen0blivious         (  340.0,    39.8,   962.6)
+  NO
+2022-06-03T08:59:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  302.5,    41.7,   725.4)
+  That is fine.
+2022-06-03T08:59:39Z: PLAYER CHATTED [  848855842] ii_vxlbes            (  385.1,    41.2,   701.8)
+  ?
+2022-06-03T08:59:39Z: PLAYER CHATTED [  410264180] Rasmuskatten         (  300.8,    41.5,   595.4)
+  nope
+2022-06-03T08:59:40Z: PLAYER CHATTED [   82920280] gungumblatt          (  397.7,    41.3,   695.4)
+  me?
+2022-06-03T08:59:40Z: PLAYER CHATTED [ 1755674545] SuTartPlebs          (  379.6,    41.2,   708.4)
+  nooo i want the duck
+2022-06-03T08:59:40Z: PLAYER ADDED   [  153694566] baroxy
+2022-06-03T08:59:41Z: PLAYER CHATTED [ 2483089473] CONTROLLAPLAYA96042  (  384.5,    41.2,   707.4)
+  ######

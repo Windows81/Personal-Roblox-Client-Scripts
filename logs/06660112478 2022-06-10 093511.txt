@@ -1,0 +1,99 @@
+[    1630228] : [ 6660112478] Sword Fight Baseplate - d1f3f78b-bcd8-489a-891a-7ee9ea893c4f
+2022-06-10T09:35:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-10T09:35:11Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-10T09:35:21Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-10T09:35:42Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:35:45Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -123.0,     4.0,    24.0)
+  wait
+2022-06-10T09:36:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -68.2,     3.0,   100.5)
+  Wait as well.
+2022-06-10T09:36:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -50.0,     3.5,    41.0)
+2022-06-10T09:37:15Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:37:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  -50.0,     3.5,    41.0)
+2022-06-10T09:37:42Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:37:58Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:38:12Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:38:28Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -47.9,     4.0,    40.3)
+  A leader vs a random man wearing a floatie
+2022-06-10T09:38:42Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -36.6,     3.0,    47.1)
+  wait i opened blender
+2022-06-10T09:38:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   88.4,   111.8,   239.8)
+  Precisely why the war shall quickly end with your surrender.
+2022-06-10T09:38:54Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -36.6,     3.0,    47.1)
+  ok ready
+2022-06-10T09:38:55Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:39:14Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:39:29Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:39:41Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:40:26Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:40:44Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:41:11Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -122.0,     4.0,   126.0)
+  im gonna send u something
+2022-06-10T09:41:13Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:42:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -85.6,     3.0,     8.1)
+  Fight me.
+2022-06-10T09:42:16Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -125.8,     2.8,    20.7)
+  ok wait
+2022-06-10T09:42:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -83.7,     3.0,    18.0)
+  Your mutiny demands it.
+2022-06-10T09:42:21Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:42:35Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,    18.2,    24.0)
+2022-06-10T09:43:20Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -123.0,    19.7,    24.0)
+  ########################
+2022-06-10T09:43:48Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:44:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.6,     3.0,    31.5)
+  If you dare unleash yur ultimate weapon,
+2022-06-10T09:44:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -46.6,     3.0,    31.5)
+  I shall do the same.
+2022-06-10T09:44:35Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -50.7,     4.0,    41.0)
+  wait
+2022-06-10T09:45:10Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -51.0,     3.5,   110.0)
+2022-06-10T09:45:25Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -51.0,     3.5,   110.0)
+2022-06-10T09:46:29Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -51.0,     3.5,   110.0)
+2022-06-10T09:46:41Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:47:09Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:47:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -94.7,     3.0,   -19.5)
+  Looks like you've got scripts.
+2022-06-10T09:48:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -50.0,     4.0,    41.0)
+  insert that
+2022-06-10T09:49:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -78.1,   130.5,    13.7)
+  Let's see what I'm up against.
+2022-06-10T09:49:23Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -51.0,     3.5,   110.0)
+2022-06-10T09:49:37Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:49:50Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -122.4,     4.0,    26.2)
+  lets do this!
+2022-06-10T09:49:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -16.6,    62.0,    99.2)
+  My script would not execute.
+2022-06-10T09:49:57Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:49:58Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -130.3,     3.0,   121.5)
+  HAHAHA
+2022-06-10T09:50:17Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -51.0,    12.0,   110.0)
+2022-06-10T09:50:26Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -52.5,    20.0,   126.8)
+  team
+2022-06-10T09:50:27Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -55.3,    20.4,   131.8)
+  plz
+2022-06-10T09:50:42Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:50:56Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -123.0,     3.5,    24.0)
+2022-06-10T09:51:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -149.4,     3.0,   115.7)
+  Your team is ded.
+2022-06-10T09:51:02Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -135.9,     3.0,    16.8)
+  team
+2022-06-10T09:51:03Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -135.9,     3.0,    16.8)
+  no
+2022-06-10T09:51:11Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -138.7,     3.0,    15.9)
+  we r team
+2022-06-10T09:51:21Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -50.0,     3.5,    41.0)
+2022-06-10T09:51:24Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -49.8,     3.0,    36.5)
+  team
+2022-06-10T09:51:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.7,     3.0,    50.4)
+  No.
+2022-06-10T09:51:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.7,     3.0,    50.4)
+  You are a traitor.
+2022-06-10T09:51:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.7,     3.0,    50.4)
+  And your surrender is ensuing.
+2022-06-10T09:51:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -61.7,     3.0,    50.4)
+  I will be off.
+2022-06-10T09:51:48Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( -122.0,     3.5,   126.0)
+2022-06-10T09:51:52Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-10T09:51:52Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-10T09:51:52Z: CHAT STREAM SUCCESSFULLY ENDED

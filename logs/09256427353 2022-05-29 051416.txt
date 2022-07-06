@@ -1,0 +1,209 @@
+[    1630228] : [ 9256427353] ASYNC | The Backrooms - 1beebb31-b234-49cf-82aa-444fa720035c
+2022-05-29T05:14:16Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-29T05:14:19Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-29T05:14:19Z: PLAYER ADDED   [  571069062] WanitingBuilders
+2022-05-29T05:14:20Z: PLAYER ADDED   [  132177857] adam5212d
+2022-05-29T05:14:20Z: PLAYER ADDED   [  616764614] packman7rules2
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 3082693675] ghj123456f
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 3225295236] jackle2342546
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 1828608493] StandUprightRightUp
+2022-05-29T05:14:20Z: PLAYER ADDED   [  164726968] DIP3333
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2248811721] Xxpresident_obamaX
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2032740998] WealthyEthereal
+2022-05-29T05:14:20Z: PLAYER ADDED   [  130679748] SomeOtherGuyRB
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 1059131113] ThanosIsAC00N
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2749203869] IlIFIA_ECHOIlI
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 3525336325] pizza72221
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 1300794398] MIHAI44783
+2022-05-29T05:14:20Z: PLAYER ADDED   [  217617708] ChrisMacArthur
+2022-05-29T05:14:20Z: PLAYER ADDED   [   74014069] Grim_Dev200
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2533289808] scpgrty
+2022-05-29T05:14:20Z: PLAYER ADDED   [  169854262] epicpotatoes444
+2022-05-29T05:14:20Z: PLAYER ADDED   [   52753115] Deathlyghostreaperi
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2990677806] Thecheeseyboi17
+2022-05-29T05:14:20Z: PLAYER ADDED   [  317387063] Thecokegod2
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 1993588074] Operative_Unit
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 3466182514] fgfydgfdf228
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 2361327414] Sw0rdFit
+2022-05-29T05:14:20Z: PLAYER ADDED   [ 1305830811] MuPoH89
+2022-05-29T05:14:20Z: PLAYER ADDED   [   75473524] Mike_Developer
+2022-05-29T05:14:25Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.2)
+  It's announced in the dizzy
+2022-05-29T05:14:27Z: CHRCTER ADDED  [ 3082693675] ghj123456f           (  216.1,    56.1,   231.3)
+2022-05-29T05:14:28Z: CHRCTER ADDED  [ 3082693675] ghj123456f           ( -549.1,     6.2,   732.8)
+2022-05-29T05:14:28Z: CHRCTER ADDED  [ 3082693675] ghj123456f           ( -546.6,     6.2,   733.5)
+2022-05-29T05:14:28Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -15.9,     3.3,   -88.8)
+  Get out.
+2022-05-29T05:14:29Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.2,     3.2,  -108.1)
+  in announcements?
+2022-05-29T05:14:34Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.0,     3.2,  -107.6)
+  how long ago was the last one
+2022-05-29T05:14:36Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  Recruitment announcements.
+2022-05-29T05:14:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  Last one was a few hours ago
+2022-05-29T05:14:41Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:14:48Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.6,     3.2,  -108.3)
+  ey sir ima go take of my mask
+2022-05-29T05:14:48Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.0,     3.2,  -107.6)
+  how long do you think until the next one?
+2022-05-29T05:14:48Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  They're not always time-friendly, but they're consistent
+2022-05-29T05:14:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  519.8,     6.7,   478.2)
+2022-05-29T05:14:51Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.0,     3.2,  -106.9)
+  brb
+2022-05-29T05:14:53Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.0,     3.2,  -107.6)
+  oh
+2022-05-29T05:14:53Z: PLAYER ADDED   [   53741373] LuciusAquilla
+2022-05-29T05:14:57Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  I'd say about a week.
+2022-05-29T05:15:01Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  Maybe less.
+2022-05-29T05:15:02Z: CHRCTER ADDED  [ 3082693675] ghj123456f           (   38.5,    58.2,  -183.8)
+2022-05-29T05:15:02Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.7,     3.2,  -103.5)
+  i think i didnt get to join that bio initinative server because i forgot to DM someone
+2022-05-29T05:15:02Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.1)
+  damn  ok
+2022-05-29T05:15:03Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -36.7,     3.2,  -106.3)
+  my boy 
+2022-05-29T05:15:08Z: PLAYER ADDED   [  134915701] IWraithSinI
+2022-05-29T05:15:09Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  hey
+2022-05-29T05:15:09Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -36.7,     3.2,  -106.3)
+  Milk or cereal first
+2022-05-29T05:15:11Z: CHRCTER ADDED  [   53741373] LuciusAquilla        ( -110.9,     3.4,   -89.1)
+2022-05-29T05:15:13Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  just a personal question
+2022-05-29T05:15:13Z: CHRCTER ADDED  [ 3466182514] fgfydgfdf228         (   30.0,    58.2,  -179.9)
+2022-05-29T05:15:15Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -36.5,     3.2,  -100.9)
+  Cereal.
+2022-05-29T05:15:16Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  can survivors get weapons too?
+2022-05-29T05:15:18Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -34.6,     3.2,  -106.7)
+  On god 
+2022-05-29T05:15:19Z: PLAYER ADDED   [ 2208691988] Vhastnom_yt
+2022-05-29T05:15:20Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  or like get infected or anything
+2022-05-29T05:15:20Z: PLAYER ADDED   [ 3142648476] LOLTROLLING113
+2022-05-29T05:15:21Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  or whatver
+2022-05-29T05:15:22Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -34.6,     3.2,  -106.7)
+  Can I go back out 
+2022-05-29T05:15:26Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -31.4,     3.2,  -108.6)
+  I got shot
+2022-05-29T05:15:26Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  anything they can use as a weapon
+2022-05-29T05:15:27Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -34.5,     3.2,  -107.0)
+  I gor bored 
+2022-05-29T05:15:28Z: CHRCTER ADDED  [ 3466182514] fgfydgfdf228         (  217.2,    56.1,   229.3)
+2022-05-29T05:15:29Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -31.4,     3.2,  -108.6)
+  in my home
+2022-05-29T05:15:30Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.7,     3.2,  -100.3)
+  they can get weapons
+2022-05-29T05:15:30Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -31.4,     3.2,  -108.6)
+  again
+2022-05-29T05:15:34Z: CHRCTER ADDED  [ 3082693675] ghj123456f           (  -23.8,     6.0,   547.8)
+2022-05-29T05:15:36Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -43.7,     3.2,  -112.4)
+  Wait
+2022-05-29T05:15:37Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.2)
+  Currently, I do not believe survivors can get firearms.
+2022-05-29T05:15:42Z: CHRCTER ADDED  [ 3225295236] jackle2342546        (   30.8,    58.2,  -187.5)
+2022-05-29T05:15:44Z: CHRCTER ADDED  [ 2208691988] Vhastnom_yt          ( -115.3,     3.4,  -225.9)
+2022-05-29T05:15:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.2)
+  But I do know that might be a feature later.
+2022-05-29T05:15:47Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     5.2,  -225.9)
+2022-05-29T05:15:51Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  oh ok
+2022-05-29T05:15:51Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -29.3,     3.2,  -109.8)
+  Is that for intern?
+2022-05-29T05:15:52Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  you can get weapons from
+2022-05-29T05:15:53Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.2)
+  Same with survivor groups, like M.E.G.
+2022-05-29T05:15:53Z: CHRCTER ADDED  [ 3225295236] jackle2342546        ( -115.3,     5.2,  -225.9)
+2022-05-29T05:15:54Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  one entity
+2022-05-29T05:15:55Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  i forget who 
+2022-05-29T05:15:57Z: PLAYER CHATTED [  132177857] adam5212d            (  -30.7,     3.2,  -101.4)
+  You can get weapons.
+2022-05-29T05:15:59Z: PLAYER ADDED   [ 2626211705] Chudbuc
+2022-05-29T05:15:59Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  if you feed them 
+2022-05-29T05:16:02Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  Or something
+2022-05-29T05:16:02Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  Partygoer.
+2022-05-29T05:16:05Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  I think it's the paty
+2022-05-29T05:16:06Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  Yea
+2022-05-29T05:16:06Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  It's if you win hide and seek.
+2022-05-29T05:16:09Z: PLAYER ADDED   [  185356473] KiiingDavid
+2022-05-29T05:16:10Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -58.3,     3.2,  -105.8)
+  sir i have got a new aperance
+2022-05-29T05:16:10Z: CHRCTER ADDED  [ 2032740998] WealthyEthereal      (    0.0,   103.0,     0.0)
+2022-05-29T05:16:10Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.1,     3.2,  -108.0)
+  how
+2022-05-29T05:16:10Z: PLAYER CHATTED [  132177857] adam5212d            (  -31.1,     3.2,  -101.6)
+  Yup.
+2022-05-29T05:16:11Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  on god i'd win 
+2022-05-29T05:16:11Z: CHRCTER ADDED  [ 2032740998] WealthyEthereal      ( -537.9,     8.3,   591.1)
+2022-05-29T05:16:12Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  no cap 
+2022-05-29T05:16:13Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.8,     3.2,  -105.7)
+  oh
+2022-05-29T05:16:13Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.5,     3.2,  -107.5)
+  ok
+2022-05-29T05:16:13Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -26.2,     3.2,  -113.1)
+  Oh my god you scared me
+2022-05-29T05:16:18Z: CHRCTER ADDED  [ 3142648476] LOLTROLLING113       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:16:19Z: PLAYER ADDED   [ 2315488341] nacky_12345
+2022-05-29T05:16:19Z: CHRCTER ADDED  [ 3142648476] LOLTROLLING113       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:16:19Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  They #### ### if you cheat or fail.
+2022-05-29T05:16:21Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.4,     3.2,  -100.4)
+  seeker is easier
+2022-05-29T05:16:21Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.8,     3.2,  -110.2)
+  can i join
+2022-05-29T05:16:22Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -106.9)
+  If i did truth or dare with it 
+2022-05-29T05:16:23Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -42.4,    20.6,   -33.0)
+  Ello.
+2022-05-29T05:16:25Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.9,     3.2,  -108.9)
+  CAN I JOIN
+2022-05-29T05:16:25Z: PLAYER ADDED   [ 2865951835] eepjr1999
+2022-05-29T05:16:25Z: PLAYER CHATTED [  616764614] packman7rules2       (  -34.6,    20.6,   -34.2)
+  A dev was doing a little too much trollin
+2022-05-29T05:16:26Z: CHRCTER ADDED  [  134915701] IWraithSinI          ( -550.6,     6.2,   734.8)
+2022-05-29T05:16:28Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -107.2)
+  I would easily ask it fruity questions 
+2022-05-29T05:16:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.2)
+  Join what?
+2022-05-29T05:16:31Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -42.2,    20.6,   -33.0)
+  What happened?
+2022-05-29T05:16:33Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.0,     3.2,  -108.7)
+  i want to play hide and seek
+2022-05-29T05:16:37Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -107.2)
+  adam
+2022-05-29T05:16:39Z: PLAYER REMOVED [ 2208691988] Vhastnom_yt
+2022-05-29T05:16:39Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -27.7,     3.2,  -112.8)
+  Where do i wearing uniform sir
+2022-05-29T05:16:40Z: CHRCTER ADDED  [ 2626211705] Chudbuc              ( -552.5,     6.2,   735.1)
+2022-05-29T05:16:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.2)
+  Oh.
+2022-05-29T05:16:42Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -29.9,     3.2,  -107.2)
+  can I go back out
+2022-05-29T05:16:43Z: PLAYER CHATTED [  616764614] packman7rules2       (  -34.6,    20.6,   -34.2)
+  Corrupt was hanging outside camp as a 0001
+2022-05-29T05:16:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.2)
+  There's no partygoer right now.
+2022-05-29T05:16:47Z: PLAYER ADDED   [ 2208691988] Vhastnom_yt
+2022-05-29T05:16:49Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  -20.0,    20.6,   -32.8)
+  the dev is still here.
+2022-05-29T05:16:49Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -27.9,     3.2,  -111.3)
+  uh
+2022-05-29T05:16:51Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.0,     3.2,  -108.7)
+  :(

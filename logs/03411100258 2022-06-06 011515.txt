@@ -1,0 +1,569 @@
+[    1630228] : [ 3411100258] prtty much evry bordr gam evr - 0dc3cacd-bea3-4cf1-bf2f-29c6eeced5d8
+2022-06-06T01:15:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-06T01:15:15Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-06T01:15:15Z: PLAYER ADDED   [  566030790] HECTICAPE404989
+2022-06-06T01:15:15Z: PLAYER ADDED   [  641631254] xxklngragerxx
+2022-06-06T01:15:15Z: PLAYER ADDED   [  513835885] PANDA_XANDA823
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 3333964004] ItzSavageBray4
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1753045729] alwal002
+2022-06-06T01:15:15Z: PLAYER ADDED   [  534028820] GHOSTLIFE000
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1666007095] desroyernt2
+2022-06-06T01:15:15Z: PLAYER ADDED   [  382517426] jakovito
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2776855650] Matheoelguapo20
+2022-06-06T01:15:15Z: PLAYER ADDED   [  469087562] dino_P2017
+2022-06-06T01:15:15Z: PLAYER ADDED   [  585752010] orgzephplayznewtwin
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2252936729] Ralustheruler5
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1995281911] RoboxChz2
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 3353915704] NefariousNoah
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 3372600926] Keencopper1
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1218691777] 1hrdns
+2022-06-06T01:15:15Z: PLAYER ADDED   [  920551089] XxfanJamesxX
+2022-06-06T01:15:15Z: PLAYER ADDED   [  610130505] charalexzard1
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2250980312] ItzAlaskanWolf
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2230506651] Cobaltlaser
+2022-06-06T01:15:15Z: PLAYER ADDED   [  953757825] bluedannysmoneys
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1507863888] 10imabot11
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1173177974] PandaCult_Jake
+2022-06-06T01:15:15Z: PLAYER ADDED   [  516188820] DragonTamer6509
+2022-06-06T01:15:15Z: PLAYER ADDED   [  418790472] Unit_tango
+2022-06-06T01:15:15Z: PLAYER ADDED   [  929906580] ArtixBear
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 3590638251] Robloxgrinder105
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1475612146] Bensonsocool1
+2022-06-06T01:15:15Z: PLAYER ADDED   [  884234177] Gabirou123
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1432585661] Andriidmaysen
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1479707384] JokerAegeus
+2022-06-06T01:15:15Z: PLAYER ADDED   [  205710976] PokeFlame18
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1310869524] 22Luckyboy22
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2557064879] welcometoun
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 1889290713] blockbloxhq
+2022-06-06T01:15:15Z: PLAYER ADDED   [  243976401] Bertikgames
+2022-06-06T01:15:15Z: PLAYER ADDED   [ 2994024049] Kunchuk7
+2022-06-06T01:15:16Z: PLAYER ADDED   [ 1139661412] ChristianAshby
+2022-06-06T01:15:18Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -530.1,    18.0,   -75.0)
+  is there a prize for winner?
+2022-06-06T01:15:18Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.3,     4.0, -1540.9)
+  hey
+2022-06-06T01:15:19Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -426.9,    15.8,   -64.3)
+  guest me
+2022-06-06T01:15:20Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -257.9,     6.0,  -121.7)
+  This is allowe
+2022-06-06T01:15:22Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.3,     4.0, -1540.9)
+  I have a better idea
+2022-06-06T01:15:25Z: CHRCTER ADDED  [ 2250980312] ItzAlaskanWolf       (  710.0,     6.2,  -118.0)
+2022-06-06T01:15:26Z: CHRCTER ADDED  [ 2230506651] Cobaltlaser          ( -421.0,    18.2,    26.0)
+2022-06-06T01:15:26Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.3,     4.0, -1540.9)
+  let’s farm coins
+2022-06-06T01:15:26Z: PLAYER CHATTED [  469087562] dino_P2017           (  298.7,     4.5, -1536.8)
+  noob lord gonna do tournament
+2022-06-06T01:15:27Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -459.9,    16.0,   -35.6)
+  ## coiuns
+2022-06-06T01:15:29Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -257.5,     6.0,  -121.9)
+  stop abouseing
+2022-06-06T01:15:30Z: CHRCTER ADDED  [ 1173177974] PandaCult_Jake       (  -95.0,     6.2,    33.0)
+2022-06-06T01:15:30Z: PLAYER ADDED   [  585049325] ChampionECR
+2022-06-06T01:15:31Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -452.8,    16.0,   -28.3)
+  ?
+2022-06-06T01:15:31Z: CHRCTER ADDED  [ 1310869524] 22Luckyboy22         (  -83.0,     6.2,    39.0)
+2022-06-06T01:15:31Z: CHRCTER ADDED  [ 1479707384] JokerAegeus          (  -83.0,     6.2,    45.0)
+2022-06-06T01:15:33Z: PLAYER ADDED   [ 1483907544] Anthony_richardddddd
+2022-06-06T01:15:34Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -459.9,    16.0,   -35.6)
+  uh
+2022-06-06T01:15:34Z: PLAYER REMOVED [ 1483907544] Anthony_richardddddd
+2022-06-06T01:15:35Z: CHRCTER ADDED  [ 3590638251] Robloxgrinder105     (  722.0,     6.2,  -112.0)
+2022-06-06T01:15:38Z: PLAYER CHATTED [  469087562] dino_P2017           (  299.3,     4.0, -1540.9)
+  nah i got enough coind
+2022-06-06T01:15:38Z: CHRCTER ADDED  [  513835885] PANDA_XANDA823       ( -366.0,     7.2,  -155.0)
+2022-06-06T01:15:39Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (  714.1,     6.0,  -140.7)
+  But wait
+2022-06-06T01:15:40Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -448.5,    16.0,   -31.4)
+  how much
+2022-06-06T01:15:42Z: CHRCTER ADDED  [  929906580] ArtixBear            (  722.0,     6.2,  -112.0)
+2022-06-06T01:15:43Z: PLAYER CHATTED [  243976401] Bertikgames          (  303.9,     4.0, -1539.1)
+  ok
+2022-06-06T01:15:43Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -463.0,    16.0,   -37.7)
+  1k coins
+2022-06-06T01:15:44Z: CHRCTER ADDED  [ 2994024049] Kunchuk7             (  722.0,     6.2,  -112.0)
+2022-06-06T01:15:45Z: CHRCTER ADDED  [  585049325] ChampionECR          (  716.0,     6.1,  -112.0)
+2022-06-06T01:15:45Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -187.5,     6.0,  -109.2)
+  I call GM on you two
+2022-06-06T01:15:46Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -451.7,    16.0,   -27.5)
+  OH
+2022-06-06T01:15:47Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -452.0,    16.0,   -31.9)
+  :0
+2022-06-06T01:15:48Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -453.1,    16.0,   -28.0)
+  OK
+2022-06-06T01:15:49Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -453.1,    16.0,   -28.0)
+  IM IN
+2022-06-06T01:15:50Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -457.3,    16.0,   -23.3)
+  OH
+2022-06-06T01:15:50Z: CHRCTER ADDED  [ 1310869524] 22Luckyboy22         ( -101.0,     6.2,    39.0)
+2022-06-06T01:15:50Z: CHRCTER ADDED  [ 1666007095] desroyernt2          ( -101.0,    10.3,    39.0)
+2022-06-06T01:15:50Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -452.6,    16.0,   -35.2)
+  Guest them or I’ll #### ####
+2022-06-06T01:15:51Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -452.0,    16.0,   -31.9)
+  I need it
+2022-06-06T01:15:52Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -457.3,    16.0,   -23.3)
+  MAN
+2022-06-06T01:15:52Z: PLAYER CHATTED [  382517426] jakovito             ( -259.3,     6.0,  -117.5)
+  нет
+2022-06-06T01:15:54Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (   26.1,     6.0,   -59.5)
+  ME TOO
+2022-06-06T01:15:54Z: PLAYER CHATTED [  469087562] dino_P2017           (  304.5,     4.0, -1536.0)
+  i go to tournament
+2022-06-06T01:15:55Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -453.1,    16.0,   -28.0)
+  TELL EVERYONE THAT
+2022-06-06T01:15:55Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -255.5,     6.0,  -126.1)
+  Stop abouseing!
+2022-06-06T01:15:56Z: PLAYER REMOVED [  641631254] xxklngragerxx
+2022-06-06T01:15:56Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -457.3,    16.0,   -23.3)
+  IM SO DOWN
+2022-06-06T01:15:56Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (   37.0,     6.0,   -76.9)
+  Peace
+2022-06-06T01:15:58Z: PLAYER ADDED   [  863692871] MynameisEdith
+2022-06-06T01:16:00Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -455.9,    16.0,   -35.9)
+  ill sponsor an extra 250
+2022-06-06T01:16:00Z: CHRCTER ADDED  [  929906580] ArtixBear            (  722.0,     6.2,  -124.0)
+2022-06-06T01:16:00Z: PLAYER CHATTED [  929906580] ArtixBear            (  722.0,     6.2,  -124.0)
+  how th
+2022-06-06T01:16:01Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -457.0,    16.0,   -29.2)
+  TELL THEM ALL
+2022-06-06T01:16:01Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.5,     4.0, -1530.5)
+  ok then let’s do tournament
+2022-06-06T01:16:04Z: CHRCTER ADDED  [  585049325] ChampionECR          (  716.0,     6.2,  -118.0)
+2022-06-06T01:16:04Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -457.2,    16.0,   -23.2)
+  I CANT WAIT TO HAVE THOSE COINS
+2022-06-06T01:16:05Z: PLAYER CHATTED [ 2250980312] ItzAlaskanWolf       (    6.6,     3.5,  -244.0)
+  Abusing?
+2022-06-06T01:16:06Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -255.5,     6.0,  -126.1)
+  1 more freeze and I call
+2022-06-06T01:16:08Z: PLAYER CHATTED [  382517426] jakovito             ( -259.8,     6.0,  -117.5)
+  Что?
+2022-06-06T01:16:09Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -453.6,    16.0,   -31.5)
+  welp I'ma die
+2022-06-06T01:16:09Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.5,     4.0, -1530.5)
+  WAIT FOR ME
+2022-06-06T01:16:10Z: CHRCTER ADDED  [  884234177] Gabirou123           ( -366.0,     7.1,  -137.0)
+2022-06-06T01:16:10Z: CHRCTER ADDED  [  929906580] ArtixBear            (   -6.0,     6.0, -5006.0)
+2022-06-06T01:16:12Z: PLAYER REMOVED [ 2994024049] Kunchuk7
+2022-06-06T01:16:13Z: CHRCTER ADDED  [  566030790] HECTICAPE404989      ( -257.0,     9.2,  -214.0)
+2022-06-06T01:16:14Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -192.1,     7.0,    -4.5)
+  I’m going in
+2022-06-06T01:16:16Z: CHRCTER ADDED  [ 1173177974] PandaCult_Jake       (  -89.0,     6.2,    45.0)
+2022-06-06T01:16:16Z: CHRCTER ADDED  [ 1310869524] 22Luckyboy22         ( -101.0,     6.2,    45.0)
+2022-06-06T01:16:17Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -101.0,     6.2,    45.0)
+  ABUSER
+2022-06-06T01:16:17Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.6,     4.0, -1538.3)
+  WAIT
+2022-06-06T01:16:18Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       (  -89.0,     6.2,    45.0)
+  OKAY
+2022-06-06T01:16:19Z: CHRCTER ADDED  [  418790472] Unit_tango           ( -416.0,    18.2,    26.0)
+2022-06-06T01:16:20Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -494.7,    17.0,   -35.0)
+  extra 250 : )
+2022-06-06T01:16:20Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -114.8,     7.0,    31.2)
+  ABUSERR
+2022-06-06T01:16:20Z: CHRCTER ADDED  [  929906580] ArtixBear            ( -421.0,    18.2,    26.0)
+2022-06-06T01:16:21Z: PLAYER ADDED   [ 1483907544] Anthony_richardddddd
+2022-06-06T01:16:21Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       (  -89.0,     6.2,    45.0)
+  TJATS IS ITR
+2022-06-06T01:16:23Z: PLAYER CHATTED [ 3333964004] ItzSavageBray4       ( -382.4,     6.0,  -184.3)
+  sir
+2022-06-06T01:16:25Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -493.5,    16.0,   -22.0)
+  no way never went inside before
+2022-06-06T01:16:25Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -493.0,    17.0,   -43.1)
+  OHHHHHHHHHHH
+2022-06-06T01:16:26Z: PLAYER REMOVED [ 3372600926] Keencopper1
+2022-06-06T01:16:26Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -194.1,     6.0,   -48.2)
+  ABUSER
+2022-06-06T01:16:29Z: CHRCTER ADDED  [ 1479707384] JokerAegeus          (  -83.0,     6.2,    33.0)
+2022-06-06T01:16:30Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (  -83.0,    10.3,    33.0)
+2022-06-06T01:16:30Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -212.0,     6.0,   -46.3)
+  ABUSERRR
+2022-06-06T01:16:31Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd ( -257.0,     9.1,  -214.0)
+2022-06-06T01:16:31Z: PLAYER CHATTED [  929906580] ArtixBear            ( -419.3,    18.0,    19.9)
+  :store
+2022-06-06T01:16:32Z: CHRCTER ADDED  [ 1139661412] ChristianAshby       ( -241.0,    19.2,  -214.0)
+2022-06-06T01:16:34Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -213.3,     6.0,   -43.3)
+  TY
+2022-06-06T01:16:34Z: CHRCTER ADDED  [ 3353915704] NefariousNoah        ( -241.0,    19.2,  -209.0)
+2022-06-06T01:16:35Z: CHRCTER ADDED  [ 1753045729] alwal002             (  -83.0,     6.1,    33.0)
+2022-06-06T01:16:35Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -503.2,    17.0,   -37.4)
+  NOW THIS IS EPIC.
+2022-06-06T01:16:39Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -493.0,    17.0,   -43.1)
+  WAIT
+2022-06-06T01:16:39Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -497.3,    17.0,   -44.1)
+  >> DONT KILL VIKINGS UNLESS THEY #### ### <<
+2022-06-06T01:16:39Z: CHRCTER ADDED  [ 3590638251] Robloxgrinder105     (  722.0,     6.2,  -112.0)
+2022-06-06T01:16:39Z: PLAYER ADDED   [ 3248495271] Sdjfkdjdjdj
+2022-06-06T01:16:40Z: PLAYER CHATTED [  884234177] Gabirou123           ( -374.7,     7.0,  -340.9)
+  wth
+2022-06-06T01:16:41Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -486.2,    17.0,   -44.7)
+  .
+2022-06-06T01:16:42Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -486.2,    17.0,   -44.7)
+  .
+2022-06-06T01:16:42Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -486.2,    17.0,   -44.7)
+  .
+2022-06-06T01:16:42Z: PLAYER CHATTED [  929906580] ArtixBear            ( -487.4,    16.0,   -23.1)
+  SAY LESS
+2022-06-06T01:16:44Z: PLAYER CHATTED [  243976401] Bertikgames          (  302.6,     4.0, -1538.3)
+  :crewinvite dinothefirst
+2022-06-06T01:16:44Z: PLAYER CHATTED [  884234177] Gabirou123           ( -374.7,     7.0,  -340.9)
+  help us 
+2022-06-06T01:16:48Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -495.3,    17.0,   -37.4)
+  nope
+2022-06-06T01:16:49Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -493.0,    17.0,   -43.1)
+  CAN WE DO BETS ON PEOPLE
+2022-06-06T01:16:51Z: PLAYER CHATTED [  929906580] ArtixBear            ( -487.6,    17.0,   -40.0)
+  whos ###### it?
+2022-06-06T01:16:52Z: CHRCTER ADDED  [  382517426] jakovito             ( -241.0,    19.2,  -209.0)
+2022-06-06T01:16:53Z: PLAYER CHATTED [ 1310869524] 22Luckyboy22         ( -237.2,     6.0,  -127.3)
+  BOI
+2022-06-06T01:16:53Z: CHRCTER ADDED  [ 1995281911] RoboxChz2            ( -366.0,     7.1,  -137.0)
+2022-06-06T01:16:54Z: CHRCTER ADDED  [  585049325] ChampionECR          (  722.0,     6.2,  -112.0)
+2022-06-06T01:16:55Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -493.0,    17.0,   -43.1)
+  SPECTATORS CAN BET
+2022-06-06T01:16:56Z: PLAYER CHATTED [  929906580] ArtixBear            ( -489.2,    17.0,   -41.7)
+  hi again
+2022-06-06T01:16:58Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          (  710.0,     6.1,  -112.0)
+2022-06-06T01:16:59Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -493.0,    17.0,   -43.1)
+  hi
+2022-06-06T01:17:00Z: PLAYER CHATTED [ 1173177974] PandaCult_Jake       ( -251.3,    11.0,  -122.5)
+  It  was green!
+2022-06-06T01:17:00Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -103.4,     7.0,   -21.5)
+  I’m in my prime
+2022-06-06T01:17:00Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -495.3,    17.0,   -37.7)
+  alright 
+2022-06-06T01:17:00Z: PLAYER CHATTED [  243976401] Bertikgames          (  204.2,     2.8, -1435.5)
+  let’s go
+2022-06-06T01:17:01Z: CHRCTER ADDED  [ 3353915704] NefariousNoah        ( -241.0,    19.2,  -214.0)
+2022-06-06T01:17:03Z: PLAYER CHATTED [ 1479707384] JokerAegeus          ( -249.2,     6.0,   -54.1)
+  try this
+2022-06-06T01:17:03Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -495.5,    17.0,   -47.0)
+  spectators can bet
+2022-06-06T01:17:03Z: CHRCTER ADDED  [ 1139661412] ChristianAshby       ( -241.0,    19.2,  -209.0)
+2022-06-06T01:17:04Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -495.5,    17.0,   -47.0)
+  ok
+2022-06-06T01:17:06Z: PLAYER ADDED   [  515151209] xPokemanz
+2022-06-06T01:17:07Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -503.2,    17.0,   -35.4)
+  LES GO
+2022-06-06T01:17:08Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          (    6.0,     6.0, -5006.0)
+2022-06-06T01:17:08Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -495.3,    17.0,   -37.7)
+  I can't fight 
+2022-06-06T01:17:13Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          (  716.0,     6.1,  -118.0)
+2022-06-06T01:17:14Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -525.3,    18.0,   -41.9)
+  EVERYONE GET TEAMS OF 2
+2022-06-06T01:17:15Z: PLAYER CHATTED [  929906580] ArtixBear            ( -509.5,    17.0,   -39.0)
+  im ready fr
+2022-06-06T01:17:17Z: CHRCTER ADDED  [  382517426] jakovito             ( -241.0,    23.4,  -209.0)
+2022-06-06T01:17:17Z: CHRCTER ADDED  [  515151209] xPokemanz            (  270.0,     6.2, -1506.0)
+2022-06-06T01:17:18Z: CHRCTER ADDED  [ 1479707384] JokerAegeus          (  -95.0,     6.2,    39.0)
+2022-06-06T01:17:18Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -527.4,    16.0,   -37.0)
+  are bows allowed
+2022-06-06T01:17:19Z: CHRCTER ADDED  [ 2250980312] ItzAlaskanWolf       (  710.0,     6.2,  -112.0)
+2022-06-06T01:17:20Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -525.7,    16.0,   -30.9)
+  yes
+2022-06-06T01:17:20Z: PLAYER CHATTED [  515151209] xPokemanz            (  270.0,     6.2, -1506.0)
+  :take c
+2022-06-06T01:17:21Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (  -89.0,     6.2,    39.0)
+2022-06-06T01:17:21Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -526.7,    18.0,   -47.4)
+  EVERYONE GET TEAMS OF 2
+2022-06-06T01:17:22Z: PLAYER CHATTED [  929906580] ArtixBear            ( -521.8,    16.0,   -32.8)
+  ight bet
+2022-06-06T01:17:25Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -526.7,    18.0,   -47.4)
+  no bows allowed
+2022-06-06T01:17:25Z: PLAYER REMOVED [  566030790] HECTICAPE404989
+2022-06-06T01:17:26Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -517.7,    18.0,   -51.2)
+  im a sponsor
+2022-06-06T01:17:26Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -441.8,    16.0,   -38.3)
+  Let me join
+2022-06-06T01:17:27Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -526.7,    18.0,   -47.4)
+  or shields
+2022-06-06T01:17:27Z: CHRCTER ADDED  [ 1173177974] PandaCult_Jake       ( -366.0,     7.2,  -155.0)
+2022-06-06T01:17:28Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (    6.0,     6.0, -5000.0)
+2022-06-06T01:17:31Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -527.5,    18.0,   -41.8)
+  EVERYONE GET TEAMS OF 2
+2022-06-06T01:17:31Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -527.5,    18.0,   -41.8)
+  EVERYONE GET TEAMS OF 2
+2022-06-06T01:17:31Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -527.5,    18.0,   -41.8)
+  EVERYONE GET TEAMS OF 2
+2022-06-06T01:17:32Z: PLAYER CHATTED [  515151209] xPokemanz            (  278.5,    16.0, -1487.3)
+  :take r
+2022-06-06T01:17:32Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -516.5,    16.0,   -46.0)
+  not participating
+2022-06-06T01:17:33Z: CHRCTER ADDED  [ 3590638251] Robloxgrinder105     (  722.0,     6.2,  -112.0)
+2022-06-06T01:17:34Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -537.0,    18.0,   -58.9)
+  Who 2nt team
+2022-06-06T01:17:34Z: CHRCTER ADDED  [ 1889290713] blockbloxhq          (  710.0,     6.2,  -118.0)
+2022-06-06T01:17:35Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd ( -257.0,     9.2,  -209.0)
+2022-06-06T01:17:35Z: PLAYER CHATTED [  243976401] Bertikgames          ( -109.3,    11.0,  -925.2)
+  the tournament is in teams of 2 and bows are not allowed
+2022-06-06T01:17:37Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -540.8,    18.0,   -55.0)
+  Want
+2022-06-06T01:17:38Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -528.9,    16.0,   -31.9)
+  unstoppable and gonna get ppl #########
+2022-06-06T01:17:40Z: PLAYER CHATTED [  515151209] xPokemanz            (  278.5,    16.0, -1487.3)
+  :take Whalinator
+2022-06-06T01:17:42Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -532.4,    18.0,   -50.5)
+  You 2
+2022-06-06T01:17:42Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -519.4,    16.0,   -34.5)
+  rip
+2022-06-06T01:17:42Z: CHRCTER ADDED  [ 1432585661] Andriidmaysen        ( -241.0,    19.2,  -214.0)
+2022-06-06T01:17:43Z: PLAYER CHATTED [ 3333964004] ItzSavageBray4       ( -258.2,     6.0,  -121.8)
+  hy
+2022-06-06T01:17:43Z: PLAYER CHATTED [  929906580] ArtixBear            ( -528.7,    16.0,   -30.2)
+  alr gl
+2022-06-06T01:17:46Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (  616.3,     7.0,  -166.7)
+  This knight keeps killing me noob lord
+2022-06-06T01:17:47Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -519.4,    16.0,   -34.5)
+  I won't have a team
+2022-06-06T01:17:47Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -539.9,    18.0,   -48.2)
+  Ok
+2022-06-06T01:17:48Z: PLAYER CHATTED [  243976401] Bertikgames          ( -287.7,    11.4,  -654.9)
+  cool
+2022-06-06T01:17:49Z: PLAYER CHATTED [  929906580] ArtixBear            ( -528.7,    16.0,   -30.2)
+  is there redempotion?
+2022-06-06T01:17:49Z: PLAYER CHATTED [  515151209] xPokemanz            (  228.5,     7.6, -1206.0)
+  pokemanz shall intervene!
+2022-06-06T01:17:50Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (  -83.0,     6.1,    33.0)
+2022-06-06T01:17:50Z: PLAYER CHATTED [ 1479707384] JokerAegeus          ( -257.2,     6.0,  -125.2)
+  he has no passport
+2022-06-06T01:17:52Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -520.6,    18.0,   -45.7)
+  wait why teams
+2022-06-06T01:17:52Z: PLAYER CHATTED [ 3353915704] NefariousNoah        ( -232.0,     6.0,   -63.2)
+  No cutting
+2022-06-06T01:17:52Z: CHRCTER ADDED  [ 3333964004] ItzSavageBray4       ( -101.0,     6.2,    39.0)
+2022-06-06T01:17:55Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -528.5,    18.0,   -43.5)
+  yes
+2022-06-06T01:17:55Z: PLAYER CHATTED [ 3333964004] ItzSavageBray4       ( -290.7,     7.1,  -321.0)
+  why
+2022-06-06T01:17:55Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -516.6,    16.0,   -58.2)
+  spectating 
+2022-06-06T01:17:56Z: PLAYER CHATTED [  515151209] xPokemanz            (  -12.5,     7.6,  -761.1)
+  :crewcreate
+2022-06-06T01:17:56Z: PLAYER CHATTED [  929906580] ArtixBear            ( -527.9,    18.0,   -39.6)
+  alr
+2022-06-06T01:17:59Z: PLAYER CHATTED [  515151209] xPokemanz            (  -62.8,     7.6,  -548.4)
+  :crewinvite dino
+2022-06-06T01:17:59Z: PLAYER CHATTED [  469087562] dino_P2017           ( -409.7,     6.3,  -502.9)
+  oh shoo
+2022-06-06T01:18:02Z: PLAYER CHATTED [  929906580] ArtixBear            ( -530.9,    16.0,   -30.6)
+  me and doge man
+2022-06-06T01:18:03Z: PLAYER CHATTED [  515151209] xPokemanz            ( -162.0,     8.7,  -268.9)
+  :crewinvite ber
+2022-06-06T01:18:03Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -531.8,    18.0,   -38.9)
+  kneel if u spectate
+2022-06-06T01:18:04Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -524.8,    18.0,   -43.2)
+  GET ON WHITE LINE IF YOU AREN"T PLAYING
+2022-06-06T01:18:05Z: CHRCTER ADDED  [ 1753045729] alwal002             (  -83.0,     6.2,    39.0)
+2022-06-06T01:18:08Z: PLAYER CHATTED [  382517426] jakovito             ( -257.3,     6.0,   -50.5)
+  нет
+2022-06-06T01:18:10Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -535.4,    16.0,   -34.2)
+  ok
+2022-06-06T01:18:15Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -298.9,    19.0,    43.2)
+  Stop
+2022-06-06T01:18:15Z: CHRCTER ADDED  [ 1475612146] Bensonsocool1        (  716.0,     6.2,  -124.0)
+2022-06-06T01:18:16Z: CHRCTER ADDED  [ 3353915704] NefariousNoah        ( -241.0,    19.2,  -214.0)
+2022-06-06T01:18:18Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -524.0,    18.0,   -71.1)
+  2v2?
+2022-06-06T01:18:19Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -538.7,    16.0,   -32.0)
+  i need eat lol
+2022-06-06T01:18:19Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -275.4,     7.0,    62.2)
+  I’m joining tournament
+2022-06-06T01:18:20Z: CHRCTER ADDED  [ 1666007095] desroyernt2          ( -366.0,    11.2,  -125.0)
+2022-06-06T01:18:22Z: PLAYER CHATTED [  929906580] ArtixBear            ( -535.9,    16.0,   -30.6)
+  XD
+2022-06-06T01:18:23Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -527.0,    18.0,   -46.8)
+  Chara
+2022-06-06T01:18:24Z: CHRCTER ADDED  [ 1507863888] 10imabot11           ( -366.0,     7.2,  -143.0)
+2022-06-06T01:18:26Z: PLAYER CHATTED [  929906580] ArtixBear            ( -536.3,    16.0,   -31.0)
+  take this
+2022-06-06T01:18:26Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -529.2,    18.0,   -46.8)
+  Go with that person
+2022-06-06T01:18:27Z: CHRCTER ADDED  [ 3353915704] NefariousNoah        ( -241.0,    19.2,  -209.0)
+2022-06-06T01:18:27Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          (   -6.0,     6.0, -4994.0)
+2022-06-06T01:18:28Z: CHRCTER ADDED  [ 2252936729] Ralustheruler5       (  710.0,     6.2,  -124.0)
+2022-06-06T01:18:29Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd (    0.0,     6.0, -5000.0)
+2022-06-06T01:18:30Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -517.3,    16.4,   -60.7)
+  hmm 
+2022-06-06T01:18:31Z: CHRCTER ADDED  [ 2250980312] ItzAlaskanWolf       (  710.0,     6.2,  -112.0)
+2022-06-06T01:18:31Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          (  -83.0,     6.1,    45.0)
+2022-06-06T01:18:31Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -538.6,    16.0,   -35.4)
+  thanks
+2022-06-06T01:18:35Z: CHRCTER ADDED  [ 1889290713] blockbloxhq          (  710.0,     6.2,  -118.0)
+2022-06-06T01:18:35Z: PLAYER CHATTED [ 1995281911] RoboxChz2            ( -375.5,     7.9,  -237.3)
+  how do u make a lot of monbey
+2022-06-06T01:18:35Z: CHRCTER ADDED  [ 1753045729] alwal002             ( -101.0,     6.2,    33.0)
+2022-06-06T01:18:35Z: PLAYER CHATTED [  469087562] dino_P2017           ( -429.4,     6.0,  -100.6)
+  we wanna tournament
+2022-06-06T01:18:36Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -517.3,    16.4,   -60.7)
+  king
+2022-06-06T01:18:36Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd (  722.0,     6.1,  -112.0)
+2022-06-06T01:18:36Z: PLAYER CHATTED [  515151209] xPokemanz            ( -480.4,    29.0,   -55.9)
+  :storage
+2022-06-06T01:18:37Z: PLAYER CHATTED [  929906580] ArtixBear            ( -534.3,    16.0,   -32.2)
+  np
+2022-06-06T01:18:37Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -531.3,    18.0,   -49.5)
+  Br
+2022-06-06T01:18:38Z: CHRCTER ADDED  [ 1889290713] blockbloxhq          (   -6.0,     6.0, -4994.0)
+2022-06-06T01:18:39Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -533.4,    18.0,   -83.1)
+  Hold on
+2022-06-06T01:18:39Z: PLAYER CHATTED [  515151209] xPokemanz            ( -472.8,    29.0,   -55.9)
+  ##### #####
+2022-06-06T01:18:41Z: PLAYER CHATTED [ 2230506651] Cobaltlaser          ( -533.4,    18.0,   -83.1)
+  Ima get food
+2022-06-06T01:18:42Z: PLAYER CHATTED [  205710976] PokeFlame18          ( -478.3,    16.0,   -23.6)
+  come over here
+2022-06-06T01:18:42Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -516.5,    16.0,   -79.8)
+  u gotta win
+2022-06-06T01:18:43Z: CHRCTER ADDED  [  863692871] MynameisEdith        (  722.0,     6.1,  -124.0)
+2022-06-06T01:18:44Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -419.5,    15.5,   -25.6)
+  Every knight or admission who kills me is abusing
+2022-06-06T01:18:45Z: PLAYER CHATTED [  243976401] Bertikgames          ( -515.5,    16.0,   -34.8)
+  LORD
+2022-06-06T01:18:46Z: CHRCTER ADDED  [ 3590638251] Robloxgrinder105     (  710.0,     6.2,  -118.0)
+2022-06-06T01:18:51Z: CHRCTER ADDED  [ 2557064879] welcometoun          (  -95.0,     6.2,    45.0)
+2022-06-06T01:18:51Z: CHRCTER ADDED  [  205710976] PokeFlame18          ( -366.0,     7.2,  -143.0)
+2022-06-06T01:18:51Z: PLAYER CHATTED [  515151209] xPokemanz            ( -558.5,    29.0,   -96.6)
+  :take heal
+2022-06-06T01:18:52Z: PLAYER CHATTED [  585049325] ChampionECR          ( -506.2,    29.0,   -52.8)
+  DIE
+2022-06-06T01:18:53Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -540.3,    16.0,   -36.2)
+  ow
+2022-06-06T01:18:53Z: CHRCTER ADDED  [  953757825] bluedannysmoneys     ( -416.0,    18.2,    26.0)
+2022-06-06T01:18:54Z: CHRCTER ADDED  [  418790472] Unit_tango           ( -421.0,    18.2,    26.0)
+2022-06-06T01:18:57Z: PLAYER REMOVED [ 2250980312] ItzAlaskanWolf
+2022-06-06T01:18:58Z: PLAYER ADDED   [ 1460536278] Jaxyx13
+2022-06-06T01:19:01Z: CHRCTER ADDED  [ 1753045729] alwal002             (    6.0,     6.0, -4994.0)
+2022-06-06T01:19:03Z: PLAYER CHATTED [  884234177] Gabirou123           ( -515.9,    16.0,   -22.4)
+  hello
+2022-06-06T01:19:06Z: PLAYER CHATTED [  469087562] dino_P2017           ( -516.5,    16.0,   -39.1)
+  we wanna be part of this
+2022-06-06T01:19:07Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -532.7,    18.0,   -52.5)
+  ROUND 1
+2022-06-06T01:19:08Z: CHRCTER ADDED  [ 3333964004] ItzSavageBray4       (  -89.0,     6.2,    33.0)
+2022-06-06T01:19:09Z: PLAYER CHATTED [  243976401] Bertikgames          ( -515.3,    16.0,   -45.4)
+  we want to participate
+2022-06-06T01:19:09Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (  -82.4,     7.0,   -25.8)
+  FOR GODS SAKE LET ME JOIN TOURNAMENT
+2022-06-06T01:19:13Z: CHRCTER ADDED  [  534028820] GHOSTLIFE000         ( -241.0,    19.2,  -209.0)
+2022-06-06T01:19:13Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -532.7,    18.0,   -52.5)
+  100 coins to who kills viking
+2022-06-06T01:19:13Z: CHRCTER ADDED  [ 1889290713] blockbloxhq          ( -101.0,     6.1,    33.0)
+2022-06-06T01:19:15Z: CHRCTER ADDED  [  585049325] ChampionECR          (  722.0,     6.2,  -112.0)
+2022-06-06T01:19:16Z: PLAYER REMOVED [ 2557064879] welcometoun
+2022-06-06T01:19:16Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -526.5,    18.0,   -49.2)
+  o
+2022-06-06T01:19:16Z: PLAYER CHATTED [  929906580] ArtixBear            ( -534.4,    16.0,   -33.5)
+  SPECTATOR ON THE WHITE LINE!
+2022-06-06T01:19:17Z: PLAYER CHATTED [  585752010] orgzephplayznewtwin  ( -528.1,    16.0,   -33.4)
+  space pirates
+2022-06-06T01:19:18Z: CHRCTER ADDED  [ 3333964004] ItzSavageBray4       (    6.0,     6.0, -5000.0)
+2022-06-06T01:19:18Z: PLAYER CHATTED [  515151209] xPokemanz            ( -506.0,    29.0,   -56.8)
+  can we just ike
+2022-06-06T01:19:20Z: CHRCTER ADDED  [ 1460536278] Jaxyx13              (  -89.0,     6.1,    33.0)
+2022-06-06T01:19:22Z: CHRCTER ADDED  [ 1460536278] Jaxyx13              (   -6.0,     6.0, -5006.0)
+2022-06-06T01:19:22Z: PLAYER REMOVED [  585049325] ChampionECR
+2022-06-06T01:19:23Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -462.7,    29.0,   -54.6)
+  nvm
+2022-06-06T01:19:24Z: PLAYER CHATTED [  515151209] xPokemanz            ( -506.0,    29.0,   -56.8)
+  murder every1?
+2022-06-06T01:19:24Z: CHRCTER ADDED  [  610130505] charalexzard1        ( -416.0,    18.2,    26.0)
+2022-06-06T01:19:26Z: CHRCTER ADDED  [ 1753045729] alwal002             ( -101.0,     6.1,    39.0)
+2022-06-06T01:19:27Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -296.5,    17.0,    19.0)
+  I WILL TAKE MY ATTACKERS TO HELL
+2022-06-06T01:19:28Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -503.6,    29.0,   -54.2)
+  no
+2022-06-06T01:19:29Z: PLAYER CHATTED [  515151209] xPokemanz            ( -506.0,    29.0,   -56.8)
+  i be bored rn
+2022-06-06T01:19:30Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd (   -6.0,     6.0, -4994.0)
+2022-06-06T01:19:32Z: CHRCTER ADDED  [ 1460536278] Jaxyx13              (  -89.0,     6.1,    39.0)
+2022-06-06T01:19:33Z: PLAYER CHATTED [  516188820] DragonTamer6509      ( -532.5,    18.0,   -50.8)
+  SPECTATORS ON THE WHITE LINE
+2022-06-06T01:19:33Z: PLAYER ADDED   [  575325906] Identity_problum
+2022-06-06T01:19:33Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -538.2,    16.0,   -33.4)
+  SPECTATORS ON WHITE LINE BOIS
+2022-06-06T01:19:35Z: CHRCTER ADDED  [ 1483907544] Anthony_richardddddd (  -83.0,     6.1,    39.0)
+2022-06-06T01:19:36Z: PLAYER ADDED   [ 1689500317] burninghiII
+2022-06-06T01:19:36Z: CHRCTER ADDED  [ 1666007095] desroyernt2          ( -366.0,     7.0,  -125.0)
+2022-06-06T01:19:41Z: CHRCTER ADDED  [ 3333964004] ItzSavageBray4       (  722.0,     6.1,  -124.0)
+2022-06-06T01:19:41Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (    6.0,     6.0, -4994.0)
+2022-06-06T01:19:45Z: PLAYER CHATTED [  884234177] Gabirou123           ( -542.9,    16.1,   -15.7)
+  GO GO
+2022-06-06T01:19:45Z: CHRCTER ADDED  [  418790472] Unit_tango           ( -416.0,    18.2,    26.0)
+2022-06-06T01:19:45Z: PLAYER CHATTED [  243976401] Bertikgames          ( -508.9,    16.0,   -12.9)
+  .
+2022-06-06T01:19:46Z: CHRCTER ADDED  [  575325906] Identity_problum     ( -416.0,    22.5,    26.0)
+2022-06-06T01:19:47Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -538.2,    16.0,   -33.4)
+  HOW ABOUT THEY CAN KNEEL
+2022-06-06T01:19:47Z: PLAYER CHATTED [  515151209] xPokemanz            ( -563.6,    29.0,   -56.2)
+  tell me to get on the white line
+2022-06-06T01:19:48Z: PLAYER CHATTED [  953757825] bluedannysmoneys     ( -538.2,    16.0,   -33.4)
+  caps
+2022-06-06T01:19:48Z: CHRCTER ADDED  [ 1173177974] PandaCult_Jake       ( -366.0,     7.2,  -143.0)
+2022-06-06T01:19:48Z: PLAYER CHATTED [  929906580] ArtixBear            ( -507.0,    16.0,   -13.9)
+  on line
+2022-06-06T01:19:49Z: PLAYER CHATTED [  515151209] xPokemanz            ( -559.5,    29.0,   -55.0)
+  tell me
+2022-06-06T01:19:50Z: PLAYER CHATTED [  418790472] Unit_tango           ( -416.0,    18.2,    26.0)
+  GUYS THE CHURCH
+2022-06-06T01:19:51Z: PLAYER CHATTED [  469087562] dino_P2017           ( -514.0,    16.0,   -41.7)
+  i'm no spectator
+2022-06-06T01:19:53Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     ( -441.9,    18.0,   -13.3)
+  KAME
+2022-06-06T01:19:56Z: CHRCTER ADDED  [ 1689500317] burninghiII          (  533.0,     7.2,  -130.0)
+2022-06-06T01:19:56Z: PLAYER CHATTED [  929906580] ArtixBear            ( -488.8,    17.0,   -45.2)
+  on line'
+2022-06-06T01:19:57Z: CHRCTER ADDED  [  953757825] bluedannysmoneys     ( -421.0,    18.2,    26.0)
+2022-06-06T01:19:58Z: PLAYER CHATTED [ 3248495271] Sdjfkdjdjdj          ( -264.9,     6.0,   -33.7)
+  Excuse me sir
+2022-06-06T01:19:58Z: PLAYER REMOVED [  575325906] Identity_problum
+2022-06-06T01:19:59Z: PLAYER CHATTED [ 1218691777] 1hrdns               ( -485.6,    16.0,   -20.4)
+  ow
+2022-06-06T01:19:59Z: PLAYER ADDED   [ 1615668651] inferodragon1st
+2022-06-06T01:19:59Z: CHRCTER ADDED  [ 1666007095] desroyernt2          (  -83.0,     6.1,    33.0)
+2022-06-06T01:19:59Z: CHRCTER ADDED  [ 3590638251] Robloxgrinder105     (  722.0,     6.1,  -124.0)
+2022-06-06T01:20:00Z: PLAYER CHATTED [ 3590638251] Robloxgrinder105     (  722.0,     6.1,  -124.0)
+  Hame
+2022-06-06T01:20:00Z: PLAYER CHATTED [  929906580] ArtixBear            ( -453.7,    16.0,   -41.4)
+  L
+2022-06-06T01:20:04Z: CHRCTER ADDED  [ 3248495271] Sdjfkdjdjdj          ( -366.0,     7.0,  -125.0)
+2022-06-06T01:20:06Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-06T01:20:06Z: PLAYER REMOVED [  513835885] PANDA_XANDA823
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 3333964004] ItzSavageBray4
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1753045729] alwal002
+2022-06-06T01:20:06Z: PLAYER REMOVED [  534028820] GHOSTLIFE000
+2022-06-06T01:20:06Z: PLAYER REMOVED [  382517426] jakovito
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 2776855650] Matheoelguapo20
+2022-06-06T01:20:06Z: PLAYER REMOVED [  469087562] dino_P2017
+2022-06-06T01:20:06Z: PLAYER REMOVED [  585752010] orgzephplayznewtwin
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 2252936729] Ralustheruler5
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1995281911] RoboxChz2
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 3353915704] NefariousNoah
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1218691777] 1hrdns
+2022-06-06T01:20:06Z: PLAYER REMOVED [  920551089] XxfanJamesxX
+2022-06-06T01:20:06Z: PLAYER REMOVED [  610130505] charalexzard1
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 2230506651] Cobaltlaser
+2022-06-06T01:20:06Z: PLAYER REMOVED [  953757825] bluedannysmoneys
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1507863888] 10imabot11
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1173177974] PandaCult_Jake
+2022-06-06T01:20:06Z: PLAYER REMOVED [  516188820] DragonTamer6509
+2022-06-06T01:20:06Z: PLAYER REMOVED [  418790472] Unit_tango
+2022-06-06T01:20:06Z: PLAYER REMOVED [  929906580] ArtixBear
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 3590638251] Robloxgrinder105
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1475612146] Bensonsocool1
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1432585661] Andriidmaysen
+2022-06-06T01:20:06Z: PLAYER REMOVED [  205710976] PokeFlame18
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1310869524] 22Luckyboy22
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1889290713] blockbloxhq
+2022-06-06T01:20:06Z: PLAYER REMOVED [  243976401] Bertikgames
+2022-06-06T01:20:06Z: PLAYER REMOVED [  884234177] Gabirou123
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1666007095] desroyernt2
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1479707384] JokerAegeus
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1139661412] ChristianAshby
+2022-06-06T01:20:06Z: PLAYER REMOVED [  863692871] MynameisEdith
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1483907544] Anthony_richardddddd
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 3248495271] Sdjfkdjdjdj
+2022-06-06T01:20:06Z: PLAYER REMOVED [  515151209] xPokemanz
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1460536278] Jaxyx13
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1689500317] burninghiII
+2022-06-06T01:20:06Z: PLAYER REMOVED [ 1615668651] inferodragon1st
+2022-06-06T01:20:06Z: CHAT STREAM SUCCESSFULLY ENDED

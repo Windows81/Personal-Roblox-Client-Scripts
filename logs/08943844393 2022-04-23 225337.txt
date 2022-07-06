@@ -1,0 +1,656 @@
+[    1630228] : [ 8943844393] PLS DONATE 💸 [Voice Chat] - a943b2b8-be2b-4d6f-88ae-b20750ef7e32
+2022-04-23T22:53:37Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-23T22:53:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-23T22:53:38Z: PLAYER ADDED   [  659339294] Intxlz
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 1027436175] lunamoon7126
+2022-04-23T22:53:38Z: PLAYER ADDED   [   81521488] Zynex_xx
+2022-04-23T22:53:38Z: PLAYER ADDED   [  497842895] GamingWithBryceYT
+2022-04-23T22:53:38Z: PLAYER ADDED   [  212619832] CapableSteven1213
+2022-04-23T22:53:38Z: PLAYER ADDED   [  896844728] hostin110
+2022-04-23T22:53:38Z: PLAYER ADDED   [  549826367] Taayxia
+2022-04-23T22:53:38Z: PLAYER ADDED   [  328509718] DmTuv
+2022-04-23T22:53:38Z: PLAYER ADDED   [  827715643] XXDOEGALXX
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 1344798585] 2vht
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 3387247633] Pesadilla515
+2022-04-23T22:53:38Z: PLAYER ADDED   [  148594589] L0VECHAOZ
+2022-04-23T22:53:38Z: PLAYER ADDED   [  222021698] NewWorldOrderGamers
+2022-04-23T22:53:38Z: PLAYER ADDED   [   24238314] trizona
+2022-04-23T22:53:38Z: PLAYER ADDED   [   77497593] KanniKala
+2022-04-23T22:53:38Z: PLAYER ADDED   [  405306516] Late_Tofu
+2022-04-23T22:53:38Z: PLAYER ADDED   [   16439144] Roochster
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 1049698680] YssimLei
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 1755883857] gamertimotei
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 1394142416] DrCoolBossman
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 2040786103] Reject_Dev
+2022-04-23T22:53:38Z: PLAYER ADDED   [  376388734] TheAwkwardSponge
+2022-04-23T22:53:38Z: PLAYER ADDED   [  863724268] bekah_baller06
+2022-04-23T22:53:38Z: PLAYER ADDED   [ 2225480288] invinc1bl3_vibex
+2022-04-23T22:53:38Z: PLAYER ADDED   [  123711022] Kazulani
+2022-04-23T22:53:38Z: PLAYER ADDED   [   45386511] kyoofi
+2022-04-23T22:53:38Z: PLAYER ADDED   [  357316423] Tizzel40
+2022-04-23T22:53:42Z: PLAYER CHATTED [ 1344798585] 2vht                 (  -11.1,     3.4,   145.3)
+  W
+2022-04-23T22:53:46Z: PLAYER CHATTED [  328509718] DmTuv                (  -10.0,     3.6,   149.0)
+  WOW
+2022-04-23T22:53:47Z: PLAYER CHATTED [ 1344798585] 2vht                 (   -8.5,     3.3,   138.1)
+  W kyoofi
+2022-04-23T22:53:50Z: PLAYER CHATTED [  328509718] DmTuv                (   -5.2,     3.0,   139.0)
+  TYSM
+2022-04-23T22:53:56Z: PLAYER CHATTED [  328509718] DmTuv                (   -7.6,     3.0,   133.9)
+  im gonna start walking
+2022-04-23T22:54:07Z: PLAYER CHATTED [  896844728] hostin110            (  -14.9,     3.4,   132.4)
+  pls 
+2022-04-23T22:54:08Z: PLAYER CHATTED [  549826367] Taayxia              (  -20.0,     3.4,   121.3)
+  /W DRCOOL
+2022-04-23T22:54:09Z: PLAYER CHATTED [  549826367] Taayxia              (  -20.0,     3.4,   121.3)
+  HER VOICE
+2022-04-23T22:54:09Z: PLAYER CHATTED [ 1049698680] YssimLei             (   92.2,     3.3,    59.7)
+  who stitched ur faceeeeee
+2022-04-23T22:54:11Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -16.6,     3.4,   136.9)
+  Alot
+2022-04-23T22:54:11Z: PLAYER CHATTED [  549826367] Taayxia              (  -20.0,     3.4,   121.3)
+  IM FINNA START LAUGHING
+2022-04-23T22:54:15Z: PLAYER CHATTED [  896844728] hostin110            (  -12.5,     3.4,   136.0)
+  hello donate me robus please don't speak english pls
+2022-04-23T22:54:19Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   -7.3,     3.3,   132.3)
+  i like your voice kyoofi
+2022-04-23T22:54:27Z: PLAYER CHATTED [  549826367] Taayxia              (  -19.9,     3.0,   117.0)
+  /W DRCOOL
+2022-04-23T22:54:28Z: PLAYER CHATTED [  549826367] Taayxia              (  -19.9,     3.0,   117.0)
+  OLOLOL
+2022-04-23T22:54:29Z: PLAYER REMOVED [   24238314] trizona
+2022-04-23T22:54:30Z: PLAYER REMOVED [   16439144] Roochster
+2022-04-23T22:54:32Z: PLAYER ADDED   [  310115339] SKorL1337
+2022-04-23T22:54:38Z: PLAYER CHATTED [  896844728] hostin110            (  -25.4,     3.4,   111.9)
+  pls 
+2022-04-23T22:54:44Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -16.6,     3.4,   136.9)
+  OH
+2022-04-23T22:54:47Z: PLAYER ADDED   [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:54:47Z: PLAYER CHATTED [  896844728] hostin110            (  -25.4,     3.4,   111.9)
+  estos ##### ####### 
+2022-04-23T22:54:48Z: PLAYER REMOVED [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:54:49Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -16.9,     3.0,   128.5)
+  hey kyoofi want me to call you by your current name or kyofee
+2022-04-23T22:55:05Z: PLAYER CHATTED [  896844728] hostin110            (  -10.7,     3.4,   131.4)
+  esto  g#######d##m##e##d#a#d 
+2022-04-23T22:55:05Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -15.4,     3.0,   129.6)
+  ok frinkle binkle
+2022-04-23T22:55:08Z: PLAYER CHATTED [  896844728] hostin110            (  -10.7,     3.4,   131.4)
+  aaaaaaaaaaaaaaa
+2022-04-23T22:55:10Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -14.4,     3.0,   128.8)
+  nah just kidding
+2022-04-23T22:55:10Z: CHRCTER ADDED  [ 1049698680] YssimLei             (  -24.7,     2.7,   129.8)
+2022-04-23T22:55:11Z: PLAYER CHATTED [  896844728] hostin110            (   -3.9,     3.4,   128.6)
+  aa/aa
+2022-04-23T22:55:13Z: PLAYER CHATTED [  896844728] hostin110            (   -7.5,     3.4,   130.1)
+  aa
+2022-04-23T22:55:14Z: PLAYER CHATTED [  896844728] hostin110            (   -8.4,     3.4,   130.5)
+  a/a
+2022-04-23T22:55:15Z: PLAYER CHATTED [  896844728] hostin110            (  -10.3,     3.4,   131.3)
+  aa+a
+2022-04-23T22:55:22Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -18.9,     3.4,   130.1)
+  Kopee #### #####
+2022-04-23T22:55:23Z: PLAYER ADDED   [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:55:25Z: PLAYER REMOVED [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:55:27Z: PLAYER CHATTED [  896844728] hostin110            (  -13.3,     3.4,    89.8)
+  ddddxd
+2022-04-23T22:55:29Z: PLAYER CHATTED [  310115339] SKorL1337            (  -16.1,     2.5,    92.0)
+  duck
+2022-04-23T22:55:29Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -21.4,     3.6,   130.1)
+  Oh my
+2022-04-23T22:55:41Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -18.0,     3.0,   126.0)
+  kyoofi remember how we met lol???
+2022-04-23T22:55:41Z: PLAYER CHATTED [  896844728] hostin110            (  -14.3,     3.4,    91.0)
+  :C
+2022-04-23T22:55:42Z: PLAYER CHATTED [  328509718] DmTuv                (   -6.4,     3.0,   119.3)
+  kyoofi do you wanna see the laps i gonna do
+2022-04-23T22:55:48Z: PLAYER ADDED   [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:55:50Z: PLAYER REMOVED [ 1167927703] Toxiic_DiiorYT
+2022-04-23T22:55:52Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -15.8,     3.0,   126.6)
+  watch ill make you remember hold on
+2022-04-23T22:55:57Z: PLAYER REMOVED [  405306516] Late_Tofu
+2022-04-23T22:56:05Z: PLAYER REMOVED [  222021698] NewWorldOrderGamers
+2022-04-23T22:56:05Z: PLAYER CHATTED [  549826367] Taayxia              (  -10.1,     3.3,    84.8)
+  /e dance
+2022-04-23T22:56:07Z: CHRCTER ADDED  [  497842895] GamingWithBryceYT    (  -12.5,     6.2,   128.0)
+2022-04-23T22:56:09Z: PLAYER REMOVED [  310115339] SKorL1337
+2022-04-23T22:56:10Z: PLAYER CHATTED [  328509718] DmTuv                (  -15.9,     3.4,   122.9)
+  i have 10 laps so far
+2022-04-23T22:56:13Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -10.2,     6.2,   116.5)
+  remember now???
+2022-04-23T22:56:26Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (    7.0,     6.2,    55.8)
+  you had like 6k when i met you lol
+2022-04-23T22:56:34Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (    2.2,     3.4,    47.6)
+  Kyopi check gc
+2022-04-23T22:56:38Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (    7.9,     6.2,    54.7)
+  wait i didnt save that avatar
+2022-04-23T22:56:39Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (    7.9,     6.2,    54.7)
+  RIP
+2022-04-23T22:56:42Z: PLAYER REMOVED [ 1344798585] 2vht
+2022-04-23T22:56:46Z: PLAYER CHATTED [  123711022] Kazulani             (   -3.0,     3.1,    51.3)
+  hi kyoofi i just wanted to say that ur voice is adorable! ^^
+2022-04-23T22:56:47Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (    2.2,     3.4,    47.6)
+  Yes
+2022-04-23T22:56:59Z: PLAYER CHATTED [  123711022] Kazulani             (  -11.3,     3.1,    60.4)
+  ofc :D
+2022-04-23T22:57:03Z: CHRCTER ADDED  [  497842895] GamingWithBryceYT    (   -6.2,     3.6,    51.8)
+2022-04-23T22:57:19Z: PLAYER REMOVED [ 1755883857] gamertimotei
+2022-04-23T22:57:23Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (    2.1,     3.0,    48.3)
+  you love being flying animals lol
+2022-04-23T22:57:35Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   49.8,     2.7,    28.4)
+  bee moth
+2022-04-23T22:57:39Z: PLAYER ADDED   [ 1862405641] tashio080
+2022-04-23T22:58:02Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   47.9,     3.6,    30.0)
+  yeah kreek craft got donated 1.67mil
+2022-04-23T22:58:16Z: PLAYER CHATTED [  328509718] DmTuv                (   56.1,     3.3,    31.0)
+  kyoofi are you gonna watch me do laps
+2022-04-23T22:58:19Z: PLAYER CHATTED [  212619832] CapableSteven1213    (   52.3,     4.1,    31.3)
+  Blue soda?
+2022-04-23T22:58:26Z: PLAYER CHATTED [  549826367] Taayxia              (  -12.1,     3.0,    95.9)
+  drcool
+2022-04-23T22:58:29Z: PLAYER CHATTED [  549826367] Taayxia              (  -12.1,     3.0,    95.9)
+  smirks
+2022-04-23T22:58:30Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  xd 
+2022-04-23T22:58:32Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   52.8,     3.9,    31.8)
+  omg
+2022-04-23T22:58:33Z: PLAYER CHATTED [  549826367] Taayxia              (  -10.8,     3.0,    96.2)
+  ##############
+2022-04-23T22:58:36Z: PLAYER CHATTED [  549826367] Taayxia              (  -10.0,     3.0,    98.2)
+  IMLOOKIN
+2022-04-23T22:58:37Z: PLAYER CHATTED [  549826367] Taayxia              (  -10.0,     3.0,    98.2)
+  CUXTE
+2022-04-23T22:58:38Z: PLAYER CHATTED [  549826367] Taayxia              (  -10.0,     3.0,    98.2)
+  ??
+2022-04-23T22:58:45Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   51.0,     3.3,    34.0)
+  this kid is bad
+2022-04-23T22:58:58Z: PLAYER REMOVED [  863724268] bekah_baller06
+2022-04-23T22:59:20Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   49.6,     3.3,    41.7)
+  ok kyoofi dont go to my stand and guess my top dono AND DONT DONO TO ME and try to beat it you already donated enough lol
+2022-04-23T22:59:23Z: PLAYER CHATTED [  549826367] Taayxia              (  -27.0,     3.3,    93.0)
+  data open that snap up :(
+2022-04-23T22:59:24Z: PLAYER ADDED   [   16439144] Roochster
+2022-04-23T22:59:29Z: PLAYER CHATTED [  549826367] Taayxia              (  -26.4,     3.0,    93.2)
+  /w CapableSteven1213  d
+2022-04-23T22:59:32Z: PLAYER CHATTED [  549826367] Taayxia              (  -26.4,     3.0,    93.2)
+  open that snap
+2022-04-23T22:59:35Z: PLAYER CHATTED [  549826367] Taayxia              (  -26.4,     3.0,    93.2)
+  data
+2022-04-23T22:59:36Z: PLAYER CHATTED [  328509718] DmTuv                (   45.1,     3.0,    50.1)
+  kyoofi are you gonna watch me do laps
+2022-04-23T22:59:40Z: PLAYER CHATTED [   45386511] kyoofi               (   45.8,     3.0,    44.5)
+  yes
+2022-04-23T22:59:46Z: PLAYER CHATTED [  328509718] DmTuv                (   43.1,     3.2,    59.4)
+  i have 30 so far
+2022-04-23T22:59:56Z: PLAYER CHATTED [  328509718] DmTuv                (   30.2,     3.4,   100.6)
+  31
+2022-04-23T23:00:02Z: PLAYER CHATTED [  328509718] DmTuv                (   30.9,     3.0,   111.2)
+  32
+2022-04-23T23:00:04Z: PLAYER CHATTED [  212619832] CapableSteven1213    (  -28.8,     3.2,    86.4)
+  AFK
+2022-04-23T23:00:06Z: PLAYER CHATTED [  328509718] DmTuv                (   32.5,     3.0,   105.8)
+  33
+2022-04-23T23:00:10Z: PLAYER CHATTED [  328509718] DmTuv                (   50.4,     3.0,    92.7)
+  yes
+2022-04-23T23:00:11Z: PLAYER ADDED   [ 1669435296] cybercha1n
+2022-04-23T23:00:15Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  bro en serio no hablas ingles
+2022-04-23T23:00:15Z: PLAYER CHATTED [  549826367] Taayxia              (  -27.5,     3.6,    93.5)
+  OK
+2022-04-23T23:00:21Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  jajaj
+2022-04-23T23:00:22Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  no xd
+2022-04-23T23:00:24Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  jajaj 
+2022-04-23T23:00:32Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  o lo pusiste pa dar pena y que te donen
+2022-04-23T23:00:36Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  es que aqui ay puros ###### 
+2022-04-23T23:00:42Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -15.1,     3.0,    95.8)
+  ##⧹##⧹## ╲╱╲╱ ###⎠##⎠#
+2022-04-23T23:00:44Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  si 
+2022-04-23T23:00:45Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  xd 
+2022-04-23T23:00:46Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -18.2,     3.0,    89.9)
+  pov
+2022-04-23T23:00:49Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  real hermano
+2022-04-23T23:00:49Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   54.0,     3.6,    32.5)
+  berruuuu
+2022-04-23T23:00:49Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  doname brooo 
+2022-04-23T23:00:54Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  no me quedan
+2022-04-23T23:00:56Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.2,     3.0,    35.8)
+  SORRY MY WIFI IS BAD
+2022-04-23T23:00:57Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (   48.9,     3.4,    35.0)
+  Taliik
+2022-04-23T23:00:58Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  me los gaste todos
+2022-04-23T23:00:59Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  que pongo 
+2022-04-23T23:01:02Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.2,     3.0,    35.8)
+  how are uuu
+2022-04-23T23:01:02Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  no se
+2022-04-23T23:01:03Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (   47.9,     3.4,    33.9)
+  SAME
+2022-04-23T23:01:05Z: PLAYER CHATTED [  328509718] DmTuv                (   46.5,     3.0,   110.9)
+  ##
+2022-04-23T23:01:07Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.6,     3.0,    34.8)
+  WHERES KYOFFEE
+2022-04-23T23:01:10Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (   47.9,     3.4,    33.9)
+  Im good hru
+2022-04-23T23:01:12Z: PLAYER REMOVED [  357316423] Tizzel40
+2022-04-23T23:01:12Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  yo puse que me donen pa ayudar a mi nov
+2022-04-23T23:01:13Z: PLAYER CHATTED [  328509718] DmTuv                (   50.3,     3.0,   108.4)
+  i have 45
+2022-04-23T23:01:14Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   50.3,     3.0,    39.9)
+  JYOFFEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+2022-04-23T23:01:17Z: PLAYER CHATTED [   45386511] kyoofi               (   48.3,     3.0,    43.1)
+  tailia
+2022-04-23T23:01:18Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   50.3,     3.0,    39.9)
+  I MISSED U
+2022-04-23T23:01:19Z: PLAYER CHATTED [   45386511] kyoofi               (   48.3,     3.0,    43.1)
+  i made my pfp
+2022-04-23T23:01:21Z: PLAYER CHATTED [   45386511] kyoofi               (   48.3,     3.0,    43.1)
+  character
+2022-04-23T23:01:22Z: PLAYER CHATTED [  896844728] hostin110            (   34.4,    15.2,    25.9)
+  xd 
+2022-04-23T23:01:25Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   36.8,    14.7,    24.2)
+  es verdad xd no es mentira
+2022-04-23T23:01:26Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   48.8,     3.2,    44.4)
+  OMGG
+2022-04-23T23:01:29Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   48.8,     3.2,    44.4)
+  IT MACHES U
+2022-04-23T23:01:32Z: PLAYER CHATTED [   45386511] kyoofi               (   45.8,     3.0,    44.8)
+  i made the shirt and everything
+2022-04-23T23:01:35Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   42.7,     3.0,    47.7)
+  wait kyoofi how much did you have when we met??
+2022-04-23T23:01:35Z: PLAYER ADDED   [   66807130] shirosify
+2022-04-23T23:01:43Z: PLAYER CHATTED [  896844728] hostin110            (   32.8,     4.9,    27.9)
+  nose que poner 
+2022-04-23T23:01:44Z: PLAYER CHATTED [  896844728] hostin110            (   33.0,     5.3,    28.3)
+  xd
+2022-04-23T23:01:45Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.6,     3.4,    45.9)
+  lol
+2022-04-23T23:01:46Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  ella quiere comprarse la cara de corazones
+2022-04-23T23:01:55Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  y no juega estos juegos
+2022-04-23T23:02:04Z: PLAYER ADDED   [  222021698] NewWorldOrderGamers
+2022-04-23T23:02:04Z: PLAYER CHATTED [  896844728] hostin110            (   33.2,     3.1,    28.9)
+  aya 
+2022-04-23T23:02:07Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  y yo aprovecho pa usarlo de escusa a ver si me donan
+2022-04-23T23:02:09Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   97.4,     3.0,    61.5)
+  yo he just got teleported to the 1970s
+2022-04-23T23:02:09Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.4,     3.4,    45.8)
+  I think ### ### # ########
+2022-04-23T23:02:10Z: PLAYER CHATTED [  328509718] DmTuv                (   46.1,     3.0,    49.5)
+  kyoofi can i run
+2022-04-23T23:02:11Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  y me tiran la nuke
+2022-04-23T23:02:13Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.4,     3.4,    45.8)
+  thought
+2022-04-23T23:02:13Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.4,     3.4,    45.8)
+  she was
+2022-04-23T23:02:14Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.4,     3.4,    45.8)
+  a
+2022-04-23T23:02:15Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   49.4,     3.4,    45.8)
+  roach
+2022-04-23T23:02:15Z: PLAYER CHATTED [  328509718] DmTuv                (   46.1,     3.0,    49.5)
+  i have 55
+2022-04-23T23:02:17Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  pa comprarle la cara a ella
+2022-04-23T23:02:19Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  jjaja
+2022-04-23T23:02:26Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  cuesta 17k
+2022-04-23T23:02:27Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   50.1,     3.3,    46.0)
+  LOL
+2022-04-23T23:02:27Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  aya 
+2022-04-23T23:02:31Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  es una locura
+2022-04-23T23:02:35Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   46.8,     3.0,    41.9)
+  prettyy
+2022-04-23T23:02:38Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  pero mi objtivo es la nuke en verdad
+2022-04-23T23:02:44Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  luego me retirare
+2022-04-23T23:02:47Z: PLAYER CHATTED [  549826367] Taayxia              (  -31.1,     2.7,    94.5)
+  BigMommaT
+2022-04-23T23:02:49Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   73.1,    14.7,    32.0)
+  MY WIFI
+2022-04-23T23:02:50Z: PLAYER REMOVED [   16439144] Roochster
+2022-04-23T23:02:50Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  y no volvere aqui nunca mas 
+2022-04-23T23:02:52Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  x2
+2022-04-23T23:02:59Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  me cansa esta gente
+2022-04-23T23:03:03Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  -15.8,     3.0,   104.8)
+  guess my top dono
+2022-04-23T23:03:07Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  yo quiero 100k y ya no quiero  mas 
+2022-04-23T23:03:08Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd
+2022-04-23T23:03:15Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  yo tambien hermano
+2022-04-23T23:03:20Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd 
+2022-04-23T23:03:22Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  no quiero ser rico ni famoso
+2022-04-23T23:03:31Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  solo tener lo suficiente para vivir
+2022-04-23T23:03:32Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (   42.0,     3.0,    41.0)
+  life happened
+2022-04-23T23:03:32Z: PLAYER CHATTED [ 1862405641] tashio080            (  -16.0,     3.8,   102.9)
+  idc
+2022-04-23T23:03:32Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  aqui ay jente muy dura
+2022-04-23T23:03:35Z: PLAYER CHATTED [ 1862405641] tashio080            (  -16.0,     3.8,   102.9)
+  bum
+2022-04-23T23:03:38Z: PLAYER CHATTED [   45386511] kyoofi               (    7.4,    14.2,   170.7)
+  ye?
+2022-04-23T23:03:40Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  y  tener mis outfits
+2022-04-23T23:03:42Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd
+2022-04-23T23:03:45Z: PLAYER CHATTED [   45386511] kyoofi               (    7.4,    14.2,   170.7)
+  sure ^^
+2022-04-23T23:03:49Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  tanto es pedir a los ricos estos xd
+2022-04-23T23:03:49Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  si 
+2022-04-23T23:03:52Z: PLAYER CHATTED [  549826367] Taayxia              (  -16.0,     3.0,    98.4)
+  /e dance
+2022-04-23T23:03:56Z: PLAYER CHATTED [  549826367] Taayxia              (  -18.6,     3.0,    98.2)
+  /e dance
+2022-04-23T23:03:57Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.5,     3.6,    28.8)
+  una nuke de 100k
+2022-04-23T23:03:57Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  si 
+2022-04-23T23:03:58Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd
+2022-04-23T23:03:59Z: PLAYER CHATTED [  549826367] Taayxia              (  -18.6,     3.0,    98.2)
+  /e dance
+2022-04-23T23:04:02Z: PLAYER CHATTED [  549826367] Taayxia              (  -17.5,     3.0,    98.0)
+  /e dance
+2022-04-23T23:04:03Z: PLAYER CHATTED [ 1862405641] tashio080            (  -18.6,     3.8,   130.0)
+  come
+2022-04-23T23:04:06Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  jajaa 
+2022-04-23T23:04:09Z: PLAYER CHATTED [   45386511] kyoofi               (   37.3,     3.0,   161.8)
+  banana
+2022-04-23T23:04:15Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.9,    29.1)
+  cuanto tiempo llevas
+2022-04-23T23:04:17Z: PLAYER ADDED   [ 1882088107] Really_Maddy
+2022-04-23T23:04:21Z: PLAYER REMOVED [ 1882088107] Really_Maddy
+2022-04-23T23:04:21Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.9,    29.1)
+  jugando a este juego
+2022-04-23T23:04:22Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  3 dias 
+2022-04-23T23:04:29Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.9,    29.1)
+  no te queda nada entonces
+2022-04-23T23:04:35Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.9,    29.1)
+  yo llevo 1 mes ya
+2022-04-23T23:04:39Z: CHRCTER ADDED  [ 1027436175] lunamoon7126         (  259.9,    18.7,   127.2)
+2022-04-23T23:04:42Z: PLAYER CHATTED [  497842895] GamingWithBryceYT    (  297.8,     2.0,    94.7)
+  kyoofi want to see something cool
+2022-04-23T23:04:50Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.9,    29.1)
+  esto es sacrificio
+2022-04-23T23:04:53Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  257.9,    18.7,   126.4)
+  Hell o
+2022-04-23T23:04:57Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  si 
+2022-04-23T23:04:58Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  gg 
+2022-04-23T23:05:00Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -95.7,     2.0,   200.6)
+  KYOFFFEE
+2022-04-23T23:05:05Z: CHRCTER ADDED  [ 1027436175] lunamoon7126         (  254.6,    18.5,   125.1)
+2022-04-23T23:05:12Z: PLAYER CHATTED [ 1862405641] tashio080            (   36.3,     3.8,    32.8)
+  jk
+2022-04-23T23:05:12Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  ohh
+2022-04-23T23:05:13Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  ya yo he me unido a los mas ricos del juego
+2022-04-23T23:05:16Z: CHRCTER ADDED  [   66807130] shirosify            (  259.3,    19.8,   121.1)
+2022-04-23T23:05:21Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  256.3,    18.5,   125.2)
+  Nop
+2022-04-23T23:05:24Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  a
+2022-04-23T23:05:25Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -80.9,    15.4,   111.4)
+  my wifi
+2022-04-23T23:05:27Z: PLAYER CHATTED [ 1862405641] tashio080            (   36.3,     3.8,    32.8)
+  wooooooow
+2022-04-23T23:05:28Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -80.9,    15.4,   111.4)
+  is attacking me
+2022-04-23T23:05:28Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  pero no he conseguido que me tiren la nuke
+2022-04-23T23:05:29Z: PLAYER CHATTED [ 1862405641] tashio080            (   36.3,     3.8,    32.8)
+  :(
+2022-04-23T23:05:30Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  257.8,    19.2,   122.4)
+  Thx
+2022-04-23T23:05:36Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  255.9,    18.8,   124.3)
+  U too
+2022-04-23T23:05:41Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd 
+2022-04-23T23:05:47Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  cuanto mas ricos mas menos solidarios son
+2022-04-23T23:05:49Z: PLAYER CHATTED [ 2225480288] invinc1bl3_vibex     (   98.6,     3.9,    57.8)
+  i would donate but i already donated all my 100 robux
+2022-04-23T23:05:51Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  asi de claro bro
+2022-04-23T23:05:52Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  todos ablan inbles 
+2022-04-23T23:05:55Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -80.9,    15.4,   111.4)
+  my wifi attacking me
+2022-04-23T23:05:55Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  ingles 
+2022-04-23T23:05:56Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  xd 
+2022-04-23T23:06:00Z: PLAYER CHATTED [ 2225480288] invinc1bl3_vibex     (   98.5,     3.5,    60.5)
+  sorry tashio
+2022-04-23T23:06:02Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -80.9,    15.4,   111.4)
+  KYOFFE WHAT DID U DRINK TODAY
+2022-04-23T23:06:04Z: PLAYER ADDED   [ 1432006323] uglygodyur
+2022-04-23T23:06:05Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  porque todos los ricos son ingleses
+2022-04-23T23:06:10Z: PLAYER REMOVED [ 1862405641] tashio080
+2022-04-23T23:06:14Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   37.6,     3.8,    28.7)
+  los hispanos siempre somos los pobres jaja
+2022-04-23T23:06:15Z: PLAYER ADDED   [ 2737249994] TrulyyDre
+2022-04-23T23:06:17Z: PLAYER REMOVED [  212619832] CapableSteven1213
+2022-04-23T23:06:24Z: PLAYER CHATTED [  896844728] hostin110            (   34.5,     4.1,    30.9)
+  si xd 
+2022-04-23T23:06:27Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  207.4,     7.4,   118.9)
+  moth
+2022-04-23T23:06:30Z: PLAYER CHATTED [   45386511] kyoofi               (  206.6,     7.4,   115.5)
+  yes
+2022-04-23T23:06:38Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  mira lo combie 
+2022-04-23T23:06:39Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -17.0,     3.7,   141.1)
+  Strawberry is the best
+2022-04-23T23:06:41Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  207.4,     7.4,   118.9)
+  BERRY
+2022-04-23T23:06:42Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  xd
+2022-04-23T23:06:47Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  whoever donates to me is god
+2022-04-23T23:06:48Z: PLAYER CHATTED [  328509718] DmTuv                (   79.5,     2.5,   123.0)
+  wheres kyoofi
+2022-04-23T23:06:49Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -13.4,     3.0,   139.5)
+  WHO DONATED 1OK TO U
+2022-04-23T23:06:51Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   38.6,     3.9,    29.9)
+  tampoco insipira mucho esa frase 
+2022-04-23T23:06:51Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -18.3,     3.7,   140.1)
+  No
+2022-04-23T23:06:51Z: PLAYER CHATTED [ 2225480288] invinc1bl3_vibex     (   79.4,     2.8,   117.3)
+  here
+2022-04-23T23:06:54Z: PLAYER CHATTED [  549826367] Taayxia              (   45.3,     3.7,    74.6)
+  sits
+2022-04-23T23:06:55Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -18.3,     3.7,   140.1)
+  Strawberry is
+2022-04-23T23:06:57Z: PLAYER CHATTED [  549826367] Taayxia              (   45.3,     3.7,    74.6)
+  rests legs
+2022-04-23T23:06:58Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  xd 
+2022-04-23T23:06:59Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   38.6,     3.9,    29.9)
+  pero algo es algo jaja
+2022-04-23T23:07:01Z: PLAYER CHATTED [  328509718] DmTuv                (    9.5,     2.0,    -8.2)
+  i have 100
+2022-04-23T23:07:02Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -18.3,     3.7,   140.1)
+  Who me?
+2022-04-23T23:07:04Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -13.4,     3.0,   139.5)
+  ye
+2022-04-23T23:07:04Z: PLAYER CHATTED [  328509718] DmTuv                (   14.0,     2.0,   -13.8)
+  laps
+2022-04-23T23:07:04Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  nose que pone r
+2022-04-23T23:07:06Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  xd
+2022-04-23T23:07:11Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -16.3,     3.0,   138.5)
+  I wanted to have more than u
+2022-04-23T23:07:13Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   38.4,     3.9,    29.9)
+  es tener creatividad
+2022-04-23T23:07:15Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -18.0,     3.0,   136.8)
+  and joke about it
+2022-04-23T23:07:16Z: PLAYER CHATTED [  896844728] hostin110            (   34.9,     4.1,    30.7)
+  eso cuanto bale 
+2022-04-23T23:07:16Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (  -19.5,     3.5,   137.5)
+  Kopee danated 5k
+2022-04-23T23:07:17Z: PLAYER CHATTED [  222021698] NewWorldOrderGamers  (  -15.9,     3.3,    88.3)
+  mb
+2022-04-23T23:07:17Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -18.0,     3.0,   136.8)
+  guess not
+2022-04-23T23:07:20Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  100
+2022-04-23T23:07:21Z: PLAYER CHATTED [  222021698] NewWorldOrderGamers  (  -15.9,     3.3,    88.3)
+  yuh
+2022-04-23T23:07:22Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -18.0,     3.0,   136.8)
+  KYOFFEE
+2022-04-23T23:07:24Z: PLAYER CHATTED [  896844728] hostin110            (   37.1,     3.9,    31.1)
+  gg 
+2022-04-23T23:07:28Z: PLAYER CHATTED [  896844728] hostin110            (   37.1,     3.9,    31.1)
+  tan caro 
+2022-04-23T23:07:30Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  es imprescindible
+2022-04-23T23:07:31Z: PLAYER CHATTED [ 1669435296] cybercha1n           (  -11.6,     3.0,   134.9)
+  Im going to kill a moth
+2022-04-23T23:07:34Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   -9.9,     3.0,   136.2)
+  KOYFFEE
+2022-04-23T23:07:36Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  para estar por aqui
+2022-04-23T23:07:37Z: PLAYER CHATTED [  222021698] NewWorldOrderGamers  (  -14.3,     3.3,    85.2)
+  who chest of time
+2022-04-23T23:07:47Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  fue de lo primero que compre cuando me donaron
+2022-04-23T23:07:48Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   43.7,     3.3,   120.9)
+  lets sit down
+2022-04-23T23:07:55Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  u
+2022-04-23T23:07:56Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  made
+2022-04-23T23:07:57Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  xd
+2022-04-23T23:07:59Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  berry richer
+2022-04-23T23:08:00Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  whys that
+2022-04-23T23:08:01Z: PLAYER CHATTED [  549826367] Taayxia              (   45.3,     3.7,    74.6)
+  /w Reject_Dev  im resting my ######### legs
+2022-04-23T23:08:04Z: PLAYER CHATTED [  549826367] Taayxia              (   45.3,     3.7,    74.6)
+  im resting my legs
+2022-04-23T23:08:07Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  cuantote an donado 
+2022-04-23T23:08:08Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  es una herramienta de trabajo jaja
+2022-04-23T23:08:11Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  11k
+2022-04-23T23:08:14Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  U MADE MY WORK HARDER
+2022-04-23T23:08:16Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  aaaaaaaaaaaaaaaaaaaaaaaaaa
+2022-04-23T23:08:17Z: PLAYER CHATTED [  222021698] NewWorldOrderGamers  (  -30.0,     3.6,    95.5)
+  np
+2022-04-23T23:08:19Z: PLAYER CHATTED [  549826367] Taayxia              (  -27.9,     3.4,   109.1)
+  Waddles
+2022-04-23T23:08:20Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  es mucho 
+2022-04-23T23:08:21Z: PLAYER CHATTED [ 1027436175] lunamoon7126         (   40.1,     3.6,   135.6)
+  shes helping me to get dancing strawberry
+2022-04-23T23:08:28Z: PLAYER CHATTED [  222021698] NewWorldOrderGamers  (  -11.7,     3.5,   144.5)
+  what da hell
+2022-04-23T23:08:30Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  tampoco te creas
+2022-04-23T23:08:37Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  I'm helping to get my black iron back
+2022-04-23T23:08:37Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  se hasta rapido 
+2022-04-23T23:08:38Z: PLAYER CHATTED [ 1394142416] DrCoolBossman        (   47.5,     4.2,   133.2)
+  wth
+2022-04-23T23:08:43Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  ami apenas 130
+2022-04-23T23:08:45Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  I have to kill a moth now
+2022-04-23T23:08:49Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  bro estas empezando
+2022-04-23T23:08:51Z: PLAYER CHATTED [  549826367] Taayxia              (  -18.0,     3.0,    87.4)
+  VALK IS A GLITCH
+2022-04-23T23:08:56Z: PLAYER CHATTED [   45386511] kyoofi               (   40.1,     3.6,   129.4)
+  im already dead
+2022-04-23T23:08:57Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  its u
+2022-04-23T23:08:58Z: PLAYER CHATTED [  549826367] Taayxia              (  -18.0,     3.0,    87.4)
+  no its a glitch
+2022-04-23T23:08:59Z: PLAYER CHATTED [  328509718] DmTuv                (   41.0,     3.3,   117.6)
+  123 laps
+2022-04-23T23:08:59Z: PLAYER CHATTED [   45386511] kyoofi               (   40.1,     3.6,   129.4)
+  it's been weeks
+2022-04-23T23:09:01Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   40.1,     3.6,   126.0)
+  it will die twice
+2022-04-23T23:09:02Z: PLAYER CHATTED [ 3387247633] Pesadilla515         (   39.4,     3.9,    29.8)
+  yo llevo aqui en este juego desde que salio creo
+2022-04-23T23:09:04Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  ### ###### ##
+2022-04-23T23:09:10Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  ###### ##
+2022-04-23T23:09:13Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  aaaaaaaaaaaaaaaa+
+2022-04-23T23:09:14Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   42.8,     3.2,   129.9)
+  kyoffee
+2022-04-23T23:09:18Z: PLAYER CHATTED [  896844728] hostin110            (   33.3,     3.9,    30.1)
+  gg
+2022-04-23T23:09:24Z: PLAYER CHATTED [ 1669435296] cybercha1n           (   44.3,     3.2,   130.8)
+  it has to be done
+2022-04-23T23:09:29Z: CHRCTER ADDED  [ 2040786103] Reject_Dev           (  -16.7,     3.3,    88.7)
+2022-04-23T23:09:30Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-23T23:09:30Z: PLAYER REMOVED [  659339294] Intxlz
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 1027436175] lunamoon7126
+2022-04-23T23:09:30Z: PLAYER REMOVED [   81521488] Zynex_xx
+2022-04-23T23:09:30Z: PLAYER REMOVED [  497842895] GamingWithBryceYT
+2022-04-23T23:09:30Z: PLAYER REMOVED [  896844728] hostin110
+2022-04-23T23:09:30Z: PLAYER REMOVED [  549826367] Taayxia
+2022-04-23T23:09:30Z: PLAYER REMOVED [  328509718] DmTuv
+2022-04-23T23:09:30Z: PLAYER REMOVED [  827715643] XXDOEGALXX
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 3387247633] Pesadilla515
+2022-04-23T23:09:30Z: PLAYER REMOVED [  148594589] L0VECHAOZ
+2022-04-23T23:09:30Z: PLAYER REMOVED [   77497593] KanniKala
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 1049698680] YssimLei
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 1394142416] DrCoolBossman
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 2040786103] Reject_Dev
+2022-04-23T23:09:30Z: PLAYER REMOVED [  376388734] TheAwkwardSponge
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 2225480288] invinc1bl3_vibex
+2022-04-23T23:09:30Z: PLAYER REMOVED [  123711022] Kazulani
+2022-04-23T23:09:30Z: PLAYER REMOVED [   45386511] kyoofi
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 1669435296] cybercha1n
+2022-04-23T23:09:30Z: PLAYER REMOVED [   66807130] shirosify
+2022-04-23T23:09:30Z: PLAYER REMOVED [  222021698] NewWorldOrderGamers
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 1432006323] uglygodyur
+2022-04-23T23:09:30Z: PLAYER REMOVED [ 2737249994] TrulyyDre
+2022-04-23T23:09:30Z: CHAT STREAM SUCCESSFULLY ENDED

@@ -1,0 +1,89 @@
+[    1630228] : [ 6428109080] Roblox Developer Hangout - fadb78eb-02c8-4275-b579-fe96f97549b4
+2022-06-03T06:05:15Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-03T06:05:16Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-03T06:05:16Z: PLAYER ADDED   [ 2416421930] herogrand14
+2022-06-03T06:05:16Z: PLAYER ADDED   [ 1905302632] RavenOctoberALT
+2022-06-03T06:05:16Z: PLAYER ADDED   [  225905989] dewitik2
+2022-06-03T06:05:16Z: PLAYER ADDED   [  922107823] Derzern
+2022-06-03T06:05:22Z: PLAYER CHATTED [  225905989] dewitik2             (  -54.7,    66.8,     6.7)
+  everybody love a free scripter
+2022-06-03T06:05:25Z: PLAYER CHATTED [  922107823] Derzern              (  -51.0,    66.6,     7.4)
+  do you want me give from my group or wat
+2022-06-03T06:05:28Z: PLAYER CHATTED [  225905989] dewitik2             (  -54.7,    66.8,     6.7)
+  or anything free
+2022-06-03T06:05:31Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -49.2,    66.9,     5.1)
+  i  want
+2022-06-03T06:05:42Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -49.2,    66.9,     5.1)
+  what name group?
+2022-06-03T06:05:49Z: PLAYER CHATTED [  922107823] Derzern              (  -51.0,    66.6,     7.4)
+  if from group dint cut 30%
+2022-06-03T06:05:54Z: PLAYER CHATTED [  922107823] Derzern              (  -51.0,    66.6,     7.4)
+  farizons
+2022-06-03T06:05:58Z: PLAYER CHATTED [  225905989] dewitik2             (  -52.2,    66.8,     6.1)
+  ayo
+2022-06-03T06:06:02Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -49.2,    66.9,     5.1)
+  what name
+2022-06-03T06:06:07Z: PLAYER CHATTED [  922107823] Derzern              (  -51.0,    66.6,     7.4)
+  thats the name
+2022-06-03T06:06:25Z: PLAYER CHATTED [  225905989] dewitik2             (  -51.7,    66.8,     3.1)
+  W
+2022-06-03T06:06:26Z: PLAYER CHATTED [  225905989] dewitik2             (  -51.7,    66.8,     3.1)
+  ayo
+2022-06-03T06:06:31Z: PLAYER CHATTED [  225905989] dewitik2             (  -50.9,    66.8,     2.7)
+  how to fire a event?
+2022-06-03T06:06:32Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -49.2,    66.9,     5.1)
+  what?
+2022-06-03T06:06:39Z: PLAYER CHATTED [  922107823] Derzern              (  -53.4,    66.6,     6.5)
+  wat
+2022-06-03T06:06:40Z: PLAYER CHATTED [  225905989] dewitik2             (  -50.9,    66.8,     2.7)
+  with forget the name
+2022-06-03T06:06:42Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -54.9,    66.9,     3.8)
+  can u back?
+2022-06-03T06:06:44Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -54.9,    66.9,     3.8)
+  the name?
+2022-06-03T06:06:49Z: PLAYER CHATTED [  922107823] Derzern              (  -52.2,    66.6,     7.5)
+  farizons
+2022-06-03T06:06:59Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -54.2,    66.9,     4.6)
+  tags!~!
+2022-06-03T06:07:01Z: PLAYER CHATTED [  225905989] dewitik2             (  -49.9,    66.8,     3.4)
+  like
+2022-06-03T06:07:03Z: PLAYER CHATTED [  225905989] dewitik2             (  -49.9,    66.8,     3.4)
+  funcitonevent
+2022-06-03T06:07:05Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -54.2,    66.9,     4.6)
+  !~!
+2022-06-03T06:07:07Z: PLAYER CHATTED [  922107823] Derzern              (  -52.9,    66.6,     7.2)
+  .tags?
+2022-06-03T06:07:11Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.0,    66.9,     4.9)
+  yeah
+2022-06-03T06:07:13Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.0,    66.9,     4.9)
+  tags?
+2022-06-03T06:07:18Z: PLAYER CHATTED [  922107823] Derzern              (  -52.9,    66.6,     7.2)
+  ur under 13+ nrij
+2022-06-03T06:07:22Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.0,    66.9,     4.9)
+  how much members?
+2022-06-03T06:07:26Z: PLAYER ADDED   [ 3312476284] FEYPRO5error404
+2022-06-03T06:07:30Z: PLAYER CHATTED [  922107823] Derzern              (  -53.7,    66.6,     8.8)
+  67
+2022-06-03T06:07:33Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.0,    66.9,     4.9)
+  omg
+2022-06-03T06:07:40Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.2,    66.9,     5.7)
+  u are islamic?
+2022-06-03T06:07:44Z: PLAYER CHATTED [  922107823] Derzern              (  -53.7,    66.6,     8.8)
+  ye
+2022-06-03T06:07:48Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.2,    66.9,     5.7)
+  me too
+2022-06-03T06:07:50Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.2,    66.9,     5.7)
+  wth
+2022-06-03T06:07:52Z: PLAYER CHATTED [ 2416421930] herogrand14          (  -53.2,    66.9,     5.7)
+  me too
+2022-06-03T06:07:58Z: PLAYER CHATTED [  922107823] Derzern              (  -54.7,    66.6,     8.4)
+  what wrong
+2022-06-03T06:07:59Z: PLAYER CHATTED [  225905989] dewitik2             (  -49.6,    66.8,     6.1)
+  Indonesian/Malay?
+2022-06-03T06:08:01Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-03T06:08:01Z: PLAYER REMOVED [ 2416421930] herogrand14
+2022-06-03T06:08:01Z: PLAYER REMOVED [ 1905302632] RavenOctoberALT
+2022-06-03T06:08:01Z: PLAYER REMOVED [  225905989] dewitik2
+2022-06-03T06:08:01Z: PLAYER REMOVED [  922107823] Derzern
+2022-06-03T06:08:01Z: PLAYER REMOVED [ 3312476284] FEYPRO5error404
+2022-06-03T06:08:01Z: CHAT STREAM SUCCESSFULLY ENDED

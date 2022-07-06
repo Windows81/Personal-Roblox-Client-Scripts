@@ -1,0 +1,68 @@
+[    1630228] : [10080134170] A Blockate World. - e47f09b4-1280-402f-a776-fd7469e9965c
+2022-07-03T05:56:32Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T05:56:32Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T06:08:52Z: PLAYER ADDED   [ 3674823625] Icargohy
+2022-07-03T06:09:00Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T06:09:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,     0.0)
+  Welcome!
+2022-07-03T06:09:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.8,     5.0,  1008.0)
+  Only a böt can beat this.
+2022-07-03T06:10:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.8,     5.0,  1008.0)
+  !fly all
+2022-07-03T06:10:26Z: PLAYER CHATTED [ 3674823625] Icargohy             (  -13.9,     5.0,   914.8)
+  I’m going to do it 
+2022-07-03T06:10:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -17.4,    23.1,   914.4)
+  Or a flyer.
+2022-07-03T06:10:32Z: PLAYER CHATTED [ 3674823625] Icargohy             (  -13.9,     5.0,   914.9)
+  What
+2022-07-03T06:10:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -25.8,    23.1,   924.3)
+  Can you jump all 6969 blocks?
+2022-07-03T06:10:45Z: PLAYER CHATTED [ 3674823625] Icargohy             (  -52.1,     5.0,   952.6)
+  Are you owner
+2022-07-03T06:10:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -29.5,    23.1,   777.2)
+  Yes I am.
+2022-07-03T06:11:01Z: PLAYER CHATTED [ 3674823625] Icargohy             (   10.6,     5.0,  1656.3)
+  Wow
+2022-07-03T06:13:29Z: PLAYER REMOVED [ 3674823625] Icargohy
+2022-07-03T06:13:30Z: PLAYER ADDED   [ 3674823625] Icargohy
+2022-07-03T06:14:04Z: PLAYER REMOVED [ 3674823625] Icargohy
+2022-07-03T06:14:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T06:58:34Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T06:59:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:01:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:06:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:07:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:09:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:11:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:12:01Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:13:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:30:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:31:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:31:23Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:33:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:33:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:34:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:34:54Z: PLAYER ADDED   [  856357213] Daniel_Albano
+2022-07-03T07:34:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:34:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,     0.0)
+  Hi.
+2022-07-03T07:35:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,     0.0)
+  Obby is no more.
+2022-07-03T07:35:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,     0.0)
+  Now we're doing rudimentary terrain generation!	
+2022-07-03T07:35:20Z: PLAYER CHATTED [  856357213] Daniel_Albano        (    0.0,     9.9,     0.0)
+  what
+2022-07-03T07:36:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,     0.0)
+  That... I am figuring out
+2022-07-03T07:36:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:36:52Z: CHRCTER ADDED  [  856357213] Daniel_Albano        (    0.0,   108.0,     0.0)
+2022-07-03T07:37:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:37:09Z: CHRCTER ADDED  [  856357213] Daniel_Albano        (    0.0,   108.0,     0.0)
+2022-07-03T07:37:23Z: PLAYER REMOVED [  856357213] Daniel_Albano
+2022-07-03T07:39:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:41:13Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:45:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:46:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T07:46:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   102.9,     0.0)
+2022-07-03T07:47:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.0,     0.0)
+2022-07-03T08:19:24Z: PLAYER REMOVED [    1630228] VisualPlugin

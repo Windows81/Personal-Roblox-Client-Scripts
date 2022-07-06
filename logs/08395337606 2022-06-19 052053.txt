@@ -1,0 +1,31 @@
+[    1630228] : [ 8395337606] BloxyTown Nuclear Energy Facility - 8195aac7-079c-4b56-b61c-4202ff4b3dd4
+2022-06-19T05:20:53Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-19T05:20:53Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-19T05:20:53Z: PLAYER ADDED   [  741762780] GoTest334
+2022-06-19T05:22:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.4,   221.2,   225.2)
+  Why the music?
+2022-06-19T05:23:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -12.9,   125.1,   297.6)
+  Do you do video requests?
+2022-06-19T05:23:45Z: PLAYER CHATTED [  741762780] GoTest334            (   45.5,   124.4,   327.3)
+  for what
+2022-06-19T05:23:48Z: PLAYER CHATTED [  741762780] GoTest334            (   45.5,   124.4,   327.3)
+  goanimate?
+2022-06-19T05:23:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.2,   125.1,   334.2)
+  Wrapper.
+2022-06-19T05:24:04Z: PLAYER CHATTED [  741762780] GoTest334            (   45.5,   124.4,   327.3)
+  send me it over ####### and depending on what it is i might do it
+2022-06-19T05:24:09Z: PLAYER CHATTED [  741762780] GoTest334            (   45.5,   124.4,   327.3)
+  ######
+2022-06-19T05:24:13Z: PLAYER CHATTED [  741762780] GoTest334            (   45.5,   124.4,   327.3)
+  di
+2022-06-19T05:24:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.4,   125.1,   338.3)
+  Okey.
+2022-06-19T05:24:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   43.7,   221.8,   356.5)
+2022-06-19T05:24:59Z: CHRCTER ADDED  [  741762780] GoTest334            (   43.7,   220.1,   347.5)
+2022-06-19T05:25:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   63.0,   221.8,   347.5)
+2022-06-19T05:26:56Z: PLAYER CHATTED [  741762780] GoTest334            (   48.6,   144.2,   291.1)
+  ok well im going to get off for the night. Its late and i need to sleep and i got stuff to do tomorrow. feel free to continue to look around but for now cya, Also check di quick
+2022-06-19T05:27:00Z: PLAYER CHATTED [  741762780] GoTest334            (   48.6,   144.2,   291.1)
+  because i have to sned you stuff
+2022-06-19T05:28:20Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-19T05:28:20Z: PLAYER REMOVED [  741762780] GoTest334

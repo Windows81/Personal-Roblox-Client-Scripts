@@ -1,0 +1,30 @@
+[    1630228] : [ 9499284399] TZaScripts_3's Place - 1a9e93dd-40a7-4f95-ac64-3cbef5687134
+2022-06-10T05:59:44Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-10T05:59:44Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-10T05:59:44Z: PLAYER ADDED   [  633338194] bigrob2011
+2022-06-10T06:00:23Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  feak
+2022-06-10T06:02:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  326.6,    16.5,   178.9)
+  Not bad.
+2022-06-10T06:02:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  326.6,    16.5,   178.9)
+  I'll say the time in UTC.
+2022-06-10T06:03:16Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  among us
+2022-06-10T06:03:23Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  I’m back
+2022-06-10T06:03:50Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  ah feak
+2022-06-10T06:04:07Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  I spilled jam over my key board
+2022-06-10T06:04:15Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  board 
+2022-06-10T06:04:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  322.8,    16.5,   186.9)
+  I spilt UTC time over my jam-board.
+2022-06-10T06:04:37Z: PLAYER CHATTED [  633338194] bigrob2011           (  319.1,    15.2,   190.9)
+  ?
+2022-06-10T06:05:33Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  333.7,    17.7,   181.3)
+2022-06-10T06:05:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  296.3,    11.9,   154.2)
+  I'll be òóf.
+2022-06-10T06:06:04Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-10T06:06:04Z: PLAYER REMOVED [  633338194] bigrob2011
+2022-06-10T06:06:04Z: CHAT STREAM SUCCESSFULLY ENDED

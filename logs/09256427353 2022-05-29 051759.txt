@@ -1,0 +1,1111 @@
+[    1630228] : [ 9256427353] ASYNC | The Backrooms - 1beebb31-b234-49cf-82aa-444fa720035c
+2022-05-29T05:17:59Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-29T05:18:03Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-29T05:18:03Z: PLAYER ADDED   [  132177857] adam5212d
+2022-05-29T05:18:03Z: PLAYER ADDED   [  130679748] SomeOtherGuyRB
+2022-05-29T05:18:03Z: PLAYER ADDED   [   53741373] LuciusAquilla
+2022-05-29T05:18:03Z: PLAYER ADDED   [  164726968] DIP3333
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2361327414] Sw0rdFit
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 1305830811] MuPoH89
+2022-05-29T05:18:03Z: PLAYER ADDED   [  317387063] Thecokegod2
+2022-05-29T05:18:03Z: PLAYER ADDED   [   52753115] Deathlyghostreaperi
+2022-05-29T05:18:03Z: PLAYER ADDED   [   14072529] DendonSin
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 3466182514] fgfydgfdf228
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 1059131113] ThanosIsAC00N
+2022-05-29T05:18:03Z: PLAYER ADDED   [  217617708] ChrisMacArthur
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2248811721] Xxpresident_obamaX
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2626211705] Chudbuc
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 1828608493] StandUprightRightUp
+2022-05-29T05:18:03Z: PLAYER ADDED   [  134915701] IWraithSinI
+2022-05-29T05:18:03Z: PLAYER ADDED   [  185356473] KiiingDavid
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 3525336325] pizza72221
+2022-05-29T05:18:03Z: PLAYER ADDED   [  571069062] WanitingBuilders
+2022-05-29T05:18:03Z: PLAYER ADDED   [   75473524] Mike_Developer
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2533289808] scpgrty
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 1360720285] preyIess
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 3082693675] ghj123456f
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 1300794398] MIHAI44783
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2865951835] eepjr1999
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 3225295236] jackle2342546
+2022-05-29T05:18:03Z: PLAYER ADDED   [  169854262] epicpotatoes444
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 3142648476] LOLTROLLING113
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2032740998] WealthyEthereal
+2022-05-29T05:18:03Z: PLAYER ADDED   [  616764614] packman7rules2
+2022-05-29T05:18:03Z: PLAYER ADDED   [   74014069] Grim_Dev200
+2022-05-29T05:18:03Z: PLAYER ADDED   [ 2749203869] IlIFIA_ECHOIlI
+2022-05-29T05:18:05Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.7)
+  can you send me a screenshot
+2022-05-29T05:18:07Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.7)
+  or something
+2022-05-29T05:18:08Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -101.0)
+  Those are friendly.
+2022-05-29T05:18:10Z: PLAYER REMOVED [ 3466182514] fgfydgfdf228
+2022-05-29T05:18:10Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.7)
+  i wanna see the models
+2022-05-29T05:18:12Z: PLAYER ADDED   [ 3063277735] MKSA05
+2022-05-29T05:18:15Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.5,     3.2,  -103.5)
+  Chris, can you get away from the door.
+2022-05-29T05:18:19Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -58.6,     3.7,    33.8)
+  IN.
+2022-05-29T05:18:20Z: PLAYER CHATTED [  317387063] Thecokegod2          (   14.8,     3.6,    24.6)
+  They do a bit of trolling'
+2022-05-29T05:18:23Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  You can see them in the dizzy.
+2022-05-29T05:18:24Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.4,     3.2,  -113.2)
+  can i have a crush bar
+2022-05-29T05:18:26Z: PLAYER ADDED   [  498081906] kuchka_zolota
+2022-05-29T05:18:27Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.9,     3.2,  -108.4)
+  i want to see what the designs are
+2022-05-29T05:18:28Z: PLAYER CHATTED [ 1305830811] MuPoH89              (   11.5,     3.2,  -118.3)
+  how I hit in backrooms
+2022-05-29T05:18:29Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.9,     3.2,  -108.4)
+  for the entitys
+2022-05-29T05:18:30Z: PLAYER CHATTED [  317387063] Thecokegod2          (   14.2,     3.6,    23.2)
+  Jits are parting 
+2022-05-29T05:18:31Z: PLAYER ADDED   [ 2855018611] mathphs201217
+2022-05-29T05:18:32Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -69.2,     3.6,    46.9)
+  HEY
+2022-05-29T05:18:32Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -17.9,     3.6,    27.3)
+  Still there.
+2022-05-29T05:18:33Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.7,     3.2,  -109.2)
+  oh
+2022-05-29T05:18:35Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  I don't have a crush bar on me right now.
+2022-05-29T05:18:35Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.7,     3.2,  -109.2)
+  what channel?
+2022-05-29T05:18:36Z: PLAYER REMOVED [ 2865951835] eepjr1999
+2022-05-29T05:18:36Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.9,     3.2,  -108.7)
+  plz
+2022-05-29T05:18:39Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:18:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  Will a Hurry bar work?
+2022-05-29T05:18:40Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -59.0,     3.6,    42.2)
+  Thanks
+2022-05-29T05:18:41Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.6,     3.2,  -108.2)
+  oof
+2022-05-29T05:18:42Z: PLAYER CHATTED [   53741373] LuciusAquilla        (    9.8,     3.6,    30.5)
+  I wouldn't go out there.
+2022-05-29T05:18:43Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -28.9,     3.2,  -107.7)
+  Crash Bar
+2022-05-29T05:18:43Z: PLAYER REMOVED [ 2626211705] Chudbuc
+2022-05-29T05:18:44Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.6,     3.2,  -108.2)
+  sure
+2022-05-29T05:18:44Z: PLAYER CHATTED [  616764614] packman7rules2       (   18.0,     3.6,    37.2)
+  At this point, I'm gonna have to go out there.
+2022-05-29T05:18:45Z: PLAYER REMOVED [ 3063277735] MKSA05
+2022-05-29T05:18:46Z: PLAYER CHATTED [ 1360720285] preyIess             (  -12.6,     3.6,    64.9)
+  hello
+2022-05-29T05:18:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.1)
+  Development channel.
+2022-05-29T05:18:46Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:18:46Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -21.5,     3.6,    26.1)
+  Follow me
+2022-05-29T05:18:47Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   16.2,     3.6,    29.2)
+  -B killed -A.
+2022-05-29T05:18:48Z: PLAYER ADDED   [ 3322077719] ianfer1530
+2022-05-29T05:18:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -318.3,     3.6,   487.5)
+  Hi.
+2022-05-29T05:18:55Z: PLAYER CHATTED [   74014069] Grim_Dev200          (    7.0,     3.6,    28.5)
+  alright.
+2022-05-29T05:18:56Z: PLAYER CHATTED [ 1360720285] preyIess             (  -14.7,     3.6,    64.3)
+  Can I bet let in
+2022-05-29T05:18:58Z: PLAYER CHATTED [  132177857] adam5212d            (  -29.5,     3.2,  -100.2)
+  Ill get a crash bar.
+2022-05-29T05:19:03Z: PLAYER CHATTED [  616764614] packman7rules2       (   17.8,     3.6,    40.0)
+  Nope, nope.
+2022-05-29T05:19:04Z: PLAYER CHATTED [  317387063] Thecokegod2          (   17.8,     3.6,    23.5)
+  packman bouta get pakced out 
+2022-05-29T05:19:06Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -34.6,     3.2,  -109.2)
+  I need it
+2022-05-29T05:19:11Z: PLAYER CHATTED [  317387063] Thecokegod2          (   20.0,     5.8,    24.3)
+  let me out there
+2022-05-29T05:19:12Z: PLAYER CHATTED [  317387063] Thecokegod2          (   20.0,     5.8,    24.3)
+  trust
+2022-05-29T05:19:14Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.6,     3.2,  -109.9)
+  announcements-dev
+2022-05-29T05:19:14Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.6,     3.2,  -109.9)
+  ?
+2022-05-29T05:19:16Z: CHRCTER ADDED  [ 2855018611] mathphs201217        (  518.4,     5.7,   478.5)
+2022-05-29T05:19:22Z: CHRCTER ADDED  [  498081906] kuchka_zolota        ( -115.3,     3.4,  -225.9)
+2022-05-29T05:19:22Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.1)
+  Some photos should be in there.
+2022-05-29T05:19:25Z: PLAYER CHATTED [  317387063] Thecokegod2          (   49.9,     3.6,    37.5)
+  Kid got folded
+2022-05-29T05:19:26Z: PLAYER CHATTED [  317387063] Thecokegod2          (   49.9,     3.6,    37.5)
+  L
+2022-05-29T05:19:35Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.1)
+  If they aren't, then you can always join the group and see if that gets you more access.
+2022-05-29T05:19:35Z: PLAYER CHATTED [ 1305830811] MuPoH89              (  -10.8,     3.2,  -118.2)
+  backrooms
+2022-05-29T05:19:37Z: PLAYER REMOVED [ 3082693675] ghj123456f
+2022-05-29T05:19:37Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (  -35.2,     3.3,   -93.3)
+  Alright pass here yall stay.
+2022-05-29T05:19:41Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.3,     3.2,  -108.6)
+  join the what
+2022-05-29T05:19:42Z: PLAYER ADDED   [ 2047094697] angleflute
+2022-05-29T05:19:43Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -109.4)
+  it cut off
+2022-05-29T05:19:45Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -25.6,     3.3,   -86.4)
+  Ok
+2022-05-29T05:19:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.1)
+  Group.
+2022-05-29T05:19:49Z: PLAYER CHATTED [  616764614] packman7rules2       (    0.7,     3.6,    36.1)
+  You want to join me in stalking a 0001?
+2022-05-29T05:19:50Z: PLAYER CHATTED [  317387063] Thecokegod2          (   67.6,     3.6,    39.4)
+  i think I know what this part is 
+2022-05-29T05:19:52Z: PLAYER CHATTED [  317387063] Thecokegod2          (   67.6,     3.6,    39.4)
+  :flushed:
+2022-05-29T05:19:54Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.7,     3.2,  -113.6)
+  all i see is markiplier punching meme
+2022-05-29T05:19:54Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -19.5,     3.3,   -89.7)
+  Out.
+2022-05-29T05:19:55Z: PLAYER CHATTED [   53741373] LuciusAquilla        (   17.2,     3.6,    25.0)
+  Sure.
+2022-05-29T05:19:57Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -19.7,     3.3,   -86.8)
+  Only warning.
+2022-05-29T05:19:57Z: PLAYER CHATTED [   53741373] LuciusAquilla        (   17.2,     3.6,    25.0)
+  Sounds fun.
+2022-05-29T05:19:59Z: PLAYER CHATTED [  317387063] Thecokegod2          (   64.2,     3.6,    34.8)
+  Or hey sw0rd
+2022-05-29T05:20:03Z: CHRCTER ADDED  [   14072529] DendonSin            (  320.4,     6.0,   765.7)
+2022-05-29T05:20:04Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:20:04Z: PLAYER CHATTED [  616764614] packman7rules2       (   18.9,     3.6,    36.9)
+  VC squad-1
+2022-05-29T05:20:05Z: PLAYER REMOVED [ 3142648476] LOLTROLLING113
+2022-05-29T05:20:05Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (    5.3,     3.6,    36.2)
+  Interns.
+2022-05-29T05:20:10Z: PLAYER CHATTED [  616764614] packman7rules2       (   18.9,     3.6,    36.9)
+  Yes?
+2022-05-29T05:20:11Z: PLAYER CHATTED [  132177857] adam5212d            (  -27.7,     3.3,   -85.9)
+  At this point i just start shooting him.
+2022-05-29T05:20:12Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -110.5)
+  uhh
+2022-05-29T05:20:13Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -110.5)
+  what group
+2022-05-29T05:20:18Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   10.5,     3.6,    35.5)
+  Give 0002 candy if you encounter him.
+2022-05-29T05:20:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.0)
+  ASync.
+2022-05-29T05:20:18Z: CHRCTER ADDED  [   75473524] Mike_Developer       ( -712.5,    10.3,   843.5)
+2022-05-29T05:20:19Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:20:20Z: PLAYER ADDED   [ 3177520471] Panditayombajo173
+2022-05-29T05:20:23Z: PLAYER REMOVED [  498081906] kuchka_zolota
+2022-05-29T05:20:23Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -35.7,     3.2,  -111.1)
+  I saw one of those things out there
+2022-05-29T05:20:23Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -29.7,     3.2,  -109.5)
+  They're noclip this room?
+2022-05-29T05:20:24Z: PLAYER CHATTED [  616764614] packman7rules2       (   18.9,     3.6,    36.9)
+  Fair
+2022-05-29T05:20:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  452.1,     3.6,   541.5)
+  Nice body.
+2022-05-29T05:20:25Z: CHRCTER ADDED  [   75473524] Mike_Developer       ( -712.5,    11.2,   843.0)
+2022-05-29T05:20:29Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.8,     3.2,  -101.3)
+  You can be a survivor while being in ASync, too.
+2022-05-29T05:20:30Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.2,     3.2,  -102.3)
+  Who wanted a crash bar?
+2022-05-29T05:20:30Z: PLAYER CHATTED [  616764614] packman7rules2       (   18.0,     3.6,    40.1)
+  We do need a security with us for this.
+2022-05-29T05:20:31Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -110.5)
+  the roblox group?
+2022-05-29T05:20:34Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -29.7,     3.2,  -109.5)
+  ME
+2022-05-29T05:20:36Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  Jackle.
+2022-05-29T05:20:40Z: PLAYER ADDED   [ 2659051452] Jacobn26003
+2022-05-29T05:20:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.2)
+  And #########
+2022-05-29T05:20:40Z: PLAYER REMOVED [ 3177520471] Panditayombajo173
+2022-05-29T05:20:41Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -27.5,     3.2,  -106.8)
+  NOOOOO
+2022-05-29T05:20:42Z: PLAYER CHATTED [  132177857] adam5212d            (  -35.9,     3.2,  -103.1)
+  .
+2022-05-29T05:20:43Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -100.8)
+  Yes
+2022-05-29T05:20:43Z: PLAYER CHATTED [  132177857] adam5212d            (  -35.9,     3.2,  -103.1)
+  .
+2022-05-29T05:20:44Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -28.2,     3.2,  -107.8)
+  IT MINE
+2022-05-29T05:20:44Z: PLAYER CHATTED [   74014069] Grim_Dev200          (    3.4,     3.6,    46.1)
+  ok.
+2022-05-29T05:20:45Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -109.7)
+  oh
+2022-05-29T05:20:45Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.3,     3.2,  -111.3)
+  so teh dude holding the cube is called
+2022-05-29T05:20:48Z: PLAYER CHATTED [  132177857] adam5212d            (  -34.1,     3.2,  -102.3)
+  Follow me.
+2022-05-29T05:20:49Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -31.8,     3.2,  -112.7)
+  You can have it
+2022-05-29T05:20:51Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.3,     3.2,  -111.3)
+  jhonny the warden
+2022-05-29T05:20:51Z: PLAYER ADDED   [    8775256] NIMPOS
+2022-05-29T05:20:51Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -100.8)
+  That will give you more access in the dizzy too, I think
+2022-05-29T05:20:51Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -31.8,     3.2,  -112.7)
+  im nice
+2022-05-29T05:20:52Z: PLAYER REMOVED [ 3322077719] ianfer1530
+2022-05-29T05:20:54Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -25.9,     3.2,  -107.2)
+  GIVE ME BACK
+2022-05-29T05:20:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  450.5,     3.6,   545.5)
+  What is Wealthy doing here?
+2022-05-29T05:20:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -100.8)
+  Oh, quick note.
+2022-05-29T05:20:57Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.2,     3.2,  -107.8)
+  oh
+2022-05-29T05:21:00Z: PLAYER CHATTED [  317387063] Thecokegod2          (   15.9,     3.6,    28.9)
+  thanks
+2022-05-29T05:21:03Z: PLAYER CHATTED [  185356473] KiiingDavid          (  447.9,     3.6,   538.5)
+  No idea
+2022-05-29T05:21:05Z: PLAYER ADDED   [ 3322077719] ianfer1530
+2022-05-29T05:21:06Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.2,  -103.4)
+  Dont
+2022-05-29T05:21:07Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.6,     3.2,  -108.9)
+  ive already joined it but how do i know if i have more access
+2022-05-29T05:21:07Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Don't type in super long sentences.
+2022-05-29T05:21:07Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.2,  -103.4)
+  shoot 
+2022-05-29T05:21:07Z: PLAYER CHATTED [  571069062] WanitingBuilders     (   20.1,     3.2,  -105.8)
+  Yes
+2022-05-29T05:21:09Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.2,  -103.4)
+  me
+2022-05-29T05:21:09Z: PLAYER CHATTED [ 1360720285] preyIess             (   21.2,     3.2,  -112.7)
+  me want
+2022-05-29T05:21:10Z: CHRCTER ADDED  [ 2047094697] angleflute           ( -115.3,     3.4,  -225.9)
+2022-05-29T05:21:10Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.2,  -103.4)
+  im
+2022-05-29T05:21:11Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  The game will kick you if they're too long.
+2022-05-29T05:21:12Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -25.3,     3.2,  -103.4)
+  cool
+2022-05-29T05:21:12Z: PLAYER CHATTED [ 1360720285] preyIess             (   20.1,     3.2,  -114.0)
+  yay
+2022-05-29T05:21:15Z: PLAYER REMOVED [ 2659051452] Jacobn26003
+2022-05-29T05:21:15Z: PLAYER CHATTED [ 1360720285] preyIess             (   20.1,     3.2,  -114.0)
+  yum
+2022-05-29T05:21:15Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.3,     3.2,  -107.3)
+  oh wow
+2022-05-29T05:21:16Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -25.3,     3.2,  -107.3)
+  ok
+2022-05-29T05:21:20Z: CHRCTER ADDED  [ 1059131113] ThanosIsAC00N        (  215.6,    56.1,   229.7)
+2022-05-29T05:21:21Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -30.7,     3.2,  -107.5)
+  sir i found the warden name
+2022-05-29T05:21:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  450.5,     3.6,   545.5)
+  Is the yellow team supposed to be the monsters?
+2022-05-29T05:21:24Z: PLAYER ADDED   [ 1188337785] GuilhermeFerrari2019
+2022-05-29T05:21:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  450.2,     3.6,   548.3)
+  I'm new here.
+2022-05-29T05:21:33Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.8,     3.2,  -108.0)
+  i see the entitys 
+2022-05-29T05:21:34Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.9,     3.2,  -106.4)
+  johnny, the Warden
+2022-05-29T05:21:36Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.8,     3.2,  -108.0)
+  not the pictures
+2022-05-29T05:21:36Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.8,     3.2,  -108.0)
+  but 
+2022-05-29T05:21:39Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.8,     3.2,  -108.0)
+  just the different types
+2022-05-29T05:21:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -101.1)
+  Ah.
+2022-05-29T05:21:40Z: CHRCTER ADDED  [ 2047094697] angleflute           (   26.8,    58.2,  -186.7)
+2022-05-29T05:21:42Z: PLAYER REMOVED [ 3525336325] pizza72221
+2022-05-29T05:21:43Z: PLAYER ADDED   [ 2242541959] prety123prety
+2022-05-29T05:21:45Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.8,     3.2,  -108.0)
+  it says the smiler got suspended
+2022-05-29T05:21:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -101.1)
+  There should be a survival guide.
+2022-05-29T05:21:48Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -101.1)
+  That should have one.
+2022-05-29T05:21:50Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -57.5,     3.6,    39.2)
+  Quit trolling.
+2022-05-29T05:21:52Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -23.0,     3.2,  -114.1)
+  I ran into one of those things earlier
+2022-05-29T05:21:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  449.4,     3.6,   547.0)
+  Hi.
+2022-05-29T05:21:56Z: CHRCTER ADDED  [ 2047094697] angleflute           ( -110.9,     3.4,   -89.1)
+2022-05-29T05:21:56Z: CHRCTER ADDED  [ 2047094697] angleflute           ( -110.9,     3.4,   -89.1)
+2022-05-29T05:21:57Z: CHRCTER ADDED  [ 1828608493] StandUprightRightUp  (  321.0,     6.0,   768.2)
+2022-05-29T05:21:57Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -26.8,     3.2,  -108.5)
+  Hmm
+2022-05-29T05:21:59Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -23.0,     3.2,  -114.1)
+  I was right it front of it
+2022-05-29T05:22:00Z: PLAYER REMOVED [ 1828608493] StandUprightRightUp
+2022-05-29T05:22:00Z: PLAYER ADDED   [ 2659051452] Jacobn26003
+2022-05-29T05:22:02Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.1,     3.2,  -107.0)
+  who is AIDEN
+2022-05-29T05:22:06Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -23.0,     3.2,  -114.1)
+  And it didn't chase me for some reason
+2022-05-29T05:22:07Z: PLAYER CHATTED [  132177857] adam5212d            (  -18.4,     3.2,  -109.3)
+  I saw the smiler in security tryout.
+2022-05-29T05:22:08Z: PLAYER CHATTED [  616764614] packman7rules2       (  -67.2,     3.6,    35.6)
+  Cease thine trolling.
+2022-05-29T05:22:08Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.1,     3.2,  -107.0)
+  4 arms
+2022-05-29T05:22:12Z: CHRCTER ADDED  [ 2855018611] mathphs201217        (  322.7,     6.0,   770.9)
+2022-05-29T05:22:13Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.1,     3.2,  -107.0)
+  and a weird robotic eye
+2022-05-29T05:22:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   434.8)
+  Found you again!
+2022-05-29T05:22:20Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -102.3)
+  That's a friendly entity.
+2022-05-29T05:22:21Z: PLAYER CHATTED [ 2047094697] angleflute           (  -16.0,     3.3,   -88.5)
+  I havent
+2022-05-29T05:22:23Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.1,     3.2,  -107.1)
+  oh
+2022-05-29T05:22:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.9)
+  Jump if you can't chat.
+2022-05-29T05:22:24Z: PLAYER CHATTED [  132177857] adam5212d            (  -33.7,     3.3,   -87.1)
+  ?
+2022-05-29T05:22:27Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.5,     3.2,  -112.2)
+  why is there
+2022-05-29T05:22:27Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -56.4,     3.6,    49.8)
+  packman go pack him 
+2022-05-29T05:22:27Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel."
+2022-05-29T05:22:28Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.5,     3.2,  -112.2)
+  only 1 smiler
+2022-05-29T05:22:29Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.2)
+  Don't hesitate to ask it for help.
+2022-05-29T05:22:31Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -60.1,     3.6,    49.3)
+  Go smoke his pack 
+2022-05-29T05:22:35Z: PLAYER REMOVED [ 2659051452] Jacobn26003
+2022-05-29T05:22:36Z: PLAYER CHATTED [ 2047094697] angleflute           (  -16.0,     3.3,   -88.5)
+  ive seen party goers though in training earlier
+2022-05-29T05:22:36Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channels B0-100 available.."
+2022-05-29T05:22:39Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.9,     3.2,  -104.5)
+  Help
+2022-05-29T05:22:43Z: PLAYER REMOVED [ 2855018611] mathphs201217
+2022-05-29T05:22:45Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Recommended channels.."
+2022-05-29T05:22:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Channel B0-100.
+2022-05-29T05:22:45Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -27.5,     3.2,  -108.6)
+  Which most dangerous for entity?
+2022-05-29T05:22:46Z: PLAYER ADDED   [ 2873362493] tude2379
+2022-05-29T05:22:47Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.5,     3.3,   -87.2)
+  Hmm...
+2022-05-29T05:22:47Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B0."
+2022-05-29T05:22:48Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.5,     3.2,  -107.0)
+  the bacteria entity dont look so friednly
+2022-05-29T05:22:51Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ####
+2022-05-29T05:22:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  I'll choose channel B0-100.
+2022-05-29T05:22:53Z: PLAYER REMOVED [ 2242541959] prety123prety
+2022-05-29T05:22:54Z: PLAYER ADDED   [ 2793764786] MartinyTata2021
+2022-05-29T05:22:55Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.6,     3.2,  -102.0)
+  0001 in general.
+2022-05-29T05:22:55Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B1."
+2022-05-29T05:22:55Z: PLAYER CHATTED [  132177857] adam5212d            (  -32.5,     3.3,   -87.2)
+  Im gonna go look at pictures of the entities.
+2022-05-29T05:22:57Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.6,     3.2,  -102.0)
+  Given their natures.
+2022-05-29T05:22:57Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  .
+2022-05-29T05:22:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  No.
+2022-05-29T05:22:59Z: PLAYER ADDED   [ 1514390346] kidvarga
+2022-05-29T05:23:00Z: PLAYER CHATTED [ 2047094697] angleflute           (  -17.3,     3.3,   -89.9)
+  ok
+2022-05-29T05:23:00Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B5."
+2022-05-29T05:23:03Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  HELP
+2022-05-29T05:23:03Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  PLS
+2022-05-29T05:23:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  You said B0-100 was available.
+2022-05-29T05:23:05Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B11."
+2022-05-29T05:23:06Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  They aren't.
+2022-05-29T05:23:09Z: PLAYER CHATTED [ 2047094697] angleflute           (  -17.3,     3.3,   -89.9)
+  Ima go to KV viewing area
+2022-05-29T05:23:10Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  OPEN IT QUICK
+2022-05-29T05:23:10Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  They're pretty much always hostile.
+2022-05-29T05:23:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  I'd like to choose that one.
+2022-05-29T05:23:11Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B22.."
+2022-05-29T05:23:12Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  ILL RUN THROUGH
+2022-05-29T05:23:14Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  PLS
+2022-05-29T05:23:14Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  If you see them, try to avoid them.
+2022-05-29T05:23:16Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.6,     3.2,  -106.3)
+  ok
+2022-05-29T05:23:17Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   44.3,     3.6,    31.2)
+  PLS OPEN
+2022-05-29T05:23:17Z: CHRCTER ADDED  [ 1514390346] kidvarga             ( -115.3,     3.4,  -225.9)
+2022-05-29T05:23:17Z: CHRCTER ADDED  [ 1514390346] kidvarga             ( -115.3,     3.4,  -225.9)
+2022-05-29T05:23:17Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  Note that they can't see.
+2022-05-29T05:23:20Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B0-100 does not exist."
+2022-05-29T05:23:22Z: PLAYER CHATTED [ 2047094697] angleflute           (  -17.3,     3.3,   -89.9)
+  and not go out into backrooms cause that some stupid crap
+2022-05-29T05:23:25Z: PLAYER REMOVED [ 3322077719] ianfer1530
+2022-05-29T05:23:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  You just said it does.
+2022-05-29T05:23:28Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   15.7,     3.6,    26.0)
+  phew
+2022-05-29T05:23:28Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -32.0,     3.2,  -106.4)
+  so if i dont move they will go away
+2022-05-29T05:23:29Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channels B0-100 available."
+2022-05-29T05:23:31Z: PLAYER REMOVED [ 2793764786] MartinyTata2021
+2022-05-29T05:23:32Z: PLAYER REMOVED [  185356473] KiiingDavid
+2022-05-29T05:23:37Z: PLAYER CHATTED [  317387063] Thecokegod2          (    8.3,     3.6,    25.6)
+  It knew what you did it it
+2022-05-29T05:23:37Z: PLAYER CHATTED [ 1305830811] MuPoH89              (   -8.2,     3.2,  -117.0)
+  can come out
+2022-05-29T05:23:38Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -22.5,     3.2,  -108.5)
+  Most of them will.
+2022-05-29T05:23:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Good.
+2022-05-29T05:23:40Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Recommended channels.."
+2022-05-29T05:23:41Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B0."
+2022-05-29T05:23:41Z: PLAYER CHATTED [  317387063] Thecokegod2          (    8.1,     3.6,    25.5)
+  it's brother
+2022-05-29T05:23:46Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B1."
+2022-05-29T05:23:48Z: PLAYER CHATTED [ 2361327414] Sw0rdFit             (   15.2,     3.6,    24.7)
+  w
+2022-05-29T05:23:49Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -32.1,     3.2,  -106.4)
+  gremloid looks friendly
+2022-05-29T05:23:51Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -17.2,     3.2,  -110.9)
+  Please stop that.
+2022-05-29T05:23:51Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B5."
+2022-05-29T05:23:53Z: PLAYER CHATTED [  317387063] Thecokegod2          (    9.4,     3.6,    25.9)
+  you packed him out over therw
+2022-05-29T05:23:54Z: PLAYER CHATTED [  317387063] Thecokegod2          (    9.4,     3.6,    25.9)
+  there
+2022-05-29T05:23:54Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -18.7,     3.2,  -106.6)
+  WHY
+2022-05-29T05:23:55Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.4,     3.2,  -111.1)
+  hey
+2022-05-29T05:23:55Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -27.2,     3.6,    37.3)
+  Aye.
+2022-05-29T05:23:56Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B11."
+2022-05-29T05:23:57Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:23:58Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.5,     3.2,  -104.4)
+  Its fun
+2022-05-29T05:23:58Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.4,     3.2,  -111.1)
+  are any entitys online?
+2022-05-29T05:23:59Z: PLAYER CHATTED [  317387063] Thecokegod2          (    9.4,     3.6,    25.9)
+  Mans still folded over
+2022-05-29T05:23:59Z: CHRCTER ADDED  [ 1305830811] MuPoH89              (   28.5,    58.2,  -187.6)
+2022-05-29T05:23:59Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -27.2,     3.6,    37.3)
+  You need your suit on.
+2022-05-29T05:23:59Z: PLAYER CHATTED [ 2047094697] angleflute           (  -26.7,     3.8,    24.7)
+  sup
+2022-05-29T05:24:00Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.4,     3.2,  -101.2)
+  I don't like it.
+2022-05-29T05:24:00Z: CHRCTER ADDED  [   75473524] Mike_Developer       ( -712.5,    10.5,   843.5)
+2022-05-29T05:24:00Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B22."
+2022-05-29T05:24:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  I'm good with B0-100.
+2022-05-29T05:24:03Z: PLAYER REMOVED [ 1514390346] kidvarga
+2022-05-29T05:24:04Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -102.0)
+  I am not sure.
+2022-05-29T05:24:04Z: PLAYER ADDED   [ 3566931460] Umbrellazaid
+2022-05-29T05:24:05Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B55."
+2022-05-29T05:24:05Z: PLAYER ADDED   [ 1514390346] kidvarga
+2022-05-29T05:24:06Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.7,     3.2,  -111.6)
+  oh
+2022-05-29T05:24:07Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -23.0,     3.2,  -114.7)
+  I saw one
+2022-05-29T05:24:07Z: PLAYER CHATTED [ 2047094697] angleflute           (  -27.5,     3.5,    17.6)
+  ?
+2022-05-29T05:24:08Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.2,     3.2,  -105.2)
+  Please
+2022-05-29T05:24:08Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -102.3)
+  I did hear one earlier.
+2022-05-29T05:24:09Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B66."
+2022-05-29T05:24:09Z: PLAYER CHATTED [  132177857] adam5212d            (   -3.8,     3.6,    47.8)
+  .
+2022-05-29T05:24:11Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -25.0,     3.6,    18.8)
+  Cmere.
+2022-05-29T05:24:11Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.2,     3.2,  -105.2)
+  Thanls
+2022-05-29T05:24:13Z: CHRCTER ADDED  [ 1305830811] MuPoH89              ( -555.6,     6.2,   732.4)
+2022-05-29T05:24:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Not B69?
+2022-05-29T05:24:17Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B77."
+2022-05-29T05:24:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Nice.
+2022-05-29T05:24:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.8,     3.2,  -101.6)
+  Cease.
+2022-05-29T05:24:22Z: PLAYER CHATTED [ 2047094697] angleflute           (  -10.9,     3.3,   -70.2)
+  It says I have suit
+2022-05-29T05:24:22Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -111.7)
+  ahhh
+2022-05-29T05:24:23Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B100."
+2022-05-29T05:24:24Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -28.0,     3.2,  -111.2)
+  I only got killed by entity
+2022-05-29T05:24:25Z: CHRCTER ADDED  [    8775256] NIMPOS               ( -115.3,     3.4,  -225.9)
+2022-05-29T05:24:25Z: CHRCTER ADDED  [    8775256] NIMPOS               ( -115.3,     3.4,  -225.9)
+2022-05-29T05:24:25Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -19.1,     3.2,  -105.5)
+  I saw one earlier
+2022-05-29T05:24:27Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -111.7)
+  i still havent seen a picture
+2022-05-29T05:24:27Z: PLAYER CHATTED [ 2047094697] angleflute           (  -12.9,     3.3,   -74.2)
+  but ok
+2022-05-29T05:24:28Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.4,     3.6,    24.7)
+  I think we should open every single door
+2022-05-29T05:24:29Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel."
+2022-05-29T05:24:30Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -111.7)
+  ok well
+2022-05-29T05:24:31Z: CHRCTER ADDED  [ 1514390346] kidvarga             (  521.3,     5.7,   479.6)
+2022-05-29T05:24:35Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.4,     3.6,    24.7)
+  I swear that it will help ys
+2022-05-29T05:24:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  B0-100 is my choice.
+2022-05-29T05:24:36Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.4,     3.6,    24.7)
+  us
+2022-05-29T05:24:38Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -29.7,     3.2,  -106.8)
+  please
+2022-05-29T05:24:38Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -111.7)
+  i guess ill just wait for the tryout for security
+2022-05-29T05:24:38Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -12.2,     3.3,   -88.9)
+  Hold F.
+2022-05-29T05:24:42Z: PLAYER CHATTED [ 2047094697] angleflute           (  -18.4,     3.3,   -89.3)
+  kk
+2022-05-29T05:24:43Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.0)
+  Some of the entities are relatively easy to avoid
+2022-05-29T05:24:44Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -109.5)
+  can you be a survivor if you get into security?
+2022-05-29T05:24:45Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -19.1,     3.2,  -105.5)
+  I was atleast 5 feet away from it
+2022-05-29T05:24:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  That's the name of the channel.
+2022-05-29T05:24:47Z: PLAYER REMOVED [ 3566931460] Umbrellazaid
+2022-05-29T05:24:48Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B Zero through B One Hundred does not exist."
+2022-05-29T05:24:48Z: PLAYER CHATTED [  132177857] adam5212d            (  -15.8,     3.6,    54.2)
+  Spotted 0001.
+2022-05-29T05:24:50Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.3,     3.2,  -102.6)
+  I believe so.
+2022-05-29T05:24:51Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -22.7,     3.3,   -86.0)
+  There.
+2022-05-29T05:24:53Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.6,     3.2,  -108.0)
+  ah thats great
+2022-05-29T05:24:54Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel."
+2022-05-29T05:24:54Z: PLAYER CHATTED [ 2047094697] angleflute           (  -16.2,     3.3,   -88.8)
+  #
+2022-05-29T05:24:55Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -23.8,     3.3,   -89.4)
+  Now it's on.
+2022-05-29T05:24:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.7,     3.2,  -102.5)
+  So, my suggestion, as I was saying.
+2022-05-29T05:24:56Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.6,     3.2,  -108.0)
+  i had that problem in pathos
+2022-05-29T05:24:57Z: CHRCTER ADDED  [ 1514390346] kidvarga             (   35.6,    58.2,  -184.8)
+2022-05-29T05:24:57Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -19.1,     3.2,  -105.5)
+  It didn't give chase for some reason
+2022-05-29T05:25:04Z: PLAYER CHATTED [  132177857] adam5212d            (   17.0,     3.6,    24.5)
+  .
+2022-05-29T05:25:04Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -31.8,     3.0,  -101.7)
+  If it goes dark, then stay in a safe area.
+2022-05-29T05:25:08Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.2,  -104.9)
+  Like a survivor camp.
+2022-05-29T05:25:09Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.4,     3.2,  -112.1)
+  are there skinwalkers or whatever there called a entity in this game?
+2022-05-29T05:25:09Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.7,     3.2,  -109.0)
+  oh
+2022-05-29T05:25:12Z: PLAYER CHATTED [ 1305830811] MuPoH89              ( -470.1,     3.7,   535.4)
+  what
+2022-05-29T05:25:13Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.7,     3.2,  -109.0)
+  why?
+2022-05-29T05:25:13Z: PLAYER CHATTED [  317387063] Thecokegod2          (    9.7,     3.6,    29.0)
+  jit has the munchies
+2022-05-29T05:25:13Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.3,     3.2,  -100.7)
+  Skin stealers.
+2022-05-29T05:25:14Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.3,     3.2,  -100.7)
+  Not yet.
+2022-05-29T05:25:15Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -109.6)
+  oh
+2022-05-29T05:25:16Z: PLAYER CHATTED [  132177857] adam5212d            (   17.0,     3.6,    24.5)
+  Variant B
+2022-05-29T05:25:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  B0-B100 is NOT B0-100.
+2022-05-29T05:25:17Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -26.4,     3.2,  -112.1)
+  ok
+2022-05-29T05:25:18Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -109.6)
+  damn
+2022-05-29T05:25:20Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.6,     3.2,  -109.6)
+  in your opinion
+2022-05-29T05:25:21Z: PLAYER REMOVED [ 1514390346] kidvarga
+2022-05-29T05:25:22Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -31.4,     3.2,  -111.6)
+  Is there anything food and drinking?
+2022-05-29T05:25:23Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   13.7,     3.6,    26.5)
+  -A.
+2022-05-29T05:25:23Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.9,     3.2,  -112.4)
+  deathmoths?
+2022-05-29T05:25:24Z: PLAYER CHATTED [ 2047094697] angleflute           (  -55.3,     3.6,    25.8)
+  hold 
+2022-05-29T05:25:24Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.1,     3.2,  -104.0)
+  Because they can hear you in the dark.
+2022-05-29T05:25:27Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.1,     3.2,  -104.0)
+  But you can't see them.
+2022-05-29T05:25:30Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -28.2,     3.2,  -103.8)
+  Not yet.
+2022-05-29T05:25:30Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -70.6,     3.6,    31.9)
+  Angle, stay inside.
+2022-05-29T05:25:31Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   17.8,     3.6,    26.6)
+  Move-
+2022-05-29T05:25:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  You said that B0-100 exists,
+2022-05-29T05:25:32Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.4,     3.2,  -103.5)
+  Yes.
+2022-05-29T05:25:34Z: PLAYER CHATTED [   53741373] LuciusAquilla        (  -71.9,     3.6,    30.3)
+  This is an Expo.
+2022-05-29T05:25:34Z: PLAYER REMOVED [ 1360720285] preyIess
+2022-05-29T05:25:34Z: CHRCTER ADDED  [ 1188337785] GuilhermeFerrari2019 (  517.4,     5.7,   485.5)
+2022-05-29T05:25:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Then you said ti doesn't.
+2022-05-29T05:25:36Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (   16.5,     3.6,    32.8)
+  ?
+2022-05-29T05:25:36Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.4,     3.2,  -103.5)
+  There is food and water.
+2022-05-29T05:25:37Z: PLAYER CHATTED [ 2047094697] angleflute           (  -59.1,     3.7,    36.5)
+  good luck
+2022-05-29T05:25:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  *It.
+2022-05-29T05:25:39Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -29.4,     3.2,  -103.5)
+  Do you need any?
+2022-05-29T05:25:40Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -24.6,     3.2,  -111.1)
+  whats the #1 scariest entity #1 unscary entity and #1 most op / easy to die from entity
+2022-05-29T05:25:43Z: PLAYER CHATTED [  317387063] Thecokegod2          (    9.5,     3.6,    27.3)
+  did it just die too? 
+2022-05-29T05:25:47Z: PLAYER ADDED   [ 1360720285] preyIess
+2022-05-29T05:25:49Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.1,  -101.9)
+  Scariest?
+2022-05-29T05:25:50Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel B0 Through B100 does not exist."
+2022-05-29T05:25:52Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.3)
+  yes
+2022-05-29T05:25:54Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.3)
+  scariest and
+2022-05-29T05:25:54Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel."
+2022-05-29T05:25:54Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.2,  -101.9)
+  I'd say a howler or smiler.
+2022-05-29T05:25:55Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -30.7,     3.2,  -111.8)
+  How about almond
+2022-05-29T05:25:55Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.3)
+  most unscary
+2022-05-29T05:25:56Z: PLAYER CHATTED [  317387063] Thecokegod2          (   49.9,     3.6,    32.2)
+  Jit got folded
+2022-05-29T05:25:58Z: PLAYER CHATTED [ 2248811721] Xxpresident_obamaX   (   11.8,     3.6,    40.9)
+  get back in
+2022-05-29T05:25:59Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.5,     3.2,  -109.3)
+  why those?
+2022-05-29T05:26:00Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.2,  -101.9)
+  Least scary, radio crab.
+2022-05-29T05:26:00Z: CHRCTER ADDED  [ 1360720285] preyIess             ( -115.3,     3.4,  -225.9)
+2022-05-29T05:26:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  The dash is part of the name!
+2022-05-29T05:26:02Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -19.1,     3.2,  -105.5)
+  I saw a radio crab thing once
+2022-05-29T05:26:05Z: PLAYER ADDED   [ 1867574318] casestu4
+2022-05-29T05:26:06Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.2,  -101.9)
+  This is almond water.
+2022-05-29T05:26:06Z: PLAYER REMOVED [ 1188337785] GuilhermeFerrari2019
+2022-05-29T05:26:10Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.3,     3.2,  -101.9)
+  A canteen.
+2022-05-29T05:26:11Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -29.5,     3.2,  -106.2)
+  FOOD
+2022-05-29T05:26:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  My client mihght crash at any time!
+2022-05-29T05:26:17Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.1,     3.2,  -112.6)
+  ima just say somthing random from the backroom wiki
+2022-05-29T05:26:18Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -27.4,     3.2,  -100.3)
+  Need any?
+2022-05-29T05:26:20Z: PLAYER REMOVED [ 2533289808] scpgrty
+2022-05-29T05:26:23Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -26.9,     3.2,  -107.0)
+  Hell yes
+2022-05-29T05:26:24Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -16.2,     3.6,    54.4)
+  am i that good looking
+2022-05-29T05:26:24Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -34.0,     3.2,  -109.2)
+  I need it
+2022-05-29T05:26:26Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.7,     3.2,  -111.3)
+  Entity [[2]]: ####### / Class 5 / Rare; Level X
+2022-05-29T05:26:27Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -16.2,     3.6,    54.4)
+  had to snag a picture
+2022-05-29T05:26:34Z: PLAYER REMOVED [ 2361327414] Sw0rdFit
+2022-05-29T05:26:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Otherwise, let's do B13.
+2022-05-29T05:26:42Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:26:44Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -109.0)
+  i 
+2022-05-29T05:26:47Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -109.0)
+  where is the
+2022-05-29T05:26:48Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.8,     3.2,  -101.4)
+  Need food?
+2022-05-29T05:26:49Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.4,     3.2,  -109.0)
+  screenshots
+2022-05-29T05:26:49Z: CHRCTER ADDED  [ 1867574318] casestu4             ( -107.8,     3.4,  -110.0)
+2022-05-29T05:26:49Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -10.9,     3.6,    55.5)
+  this games fun 
+2022-05-29T05:26:50Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -19.1,     3.2,  -105.5)
+  So how far do the guys in hazmat suits go?
+2022-05-29T05:26:51Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.6,     3.2,  -101.5)
+  Oh.
+2022-05-29T05:26:53Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -110.2)
+  how do i know if i need food
+2022-05-29T05:26:54Z: PLAYER CHATTED [  317387063] Thecokegod2          (  -10.9,     3.6,    55.5)
+  but it makes me so damn tired
+2022-05-29T05:26:54Z: PLAYER REMOVED [ 1360720285] preyIess
+2022-05-29T05:26:56Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B13.."
+2022-05-29T05:26:57Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -110.2)
+  i dont see a hunger bar or anything
+2022-05-29T05:26:58Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.7,     3.2,  -111.3)
+  sir do smilers only stay in teh dark
+2022-05-29T05:26:58Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.6,     3.2,  -101.5)
+  Bottom right.
+2022-05-29T05:27:00Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (   17.8,     3.6,    37.4)
+  Get in.
+2022-05-29T05:27:01Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B13 selected.."
+2022-05-29T05:27:02Z: PLAYER ADDED   [ 1360720285] preyIess
+2022-05-29T05:27:02Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -110.2)
+  ???
+2022-05-29T05:27:03Z: PLAYER ADDED   [ 2893717832] scphose
+2022-05-29T05:27:03Z: PLAYER REMOVED [ 2893717832] scphose
+2022-05-29T05:27:04Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.7,     3.2,  -110.2)
+  nothing is there for me
+2022-05-29T05:27:09Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.6,     3.2,  -101.5)
+  Then you're fine.
+2022-05-29T05:27:09Z: PLAYER ADDED   [  115986830] Paradopu
+2022-05-29T05:27:11Z: PLAYER ADDED   [ 1286091434] Jaxson122613
+2022-05-29T05:27:11Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.2,     3.2,  -109.0)
+  oh ok
+2022-05-29T05:27:12Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.3,     3.2,  -104.9)
+  DONKEY
+2022-05-29T05:27:13Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -32.5,     3.2,  -108.7)
+  On camp there in others room
+2022-05-29T05:27:14Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -27.3,     3.2,  -104.9)
+  I NEED FOOD
+2022-05-29T05:27:14Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B13.."
+2022-05-29T05:27:15Z: CHRCTER ADDED  [ 1360720285] preyIess             (  211.1,    56.1,   232.1)
+2022-05-29T05:27:16Z: PLAYER CHATTED [  132177857] adam5212d            (  -21.6,     3.6,    42.2)
+  I wish i could endure that security tryout again.
+2022-05-29T05:27:16Z: PLAYER ADDED   [ 2893717832] scphose
+2022-05-29T05:27:17Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B13 playing."
+2022-05-29T05:27:19Z: PLAYER REMOVED [ 2873362493] tude2379
+2022-05-29T05:27:19Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.7,     3.2,  -100.8)
+  The information we have on smilers is very, very limited.
+2022-05-29T05:27:21Z: PLAYER CHATTED [ 2047094697] angleflute           (   16.6,     3.6,    29.4)
+  ...
+2022-05-29T05:27:24Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  You just ##### you don't need food.
+2022-05-29T05:27:30Z: PLAYER CHATTED [ 1867574318] casestu4             (  -28.4,     3.3,   -91.9)
+  OUT!
+2022-05-29T05:27:32Z: PLAYER CHATTED [  132177857] adam5212d            (   16.9,     3.6,    23.9)
+  Should we go look at it?
+2022-05-29T05:27:32Z: CHRCTER ADDED  [  115986830] Paradopu             (  217.0,    56.1,   225.9)
+2022-05-29T05:27:32Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.0,     3.2,  -110.8)
+  are hounds in teh game
+2022-05-29T05:27:33Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.3,     3.2,  -110.1)
+  huh?
+2022-05-29T05:27:33Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "B13 - A Wanderer's Tale."
+2022-05-29T05:27:35Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.2,     3.2,  -109.5)
+  theres a trello?
+2022-05-29T05:27:38Z: PLAYER CHATTED [  317387063] Thecokegod2          (   11.7,     3.6,    23.5)
+  we should go shoot it 
+2022-05-29T05:27:39Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:27:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Does this channel resonate on my mind-control frequency?
+2022-05-29T05:27:43Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -30.1,     3.2,  -114.9)
+  I saw the camera head thing
+2022-05-29T05:27:43Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Last known edit:
+2022-05-29T05:27:44Z: PLAYER CHATTED [  317387063] Thecokegod2          (   11.7,     3.6,    23.5)
+  make sure its done for
+2022-05-29T05:27:44Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.9,     3.2,  -100.9)
+  Hounds, not yet.
+2022-05-29T05:27:45Z: PLAYER CHATTED [ 2047094697] angleflute           (   13.4,     3.6,    32.4)
+  idk
+2022-05-29T05:27:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  I hope so.
+2022-05-29T05:27:47Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.9,     3.2,  -100.9)
+  There is.
+2022-05-29T05:27:48Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.4,     3.2,  -109.2)
+  wheres the trello
+2022-05-29T05:27:52Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  15 days ago."
+2022-05-29T05:27:53Z: PLAYER CHATTED [ 2248811721] Xxpresident_obamaX   (  -30.1,     3.3,   -92.7)
+  be wary when opening the door
+2022-05-29T05:27:53Z: PLAYER CHATTED [  132177857] adam5212d            (   16.8,     3.6,    24.0)
+  I think we should.
+2022-05-29T05:27:53Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -19.1,     3.3,  -160.5)
+  /e dance2
+2022-05-29T05:27:55Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -30.1,     3.2,  -114.9)
+  Don't really know if we have a name for it
+2022-05-29T05:27:56Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.0,     3.2,  -104.7)
+  Food
+2022-05-29T05:27:56Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.2,     3.2,  -101.2)
+  There's also a normal doc on the entities
+2022-05-29T05:27:57Z: CHRCTER ADDED  [ 1286091434] Jaxson122613         (  324.4,     6.6,   767.1)
+2022-05-29T05:27:57Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.0,     3.2,  -104.7)
+  now
+2022-05-29T05:27:58Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Playing entry."
+2022-05-29T05:27:59Z: PLAYER CHATTED [ 1867574318] casestu4             (  -18.3,     3.3,   -88.8)
+  I know.
+2022-05-29T05:28:00Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.8,     3.2,  -112.9)
+  ima say a random entity number if thats ok
+2022-05-29T05:28:00Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.2,     3.2,  -101.2)
+  You can find it in the survival guide
+2022-05-29T05:28:01Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -28.0,     3.2,  -104.7)
+  im starving
+2022-05-29T05:28:02Z: PLAYER CHATTED [ 1867574318] casestu4             (  -18.3,     3.3,   -88.8)
+   iwas going to warn him.
+2022-05-29T05:28:07Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.2,     3.2,  -101.2)
+  That's fine
+2022-05-29T05:28:07Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' I've been walking for days now.. '
+2022-05-29T05:28:09Z: CHRCTER ADDED  [  217617708] ChrisMacArthur       ( -115.3,     3.4,  -225.9)
+2022-05-29T05:28:12Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.3,     3.2,  -108.4)
+  uhh
+2022-05-29T05:28:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.8,     3.6,   435.7)
+  Can you follow me?
+2022-05-29T05:28:15Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -22.3,     3.2,  -108.4)
+  i dont see a survival guide
+2022-05-29T05:28:16Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -27.5,     3.2,  -109.0)
+  Entity 903: Voidling / Class Variable / The Void
+2022-05-29T05:28:17Z: PLAYER CHATTED [ 2047094697] angleflute           (   16.0,     3.6,    40.1)
+  nah bruh
+2022-05-29T05:28:17Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' I feel like something's watching me.. '
+2022-05-29T05:28:21Z: PLAYER CHATTED [ 2047094697] angleflute           (   18.5,     3.6,    37.6)
+  what you doing?
+2022-05-29T05:28:22Z: PLAYER ADDED   [ 3575191102] rayalon10
+2022-05-29T05:28:25Z: PLAYER CHATTED [  317387063] Thecokegod2          (   20.3,     5.8,    30.2)
+  go poke it with a stick
+2022-05-29T05:28:26Z: PLAYER CHATTED [  132177857] adam5212d            (   38.3,     3.6,    31.1)
+  Making sure its dead.
+2022-05-29T05:28:28Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' God I'm.. I'm really thirsty.. '
+2022-05-29T05:28:33Z: PLAYER REMOVED [ 1286091434] Jaxson122613
+2022-05-29T05:28:33Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' It.. hurts.. '
+2022-05-29T05:28:34Z: PLAYER CHATTED [ 2047094697] angleflute           (   15.1,     3.6,    34.1)
+  ok?
+2022-05-29T05:28:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  598.9,     3.7,   450.6)
+  Come when you're ready!
+2022-05-29T05:28:40Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.0)
+  Announcements-dev.
+2022-05-29T05:28:43Z: PLAYER CHATTED [ 1867574318] casestu4             (    8.9,     3.6,    30.1)
+  I have on two expoditions.
+2022-05-29T05:28:44Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.0)
+  That's where you'll find the trello.
+2022-05-29T05:28:46Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -24.0,     3.2,  -101.0)
+  Just scroll up.
+2022-05-29T05:28:46Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' They're so.. so.. so hungry! '
+2022-05-29T05:28:50Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.9,     3.2,  -109.6)
+  i see
+2022-05-29T05:28:51Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  ' HEL-
+2022-05-29T05:28:53Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.0,     3.6,    35.1)
+  tell my story 
+2022-05-29T05:28:53Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -33.5,     3.2,  -109.5)
+  How portal was created?
+2022-05-29T05:28:55Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Channel Disconnected."
+2022-05-29T05:28:55Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.0,     3.6,    35.1)
+  im going to bed
+2022-05-29T05:28:59Z: PLAYER REMOVED [ 3575191102] rayalon10
+2022-05-29T05:29:00Z: PLAYER CHATTED [  317387063] Thecokegod2          (   -3.0,     3.6,    35.1)
+  adios
+2022-05-29T05:29:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  608.6,     3.6,   430.6)
+  No!
+2022-05-29T05:29:02Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -30.1,     3.2,  -110.6)
+  are the entity that are humans with weird faces called like blurrs?
+2022-05-29T05:29:02Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel."
+2022-05-29T05:29:03Z: PLAYER REMOVED [  317387063] Thecokegod2
+2022-05-29T05:29:03Z: PLAYER REMOVED [  164726968] DIP3333
+2022-05-29T05:29:08Z: PLAYER ADDED   [ 2208691988] Vhastnom_yt
+2022-05-29T05:29:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  607.6,     3.6,   427.2)
+  I recommend B0-100
+2022-05-29T05:29:16Z: CHRCTER ADDED  [ 2893717832] scphose              (  216.3,    56.1,   223.6)
+2022-05-29T05:29:16Z: PLAYER ADDED   [ 3020444888] theplantofdead
+2022-05-29T05:29:21Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  Not sure what that one is.
+2022-05-29T05:29:24Z: PLAYER ADDED   [ 3025414688] imppstj2
+2022-05-29T05:29:25Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  Oh, the ones with no faces?
+2022-05-29T05:29:28Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  No, not yet anyways.
+2022-05-29T05:29:32Z: PLAYER CHATTED [  616764614] packman7rules2       (  601.6,     3.6,   434.9)
+  Is 0001 ballin?
+2022-05-29T05:29:33Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.9,     3.2,  -109.6)
+  huh
+2022-05-29T05:29:35Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -38.1,     3.8,    43.0)
+  Intern.
+2022-05-29T05:29:36Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.2,     3.2,  -110.0)
+  weird designs
+2022-05-29T05:29:36Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -30.1,     3.2,  -110.6)
+  its a human entity with a blurred face
+2022-05-29T05:29:41Z: CHRCTER ADDED  [   75473524] Mike_Developer       (    0.0,   103.0,     0.0)
+2022-05-29T05:29:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  608.5,     3.6,   427.5)
+  I guess so.
+2022-05-29T05:29:43Z: CHRCTER ADDED  [   75473524] Mike_Developer       ( -712.5,    10.5,   843.5)
+2022-05-29T05:29:44Z: PLAYER CHATTED [ 2047094697] angleflute           (  -54.8,     3.6,    35.0)
+  Yes?
+2022-05-29T05:29:45Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Select a channel."
+2022-05-29T05:29:50Z: PLAYER REMOVED [ 1059131113] ThanosIsAC00N
+2022-05-29T05:29:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  608.5,     3.6,   427.5)
+  I only saw channel B13.
+2022-05-29T05:29:51Z: PLAYER ADDED   [ 1901212800] csp3783
+2022-05-29T05:29:51Z: PLAYER CHATTED [  616764614] packman7rules2       (  601.6,     3.6,   434.9)
+  B-1.
+2022-05-29T05:29:52Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -55.2,     3.6,    43.5)
+  Hop on VC APEX.
+2022-05-29T05:29:58Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -30.4,     3.3,  -162.3)
+  Nice, I got an MRE.
+2022-05-29T05:29:59Z: PLAYER CHATTED [ 2047094697] angleflute           (  -55.7,     3.6,    38.6)
+  Got it
+2022-05-29T05:29:59Z: CHRCTER ADDED  [ 3020444888] theplantofdead       (  218.1,    56.1,   226.3)
+2022-05-29T05:29:59Z: CHRCTER ADDED  [ 3020444888] theplantofdead       (  213.1,    56.1,   224.6)
+2022-05-29T05:29:59Z: CHRCTER ADDED  [ 3020444888] theplantofdead       (  210.8,    56.1,   229.8)
+2022-05-29T05:30:00Z: CHRCTER ADDED  [ 3020444888] theplantofdead       (  520.7,     5.7,   476.8)
+2022-05-29T05:30:00Z: PLAYER CHATTED [  130679748] SomeOtherGuyRB       (  -28.4,     3.2,  -119.7)
+  I wonder how far the hazmat dudes go
+2022-05-29T05:30:01Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -29.3,     3.3,  -146.8)
+  i can give a description
+2022-05-29T05:30:05Z: PLAYER CHATTED [  571069062] WanitingBuilders     (  -23.7,     3.3,  -155.2)
+  About hamburger around here
+2022-05-29T05:30:08Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Exploitation detected.."
+2022-05-29T05:30:11Z: CHRCTER ADDED  [ 2208691988] Vhastnom_yt          (  519.4,     5.7,   482.5)
+2022-05-29T05:30:11Z: CHRCTER ADDED  [ 2208691988] Vhastnom_yt          ( -554.9,     6.2,   735.5)
+2022-05-29T05:30:12Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -25.8,     3.2,  -117.1)
+  all i know about that entity
+2022-05-29T05:30:12Z: PLAYER ADDED   [   45340462] chap799
+2022-05-29T05:30:14Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.4,     3.2,  -106.2)
+  ok
+2022-05-29T05:30:15Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -100.9)
+  Go ahead.
+2022-05-29T05:30:17Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  602.8,     2.9,   428.2)
+  "Please select a channel!" 
+2022-05-29T05:30:17Z: PLAYER CHATTED [ 1305830811] MuPoH89              (   54.6,     3.6,    32.9)
+  his kiIIed
+2022-05-29T05:30:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  609.1,     3.6,   427.1)
+  Not 'exploiting'?
+2022-05-29T05:30:19Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -100.9)
+  I can't restrict your speech.
+2022-05-29T05:30:21Z: PLAYER CHATTED [ 2749203869] IlIFIA_ECHOIlI       (   23.6,     3.7,    36.6)
+  Come.
+2022-05-29T05:30:27Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -20.3,     3.2,  -108.8)
+  Please stop doing that, Chris.
+2022-05-29T05:30:28Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.7,     3.2,  -111.9)
+  so
+2022-05-29T05:30:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  610.5,     3.6,   426.3)
+  Hi!
+2022-05-29T05:30:29Z: PLAYER CHATTED [  217617708] ChrisMacArthur       (  -36.4,     3.2,  -108.5)
+  Sorry man
+2022-05-29T05:30:31Z: PLAYER ADDED   [  323165256] balakobis09
+2022-05-29T05:30:31Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.5,     3.2,  -101.1)
+  Go ahead.
+2022-05-29T05:30:31Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.7,     3.2,  -111.9)
+  why was i brought here
+2022-05-29T05:30:32Z: PLAYER CHATTED [  616764614] packman7rules2       (  601.9,     3.6,   436.3)
+  Hm.
+2022-05-29T05:30:32Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -23.7,     3.2,  -111.9)
+  anyways
+2022-05-29T05:30:35Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -32.3,     3.2,  -109.4)
+  its a human entity with a blurred face and the adults are friendly-ish but the children are deadly for what i know
+2022-05-29T05:30:35Z: PLAYER CHATTED [   74014069] Grim_Dev200          (  605.9,     3.6,   448.4)
+  DONT MOVE
+2022-05-29T05:30:37Z: CHRCTER ADDED  [   45340462] chap799              (  513.7,     5.7,   483.4)
+2022-05-29T05:30:41Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.9,     3.2,  -101.5)
+  For your safety.
+2022-05-29T05:30:44Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.0,     3.2,  -110.3)
+  Nah
+2022-05-29T05:30:44Z: PLAYER CHATTED [ 2047094697] angleflute           (  -56.7,     3.6,    37.7)
+  I cant get on VC apex
+2022-05-29T05:30:45Z: PLAYER CHATTED [    8775256] NIMPOS               (  -32.1,     3.2,  -115.1)
+  hes doing a little trolling
+2022-05-29T05:30:46Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.0,     3.2,  -110.3)
+  Let me back out
+2022-05-29T05:30:49Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -56.5,     3.6,    47.5)
+  ??
+2022-05-29T05:30:50Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.1,     3.2,  -101.5)
+  No can do.
+2022-05-29T05:30:50Z: PLAYER REMOVED [ 3020444888] theplantofdead
+2022-05-29T05:30:53Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.0,     3.2,  -110.3)
+  appreciate all the info and help
+2022-05-29T05:30:54Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.1,     3.2,  -101.5)
+  You know too much.
+2022-05-29T05:30:54Z: PLAYER CHATTED [ 3225295236] jackle2342546        (  -28.3,     3.2,  -112.3)
+  did my sentence get cut off?
+2022-05-29T05:30:56Z: PLAYER CHATTED [ 2047094697] angleflute           (  -56.7,     3.6,    37.7)
+  I cant view it
+2022-05-29T05:30:57Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -25.1,     3.2,  -103.0)
+  Yes
+2022-05-29T05:30:58Z: PLAYER CHATTED [ 2032740998] WealthyEthereal      (  603.8,     2.9,   347.0)
+  "Exploiting confirmed!"
+2022-05-29T05:30:59Z: PLAYER CHATTED [ 1300794398] MIHAI44783           (  -56.5,     3.6,    47.5)
+  Squad 2..
+2022-05-29T05:31:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  603.0,     3.6,   357.3)
+  Can I carry you?
+2022-05-29T05:31:00Z: PLAYER CHATTED [  169854262] epicpotatoes444      (  -21.0,     3.2,  -110.2)
+  and i like that they let you talk to people
+2022-05-29T05:31:01Z: PLAYER CHATTED [   52753115] Deathlyghostreaperi  (  -23.7,     3.2,  -102.3)
+  May you repeat it?
+2022-05-29T05:31:04Z: CHRCTER ADDED  [ 1305830811] MuPoH89              (   29.2,    58.2,  -183.0)
+2022-05-29T05:31:10Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-29T05:31:10Z: PLAYER REMOVED [  132177857] adam5212d
+2022-05-29T05:31:10Z: PLAYER REMOVED [  130679748] SomeOtherGuyRB
+2022-05-29T05:31:10Z: PLAYER REMOVED [   53741373] LuciusAquilla
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 1305830811] MuPoH89
+2022-05-29T05:31:10Z: PLAYER REMOVED [   52753115] Deathlyghostreaperi
+2022-05-29T05:31:10Z: PLAYER REMOVED [   14072529] DendonSin
+2022-05-29T05:31:10Z: PLAYER REMOVED [  217617708] ChrisMacArthur
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2248811721] Xxpresident_obamaX
+2022-05-29T05:31:10Z: PLAYER REMOVED [  134915701] IWraithSinI
+2022-05-29T05:31:10Z: PLAYER REMOVED [  571069062] WanitingBuilders
+2022-05-29T05:31:10Z: PLAYER REMOVED [   75473524] Mike_Developer
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 1300794398] MIHAI44783
+2022-05-29T05:31:10Z: PLAYER REMOVED [  169854262] epicpotatoes444
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2032740998] WealthyEthereal
+2022-05-29T05:31:10Z: PLAYER REMOVED [  616764614] packman7rules2
+2022-05-29T05:31:10Z: PLAYER REMOVED [   74014069] Grim_Dev200
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2749203869] IlIFIA_ECHOIlI
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 3225295236] jackle2342546
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2047094697] angleflute
+2022-05-29T05:31:10Z: PLAYER REMOVED [    8775256] NIMPOS
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 1867574318] casestu4
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 1360720285] preyIess
+2022-05-29T05:31:10Z: PLAYER REMOVED [  115986830] Paradopu
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2893717832] scphose
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 2208691988] Vhastnom_yt
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 3025414688] imppstj2
+2022-05-29T05:31:10Z: PLAYER REMOVED [ 1901212800] csp3783
+2022-05-29T05:31:10Z: PLAYER REMOVED [   45340462] chap799
+2022-05-29T05:31:10Z: PLAYER REMOVED [  323165256] balakobis09
+2022-05-29T05:31:10Z: CHAT STREAM SUCCESSFULLY ENDED

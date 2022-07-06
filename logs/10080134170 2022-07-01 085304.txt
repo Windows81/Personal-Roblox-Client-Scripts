@@ -1,0 +1,302 @@
+[    1630228] : [10080134170] A Blockate World. - f3cef64d-4454-467e-8d43-bfadf3d9bce4
+2022-07-01T08:53:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-01T08:53:05Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-01T08:53:05Z: PLAYER ADDED   [ 3632216615] J4GB1
+2022-07-01T08:53:05Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-07-01T08:53:05Z: PLAYER ADDED   [ 2273628636] FreakFrostGaming
+2022-07-01T08:53:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.0,    20.0,    -0.0)
+  I placed as many as i could in the time I had.
+2022-07-01T08:53:09Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.0,    10.0,    -0.7)
+  btw
+2022-07-01T08:53:11Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.0,    10.0,    -0.7)
+  avi
+2022-07-01T08:53:14Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.0,    10.0,    -0.7)
+  check kord
+2022-07-01T08:53:15Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.0,     5.0,    -0.0)
+  /yes#
+2022-07-01T08:53:17Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.0,     5.0,    -0.0)
+  ok
+2022-07-01T08:53:30Z: PLAYER ADDED   [ 1092159466] ASAP12893
+2022-07-01T08:54:00Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.1,   240.9,   237.5)
+  ### guys are Exploiting ?
+2022-07-01T08:54:25Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.4,   533.0,   529.5)
+  ### ####
+2022-07-01T08:54:27Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.1,   556.9,   553.5)
+  hsv
+2022-07-01T08:54:40Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.4,   805.0,   799.4)
+  i finished
+2022-07-01T08:54:46Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.0,   761.0,   756.5)
+  so what is this
+2022-07-01T08:55:01Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.2,   805.0,   800.5)
+  its jsut yellow blok
+2022-07-01T08:55:07Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.4,   810.0,   799.8)
+  i see
+2022-07-01T08:55:08Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.4,   810.0,   799.8)
+  ok
+2022-07-01T08:55:14Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:55:54Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.7,   361.0,   357.5)
+  /w ##################### are you guys scripting or exploiting
+2022-07-01T08:55:56Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.7,   361.0,   357.5)
+  I can't tell.
+2022-07-01T08:56:07Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T08:56:11Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:56:40Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T08:56:40Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   108.2,     0.0)
+2022-07-01T08:56:41Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   113.3,     0.0)
+2022-07-01T08:56:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   118.4,     0.0)
+2022-07-01T08:56:41Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   119.3,     0.0)
+2022-07-01T08:56:48Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T08:56:48Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   108.4,     0.0)
+2022-07-01T08:56:49Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:56:55Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.3,    20.0,     0.4)
+  how are you guys placing so fast
+2022-07-01T08:56:58Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.1,     5.0,    22.2)
+  normally i get kicked
+2022-07-01T08:57:10Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.4,     5.0,    75.0)
+  when i spam the remote function
+2022-07-01T08:57:11Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.4,     5.0,    75.0)
+  i just die
+2022-07-01T08:57:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T08:57:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.0,    15.0,    -0.0)
+  I made my own autoplacer/
+2022-07-01T08:57:28Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.0,     5.0,   409.4)
+  aha i finish
+2022-07-01T08:57:31Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.6,  -415.2,   347.0)
+  visual
+2022-07-01T08:57:34Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.4,     5.0,    12.5)
+  impressive
+2022-07-01T08:57:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.0,     4.2)
+  I took from an existing library I made for a different place.
+2022-07-01T08:57:37Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:57:38Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     9.8,     0.0)
+  how you place so fast
+2022-07-01T08:57:40Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,    10.0,     0.0)
+  please ###
+2022-07-01T08:57:44Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.9,     5.0,    24.4)
+  tell!!
+2022-07-01T08:57:54Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -2.2,     5.0,    27.3)
+  i keep getting limited
+2022-07-01T08:57:55Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (    0.0,     5.0,   409.4)
+  /e dance
+2022-07-01T08:57:58Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -2.2,     5.0,    27.3)
+  by block ate anti's
+2022-07-01T08:58:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,     3.5)
+  What I know is that I was able to place ~70 blocks at t time.
+2022-07-01T08:58:05Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:58:12Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,    10.0,     0.0)
+  im only able to place ~15
+2022-07-01T08:58:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,     4.6)
+  Then I stop placing for a few minutes.
+2022-07-01T08:58:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,     4.6)
+  My guess is that I don't place often enough for the cooldown to catch up to me.
+2022-07-01T08:59:00Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -2.1,     5.0,    -0.8)
+  so basically
+2022-07-01T08:59:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,     4.6)
+  I will put that to the test.
+2022-07-01T08:59:04Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -2.1,     5.0,    -0.8)
+  you place really fast
+2022-07-01T08:59:09Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -2.4,     5.0,    11.9)
+  all at once
+2022-07-01T08:59:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.0,     4.7)
+  I do get kicked after about 300.
+2022-07-01T08:59:18Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T08:59:29Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    2.6,     5.0,    16.0)
+  maybe that's the limit
+2022-07-01T08:59:35Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T08:59:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.0,     4.7)
+  7 batches of 69.
+2022-07-01T08:59:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.6)
+  Nice.
+2022-07-01T08:59:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.6)
+  I will test that.
+2022-07-01T08:59:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.6)
+  3.
+2022-07-01T08:59:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.6)
+  2
+2022-07-01T09:00:08Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:00:08Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   108.2,     0.0)
+2022-07-01T09:00:08Z: PLAYER CHATTED [ 3632216615] J4GB1               
+  Bruh
+2022-07-01T09:00:09Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   113.3,     0.0)
+2022-07-01T09:00:09Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   118.4,     0.0)
+2022-07-01T09:00:16Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.0,     5.0,    -0.0)
+  more and more data adds up on your computer it cannot handle it
+2022-07-01T09:00:16Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:00:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,    10.0,    -0.1)
+  Whoops!
+2022-07-01T09:00:20Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.3,     9.9,   112.8)
+  can you tell me the source code if that's okay
+2022-07-01T09:00:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.0)
+  Let me run it again.
+2022-07-01T09:00:24Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:00:28Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T09:00:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.0)
+  I'm not able to get on C.
+2022-07-01T09:00:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.0)
+  ORD.
+2022-07-01T09:00:35Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:00:37Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:00:48Z: PLAYER ADDED   [ 3364344502] hokibuki
+2022-07-01T09:00:50Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  hmph?
+2022-07-01T09:00:55Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:01:02Z: PLAYER CHATTED [ 3632216615] J4GB1                (    0.6,     5.0,   411.9)
+  /e dance
+2022-07-01T09:01:06Z: CHRCTER ADDED  [ 3364344502] hokibuki             (    0.0,   103.1,     0.0)
+2022-07-01T09:01:13Z: PLAYER CHATTED [ 3632216615] J4GB1               
+  AAAAAAAAAAAAAAAAAAAAAAAAAA
+2022-07-01T09:01:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,     4.0)
+  Will run the test again.
+2022-07-01T09:01:16Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T09:01:21Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming    
+  this block was not ment for the both of us...
+2022-07-01T09:01:21Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  kk
+2022-07-01T09:01:23Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:01:25Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:01:26Z: CHRCTER ADDED  [ 3364344502] hokibuki             (    0.0,   108.2,     0.0)
+2022-07-01T09:01:26Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   113.8,     0.0)
+2022-07-01T09:01:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   119.6,     0.0)
+2022-07-01T09:01:37Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T09:01:38Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:01:42Z: CHRCTER ADDED  [ 3364344502] hokibuki             (    0.0,   103.1,     0.0)
+2022-07-01T09:01:43Z: PLAYER REMOVED [ 3364344502] hokibuki
+2022-07-01T09:01:49Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:01:58Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.3,     5.0,    36.9)
+  so basically
+2022-07-01T09:02:08Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.4,     5.0,    60.0)
+  instead of placing 1 block in a set interval
+2022-07-01T09:02:16Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.5,     5.0,    74.1)
+  you place alot of blocks in a larger set interval
+2022-07-01T09:02:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  I was able to place all 69 * 7 blocks.
+2022-07-01T09:02:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  Nice.
+2022-07-01T09:02:35Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  yeah that's cool
+2022-07-01T09:02:36Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:02:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  7-second delay.
+2022-07-01T09:02:40Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  so is it fine
+2022-07-01T09:02:51Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  that i can get the source?
+2022-07-01T09:02:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  No problem
+2022-07-01T09:03:07Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:03:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  I'm having trouble connecting to chat.
+2022-07-01T09:03:14Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.3,     5.0,     3.3)
+  nope the data will still build up
+2022-07-01T09:03:17Z: CHRCTER ADDED  [ 2273628636] FreakFrostGaming     (    0.0,   103.1,     0.0)
+2022-07-01T09:03:42Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.3,     5.0,     3.3)
+  it does not matter if you place it later in time the data is always there unti you destroy it
+2022-07-01T09:04:02Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    2.6,     5.0,   193.5)
+  when i destroy blocks
+2022-07-01T09:04:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  Check my GitHub profile.
+2022-07-01T09:04:05Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    2.6,     5.0,   193.5)
+  i still find that they exist
+2022-07-01T09:04:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.9,     5.0,   195.6)
+  Check GitHub.
+2022-07-01T09:04:13Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  don't know why
+2022-07-01T09:04:14Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:04:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.8,     5.0,   208.1)
+  ###CHECK###
+2022-07-01T09:04:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.8,     5.0,   208.1)
+  ##GIT####
+2022-07-01T09:04:25Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.3,     5.0,     1.6)
+  ################
+2022-07-01T09:04:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.8,     5.0,   208.1)
+  ###HUB###
+2022-07-01T09:04:29Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.6,     5.0,     0.6)
+  ok ok
+2022-07-01T09:04:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,   219.3)
+  ####Windows81#####
+2022-07-01T09:04:34Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.3,     5.0,     1.6)
+  i gtg make a 
+2022-07-01T09:04:36Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.3,     5.0,     1.6)
+  ###
+2022-07-01T09:04:38Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.8,     5.0,     4.1)
+  nope when you destroy blocks it is gone from the server
+2022-07-01T09:04:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.0,   241.5)
+  It's on my pinned.
+2022-07-01T09:04:39Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.3,     5.0,     1.6)
+  ###
+2022-07-01T09:04:42Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.5,     5.0,     1.3)
+  ##
+2022-07-01T09:04:46Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.5,     5.0,     1.3)
+  g
+2022-07-01T09:04:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -1.3,     5.0,     3.2)
+  bye
+2022-07-01T09:04:48Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.5,     5.0,     1.3)
+  fx
+2022-07-01T09:04:51Z: PLAYER CHATTED [ 2273628636] FreakFrostGaming     (   -0.5,     5.0,     1.3)
+  cya
+2022-07-01T09:04:53Z: PLAYER REMOVED [ 2273628636] FreakFrostGaming
+2022-07-01T09:05:40Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:06:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.6,     5.0,   241.5)
+  Now I've ben able to connect.
+2022-07-01T09:06:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,   218.0)
+  *Been.
+2022-07-01T09:06:46Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T09:06:54Z: CHRCTER ADDED  [ 3632216615] J4GB1                (    0.0,   103.1,     0.0)
+2022-07-01T09:06:59Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.6,     5.0,     0.5)
+  hm, can't find the repository
+2022-07-01T09:07:05Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.6,     5.0,     0.5)
+  or maybe i'm just blind don't know
+2022-07-01T09:07:13Z: PLAYER REMOVED [ 3632216615] J4GB1
+2022-07-01T09:07:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  https://gist.github.com/Windows81/17d44fe502b349a03ecb94303d2a0e4c
+2022-07-01T09:07:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  Windows81/17d44fe502b349a03ecb94303d2a0e4c
+2022-07-01T09:07:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  There is a pinned repo. that says 'I EX... AND HAVE NO SHAME...'.
+2022-07-01T09:08:17Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.4,     5.0,    40.7)
+  kk
+2022-07-01T09:08:20Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:08:26Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.7,     5.0,    16.9)
+  ok when i refresh i suddenly see it
+2022-07-01T09:08:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  _10080134170-.lua
+2022-07-01T09:08:34Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:08:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  _10080134170
+2022-07-01T09:08:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  ://10080134170-.lua
+2022-07-01T09:08:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  #######_10080134170-.lua###########
+2022-07-01T09:08:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  ##########
+2022-07-01T09:08:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  #ÒÓ##########
+2022-07-01T09:09:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  Its nice having # right next to the return key.
+2022-07-01T09:09:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  ###
+2022-07-01T09:09:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  #
+2022-07-01T09:09:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  Look for the sscript tht begins in:
+2022-07-01T09:09:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,     5.0,   181.9)
+  '_10'
+2022-07-01T09:09:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,   194.4)
+  There is only one that does that.
+2022-07-01T09:09:35Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.0,     5.0,     3.7)
+  k
+2022-07-01T09:09:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,   207.9)
+  It references a script named 'lib-build'.
+2022-07-01T09:10:00Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.0,     5.0,     3.7)
+  found it
+2022-07-01T09:10:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.3,     5.0,   218.2)
+  It messes with the function environment.
+2022-07-01T09:10:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,   206.9)
+  I will test this loading procedure out with 69 * 69 blocks.
+2022-07-01T09:10:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,   206.9)
+  Nice.
+2022-07-01T09:10:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.5,     5.0,   206.9)
+  Delay 7 second per 69 blocks.
+2022-07-01T09:11:02Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-01T09:11:02Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-07-01T09:11:02Z: PLAYER REMOVED [ 1092159466] ASAP12893

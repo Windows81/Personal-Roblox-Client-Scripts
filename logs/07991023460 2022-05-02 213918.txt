@@ -1,0 +1,730 @@
+[    1630228] : [ 7991023460] S or P w/vc - 640791c4-9649-4d8e-bfff-aee93da3b894
+2022-05-02T21:39:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-02T21:39:19Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3090653279] carstaniz
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2280048164] lovekitty200145
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3443189339] BANDZ2KACC
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1575896178] DJ_Heartbeat
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3135098931] tzxnms
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1462980187] pixiedust123412
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2205998152] xxx_richboinice
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3207046959] LAURAV1BE
+2022-05-02T21:39:19Z: PLAYER ADDED   [  484298461] FlySi13
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3421368778] TheyFwDiortoFine
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2812408014] Mylachi_hood
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1941332332] mike_gaming79
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3472708025] Ruejjdhdueue
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2337318609] gtgbri
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2848030343] RellRetxrnk
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1736623288] 7thAvenuee
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1641413926] boyswayyyy11
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3480936525] traapx_gi
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1806644177] icecream1414122
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3081160832] TH4TM
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1551782622] Noahruffin1
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1838006829] SunsetBlossomxox
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2234741698] OMG_TONYy
+2022-05-02T21:39:19Z: PLAYER ADDED   [  592439522] drexmingz
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2553459450] EXCLUSIVE_JAYN
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1838196497] king_boy10320
+2022-05-02T21:39:19Z: PLAYER ADDED   [  496650183] GOTTALUVVMAR
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1734214215] Zay123zz
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1666501644] Peo2l
+2022-05-02T21:39:19Z: PLAYER ADDED   [  550934690] 772Jayx
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2292307506] cvhyna
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2348510182] kashoutcapone
+2022-05-02T21:39:19Z: PLAYER ADDED   [  290743529] savolle
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3500753033] ItzDestinyluvvv
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3314584160] Aimanraalon92303
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 1167443812] Mykamoo217
+2022-05-02T21:39:19Z: PLAYER ADDED   [  472384374] nella1016
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2029669817] yolo_jayboi
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 3302384960] T2M30
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2385064104] Cammxzz
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2676225860] juice1528
+2022-05-02T21:39:19Z: PLAYER ADDED   [ 2243492320] itsme_jauna
+2022-05-02T21:39:22Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   30.6,     4.0,     7.5)
+  Who
+2022-05-02T21:39:23Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.9,     4.2,     7.3)
+  SIS
+2022-05-02T21:39:24Z: PLAYER CHATTED [ 3314584160] Aimanraalon92303     (   68.9,     7.9,   -14.1)
+  /headless
+2022-05-02T21:39:28Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   57.5,     3.9,     4.4)
+  yes?
+2022-05-02T21:39:28Z: PLAYER CHATTED [ 2676225860] juice1528            (   32.0,     3.8,     7.3)
+  for*
+2022-05-02T21:39:28Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.0,     4.2,     4.0)
+  go to ur ##
+2022-05-02T21:39:28Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   30.6,     3.8,    10.2)
+  IMAO
+2022-05-02T21:39:28Z: PLAYER REMOVED [ 1167443812] Mykamoo217
+2022-05-02T21:39:29Z: PLAYER REMOVED [ 1575896178] DJ_Heartbeat
+2022-05-02T21:39:29Z: PLAYER ADDED   [ 1254460431] 3kbailey
+2022-05-02T21:39:30Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  Over here f#i## public game
+2022-05-02T21:39:30Z: PLAYER CHATTED [  290743529] savolle              (   56.2,     3.9,    -7.9)
+  We gon do it in ttd3
+2022-05-02T21:39:30Z: PLAYER ADDED   [ 3212221094] Bren15boy
+2022-05-02T21:39:32Z: PLAYER CHATTED [ 2676225860] juice1528            (   32.0,     3.8,     7.3)
+  come
+2022-05-02T21:39:32Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  Like huh
+2022-05-02T21:39:34Z: PLAYER CHATTED [ 3135098931] tzxnms               (   52.0,     8.2,     4.9)
+  top ######
+2022-05-02T21:39:34Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   29.7,     4.2,     4.2)
+  Lol
+2022-05-02T21:39:34Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   12.2,     4.2,    -2.4)
+2022-05-02T21:39:34Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   12.2,     4.2,    -2.4)
+  /re
+2022-05-02T21:39:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:39:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:39:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   12.2,     4.1,    -2.4)
+2022-05-02T21:39:35Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   43.1,     3.9,     4.0)
+  mwa
+2022-05-02T21:39:37Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   29.7,     4.2,     4.2)
+  Yoooooo
+2022-05-02T21:39:38Z: PLAYER CHATTED [ 2337318609] gtgbri               (   32.4,     5.2,     8.8)
+  bend over
+2022-05-02T21:39:44Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  Hell no
+2022-05-02T21:39:45Z: PLAYER CHATTED [ 3302384960] T2M30                (   60.5,     4.2,     4.4)
+  hola brotha
+2022-05-02T21:39:47Z: PLAYER CHATTED [  290743529] savolle              (   55.9,     3.9,    -6.2)
+  Ok join me
+2022-05-02T21:39:47Z: PLAYER CHATTED [ 3135098931] tzxnms               (   52.0,     8.2,     4.9)
+  ### top ###### ### right here
+2022-05-02T21:39:48Z: PLAYER CHATTED [ 1666501644] Peo2l                (   59.5,     4.2,    -0.2)
+  hola
+2022-05-02T21:39:48Z: PLAYER REMOVED [ 3500753033] ItzDestinyluvvv
+2022-05-02T21:39:48Z: PLAYER REMOVED [ 3090653279] carstaniz
+2022-05-02T21:39:50Z: PLAYER REMOVED [  290743529] savolle
+2022-05-02T21:39:51Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  U # ####
+2022-05-02T21:39:52Z: PLAYER REMOVED [ 1838196497] king_boy10320
+2022-05-02T21:39:52Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   15.7,     5.8,   -18.1)
+  /korblox 
+2022-05-02T21:39:53Z: PLAYER ADDED   [ 2975290662] Vnk_cxp
+2022-05-02T21:39:55Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   44.0,     4.9,     4.5)
+  Mwa
+2022-05-02T21:39:55Z: PLAYER CHATTED [ 3314584160] Aimanraalon92303     (   54.2,     4.1,   -43.3)
+  Wsp
+2022-05-02T21:39:56Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   40.2,     3.9,     5.2)
+  👀
+2022-05-02T21:39:57Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.4,     4.2,     4.0)
+  rate da pink
+2022-05-02T21:39:57Z: PLAYER REMOVED [  496650183] GOTTALUVVMAR
+2022-05-02T21:39:58Z: PLAYER CHATTED [ 2812408014] Mylachi_hood         (   69.8,     7.8,    -3.1)
+  /headless
+2022-05-02T21:39:59Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   46.9,     4.2,    16.5)
+  He said he will steal me
+2022-05-02T21:39:59Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   33.8,     4.1,     7.2)
+  hol up ima change
+2022-05-02T21:40:00Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  For a livin
+2022-05-02T21:40:02Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   41.0,     3.9,     6.0)
+  Get a room yall-
+2022-05-02T21:40:04Z: PLAYER REMOVED [ 2348510182] kashoutcapone
+2022-05-02T21:40:04Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.6,     4.2,     3.6)
+  pink go dummy mode
+2022-05-02T21:40:05Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     1.3)
+  8
+2022-05-02T21:40:06Z: PLAYER ADDED   [  157905207] Jackthesmack2010
+2022-05-02T21:40:06Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   32.3,     3.8,    14.2)
+  ;hpk tagz .
+2022-05-02T21:40:08Z: PLAYER CHATTED [ 3135098931] tzxnms               (   55.2,     8.2,     8.1)
+  ### top ###### ni,,, right here
+2022-05-02T21:40:11Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   44.0,     4.9,     4.5)
+  .
+2022-05-02T21:40:11Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  I bet he did
+2022-05-02T21:40:17Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   45.4,     4.0,    18.0)
+  No u
+2022-05-02T21:40:18Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  .
+2022-05-02T21:40:19Z: PLAYER CHATTED [ 2337318609] gtgbri               (   45.9,     5.4,    13.7)
+  back dat thing uo 
+2022-05-02T21:40:19Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   43.1,     3.9,     4.0)
+  .
+2022-05-02T21:40:20Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  ok
+2022-05-02T21:40:20Z: PLAYER ADDED   [ 3425610878] ash167900op
+2022-05-02T21:40:20Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  ig
+2022-05-02T21:40:21Z: PLAYER CHATTED [ 3314584160] Aimanraalon92303     (   60.4,     4.3,   -32.2)
+  Nvm then
+2022-05-02T21:40:23Z: PLAYER CHATTED [ 3135098931] tzxnms               (   40.0,     8.0,    14.9)
+  that hell
+2022-05-02T21:40:23Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  H e like white boys
+2022-05-02T21:40:23Z: PLAYER REMOVED [ 2385064104] Cammxzz
+2022-05-02T21:40:24Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     1.3)
+  its a 8
+2022-05-02T21:40:25Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   45.4,     4.0,    18.0)
+  No he 
+2022-05-02T21:40:29Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   41.0,     3.9,     5.6)
+  #################################
+2022-05-02T21:40:30Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  why not a 10
+2022-05-02T21:40:31Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     1.3)
+  Its kinda good
+2022-05-02T21:40:31Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   43.1,     3.9,     4.0)
+  we Alr
+2022-05-02T21:40:33Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   41.0,     3.9,     5.6)
+  Nvm
+2022-05-02T21:40:33Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   44.8,     4.0,    17.7)
+  I’m mixed
+2022-05-02T21:40:33Z: PLAYER ADDED   [ 1080407586] isabella091111
+2022-05-02T21:40:35Z: PLAYER CHATTED [ 3081160832] TH4TM                (   44.0,     4.6,    20.1)
+  Like him
+2022-05-02T21:40:35Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     1.3)
+  bc
+2022-05-02T21:40:36Z: PLAYER CHATTED [ 2676225860] juice1528            (   45.2,     4.0,    13.2)
+  i-
+2022-05-02T21:40:36Z: CHRCTER ADDED  [ 3421368778] TheyFwDiortoFine     (   -7.5,     4.9,    -4.7)
+2022-05-02T21:40:36Z: PLAYER CHATTED [ 2975290662] Vnk_cxp              (    2.1,     4.6,    -0.5)
+  /e headless
+2022-05-02T21:40:40Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   44.8,     4.0,    17.7)
+  So I’m light skin
+2022-05-02T21:40:40Z: PLAYER CHATTED [ 3081160832] TH4TM                (   42.8,     4.6,    19.1)
+  Lol
+2022-05-02T21:40:40Z: PLAYER CHATTED [ 2676225860] juice1528            (   45.2,     4.0,    13.2)
+  I can explain
+2022-05-02T21:40:43Z: PLAYER REMOVED [  157905207] Jackthesmack2010
+2022-05-02T21:40:44Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   44.8,     4.0,    17.7)
+  U dumb
+2022-05-02T21:40:45Z: PLAYER CHATTED [ 3081160832] TH4TM                (   42.8,     4.6,    19.1)
+  My bad
+2022-05-02T21:40:46Z: PLAYER CHATTED [ 2975290662] Vnk_cxp              (    2.1,     4.6,    -0.5)
+  /headless
+2022-05-02T21:40:47Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     1.3)
+  the bag dont needa be there
+2022-05-02T21:40:48Z: CHRCTER ADDED  [ 1666501644] Peo2l                (   58.8,     4.2,    -0.2)
+2022-05-02T21:40:48Z: PLAYER CHATTED [ 3135098931] tzxnms               (   54.8,     8.2,    -5.0)
+  ayo gRacks got that drippp
+2022-05-02T21:40:50Z: PLAYER CHATTED [ 1551782622] Noahruffin1          (   52.2,     4.2,     8.0)
+  Can I play
+2022-05-02T21:40:50Z: PLAYER CHATTED [ 1666501644] Peo2l                (   58.8,     4.2,    -0.2)
+  /korblox
+2022-05-02T21:40:51Z: PLAYER ADDED   [ 2385064104] Cammxzz
+2022-05-02T21:40:51Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   53.9,     3.9,     0.9)
+  also
+2022-05-02T21:40:51Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   46.0,     4.0,    18.4)
+  It’s good
+2022-05-02T21:40:52Z: PLAYER CHATTED [ 3081160832] TH4TM                (   42.8,     4.6,    19.1)
+  Ain’t mean to call u out
+2022-05-02T21:40:52Z: PLAYER CHATTED [ 1666501644] Peo2l                (   58.8,     4.2,    -0.2)
+  /headless
+2022-05-02T21:40:55Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  aii bet 
+2022-05-02T21:40:55Z: CHRCTER ADDED  [  550934690] 772Jayx              (   57.3,     4.4,   -68.7)
+2022-05-02T21:40:56Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  hol up
+2022-05-02T21:40:56Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   37.0,     4.0,    -9.8)
+  hello
+2022-05-02T21:40:56Z: PLAYER CHATTED [ 2848030343] RellRetxrnk          (  104.3,   -11.5,   -33.7)
+  What now
+2022-05-02T21:40:58Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   45.4,     4.0,    19.0)
+  It’s ok
+2022-05-02T21:41:00Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   43.1,     3.9,     4.2)
+  /korblox
+2022-05-02T21:41:02Z: PLAYER CHATTED [ 2337318609] gtgbri               (   45.9,     5.4,    13.7)
+  shordy i think they botched ur bbl
+2022-05-02T21:41:03Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  ;re
+2022-05-02T21:41:03Z: CHRCTER ADDED  [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+2022-05-02T21:41:04Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   57.0,     3.9,     2.2)
+  the hair look like bubblegum worms
+2022-05-02T21:41:04Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  aii
+2022-05-02T21:41:04Z: PLAYER CHATTED [ 3443189339] BANDZ2KACC           (   26.1,     4.1,   -19.2)
+  ;spin 3
+2022-05-02T21:41:05Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   43.1,     3.9,     4.2)
+  /headless
+2022-05-02T21:41:08Z: PLAYER CHATTED [ 1641413926] boyswayyyy11         (   50.7,     4.7,    32.4)
+  Wanna play a diff game 
+2022-05-02T21:41:09Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  /headless
+2022-05-02T21:41:10Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   57.0,     3.9,     2.2)
+  .
+2022-05-02T21:41:10Z: PLAYER CHATTED [ 3135098931] tzxnms               (   51.5,     8.2,     3.8)
+  ;unhip 
+2022-05-02T21:41:11Z: PLAYER CHATTED [ 1666501644] Peo2l                (   58.8,     4.2,    -0.2)
+  bruh
+2022-05-02T21:41:12Z: PLAYER CHATTED [ 1551782622] Noahruffin1          (   52.2,     4.2,     8.0)
+  /w T2M30  ;re
+2022-05-02T21:41:12Z: PLAYER CHATTED [ 2292307506] cvhyna               (   52.0,     3.8,    34.1)
+  yhh
+2022-05-02T21:41:12Z: PLAYER CHATTED [ 1080407586] isabella091111       (   -4.2,     4.9,   -24.4)
+  /headless
+2022-05-02T21:41:14Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  no bag
+2022-05-02T21:41:15Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   42.2,     4.0,     9.4)
+  HUH
+2022-05-02T21:41:15Z: PLAYER CHATTED [ 1641413926] boyswayyyy11         (   50.7,     4.7,    32.4)
+  K
+2022-05-02T21:41:15Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   38.0,     4.0,   -10.2)
+  are u there
+2022-05-02T21:41:15Z: PLAYER ADDED   [ 1445477926] nessaboo190
+2022-05-02T21:41:16Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  now a 10?
+2022-05-02T21:41:16Z: PLAYER CHATTED [ 2676225860] juice1528            (   53.7,     3.8,    33.6)
+  yes
+2022-05-02T21:41:17Z: PLAYER REMOVED [ 2385064104] Cammxzz
+2022-05-02T21:41:19Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   54.8,     3.9,     2.0)
+  alr 9
+2022-05-02T21:41:20Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   42.9,     4.0,    10.4)
+  BOY BY 
+2022-05-02T21:41:20Z: PLAYER CHATTED [ 3081160832] TH4TM                (   42.8,     4.6,    19.1)
+  #######################
+2022-05-02T21:41:21Z: PLAYER CHATTED [ 1080407586] isabella091111       (   -4.2,     4.9,   -24.4)
+  /korblox
+2022-05-02T21:41:21Z: PLAYER CHATTED [ 2292307506] cvhyna               (   52.0,     3.8,    34.1)
+  ill join u
+2022-05-02T21:41:22Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   55.8,     4.2,     6.7)
+  dam
+2022-05-02T21:41:24Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  I NEED A !0
+2022-05-02T21:41:25Z: PLAYER CHATTED [ 2676225860] juice1528            (   53.0,     3.8,    31.6)
+  ok
+2022-05-02T21:41:25Z: PLAYER CHATTED [ 1641413926] boyswayyyy11         (   50.7,     4.7,    32.4)
+  K
+2022-05-02T21:41:25Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  10
+2022-05-02T21:41:27Z: PLAYER REMOVED [ 1641413926] boyswayyyy11
+2022-05-02T21:41:28Z: PLAYER REMOVED [ 2292307506] cvhyna
+2022-05-02T21:41:29Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   45.2,     3.9,    11.5)
+  BRUH
+2022-05-02T21:41:30Z: PLAYER CHATTED [  592439522] drexmingz            (    8.3,     4.0,    -9.4)
+  wsg ma
+2022-05-02T21:41:34Z: PLAYER CHATTED [ 1254460431] 3kbailey             (    9.0,     4.3,    -6.4)
+  yo
+2022-05-02T21:41:34Z: PLAYER REMOVED [ 3081160832] TH4TM
+2022-05-02T21:41:34Z: CHRCTER ADDED  [ 2676225860] juice1528            (   -6.9,     4.6,    -2.0)
+2022-05-02T21:41:34Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  its the chain?
+2022-05-02T21:41:35Z: PLAYER ADDED   [ 2385064104] Cammxzz
+2022-05-02T21:41:35Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   38.4,     4.0,   -11.1)
+  .
+2022-05-02T21:41:35Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   55.8,     4.2,     6.7)
+  nc want a 10 so bad
+2022-05-02T21:41:37Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  pants?
+2022-05-02T21:41:38Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   45.2,     3.9,    11.5)
+  ITS NOT GIVING 
+2022-05-02T21:41:40Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   44.0,     4.9,     4.5)
+  ##### ten
+2022-05-02T21:41:41Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  shirt
+2022-05-02T21:41:44Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   45.8,     4.9,     7.5)
+  Lauren
+2022-05-02T21:41:44Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   45.2,     3.9,    11.5)
+  Exactly 
+2022-05-02T21:41:44Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   55.2,     4.0,     3.1)
+  hair .
+2022-05-02T21:41:45Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   55.3,     3.9,     1.3)
+  IDK WHAT YOU CAN DO ITS A 9 FOR ME
+2022-05-02T21:41:47Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  .
+2022-05-02T21:41:47Z: PLAYER CHATTED [ 2029669817] yolo_jayboi          (   49.6,     4.2,    10.5)
+  give your idp
+2022-05-02T21:41:49Z: PLAYER REMOVED [ 2280048164] lovekitty200145
+2022-05-02T21:41:49Z: PLAYER REMOVED [ 1254460431] 3kbailey
+2022-05-02T21:41:49Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   45.2,     3.9,    11.5)
+  Huh ?
+2022-05-02T21:41:50Z: PLAYER CHATTED [ 1462980187] pixiedust123412      (   42.2,     3.7,   -17.3)
+  hes #### he been there for a while
+2022-05-02T21:41:52Z: PLAYER CHATTED [ 2975290662] Vnk_cxp              (   56.3,     4.6,     3.6)
+  Hair
+2022-05-02T21:41:55Z: PLAYER REMOVED [  472384374] nella1016
+2022-05-02T21:41:56Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   45.3,     4.9,     7.7)
+  Wanna play Brookhaven
+2022-05-02T21:41:56Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   36.7,     4.1,   -19.7)
+  AYO
+2022-05-02T21:41:58Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   37.8,     3.9,    -7.8)
+  o
+2022-05-02T21:41:58Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   56.5,     3.9,     1.8)
+  WAIT
+2022-05-02T21:41:59Z: PLAYER CHATTED [ 1551782622] Noahruffin1          (   52.2,     4.2,     8.0)
+  #################
+2022-05-02T21:41:59Z: PLAYER ADDED   [ 1254460431] 3kbailey
+2022-05-02T21:41:59Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   44.6,     4.0,    10.6)
+  Sure
+2022-05-02T21:42:01Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  ;re
+2022-05-02T21:42:01Z: CHRCTER ADDED  [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+2022-05-02T21:42:01Z: PLAYER CHATTED [ 2676225860] juice1528            (   35.6,     3.8,   -22.4)
+  Wsp
+2022-05-02T21:42:02Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   56.5,     3.9,     1.8)
+  THE HEADBAND
+2022-05-02T21:42:03Z: PLAYER CHATTED [ 3302384960] T2M30                (   59.2,     4.2,     4.0)
+  /headless
+2022-05-02T21:42:03Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   45.3,     4.9,     7.1)
+  U to
+2022-05-02T21:42:03Z: PLAYER ADDED   [ 3186215153] Jaydrbart
+2022-05-02T21:42:05Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  # ###
+2022-05-02T21:42:06Z: PLAYER CHATTED [ 2676225860] juice1528            (   35.6,     3.8,   -22.4)
+  where emily
+2022-05-02T21:42:06Z: PLAYER CHATTED [ 3135098931] tzxnms               (   52.3,     4.2,     2.9)
+  ;hip me 2
+2022-05-02T21:42:07Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   39.2,     3.9,     6.3)
+  ..
+2022-05-02T21:42:09Z: PLAYER CHATTED [  592439522] drexmingz            (    8.3,     4.0,    -9.4)
+  afk
+2022-05-02T21:42:10Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  # ###
+2022-05-02T21:42:14Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   57.7,     3.9,     1.6)
+  OKAY A 10
+2022-05-02T21:42:15Z: PLAYER CHATTED [ 3135098931] tzxnms               (   52.5,     6.3,     7.7)
+  ;hip me 4
+2022-05-02T21:42:15Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   55.8,     4.0,     2.2)
+  now 10
+2022-05-02T21:42:16Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  U WERID
+2022-05-02T21:42:17Z: PLAYER CHATTED [ 3302384960] T2M30                (   60.1,     4.2,     4.6)
+  YE
+2022-05-02T21:42:17Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   39.2,     3.9,     6.3)
+  leave me alone
+2022-05-02T21:42:17Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  tagz
+2022-05-02T21:42:21Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  How
+2022-05-02T21:42:22Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   43.6,     4.0,     9.8)
+  .
+2022-05-02T21:42:25Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  U ain't see nun
+2022-05-02T21:42:26Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   43.4,     4.9,     6.2)
+  .
+2022-05-02T21:42:31Z: PLAYER CHATTED [ 3135098931] tzxnms               (   68.4,    11.8,   -11.8)
+  drip
+2022-05-02T21:42:32Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  i thought u an ciara tg
+2022-05-02T21:42:32Z: PLAYER REMOVED [ 2848030343] RellRetxrnk
+2022-05-02T21:42:35Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   -2.9,     3.9,   -39.0)
+  You ight-
+2022-05-02T21:42:35Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   -8.8,     4.9,   -42.7)
+  What happened
+2022-05-02T21:42:36Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   42.2,     4.2,    -2.1)
+  I’m deproosed
+2022-05-02T21:42:37Z: PLAYER ADDED   [ 3156485080] Narutogodabb
+2022-05-02T21:42:38Z: PLAYER CHATTED [ 3135098931] tzxnms               (   68.4,    11.8,   -11.8)
+  ;admins 
+2022-05-02T21:42:38Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  Nah jit
+2022-05-02T21:42:40Z: PLAYER CHATTED [ 1806644177] icecream1414122      (  -11.5,     3.8,   -46.4)
+  I hate dat game
+2022-05-02T21:42:44Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   -8.8,     4.9,   -42.7)
+  Ok
+2022-05-02T21:42:45Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   -4.6,     3.8,   -43.6)
+  .
+2022-05-02T21:42:46Z: PLAYER CHATTED [ 1806644177] icecream1414122      (  -11.2,     3.8,   -46.4)
+  sorry if ur mad
+2022-05-02T21:42:48Z: PLAYER REMOVED [ 2975290662] Vnk_cxp
+2022-05-02T21:42:48Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   -8.8,     4.9,   -42.7)
+  It’s alright
+2022-05-02T21:42:48Z: PLAYER ADDED   [ 3255833881] JAY_JAY3890
+2022-05-02T21:42:49Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  oh i rember she was single
+2022-05-02T21:42:49Z: PLAYER REMOVED [ 3135098931] tzxnms
+2022-05-02T21:42:49Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  U remember when ## ## # or p
+2022-05-02T21:42:50Z: PLAYER CHATTED [ 3472708025] Ruejjdhdueue         (   35.2,     4.0,   -21.4)
+  What I do
+2022-05-02T21:42:53Z: PLAYER REMOVED [ 3255833881] JAY_JAY3890
+2022-05-02T21:42:56Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   -8.7,     4.9,   -43.2)
+  It’s ok
+2022-05-02T21:42:56Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  yup
+2022-05-02T21:42:57Z: PLAYER REMOVED [ 2812408014] Mylachi_hood
+2022-05-02T21:42:59Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   -8.7,     4.9,   -43.2)
+  I’m not mad
+2022-05-02T21:43:01Z: PLAYER REMOVED [ 1551782622] Noahruffin1
+2022-05-02T21:43:02Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  she trippin
+2022-05-02T21:43:05Z: PLAYER REMOVED [ 2029669817] yolo_jayboi
+2022-05-02T21:43:06Z: PLAYER ADDED   [ 1029558542] itrayden123
+2022-05-02T21:43:07Z: PLAYER ADDED   [ 3371708723] thatboyismine_12
+2022-05-02T21:43:07Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   -9.1,     3.8,   -44.0)
+  ok
+2022-05-02T21:43:07Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   -5.7,     3.8,   -44.0)
+  Oml not again-
+2022-05-02T21:43:09Z: PLAYER ADDED   [ 3467564420] Adrianaaya123
+2022-05-02T21:43:11Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   -9.1,     3.8,   -44.0)
+  what
+2022-05-02T21:43:12Z: PLAYER CHATTED [  592439522] drexmingz            (    8.3,     4.0,    -9.4)
+  tbh
+2022-05-02T21:43:12Z: PLAYER ADDED   [ 1610015627] 0FFP4RKS_KASHH
+2022-05-02T21:43:13Z: PLAYER ADDED   [ 2384610939] Maxaveli1
+2022-05-02T21:43:13Z: PLAYER ADDED   [ 2424972668] Princess_june2011
+2022-05-02T21:43:13Z: PLAYER CHATTED [ 1806644177] icecream1414122      (   -9.1,     3.8,   -44.0)
+  OMG
+2022-05-02T21:43:14Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  why she always get in front me
+2022-05-02T21:43:14Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   38.2,     4.0,     1.1)
+  ;hpk who trynna play s or p ?
+2022-05-02T21:43:14Z: PLAYER CHATTED [  592439522] drexmingz            (    8.3,     4.0,    -9.4)
+  come
+2022-05-02T21:43:15Z: PLAYER REMOVED [ 3156485080] Narutogodabb
+2022-05-02T21:43:15Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  Mhm but I'm cool wit it
+2022-05-02T21:43:17Z: PLAYER CHATTED [ 1254460431] 3kbailey             (    9.3,     4.3,    -6.6)
+  okay
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:18Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+  /re
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:18Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:19Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:19Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:19Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  U MAKE ME LAUGH 
+2022-05-02T21:43:20Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  who
+2022-05-02T21:43:20Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  i just runs
+2022-05-02T21:43:22Z: PLAYER CHATTED [ 1838006829] SunsetBlossomxox     (   59.4,     3.9,     0.8)
+  MEE
+2022-05-02T21:43:23Z: PLAYER REMOVED [ 3212221094] Bren15boy
+2022-05-02T21:43:23Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  ciara
+2022-05-02T21:43:25Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+  /re
+2022-05-02T21:43:25Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:25Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:25Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:25Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:25Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:26Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:27Z: PLAYER CHATTED [ 3186215153] Jaydrbart            (   67.2,     7.9,    -7.1)
+  Me
+2022-05-02T21:43:27Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (    9.5,     3.8,   -40.9)
+  Girl what-
+2022-05-02T21:43:28Z: PLAYER CHATTED [ 2337318609] gtgbri               (   49.6,     5.3,    -4.1)
+  ;re
+2022-05-02T21:43:29Z: CHRCTER ADDED  [ 2337318609] gtgbri               (   50.2,     6.9,    -3.4)
+2022-05-02T21:43:30Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  ##############
+2022-05-02T21:43:31Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (    0.3,     4.8,   -41.6)
+  /korblox
+2022-05-02T21:43:32Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (    9.5,     3.8,   -40.9)
+  ME
+2022-05-02T21:43:35Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+  /re
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.2,     6.0)
+2022-05-02T21:43:35Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   55.9,     4.1,     6.0)
+2022-05-02T21:43:36Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  very werid
+2022-05-02T21:43:37Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  yes
+2022-05-02T21:43:38Z: PLAYER ADDED   [ 1151021442] ballaboss0743
+2022-05-02T21:43:38Z: PLAYER CHATTED [ 2337318609] gtgbri               (   37.4,     3.9,   -11.1)
+  yo
+2022-05-02T21:43:38Z: PLAYER ADDED   [ 2409799513] Itz_yourboylilzan
+2022-05-02T21:43:40Z: PLAYER CHATTED [ 1734214215] Zay123zz             (   45.3,     4.5,   -35.7)
+  Me
+2022-05-02T21:43:41Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  ###
+2022-05-02T21:43:43Z: PLAYER CHATTED [ 3467564420] Adrianaaya123        (   35.4,     4.1,    -2.2)
+  /headless
+2022-05-02T21:43:45Z: PLAYER ADDED   [  813954052] Nanamarie012
+2022-05-02T21:43:46Z: PLAYER CHATTED [  592439522] drexmingz            (  154.3,   -12.0,   -17.8)
+  talk rq
+2022-05-02T21:43:46Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   30.7,     3.8,   -29.8)
+  ####
+2022-05-02T21:43:47Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  bet it's whatever
+2022-05-02T21:43:49Z: PLAYER CHATTED [ 1610015627] 0FFP4RKS_KASHH       (   -0.6,     3.9,    -3.1)
+  /headless
+2022-05-02T21:43:49Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   33.4,     3.8,   -11.7)
+  i tink he afk
+2022-05-02T21:43:49Z: PLAYER ADDED   [ 1694982951] Th3yLuvToni
+2022-05-02T21:43:49Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  y’all friends
+2022-05-02T21:43:50Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  hi
+2022-05-02T21:43:52Z: PLAYER ADDED   [ 1541021389] pikerhyanna
+2022-05-02T21:43:53Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.8,     3.8,   -23.2)
+  but*
+2022-05-02T21:43:53Z: PLAYER CHATTED [ 2337318609] gtgbri               (   36.8,     3.7,   -14.7)
+  ooh
+2022-05-02T21:43:53Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (    5.4,     4.8,   -35.9)
+  Yea
+2022-05-02T21:43:54Z: PLAYER CHATTED [ 2243492320] itsme_jauna          (   33.4,     3.8,   -11.7)
+  think*
+2022-05-02T21:43:56Z: PLAYER CHATTED [  592439522] drexmingz            (  154.8,   -12.0,   -16.3)
+  /w 3kbailey  tbh i want u
+2022-05-02T21:43:56Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   11.0,     3.8,   -33.3)
+  Ight now what the hell me doin-
+2022-05-02T21:43:58Z: PLAYER REMOVED [ 1445477926] nessaboo190
+2022-05-02T21:43:58Z: PLAYER CHATTED [ 3467564420] Adrianaaya123        (   43.7,     4.1,    -4.8)
+  /korblox 
+2022-05-02T21:43:59Z: PLAYER ADDED   [ 3156485080] Narutogodabb
+2022-05-02T21:44:03Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   -0.6,     3.8,   -11.4)
+  ;hb if so go to da room ig.
+2022-05-02T21:44:03Z: PLAYER ADDED   [ 1347132186] 16k_Rapid
+2022-05-02T21:44:04Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  /w Adrianaaya123  I’ll go
+2022-05-02T21:44:04Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (    9.4,     3.8,   -35.6)
+  We*
+2022-05-02T21:44:06Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  ima go
+2022-05-02T21:44:07Z: PLAYER CHATTED [ 2424972668] Princess_june2011    (   -6.9,     3.9,    -2.0)
+  /headless
+2022-05-02T21:44:09Z: PLAYER REMOVED [  484298461] FlySi13
+2022-05-02T21:44:09Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  WOAH LIKE MY AV?
+2022-05-02T21:44:10Z: PLAYER CHATTED [ 2409799513] Itz_yourboylilzan    (   89.6,     4.1,   -59.7)
+  /korblox
+2022-05-02T21:44:11Z: PLAYER CHATTED [ 1080407586] isabella091111       (   66.8,     8.7,     1.0)
+  Why are you friending me
+2022-05-02T21:44:12Z: PLAYER CHATTED [ 1806644177] icecream1414122      (    4.0,     3.8,   -40.6)
+  y’all like do wut u doin
+2022-05-02T21:44:12Z: PLAYER REMOVED [ 3371708723] thatboyismine_12
+2022-05-02T21:44:12Z: PLAYER CHATTED [ 2337318609] gtgbri               (   34.5,     3.7,   -19.8)
+  excuse me
+2022-05-02T21:44:13Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (    5.2,     4.8,   -36.7)
+  Why
+2022-05-02T21:44:13Z: PLAYER CHATTED [ 2676225860] juice1528            (   34.5,     3.8,   -23.0)
+  i-
+2022-05-02T21:44:15Z: PLAYER CHATTED [ 2409799513] Itz_yourboylilzan    (  101.0,     4.2,   -68.3)
+  /headless
+2022-05-02T21:44:16Z: PLAYER CHATTED [  592439522] drexmingz            (  154.8,   -12.0,   -16.3)
+  nah
+2022-05-02T21:44:16Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  or me
+2022-05-02T21:44:19Z: PLAYER CHATTED [  592439522] drexmingz            (  154.8,   -12.0,   -16.3)
+  you
+2022-05-02T21:44:19Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   19.0,     4.8,   -29.1)
+  Lauren
+2022-05-02T21:44:20Z: PLAYER CHATTED [ 1080407586] isabella091111       (   67.8,     8.7,     0.0)
+  Boy
+2022-05-02T21:44:21Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   29.0,     3.8,   -27.3)
+  What
+2022-05-02T21:44:22Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  WOWW
+2022-05-02T21:44:22Z: PLAYER CHATTED [ 2676225860] juice1528            (   35.4,     3.8,   -22.8)
+  see we can explain
+2022-05-02T21:44:23Z: PLAYER ADDED   [ 2913216348] YChristxne
+2022-05-02T21:44:24Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  valid
+2022-05-02T21:44:28Z: PLAYER CHATTED [ 1254460431] 3kbailey             (  156.8,   -11.9,   -13.3)
+  fr fr
+2022-05-02T21:44:29Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   30.0,     4.8,   -23.7)
+  I think
+2022-05-02T21:44:30Z: PLAYER CHATTED [ 3421368778] TheyFwDiortoFine     (   37.1,     4.1,   -21.5)
+  she talkin to u
+2022-05-02T21:44:36Z: PLAYER CHATTED [ 1941332332] mike_gaming79        (   30.0,     4.8,   -23.7)
+  Sue want alone time with me
+2022-05-02T21:44:36Z: PLAYER CHATTED [ 2676225860] juice1528            (   35.6,     3.8,   -22.2)
+  lemme do all the talkn
+2022-05-02T21:44:36Z: PLAYER CHATTED [ 2337318609] gtgbri               (   34.5,     3.7,   -19.8)
+  hmm
+2022-05-02T21:44:37Z: PLAYER CHATTED [  592439522] drexmingz            (  154.8,   -12.0,   -16.3)
+  be minez frfr
+2022-05-02T21:44:38Z: PLAYER CHATTED [ 3207046959] LAURAV1BE            (   28.5,     3.8,   -26.9)
+  ?
+2022-05-02T21:44:39Z: PLAYER CHATTED [ 2234741698] OMG_TONYy            (   64.0,     5.1,     1.0)
+  /re
+2022-05-02T21:44:39Z: PLAYER CHATTED [ 2553459450] EXCLUSIVE_JAYN       (   43.7,     4.3,   -35.6)
+  ;hb nvm-
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     0.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -6.9,     4.8,    -2.0)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,     1.8)
+2022-05-02T21:44:39Z: CHRCTER ADDED  [ 2234741698] OMG_TONYy            (   -7.5,     4.8,    -4.7)
+2022-05-02T21:44:40Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3443189339] BANDZ2KACC
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1462980187] pixiedust123412
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2205998152] xxx_richboinice
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3207046959] LAURAV1BE
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3421368778] TheyFwDiortoFine
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1941332332] mike_gaming79
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3472708025] Ruejjdhdueue
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2337318609] gtgbri
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1736623288] 7thAvenuee
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3480936525] traapx_gi
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1806644177] icecream1414122
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1838006829] SunsetBlossomxox
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2234741698] OMG_TONYy
+2022-05-02T21:44:40Z: PLAYER REMOVED [  592439522] drexmingz
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2553459450] EXCLUSIVE_JAYN
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1734214215] Zay123zz
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1666501644] Peo2l
+2022-05-02T21:44:40Z: PLAYER REMOVED [  550934690] 772Jayx
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3314584160] Aimanraalon92303
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3302384960] T2M30
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2676225860] juice1528
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2243492320] itsme_jauna
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3425610878] ash167900op
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1080407586] isabella091111
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2385064104] Cammxzz
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1254460431] 3kbailey
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3186215153] Jaydrbart
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1029558542] itrayden123
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3467564420] Adrianaaya123
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1610015627] 0FFP4RKS_KASHH
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2384610939] Maxaveli1
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2424972668] Princess_june2011
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1151021442] ballaboss0743
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2409799513] Itz_yourboylilzan
+2022-05-02T21:44:40Z: PLAYER REMOVED [  813954052] Nanamarie012
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1694982951] Th3yLuvToni
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1541021389] pikerhyanna
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 3156485080] Narutogodabb
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 1347132186] 16k_Rapid
+2022-05-02T21:44:40Z: PLAYER REMOVED [ 2913216348] YChristxne
+2022-05-02T21:44:40Z: CHAT STREAM SUCCESSFULLY ENDED

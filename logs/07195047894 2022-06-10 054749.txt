@@ -1,0 +1,219 @@
+[    1630228] : [ 7195047894] DiskInRoblox - 54cff0f7-70bc-4ba0-ad28-415f4a288901
+2022-06-10T05:47:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-10T05:47:49Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-10T05:47:49Z: PLAYER ADDED   [ 1830769040] Guest142109
+2022-06-10T05:47:49Z: PLAYER ADDED   [ 2734511738] LoggyQuisy411
+2022-06-10T05:47:49Z: PLAYER ADDED   [ 3211135745] badaksumu
+2022-06-10T05:47:49Z: PLAYER ADDED   [ 1225246452] ksa1587
+2022-06-10T05:47:49Z: PLAYER ADDED   [ 3269855121] sussyb095
+2022-06-10T05:47:58Z: PLAYER CHATTED [ 3269855121] sussyb095            (    5.8,     3.0,    18.5)
+  bruh a japan man
+2022-06-10T05:48:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (    7.3,     3.7,   -13.9)
+  òó
+2022-06-10T05:48:03Z: PLAYER CHATTED [ 1225246452] ksa1587              (   12.5,     2.9,    15.1)
+  스쳐가는 인연이엿나
+2022-06-10T05:48:10Z: PLAYER CHATTED [ 3269855121] sussyb095            (    8.9,     3.0,    13.8)
+  what?
+2022-06-10T05:48:17Z: PLAYER CHATTED [ 3211135745] badaksumu            (    3.0,     3.0,     1.5)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:21Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:22Z: PLAYER CHATTED [ 3269855121] sussyb095            (   -1.0,     3.0,    -3.9)
+  .....
+2022-06-10T05:48:22Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:23Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:24Z: PLAYER CHATTED [ 1225246452] ksa1587              (   12.5,     2.9,    15.1)
+  짧지 않은 우리가 함께 했던 시간들이
+2022-06-10T05:48:25Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:26Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:27Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:27Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:28Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:29Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:30Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:31Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:31Z: PLAYER CHATTED [ 3269855121] sussyb095            (   -2.8,     3.0,     3.8)
+  #################
+2022-06-10T05:48:32Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:32Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:33Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:33Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.4,     3.0,    11.6)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:35Z: PLAYER CHATTED [ 3269855121] sussyb095            (   -7.9,     3.0,     7.2)
+  #######
+2022-06-10T05:48:37Z: PLAYER CHATTED [ 1225246452] ksa1587              (   12.5,     2.9,    15.1)
+  자꾸 내마음을 가둬##
+2022-06-10T05:48:54Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -8.0,     3.0,    17.4)
+  ## # ## ## ### ### lore
+2022-06-10T05:48:57Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:59Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:48:59Z: PLAYER REMOVED [ 2734511738] LoggyQuisy411
+2022-06-10T05:49:01Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:01Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:01Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:02Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:03Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  v
+2022-06-10T05:49:09Z: PLAYER ADDED   [ 3194669082] ceecoo3
+2022-06-10T05:49:14Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:15Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:15Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:16Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:16Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:18Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:18Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:19Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa/
+2022-06-10T05:49:20Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:20Z: PLAYER CHATTED [ 3269855121] sussyb095            (    7.8,     3.0,    22.5)
+  bruh
+2022-06-10T05:49:21Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -11.0,     3.0,    17.8)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:49:25Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -10.4,     3.0,    15.9)
+  wat
+2022-06-10T05:49:28Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -3.4,     3.0,    21.6)
+  wat
+2022-06-10T05:49:31Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -3.4,     3.0,    21.6)
+  wat
+2022-06-10T05:49:32Z: PLAYER CHATTED [ 1830769040] Guest142109          (    5.3,     3.0,   -10.4)
+  spamming here in this chat will never let you in
+2022-06-10T05:49:38Z: PLAYER CHATTED [ 1225246452] ksa1587              (   12.2,     2.9,    14.4)
+  워워 베베언ㅇ늬츄 사랑허긴 했었나요 스쳐가는 인연이엿나요 짧지 안은 우리 함께 햇던 시간들이 자꾸 내마음을 가둬##
+2022-06-10T05:49:41Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -8.6,     3.0,    22.5)
+  HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+2022-06-10T05:49:43Z: PLAYER REMOVED [ 3194669082] ceecoo3
+2022-06-10T05:49:45Z: PLAYER CHATTED [ 1830769040] Guest142109          (    5.3,     3.0,   -10.4)
+  and bannedable.
+2022-06-10T05:49:49Z: PLAYER ADDED   [ 2751347428] harsonraveepro
+2022-06-10T05:50:03Z: PLAYER CHATTED [ 3269855121] sussyb095            (    3.1,     3.0,    12.4)
+  im new in here
+2022-06-10T05:50:05Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  hi ####
+2022-06-10T05:50:07Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:15Z: PLAYER CHATTED [ 2751347428] harsonraveepro       (   11.4,     2.9,   -16.4)
+  yall how to type
+2022-06-10T05:50:18Z: PLAYER CHATTED [ 2751347428] harsonraveepro       (   11.4,     2.9,   -16.4)
+  i mean chat
+2022-06-10T05:50:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.0,     3.7,   -23.4)
+  Join the server then say stuff.
+2022-06-10T05:50:21Z: PLAYER REMOVED [ 1225246452] ksa1587
+2022-06-10T05:50:23Z: PLAYER CHATTED [ 3269855121] sussyb095            (    9.6,     3.0,   -12.0)
+  yea
+2022-06-10T05:50:24Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:26Z: PLAYER CHATTED [ 2751347428] harsonraveepro       (   11.4,     2.9,   -16.4)
+  #####
+2022-06-10T05:50:26Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:29Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:29Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:30Z: PLAYER CHATTED [ 3211135745] badaksumu            (  -15.4,     3.0,    25.3)
+  ###### ###### tong ###### ########## tu ####### hua hua huaa ####### mohang tom ######### ci #### ###### ########## Haaa haaa huaaa
+2022-06-10T05:50:32Z: PLAYER CHATTED [ 3269855121] sussyb095            (    6.6,     3.0,   -14.5)
+  whta srver?
+2022-06-10T05:50:39Z: PLAYER ADDED   [  338257811] gamerjr9847
+2022-06-10T05:50:41Z: PLAYER CHATTED [ 3269855121] sussyb095            (    6.9,     3.0,   -21.4)
+  internet
+2022-06-10T05:50:47Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -2.6,     3.0,    19.6)
+  BOBUX
+2022-06-10T05:50:48Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.4,     3.0,    15.6)
+  dude
+2022-06-10T05:50:50Z: PLAYER REMOVED [  338257811] gamerjr9847
+2022-06-10T05:50:52Z: PLAYER ADDED   [ 1235332641] loomian_warrior
+2022-06-10T05:50:54Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.4,     3.0,    15.6)
+  u want account to freely get banned?
+2022-06-10T05:50:59Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.8,     3.0,    15.3)
+  for 7 days?
+2022-06-10T05:50:59Z: PLAYER CHATTED [ 2751347428] harsonraveepro       (   -2.2,     2.8,    -8.4)
+  how
+2022-06-10T05:51:00Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -1.1,     3.0,    22.5)
+  wat that
+2022-06-10T05:51:01Z: PLAYER CHATTED [ 3269855121] sussyb095            (    8.2,     3.0,   -23.6)
+  windows?
+2022-06-10T05:51:07Z: PLAYER CHATTED [ 3269855121] sussyb095            (    8.2,     3.0,   -23.6)
+  hey windows?
+2022-06-10T05:51:11Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.8,     3.0,    15.3)
+  if u got banned for 7 days
+2022-06-10T05:51:12Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.8,     3.0,    15.3)
+  mean like
+2022-06-10T05:51:15Z: PLAYER CHATTED [ 2751347428] harsonraveepro       (   -3.5,     2.8,   -12.7)
+  ################################
+2022-06-10T05:51:16Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -1.9,     3.0,    24.5)
+  im new to robloz
+2022-06-10T05:51:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.6,     3.7,   -27.5)
+  Hi.
+2022-06-10T05:51:18Z: PLAYER REMOVED [ 2751347428] harsonraveepro
+2022-06-10T05:51:18Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.8,     3.0,    15.3)
+  you'll never played roblox again until 7 days
+2022-06-10T05:51:27Z: PLAYER CHATTED [ 1830769040] Guest142109          (   -4.8,     3.0,    15.3)
+  or create a new accounts
+2022-06-10T05:51:32Z: PLAYER ADDED   [  271464472] Nicecoolyiox
+2022-06-10T05:51:34Z: PLAYER CHATTED [ 3269855121] sussyb095            (    8.8,     3.0,   -22.5)
+  where to get in that server
+2022-06-10T05:51:38Z: PLAYER CHATTED [ 1830769040] Guest142109          (    8.1,     3.0,   -21.3)
+  dude
+2022-06-10T05:51:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.1,     3.7,   -26.0)
+  Description.
+2022-06-10T05:51:41Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -1.2,     3.0,    29.0)
+  AN JI ##
+2022-06-10T05:51:43Z: PLAYER CHATTED [ 1830769040] Guest142109          (    8.9,     3.0,   -22.5)
+  u still didn't understand ain't u
+2022-06-10T05:51:44Z: PLAYER REMOVED [ 1235332641] loomian_warrior
+2022-06-10T05:51:45Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.6,     3.0,    23.4)
+  N G
+2022-06-10T05:51:49Z: PLAYER CHATTED [ 1830769040] Guest142109          (    9.8,     3.0,   -19.3)
+  G A M E. page.
+2022-06-10T05:51:49Z: PLAYER ADDED   [ 1803510771] RazeenSky09
+2022-06-10T05:51:51Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -7.6,     3.0,    23.4)
+  AN JI N G
+2022-06-10T05:51:52Z: PLAYER CHATTED [  271464472] Nicecoolyiox         (    8.7,     2.7,     7.7)
+  hi
+2022-06-10T05:51:55Z: PLAYER CHATTED [ 1830769040] Guest142109          (   11.1,     3.0,    -8.1)
+  READ THE BELOW
+2022-06-10T05:51:58Z: PLAYER CHATTED [ 1830769040] Guest142109          (    7.0,     3.0,    16.9)
+  N O W
+2022-06-10T05:52:00Z: PLAYER CHATTED [ 1830769040] Guest142109          (    8.1,     3.0,     6.2)
+  and hi
+2022-06-10T05:52:01Z: PLAYER CHATTED [ 3211135745] badaksumu            (   -6.5,     3.0,    16.6)
+  ##################################################################################################################################
+2022-06-10T05:52:02Z: PLAYER CHATTED [ 1803510771] RazeenSky09          (   26.5,     3.3,    -7.1)
+  e
+2022-06-10T05:52:17Z: PLAYER CHATTED [  271464472] Nicecoolyiox         (    1.5,     2.7,   -19.4)
+  hello
+2022-06-10T05:52:30Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-10T05:52:30Z: PLAYER REMOVED [ 1830769040] Guest142109
+2022-06-10T05:52:30Z: PLAYER REMOVED [ 3211135745] badaksumu
+2022-06-10T05:52:30Z: PLAYER REMOVED [ 3269855121] sussyb095
+2022-06-10T05:52:30Z: PLAYER REMOVED [  271464472] Nicecoolyiox
+2022-06-10T05:52:30Z: PLAYER REMOVED [ 1803510771] RazeenSky09
+2022-06-10T05:52:30Z: CHAT STREAM SUCCESSFULLY ENDED

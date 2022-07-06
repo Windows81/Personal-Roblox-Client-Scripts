@@ -1,0 +1,75 @@
+[    1630228] : [ 9478598190] Sword Fight In The Happy Town Of Robloxia - 8494a7b6-d0b3-44b7-88df-e5c847122ed8
+2022-06-18T08:52:46Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-18T08:52:46Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-18T08:53:08Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-18T08:53:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.2,   119.0,   100.4)
+  ;cmds
+2022-06-18T08:53:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   23.2,   119.0,   100.4)
+  ;fly
+2022-06-18T08:53:38Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T08:54:21Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T08:54:26Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -12.0,     4.2,    15.9)
+  why is this not working
+2022-06-18T08:54:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   78.4,     4.9,    11.8)
+  Your loss.
+2022-06-18T08:54:59Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -3.9,     4.2,    46.3)
+  come
+2022-06-18T08:55:20Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T08:55:26Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -11.4,     4.2,    14.7)
+  am I floating
+2022-06-18T08:55:47Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -145.3,    46.6,     7.4)
+  That's the best you've done.
+2022-06-18T08:55:53Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T08:56:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -10.9,     4.2,    29.3)
+  Lol im noob
+2022-06-18T08:56:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  Here should be the lyrics to my next song:
+2022-06-18T08:56:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  As the stagnant Avionlix floats and whimpers,
+2022-06-18T08:57:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  The proveably aerodynamic design of your Revered Leader flies in golden victory!
+2022-06-18T08:58:12Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -75.7,     4.2,   -13.4)
+  Sounds neat, cant wait for it to come out
+2022-06-18T08:58:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  Indeed, the lacking ironclad plastics of his form are inhibitive to his success,
+2022-06-18T08:59:09Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -2.6,    13.3,   177.8)
+  yes
+2022-06-18T08:59:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  The success his evil and envious mind desires is plain to see:
+2022-06-18T08:59:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   11.3,     4.2,    84.9)
+  Want to build a complex system
+2022-06-18T09:00:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -54.7,   319.8,    28.5)
+  Total annialhation is continent on something which he seeks, but never can attain to boast.
+2022-06-18T09:00:49Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T09:01:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.3,   195.3,    33.0)
+  As the musical genius of your Respected Leader VisualPlugin shines in platinum finish,
+2022-06-18T09:01:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   75.9,    40.2,   -19.1)
+  Lets build smart drones walking around the ball room
+2022-06-18T09:02:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (   77.1,    41.4,   -18.2)
+  and when all the cake is finished
+2022-06-18T09:02:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (   77.1,    41.4,   -18.2)
+  it flys to the room
+2022-06-18T09:02:19Z: PLAYER CHATTED [ 3109050268] Avionlix             (   77.1,    41.4,   -18.2)
+  to give to people
+2022-06-18T09:02:41Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -5.5,     4.2,   -17.1)
+  AI
+2022-06-18T09:02:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -76.2,     4.2,    47.6)
+  For the futur
+2022-06-18T09:02:57Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -78.8,     4.2,    54.6)
+  future
+2022-06-18T09:03:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.3,   195.3,    33.0)
+  Your Nation's enemies stammer and await their capitulation, oh it is certain!
+2022-06-18T09:03:59Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -103.0,    41.9,   154.7)
+  Yes
+2022-06-18T09:04:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.3,   195.3,    33.0)
+  Their tardiness aids and abets their demise, that is only which their design permits.
+2022-06-18T09:04:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.3,   195.3,    33.0)
+  (I will recover these hashed lyrics.)
+2022-06-18T09:04:15Z: PLAYER CHATTED [ 3109050268] Avionlix             ( -104.1,     7.1,    64.3)
+  I agree
+2022-06-18T09:04:27Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T09:04:57Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  -11.4,     4.7,    14.7)
+2022-06-18T09:05:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -15.5,     4.2,    19.1)
+  Look on the kord
+2022-06-18T09:05:59Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-18T09:06:15Z: PLAYER REMOVED [    1630228] VisualPlugin

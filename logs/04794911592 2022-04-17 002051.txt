@@ -1,0 +1,207 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas - Hotel Showcase, W.I.P - 7e676b94-62d1-463e-a2f8-69378c0ca6cc
+2022-04-17T00:20:51Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-17T00:20:53Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-17T00:20:53Z: PLAYER ADDED   [ 3263604652] Isaacpov1
+2022-04-17T00:20:53Z: PLAYER ADDED   [ 1993628665] Nationals1x
+2022-04-17T00:21:12Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (   44.0,   190.3,    85.8)
+  Um hello
+2022-04-17T00:21:13Z: PLAYER CHATTED [ 1993628665] Nationals1x          (   41.0,   190.4,    86.5)
+  Isaac is that the owner
+2022-04-17T00:21:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   61.1,    90.7,    69.1)
+  Yes I am.
+2022-04-17T00:21:35Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -53.7,   190.4,    84.0)
+  Isaac
+2022-04-17T00:21:47Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -118.7,   190.3,    83.5)
+  My room is 13-087
+2022-04-17T00:22:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.4,   190.7,    83.8)
+  It's on the other side.
+2022-04-17T00:22:26Z: PLAYER CHATTED [ 1993628665] Nationals1x          ( -193.9,   190.4,   174.6)
+  Oh god
+2022-04-17T00:22:51Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  -79.3,   190.3,   173.6)
+  Over here
+2022-04-17T00:23:28Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  182.6,   190.4,   174.0)
+  Oh man
+2022-04-17T00:23:51Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  199.9,   190.3,   188.0)
+  You guys can stay here
+2022-04-17T00:23:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  203.8,   190.7,   185.7)
+  How's the hotel?
+2022-04-17T00:24:00Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  196.1,   190.4,   176.8)
+  Np I have a room
+2022-04-17T00:24:12Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  195.6,   190.3,   180.3)
+  What room is it
+2022-04-17T00:24:13Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  198.7,   190.4,   181.9)
+  No I have
+2022-04-17T00:24:29Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  196.5,   190.3,   180.8)
+  With room in the hotel
+2022-04-17T00:24:42Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  198.7,   190.4,   181.9)
+  15.026
+2022-04-17T00:24:53Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  196.6,   190.4,   182.9)
+  Owner what is your room
+2022-04-17T00:24:58Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  193.4,   190.3,   182.2)
+  It’s go to your room
+2022-04-17T00:24:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  198.5,   190.7,   189.8)
+  Mine is 11 053.
+2022-04-17T00:25:12Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  198.3,   190.4,   178.3)
+  I’m on the tallest
+2022-04-17T00:25:27Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  112.3,   190.4,   122.2)
+  #### #
+2022-04-17T00:26:41Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -62.6,   199.4,    43.6)
+  /w ######################### P,
+2022-04-17T00:26:47Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -62.6,   199.4,    43.6)
+  Bruh 
+2022-04-17T00:26:51Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  -60.9,   199.3,    44.4)
+  #### ### get a balcony
+2022-04-17T00:27:01Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  -60.9,   199.3,    44.4)
+  #### ### got 
+2022-04-17T00:27:20Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -62.6,   199.4,    43.6)
+  Vis
+2022-04-17T00:27:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -65.5,   199.7,    43.9)
+  That is sick!
+2022-04-17T00:27:23Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  -60.3,   199.3,    45.4)
+  It’s go to his room
+2022-04-17T00:27:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -65.5,   199.7,    43.9)
+  Follow me.
+2022-04-17T00:27:39Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -62.6,   199.4,    43.6)
+  Visual there is something wrong
+2022-04-17T00:27:42Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  -60.3,   199.3,    45.4)
+  Yeah I know right 
+2022-04-17T00:27:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -211.9,   185.7,    33.5)
+  What's wrong?
+2022-04-17T00:27:56Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -54.1,   199.4,    86.9)
+  Come to l
+2022-04-17T00:28:44Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  145.1,   199.3,   115.1)
+  I am comeing to the 1
+2022-04-17T00:29:00Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  176.6,    91.4,   109.7)
+  Wait for isaac
+2022-04-17T00:29:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  171.1,    91.7,   112.3)
+  This lift breaks.
+2022-04-17T00:29:02Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  144.6,   199.3,   114.7)
+  I am getting in the elevator 
+2022-04-17T00:29:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  171.1,    91.7,   112.3)
+  When you go up and back down, the doors don't open.
+2022-04-17T00:29:14Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  170.8,    91.4,   110.4)
+  Why does it break
+2022-04-17T00:29:20Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  128.6,   199.3,   118.0)
+  What lift
+2022-04-17T00:29:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  171.3,    91.7,   113.9)
+  It's a bug.
+2022-04-17T00:29:57Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  171.7,    93.1,   140.8)
+  Can you fix it
+2022-04-17T00:30:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  169.3,    92.9,   136.2)
+  Eventually.
+2022-04-17T00:30:17Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  148.0,   199.3,   117.0)
+  Guys the elevator is not comeing 
+2022-04-17T00:30:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  169.3,    92.9,   136.2)
+  The down buttons do not work.
+2022-04-17T00:30:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  147.8,    91.7,   137.9)
+  Try hitting the up button.
+2022-04-17T00:30:43Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  145.7,    91.4,   142.1)
+  Yeah
+2022-04-17T00:30:54Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  145.7,    91.4,   142.1)
+  Down does not work
+2022-04-17T00:30:57Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  130.1,   199.3,   121.0)
+  I am trying 
+2022-04-17T00:31:21Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  130.1,   199.3,   121.0)
+  It couldn’t work
+2022-04-17T00:31:26Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  131.5,   199.3,   118.6)
+  Nvm
+2022-04-17T00:31:49Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  129.3,   199.3,   116.0)
+  The elevator is working 
+2022-04-17T00:31:52Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  140.6,   158.0,   127.9)
+  Hope I do get stick
+2022-04-17T00:31:56Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  140.6,   199.1,   127.9)
+  Stuck
+2022-04-17T00:32:20Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  129.6,    91.7,   108.5)
+  ####
+2022-04-17T00:32:26Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  132.6,    91.4,   110.5)
+  Holy
+2022-04-17T00:33:16Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  141.7,    91.3,   148.3)
+  #######################
+2022-04-17T00:33:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   96.9,    93.6,   169.6)
+  /w Isaacpov1  I do not accept freind requests.
+2022-04-17T00:33:35Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  139.7,   168.1,   149.1)
+  Visual
+2022-04-17T00:33:38Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  142.1,   172.3,   149.2)
+  Ok
+2022-04-17T00:33:47Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  124.7,   172.4,   141.3)
+  We’re on eleven
+2022-04-17T00:33:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  155.7,    92.4,   138.3)
+  Meet you there!
+2022-04-17T00:34:22Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  113.6,   172.4,   174.3)
+  11 53
+2022-04-17T00:35:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -242.6,   172.7,   147.0)
+  How'd you find this game?
+2022-04-17T00:35:04Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -236.5,   175.8,   145.5)
+  Nick room
+2022-04-17T00:35:12Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -236.5,   175.8,   145.5)
+  Ok
+2022-04-17T00:35:14Z: PLAYER CHATTED [ 1993628665] Nationals1x          (   -8.6,   172.4,    80.5)
+  I find this game
+2022-04-17T00:35:25Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -236.5,   175.8,   145.5)
+  Nice room
+2022-04-17T00:35:35Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -236.4,   172.3,   149.2)
+  What game
+2022-04-17T00:35:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -246.5,   172.7,   153.5)
+  Thanks Isaac!
+2022-04-17T00:35:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -246.5,   172.7,   153.5)
+  How did youhear about Kubla Khan?
+2022-04-17T00:35:50Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  -20.5,   172.4,    79.9)
+  In ########## Favirotes
+2022-04-17T00:35:55Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -245.6,   172.3,   149.1)
+  No
+2022-04-17T00:36:29Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -240.2,   172.3,   148.8)
+  Can we go down to the lobby please 
+2022-04-17T00:36:42Z: PLAYER CHATTED [ 1993628665] Nationals1x          ( -231.7,   172.4,   146.1)
+  Dude
+2022-04-17T00:36:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -235.5,   172.7,   146.3)
+  Sure!
+2022-04-17T00:36:44Z: PLAYER CHATTED [ 3263604652] Isaacpov1            ( -228.8,   172.3,   145.0)
+  You scared me
+2022-04-17T00:36:46Z: PLAYER CHATTED [ 1993628665] Nationals1x          ( -231.7,   172.4,   146.1)
+  Wait
+2022-04-17T00:38:40Z: CHRCTER ADDED  [ 1993628665] Nationals1x          (   35.0,   103.4,    -2.8)
+2022-04-17T00:38:41Z: PLAYER CHATTED [ 1993628665] Nationals1x          (   35.0,    93.3,    -2.8)
+  AHHH
+2022-04-17T00:38:42Z: CHRCTER ADDED  [ 3263604652] Isaacpov1            (   35.0,   103.3,    -2.8)
+2022-04-17T00:39:39Z: PLAYER ADDED   [ 1269155773] 302menino
+2022-04-17T00:40:10Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  150.5,    91.3,   126.8)
+  Most buildings don’t have 13th floors bc it is unlucky 
+2022-04-17T00:40:10Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  147.6,    91.4,   127.5)
+  Isaac my other friend
+2022-04-17T00:40:58Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  149.5,    91.4,   126.8)
+  I went down to J
+2022-04-17T00:41:20Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  136.4,   190.3,   115.4)
+  And I am on the 13th floors
+2022-04-17T00:41:26Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  131.5,   190.2,   109.3)
+  302boy
+2022-04-17T00:41:37Z: PLAYER ADDED   [ 2862314818] raratheman000
+2022-04-17T00:42:07Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  136.1,   190.4,   122.5)
+  How did down work
+2022-04-17T00:42:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.8,    91.7,    99.7)
+  The lift was already above you.
+2022-04-17T00:42:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  116.8,    91.7,   127.2)
+  I guess that's how.
+2022-04-17T00:42:51Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  197.8,   190.3,   172.9)
+  My door is open 
+2022-04-17T00:42:56Z: PLAYER REMOVED [ 2862314818] raratheman000
+2022-04-17T00:43:06Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  199.5,   190.3,   181.6)
+  That is so weird 
+2022-04-17T00:43:06Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  195.0,   190.4,   180.6)
+  What is your room again
+2022-04-17T00:43:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  113.9,    91.7,   121.8)
+  11 053
+2022-04-17T00:43:46Z: PLAYER CHATTED [ 3263604652] Isaacpov1            (  122.2,   190.3,   171.5)
+  Ok
+2022-04-17T00:43:47Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  191.0,   190.4,   197.8)
+  No Isaac
+2022-04-17T00:44:00Z: CHRCTER ADDED  [ 1269155773] 302menino            (   35.0,   103.5,    -2.8)
+2022-04-17T00:44:13Z: PLAYER CHATTED [ 1993628665] Nationals1x          (  179.6,   190.4,   172.3)
+  brb
+2022-04-17T00:44:19Z: PLAYER REMOVED [ 1993628665] Nationals1x
+2022-04-17T00:45:15Z: PLAYER ADDED   [ 2706626660] sapss16071
+2022-04-17T00:45:49Z: PLAYER REMOVED [ 2706626660] sapss16071
+2022-04-17T00:46:41Z: PLAYER REMOVED [ 3263604652] Isaacpov1
+2022-04-17T00:51:19Z: CHRCTER ADDED  [ 1269155773] 302menino            (   35.0,   103.5,    -2.8)
+2022-04-17T00:52:24Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-17T00:52:24Z: PLAYER REMOVED [ 1269155773] 302menino
+2022-04-17T00:52:24Z: CHAT STREAM SUCCESSFULLY ENDED

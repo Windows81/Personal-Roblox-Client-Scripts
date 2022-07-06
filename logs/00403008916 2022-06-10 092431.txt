@@ -1,0 +1,50 @@
+[    1630228] : [  403008916] Speed - 4119aab0-9331-4db8-9283-26e968a2b08e
+2022-06-10T09:24:31Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-10T09:24:31Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-10T09:24:31Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-10T09:24:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   104.6,     0.0)
+2022-06-10T09:24:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( 1994.0,    82.5,  -274.0)
+2022-06-10T09:25:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   104.6,     0.0)
+2022-06-10T09:25:12Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( 1996.0,    82.5,  -281.0)
+2022-06-10T09:25:30Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.0,     0.0)
+2022-06-10T09:25:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  935.0,   235.2,   255.0)
+2022-06-10T09:25:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         ( -246.0,    89.2,   252.0)
+2022-06-10T09:26:44Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.0,     0.0)
+2022-06-10T09:26:52Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( 1989.0,    82.5,  -275.0)
+2022-06-10T09:27:05Z: CHRCTER ADDED  [ 3109050268] Avionlix             ( 1990.0,    82.5,  -281.0)
+2022-06-10T09:27:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3205.9,    76.7, -1342.3)
+  I finished.
+2022-06-10T09:27:15Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 1992.6,    83.0,  -262.2)
+  bring me
+2022-06-10T09:27:16Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 1992.6,    83.0,  -262.2)
+  to you
+2022-06-10T09:27:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3231.4,    76.7, -1354.0)
+  I can't.
+2022-06-10T09:27:27Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 1897.0,    78.4,   105.9)
+  yes you can
+2022-06-10T09:27:31Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 1897.0,    78.4,   105.9)
+  you can do everything
+2022-06-10T09:27:47Z: PLAYER CHATTED [ 3109050268] Avionlix             (  917.7,   100.6,   -86.7)
+  which level r u
+2022-06-10T09:27:50Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.0,     0.0)
+2022-06-10T09:27:59Z: CHRCTER ADDED  [ 3109050268] Avionlix             (  938.0,   235.2,   252.0)
+2022-06-10T09:28:02Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3195.1,    76.7, -1346.8)
+  Level 6.
+2022-06-10T09:28:05Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.0,     0.0)
+2022-06-10T09:28:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3228.7,    76.7, -1340.7)
+  SMILE.
+2022-06-10T09:29:00Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 3217.7,    76.1, -1352.9)
+  :))
+2022-06-10T09:29:04Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 3217.7,    76.1, -1352.9)
+  SMILE
+2022-06-10T09:29:16Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 3227.5,    76.1, -1343.1)
+  SMILE
+2022-06-10T09:29:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3228.7,    76.7, -1340.7)
+  Let's battle.
+2022-06-10T09:29:48Z: PLAYER CHATTED [ 3109050268] Avionlix             ( 3227.6,    76.1, -1343.0)
+  Ok
+2022-06-10T09:29:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( 3207.8,    76.7, -1347.0)
+  Go to follow me!
+2022-06-10T09:30:03Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-10T09:30:03Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-10T09:30:03Z: CHAT STREAM SUCCESSFULLY ENDED

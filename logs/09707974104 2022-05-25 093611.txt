@@ -1,0 +1,147 @@
+[    1630228] : [ 9707974104] Untitled Game - 6fe772a3-6b43-4b06-a6ad-7a7fbfd15cfe
+2022-05-25T09:36:11Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-25T09:36:13Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-25T09:36:13Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-05-25T09:36:39Z: PLAYER CHATTED [ 3109050268] Avionlix             (   25.0,     9.8,    14.4)
+  yes
+2022-05-25T09:37:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    16.1,   -38.0)
+  FLY!
+2022-05-25T09:38:18Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -19.2,     9.8,   -36.1)
+  opinions?
+2022-05-25T09:38:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    16.1,   -38.0)
+  Not flyly enough.
+2022-05-25T09:38:43Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -27.8,     9.8,   -35.9)
+  oh no
+2022-05-25T09:38:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    16.1,   -38.0)
+  Needs more vehicles and stuff.
+2022-05-25T09:38:54Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -17.8,     9.8,   -45.9)
+  yes
+2022-05-25T09:38:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    16.1,   -38.0)
+  And also F3X.
+2022-05-25T09:39:01Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -24.0,    10.8,   -28.9)
+  yes
+2022-05-25T09:39:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.5,    16.1,   -38.0)
+  And actual fiteing moves.
+2022-05-25T09:39:10Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -26.5,    10.0,   -24.1)
+  yes
+2022-05-25T09:39:13Z: PLAYER CHATTED [ 3109050268] Avionlix             (  -22.7,    10.8,   -20.7)
+  this is beta
+2022-05-25T09:39:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.8,     9.8,    -9.2)
+  What is a RemoteEvent's role?
+2022-05-25T09:40:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.8,     9.8,    -9.2)
+  Role in a game's infrastructure?
+2022-05-25T09:40:13Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -3.6,     9.8,   -12.1)
+  allow 2 way communication
+2022-05-25T09:40:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -7.8,     9.8,    -9.2)
+  Examples?
+2022-05-25T09:40:47Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -4.5,     9.8,    -7.8)
+  so if u create remote event in replicated storage
+2022-05-25T09:41:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -4.6,     9.8,    -7.9)
+  and u connect a function from a local script
+2022-05-25T09:41:08Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -4.6,     9.8,    -7.9)
+  it wont fire
+2022-05-25T09:41:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Why won't it?
+2022-05-25T09:42:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  A) RemoteEvents need to also be connected from the server.
+2022-05-25T09:42:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  B) RemoteEvents need to be fired from the server.
+2022-05-25T09:42:49Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -4.6,     9.8,    -7.9)
+  B)
+2022-05-25T09:42:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  C) RemoteEvents do not have the ability to ... correct.
+2022-05-25T09:43:02Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -4.6,     9.8,    -7.9)
+  yes
+2022-05-25T09:43:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  What is a Boolean?
+2022-05-25T09:43:22Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  true false
+2022-05-25T09:43:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Correct.
+2022-05-25T09:43:45Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  yes
+2022-05-25T09:43:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Which sorting algorithm is more efficient:
+2022-05-25T09:44:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Quick/mergesort or insertion sort?
+2022-05-25T09:44:32Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  quickmergesort is in c++ right?
+2022-05-25T09:44:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Òóf.
+2022-05-25T09:44:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  jk
+2022-05-25T09:45:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  You (almost) demonstrated a lack of understanding of the question.
+2022-05-25T09:45:21Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  ########## sort is more simple
+2022-05-25T09:45:29Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  insertion sort
+2022-05-25T09:45:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Wrong.
+2022-05-25T09:45:51Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  and faster
+2022-05-25T09:45:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  I mean correct.
+2022-05-25T09:46:04Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  yes
+2022-05-25T09:46:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  I have code for an age verifyer.
+2022-05-25T09:47:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  If you're over 18.0, yes, if under, no.
+2022-05-25T09:47:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  if (ag > 18) return true;
+2022-05-25T09:47:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  elseif (ag < 18) return false;
+2022-05-25T09:47:41Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  if ag > 18:
+2022-05-25T09:47:48Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  print("Yes")
+2022-05-25T09:47:54Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  elseif:
+2022-05-25T09:47:59Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  print("false")
+2022-05-25T09:48:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Here's one better:
+2022-05-25T09:48:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  print(ag is 18 then "true" or else "nope");
+2022-05-25T09:49:03Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  r u talking in pseudocode
+2022-05-25T09:49:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  That's C++.
+2022-05-25T09:49:19Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  ok
+2022-05-25T09:49:57Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  am i qualified in your eyes
+2022-05-25T09:50:00Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  I
+2022-05-25T09:50:04Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  "I"
+2022-05-25T09:50:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  cout >> "Yope" >> newl;
+2022-05-25T09:50:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  cout >> "Yesn't" >> newl;
+2022-05-25T09:51:49Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.3,     9.8,    -8.0)
+  int visual[5]
+2022-05-25T09:52:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  = new int[5];
+2022-05-25T09:52:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  visual[0] = 5;
+2022-05-25T09:53:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  visual = nullptr;
+2022-05-25T09:53:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  Congrats.
+2022-05-25T09:53:15Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.5,     9.8,    -9.2)
+  yes
+2022-05-25T09:53:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  You now lost 20 bytes.
+2022-05-25T09:53:26Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.5,     9.8,    -9.2)
+  oh no
+2022-05-25T09:53:34Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.5,     9.8,    -9.2)
+  thats not good
+2022-05-25T09:53:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.8,     9.8,   -12.0)
+  I should be off now.
+2022-05-25T09:53:43Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -7.5,     9.8,    -9.2)
+  take care
+2022-05-25T09:53:45Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-25T09:53:45Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-05-25T09:53:45Z: CHAT STREAM SUCCESSFULLY ENDED

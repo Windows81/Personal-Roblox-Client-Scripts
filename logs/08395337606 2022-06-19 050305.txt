@@ -1,0 +1,216 @@
+[    1630228] : [ 8395337606] BloxyTown Nuclear Energy Facility - 8195aac7-079c-4b56-b61c-4202ff4b3dd4
+2022-06-19T05:03:06Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-19T05:03:06Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-19T05:03:06Z: PLAYER ADDED   [  741762780] GoTest334
+2022-06-19T05:03:26Z: PLAYER CHATTED [  741762780] GoTest334            (   46.1,   219.9,   309.6)
+  have not really worked on this place in awhile
+2022-06-19T05:03:31Z: PLAYER CHATTED [  741762780] GoTest334            (   46.1,   219.9,   309.6)
+  because i have been busy with wrapper
+2022-06-19T05:03:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   54.3,   221.2,   284.2)
+  I've been busy with not Wrapper.
+2022-06-19T05:03:55Z: PLAYER CHATTED [  741762780] GoTest334            (   26.0,   213.9,   228.3)
+  true
+2022-06-19T05:03:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.9,   201.1,   225.6)
+  You have actual lifts.
+2022-06-19T05:03:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.9,   182.1,   225.6)
+  Nice.
+2022-06-19T05:04:02Z: PLAYER CHATTED [  741762780] GoTest334            (   26.0,   150.1,   228.3)
+  yeah
+2022-06-19T05:04:09Z: PLAYER CHATTED [  741762780] GoTest334            (   26.0,   103.5,   228.3)
+  actually we made new ones (in the next update
+2022-06-19T05:04:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.9,   104.2,   225.6)
+  18 studs per second.
+2022-06-19T05:04:26Z: PLAYER CHATTED [  741762780] GoTest334            (   17.0,   103.5,   230.6)
+  these ones used a free model script. Our new ones have a custom one
+2022-06-19T05:04:31Z: PLAYER CHATTED [  741762780] GoTest334            (   17.0,   103.5,   230.6)
+  they will work much better
+2022-06-19T05:04:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.7,   104.2,   235.3)
+  6.1 metres/second.
+2022-06-19T05:05:05Z: PLAYER CHATTED [  741762780] GoTest334            (   16.2,   103.5,   225.4)
+  also wat do you think of the new roblox materials
+2022-06-19T05:05:08Z: PLAYER CHATTED [  741762780] GoTest334            (   16.2,   103.5,   225.4)
+  the 2022 ones
+2022-06-19T05:05:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.2,   104.2,   189.8)
+  Haven't looked into them muh.
+2022-06-19T05:05:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   16.2,   104.2,   189.8)
+  *Much.
+2022-06-19T05:06:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   90.6,    96.8,   293.6)
+  What's this?
+2022-06-19T05:06:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   98.9,    96.8,   296.9)
+  Looks symmetrical.
+2022-06-19T05:06:30Z: PLAYER CHATTED [  741762780] GoTest334            (   91.1,    96.1,   305.1)
+  RBMK reactor core
+2022-06-19T05:06:34Z: PLAYER CHATTED [  741762780] GoTest334            (   91.1,    96.1,   305.1)
+  really badmodel of it lol
+2022-06-19T05:06:49Z: PLAYER CHATTED [  741762780] GoTest334            (   78.1,    95.6,   324.9)
+  bro
+2022-06-19T05:06:56Z: PLAYER CHATTED [  741762780] GoTest334            (   78.1,    95.6,   324.9)
+  how are you teliporting all over the place
+2022-06-19T05:07:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   57.0,   125.1,   302.9)
+  Third-party code execution.
+2022-06-19T05:07:22Z: PLAYER CHATTED [  741762780] GoTest334            (   65.9,    95.6,   347.8)
+  you could get banned for that
+2022-06-19T05:07:25Z: PLAYER CHATTED [  741762780] GoTest334            (   65.9,    95.6,   347.8)
+  if roblox finds out
+2022-06-19T05:07:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   67.6,    96.4,   346.9)
+  I've done it for a few years.
+2022-06-19T05:07:49Z: PLAYER CHATTED [  741762780] GoTest334            (    8.9,    95.7,   347.4)
+  well be careful-
+2022-06-19T05:07:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   17.8,    96.4,   344.8)
+  I also have it on YT.
+2022-06-19T05:08:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -24.0,    96.4,   315.6)
+  Moderation doesn't usually tackle exploiters.
+2022-06-19T05:08:23Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -152.9,    96.4,   300.8)
+  Filtering enabled exists for that reason.
+2022-06-19T05:08:28Z: PLAYER CHATTED [  741762780] GoTest334            ( -179.7,    95.7,   259.9)
+  mainly spasific game moderators
+2022-06-19T05:08:49Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -177.9,    96.4,   264.1)
+  I've been banned from plenty of games for undeserving reasons.
+2022-06-19T05:08:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -194.2,    96.4,   265.8)
+  *REALLY deservng.
+2022-06-19T05:09:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -192.9,    96.4,   278.3)
+  *Deserving.
+2022-06-19T05:09:14Z: PLAYER CHATTED [  741762780] GoTest334            ( -127.2,    95.7,   304.0)
+  not suprised
+2022-06-19T05:09:26Z: PLAYER CHATTED [  741762780] GoTest334            (  -76.7,    95.7,   312.1)
+  surprised*
+2022-06-19T05:09:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -81.4,    96.4,   314.3)
+  An LGBTQ+ hangout banned me for testing my teleport tool.
+2022-06-19T05:09:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -11.2,    96.4,   299.5)
+  They banned me using an admin system that has a ;bring command.
+2022-06-19T05:09:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.0,   104.2,   198.1)
+  And a ;to command.
+2022-06-19T05:10:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -45.8,    71.9,   221.8)
+  Is now a good time to call?
+2022-06-19T05:10:58Z: PLAYER CHATTED [  741762780] GoTest334            (  -30.5,    74.4,   214.7)
+  ??
+2022-06-19T05:11:02Z: PLAYER CHATTED [  741762780] GoTest334            (  -30.5,    74.4,   214.7)
+  wdym
+2022-06-19T05:11:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -78.9,    71.9,   138.0)
+  Come here!
+2022-06-19T05:11:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -78.9,    71.9,   138.0)
+  90° LIFT DOOR ANGLES!
+2022-06-19T05:11:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -82.2,    71.9,   135.4)
+  I LOVE THOSE!
+2022-06-19T05:11:33Z: PLAYER CHATTED [  741762780] GoTest334            (  -80.3,    95.9,   141.0)
+  wow you really know your roblox stuff by the exact
+2022-06-19T05:11:52Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.6,   125.1,   142.0)
+  That's not Roblox.
+2022-06-19T05:12:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.4,   125.1,   136.3)
+  That's just cos I like lifts.
+2022-06-19T05:12:07Z: PLAYER CHATTED [  741762780] GoTest334            (  -82.4,   124.4,   217.8)
+  no i was talking about before
+2022-06-19T05:12:15Z: PLAYER CHATTED [  741762780] GoTest334            (  -94.8,   124.4,   226.8)
+  but those are rare
+2022-06-19T05:12:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -87.5,   125.1,   221.1)
+  I've been on for 13.5 years.
+2022-06-19T05:12:52Z: PLAYER CHATTED [  741762780] GoTest334            ( -107.9,   124.4,   286.2)
+  the roblox audio update broke most sounds here
+2022-06-19T05:12:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -109.7,   125.1,   293.1)
+  I meant o call over Di?
+2022-06-19T05:13:00Z: PLAYER CHATTED [  741762780] GoTest334            ( -106.7,   124.4,   351.1)
+  oh
+2022-06-19T05:13:01Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.4,   125.1,   322.3)
+  Scor?
+2022-06-19T05:13:02Z: PLAYER CHATTED [  741762780] GoTest334            ( -106.7,   124.4,   351.1)
+  uh
+2022-06-19T05:13:14Z: PLAYER CHATTED [  741762780] GoTest334            ( -106.7,   124.4,   351.1)
+  can we do it tomorrow if possible
+2022-06-19T05:13:19Z: PLAYER CHATTED [  741762780] GoTest334            ( -104.5,   124.4,   359.3)
+  pretty late over here
+2022-06-19T05:13:20Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.5,   125.1,   366.6)
+  Sure.
+2022-06-19T05:13:23Z: PLAYER CHATTED [  741762780] GoTest334            ( -104.9,   124.4,   362.0)
+  ok
+2022-06-19T05:13:28Z: PLAYER CHATTED [  741762780] GoTest334            ( -104.9,   124.4,   362.0)
+  just dm me when you want to do it
+2022-06-19T05:13:39Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -113.7,   125.1,   356.9)
+  How about 01:13 EDT?
+2022-06-19T05:13:45Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  that should work
+2022-06-19T05:13:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -108.5,   125.1,   393.7)
+  Tonight?
+2022-06-19T05:13:54Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  wait
+2022-06-19T05:13:58Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  am or pm
+2022-06-19T05:14:05Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.2,   125.1,   395.4)
+  01:13 hours.
+2022-06-19T05:14:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.2,   125.1,   395.4)
+  An hours after midnight.
+2022-06-19T05:14:15Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.2,   125.1,   395.4)
+  *Hour.
+2022-06-19T05:14:32Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  i was thinking tomorrow at 1:30 PM EDT
+2022-06-19T05:14:38Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  june 17th
+2022-06-19T05:14:45Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  if that works
+2022-06-19T05:14:56Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.8,   125.1,   396.1)
+  How about 15:00?
+2022-06-19T05:14:56Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  if it does not i can get another time i should be onall day
+2022-06-19T05:15:20Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  so 3 PM?
+2022-06-19T05:15:22Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  tomorrw
+2022-06-19T05:15:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.8,   125.1,   394.0)
+  So 15:00 on 2022-06-17 unday.
+2022-06-19T05:15:37Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.8,   125.1,   394.0)
+  *Sunday.
+2022-06-19T05:15:42Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.7,   125.1,   395.6)
+  2022-06-17
+2022-06-19T05:15:47Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  yes
+2022-06-19T05:15:48Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.7,   125.1,   395.6)
+  I CAN@T USE ISO 8601!
+2022-06-19T05:15:49Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  thats tomorrow
+2022-06-19T05:15:51Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  and yes that works
+2022-06-19T05:15:57Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.7,   125.1,   394.2)
+  2022/16/17
+2022-06-19T05:16:00Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.7,   125.1,   394.2)
+  2022/6/17
+2022-06-19T05:16:03Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.7,   125.1,   394.2)
+  2022 June 17
+2022-06-19T05:16:04Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  i can be on then
+2022-06-19T05:16:07Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  what are you trying to do
+2022-06-19T05:16:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -105.6,   125.1,   396.8)
+  Say the date.
+2022-06-19T05:16:21Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  #########
+2022-06-19T05:16:28Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  six 19 2022
+2022-06-19T05:16:34Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -104.7,   125.1,   397.1)
+  2022 J 17
+2022-06-19T05:16:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -104.7,   125.1,   397.1)
+  2022 Jun 17
+2022-06-19T05:16:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -104.7,   125.1,   397.1)
+  2022 June 17
+2022-06-19T05:16:48Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  #### 19th
+2022-06-19T05:16:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.9,   125.1,   386.9)
+  2022 Aug 1
+2022-06-19T05:16:58Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.2,   125.1,   392.1)
+  2022 Au 1
+2022-06-19T05:17:04Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -108.2,   125.1,   394.4)
+  2022 EIGHT 1
+2022-06-19T05:17:06Z: PLAYER CHATTED [  741762780] GoTest334            ( -105.9,   124.4,   403.3)
+  ok just dm me over disco this is not working
+2022-06-19T05:17:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.1,   125.1,   394.4)
+  2022 SIX 17
+2022-06-19T05:17:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -107.1,   125.1,   394.4)
+  Right.
+2022-06-19T05:19:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -17.6,   125.1,   265.0)
+  ¡!
+2022-06-19T05:19:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -17.6,   125.1,   265.0)
+  ¡¡!!
+2022-06-19T05:20:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -10.0,   125.1,   261.7)
+  ¡#!
+2022-06-19T05:20:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.7,   125.1,   265.8)
+  ¡#!
+2022-06-19T05:20:13Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-19T05:20:13Z: PLAYER REMOVED [  741762780] GoTest334

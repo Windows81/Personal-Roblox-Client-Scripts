@@ -1,0 +1,30 @@
+[    1630228] : [ 7205570742] Require Executor - d7ebb181-ba88-4f95-a963-d3c568f3de8b
+2022-05-20T09:06:06Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-05-20T09:06:09Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-05-20T09:06:09Z: PLAYER ADDED   [ 1417313406] hayato1906
+2022-05-20T09:06:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (    2.5,    13.0,    14.5)
+  Hi.
+2022-05-20T09:06:35Z: PLAYER CHATTED [ 1417313406] hayato1906           (    3.8,    13.0,    14.7)
+  why:(
+2022-05-20T09:06:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (    4.4,    13.0,    11.8)
+  Because I'm a huge joker!
+2022-05-20T09:06:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.7,    13.0,    39.6)
+  Because today is opposite day!
+2022-05-20T09:07:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (    3.7,    13.0,    39.6)
+  Whichever reason suits you.
+2022-05-20T09:07:04Z: PLAYER ADDED   [ 3113466086] AO_SDF
+2022-05-20T09:07:15Z: PLAYER CHATTED [ 1417313406] hayato1906           (    3.5,    13.0,    44.0)
+  what?
+2022-05-20T09:07:28Z: PLAYER CHATTED [ 1417313406] hayato1906           (   -1.6,    13.0,    24.2)
+  hi
+2022-05-20T09:07:30Z: PLAYER CHATTED [ 3113466086] AO_SDF               (    2.5,    13.0,    14.5)
+  hi
+2022-05-20T09:07:35Z: PLAYER CHATTED [ 3113466086] AO_SDF               (    2.4,    13.0,    16.0)
+  bro
+2022-05-20T09:07:45Z: PLAYER CHATTED [ 1417313406] hayato1906           (    4.7,    13.0,    16.0)
+  what
+2022-05-20T09:07:50Z: CHRCTER ADDED  [ 1417313406] hayato1906           (    2.5,    36.5,    14.5)
+2022-05-20T09:08:03Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-05-20T09:08:03Z: PLAYER REMOVED [ 1417313406] hayato1906
+2022-05-20T09:08:03Z: PLAYER REMOVED [ 3113466086] AO_SDF
+2022-05-20T09:08:03Z: CHAT STREAM SUCCESSFULLY ENDED

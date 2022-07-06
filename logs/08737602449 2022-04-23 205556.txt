@@ -1,0 +1,494 @@
+[    1630228] : [ 8737602449] PLS DONATE 💸 - eda4a6d8-771c-4ffd-b235-7bdb287ddea8
+2022-04-23T20:55:56Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-23T20:55:58Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 3234434331] TenZ4n_youtube
+2022-04-23T20:55:58Z: PLAYER ADDED   [  387860985] yangqii
+2022-04-23T20:55:58Z: PLAYER ADDED   [  224681432] DDustty
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 3319785916] hugoleslominimo
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 3415576083] ImJack1242
+2022-04-23T20:55:58Z: PLAYER ADDED   [  896954749] astrogames231
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1812368855] rockfoxy120
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1563832288] phfgixtxix7ri
+2022-04-23T20:55:58Z: PLAYER ADDED   [  536369185] FOUNTAINLIAM098
+2022-04-23T20:55:58Z: PLAYER ADDED   [  135431096] Eduardsorana
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1715682635] olrqq
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 3493079724] lilhammer011
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 2314964690] Victorarr2012
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1241232655] 9qval
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1434686540] fortniteopbos
+2022-04-23T20:55:58Z: PLAYER ADDED   [  706343144] Isai2308
+2022-04-23T20:55:58Z: PLAYER ADDED   [   95912519] zaystii
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1611332046] grumpygravydog11
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 2697739231] EIDHALAWANI12309
+2022-04-23T20:55:58Z: PLAYER ADDED   [  666322759] Resurgee
+2022-04-23T20:55:58Z: PLAYER ADDED   [  131843874] Progamer246821
+2022-04-23T20:55:58Z: PLAYER ADDED   [ 1333737298] kityy1239
+2022-04-23T20:56:04Z: PLAYER REMOVED [ 1563832288] phfgixtxix7ri
+2022-04-23T20:56:04Z: PLAYER CHATTED [  706343144] Isai2308             (   33.7,     3.0,   181.0)
+  mi tienda de memes
+2022-04-23T20:56:11Z: PLAYER ADDED   [ 2717566227] meowmoew452
+2022-04-23T20:56:12Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   37.9,     5.1,   173.2)
+  te compre
+2022-04-23T20:56:13Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   37.9,     5.1,   173.2)
+  de
+2022-04-23T20:56:15Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   37.9,     5.1,   173.2)
+  3
+2022-04-23T20:56:17Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   37.9,     5.1,   173.2)
+  xd
+2022-04-23T20:56:20Z: PLAYER CHATTED [  706343144] Isai2308             (   40.5,     3.0,   176.6)
+  gracias
+2022-04-23T20:56:25Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   38.0,     5.1,   173.1)
+  d nd /%:V
+2022-04-23T20:56:33Z: PLAYER REMOVED [ 2717566227] meowmoew452
+2022-04-23T20:56:37Z: PLAYER ADDED   [ 2264835404] hellosir26005
+2022-04-23T20:56:48Z: PLAYER ADDED   [ 2024650427] Yang_2728
+2022-04-23T20:56:51Z: PLAYER ADDED   [ 3204035736] kudakugg
+2022-04-23T20:56:56Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   98.8,     3.4,    40.9)
+  oye
+2022-04-23T20:56:59Z: PLAYER CHATTED [  896954749] astrogames231        (   91.7,     3.7,    52.6)
+  a
+2022-04-23T20:57:01Z: PLAYER CHATTED [  706343144] Isai2308             (   98.5,     3.0,    51.4)
+  mande
+2022-04-23T20:57:05Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (  100.0,     4.1,    54.7)
+  como pongo
+2022-04-23T20:57:07Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   99.3,     4.1,    54.3)
+  m8s
+2022-04-23T20:57:10Z: PLAYER REMOVED [ 1333737298] kityy1239
+2022-04-23T20:57:10Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   97.8,     4.1,    54.3)
+  mis
+2022-04-23T20:57:16Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   97.1,     4.1,    53.8)
+  gamepass
+2022-04-23T20:57:19Z: PLAYER CHATTED [  706343144] Isai2308             (   93.0,     3.9,    53.3)
+  con un gamepass
+2022-04-23T20:57:22Z: PLAYER REMOVED [ 3204035736] kudakugg
+2022-04-23T20:57:28Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   97.1,     4.1,    53.8)
+  a ok
+2022-04-23T20:57:28Z: PLAYER CHATTED [  706343144] Isai2308             (   93.0,     3.9,    53.3)
+  en yt busca
+2022-04-23T20:57:39Z: PLAYER ADDED   [  382139037] TakenChildrens
+2022-04-23T20:57:45Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   97.1,     4.1,    53.8)
+  ok
+2022-04-23T20:57:48Z: PLAYER ADDED   [  679236653] Avexsity
+2022-04-23T20:57:50Z: PLAYER ADDED   [  765517124] Iz_CupCakePrincess
+2022-04-23T20:58:01Z: PLAYER CHATTED [  382139037] TakenChildrens       (  102.0,     3.5,    67.0)
+  bro
+2022-04-23T20:58:02Z: PLAYER CHATTED [  382139037] TakenChildrens       (  102.0,     3.5,    67.0)
+  zay
+2022-04-23T20:58:12Z: PLAYER CHATTED [ 2024650427] Yang_2728            (   68.7,     3.0,    41.9)
+  hi mr!
+2022-04-23T20:58:12Z: PLAYER CHATTED [   95912519] zaystii              (   95.9,     3.1,    66.8)
+  yo
+2022-04-23T20:58:13Z: PLAYER REMOVED [ 2697739231] EIDHALAWANI12309
+2022-04-23T20:58:18Z: PLAYER CHATTED [  382139037] TakenChildrens       (   96.0,     3.5,    60.1)
+  why dont you
+2022-04-23T20:58:23Z: PLAYER CHATTED [  382139037] TakenChildrens       (   96.0,     3.5,    60.1)
+  join vc anymore man
+2022-04-23T20:58:25Z: PLAYER REMOVED [ 2264835404] hellosir26005
+2022-04-23T20:58:25Z: PLAYER CHATTED [  382139037] TakenChildrens       (   96.0,     3.5,    60.1)
+  missed you frfr
+2022-04-23T20:58:30Z: PLAYER REMOVED [ 1241232655] 9qval
+2022-04-23T20:58:36Z: PLAYER CHATTED [   95912519] zaystii              (   95.9,     3.1,    66.8)
+  i been chillin with other ppl
+2022-04-23T20:58:44Z: PLAYER CHATTED [  382139037] TakenChildrens       (   96.0,     3.5,    62.7)
+  join vc once in a while
+2022-04-23T20:58:49Z: PLAYER CHATTED [   95912519] zaystii              (   95.9,     3.1,    66.8)
+  i gotchu
+2022-04-23T20:58:57Z: PLAYER CHATTED [  706343144] Isai2308             (   51.2,     3.0,    21.1)
+  cuantos robux tienes?
+2022-04-23T20:58:57Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   47.8,     5.1,    30.1)
+  ##### que comprar
+2022-04-23T20:58:58Z: PLAYER CHATTED [  382139037] TakenChildrens       (   96.2,     3.5,    60.9)
+  we not in jacob serrver no more tho
+2022-04-23T20:59:03Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  tengo
+2022-04-23T20:59:05Z: PLAYER CHATTED [   95912519] zaystii              (   91.9,     3.1,    83.2)
+  tuff
+2022-04-23T20:59:05Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  58
+2022-04-23T20:59:08Z: PLAYER CHATTED [  382139037] TakenChildrens       (   91.8,     3.5,    77.1)
+  we be in yoz now
+2022-04-23T20:59:09Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  creo
+2022-04-23T20:59:09Z: PLAYER CHATTED [  706343144] Isai2308             (   52.3,     3.0,    20.4)
+  xd
+2022-04-23T20:59:12Z: PLAYER CHATTED [   95912519] zaystii              (   91.9,     3.1,    83.2)
+  mm
+2022-04-23T20:59:15Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  xd
+2022-04-23T20:59:18Z: PLAYER CHATTED [  706343144] Isai2308             (   52.8,     3.0,    21.9)
+  ta bien
+2022-04-23T20:59:22Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  si
+2022-04-23T20:59:38Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  ########
+2022-04-23T20:59:41Z: PLAYER CHATTED [  706343144] Isai2308             (   52.8,     3.0,    21.9)
+  en yt busca como hacer gamepass
+2022-04-23T20:59:45Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  siiiuuuu
+2022-04-23T20:59:49Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  oi
+2022-04-23T20:59:51Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  ok
+2022-04-23T20:59:54Z: PLAYER CHATTED [ 2314964690] Victorarr2012        (   50.6,     3.4,    15.5)
+  ya vengo
+2022-04-23T20:59:57Z: PLAYER CHATTED [  706343144] Isai2308             (   52.8,     3.0,    21.9)
+  ok
+2022-04-23T21:00:28Z: PLAYER CHATTED [   95912519] zaystii              (   90.9,     3.1,    68.2)
+  thx
+2022-04-23T21:00:31Z: PLAYER CHATTED [  382139037] TakenChildrens       (   91.7,     3.5,    68.3)
+  yw son
+2022-04-23T21:00:33Z: PLAYER REMOVED [ 2314964690] Victorarr2012
+2022-04-23T21:00:37Z: PLAYER CHATTED [   95912519] zaystii              (   99.3,     3.1,    67.6)
+  shut up
+2022-04-23T21:00:37Z: PLAYER ADDED   [ 1922972219] getwreckbb2
+2022-04-23T21:00:43Z: PLAYER ADDED   [ 2489941863] YT_tanker
+2022-04-23T21:00:53Z: PLAYER CHATTED [  382139037] TakenChildrens       (  105.3,    15.2,    58.5)
+  im ya dad
+2022-04-23T21:00:56Z: PLAYER CHATTED [  382139037] TakenChildrens       (  105.3,    15.2,    58.5)
+  either way
+2022-04-23T21:01:01Z: PLAYER CHATTED [   95912519] zaystii              (   94.2,     3.1,    58.6)
+  no you aint bruh
+2022-04-23T21:01:05Z: PLAYER CHATTED [  382139037] TakenChildrens       (  105.3,    15.3,    58.5)
+  yes i am
+2022-04-23T21:01:08Z: PLAYER CHATTED [   95912519] zaystii              (   94.2,     3.1,    58.6)
+  ugly ahhh
+2022-04-23T21:01:15Z: PLAYER REMOVED [ 3319785916] hugoleslominimo
+2022-04-23T21:01:19Z: PLAYER CHATTED [  382139037] TakenChildrens       (  105.3,    15.3,    58.5)
+  im dressed professional
+2022-04-23T21:01:23Z: PLAYER CHATTED [  382139037] TakenChildrens       (  105.3,    15.3,    58.5)
+  broke ahh
+2022-04-23T21:01:23Z: PLAYER CHATTED [  765517124] Iz_CupCakePrincess   (   61.9,     2.9,    25.3)
+  /e dance
+2022-04-23T21:01:28Z: PLAYER REMOVED [  706343144] Isai2308
+2022-04-23T21:01:31Z: PLAYER ADDED   [  321168302] ofien12345678890988
+2022-04-23T21:01:33Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   17.7,     3.3,   165.9)
+  Hey
+2022-04-23T21:01:45Z: PLAYER REMOVED [  896954749] astrogames231
+2022-04-23T21:01:46Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   17.3,     3.9,   167.9)
+  Hey
+2022-04-23T21:01:49Z: PLAYER ADDED   [ 3291587853] StrxwberryPearlsx
+2022-04-23T21:01:51Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   17.3,     3.9,   167.9)
+  Can you donate to my friend?
+2022-04-23T21:02:10Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   66.8,     2.9,    76.7)
+  UAHHHHHH
+2022-04-23T21:02:16Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   75.6,     3.6,    73.8)
+  A&HHHH
+2022-04-23T21:02:17Z: PLAYER REMOVED [ 1611332046] grumpygravydog11
+2022-04-23T21:02:22Z: PLAYER ADDED   [ 1171020874] XD_SpEtNAZ
+2022-04-23T21:02:26Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   43.9,     3.3,   167.4)
+  Hey
+2022-04-23T21:02:36Z: PLAYER CHATTED [  224681432] DDustty              (   51.5,     3.0,   162.7)
+  Yo
+2022-04-23T21:02:48Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   48.3,     3.3,   164.3)
+  Donate to my friend for a special suprise
+2022-04-23T21:02:51Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   48.3,     3.3,   164.3)
+  Here
+2022-04-23T21:02:59Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   51.3,     3.3,   167.8)
+  give him some robux
+2022-04-23T21:03:00Z: PLAYER CHATTED [ 2024650427] Yang_2728            (   55.8,     3.0,    42.1)
+  hi Zei
+2022-04-23T21:03:04Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   51.3,     3.3,   167.8)
+  I’ll donate to you
+2022-04-23T21:03:04Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.3,     3.0,    40.6)
+  donate
+2022-04-23T21:03:17Z: PLAYER CHATTED [ 2024650427] Yang_2728            (   55.8,     3.0,    42.1)
+  me?
+2022-04-23T21:03:19Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.3,     3.0,    40.6)
+  yes
+2022-04-23T21:03:24Z: PLAYER CHATTED [ 2024650427] Yang_2728            (   55.8,     3.0,    42.1)
+  yes come
+2022-04-23T21:03:32Z: PLAYER REMOVED [ 2024650427] Yang_2728
+2022-04-23T21:03:33Z: PLAYER ADDED   [ 2593828084] Cookie28202
+2022-04-23T21:03:35Z: PLAYER CHATTED [ 1434686540] fortniteopbos        (   84.6,     3.3,   153.4)
+  They more robux the more money for chairity
+2022-04-23T21:03:50Z: PLAYER REMOVED [  224681432] DDustty
+2022-04-23T21:03:52Z: PLAYER ADDED   [  660119113] GOATS129
+2022-04-23T21:03:53Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   84.0,     3.0,   148.2)
+  "charity"
+2022-04-23T21:04:04Z: PLAYER CHATTED [  660119113] GOATS129             (   43.8,     3.6,   118.9)
+  Cool avatar
+2022-04-23T21:04:09Z: CHRCTER ADDED  [  382139037] TakenChildrens       (   90.9,     3.3,    64.0)
+2022-04-23T21:04:11Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   12.0,     2.6,   163.4)
+  How did u get so much-
+2022-04-23T21:04:25Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   53.2,     3.3,   164.1)
+  Hey
+2022-04-23T21:04:27Z: PLAYER CHATTED [  660119113] GOATS129             (   39.6,     2.7,   177.5)
+  E.
+2022-04-23T21:04:32Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   12.9,     3.3,   166.2)
+  Can u donte to me
+2022-04-23T21:04:34Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   49.8,     3.0,   165.8)
+  m
+2022-04-23T21:04:44Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   47.1,     3.3,   168.1)
+  give 7 robux to my firmed you get double
+2022-04-23T21:04:44Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   49.8,     3.0,   165.8)
+  oh
+2022-04-23T21:04:48Z: PLAYER CHATTED [  660119113] GOATS129             (   39.6,     2.7,   177.5)
+  /me has bought admin.
+2022-04-23T21:04:48Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   49.9,     3.0,   164.5)
+  nuke
+2022-04-23T21:04:51Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   51.1,     3.0,   163.1)
+  a
+2022-04-23T21:04:55Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (    7.8,     3.3,   145.4)
+  DAMN
+2022-04-23T21:04:57Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   50.8,     3.0,   163.4)
+  scary
+2022-04-23T21:05:00Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   79.9,     2.7,   128.0)
+  Don’t
+2022-04-23T21:05:04Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   79.9,     2.7,   128.0)
+  NOOOO
+2022-04-23T21:05:06Z: PLAYER REMOVED [ 1434686540] fortniteopbos
+2022-04-23T21:05:07Z: PLAYER ADDED   [ 1174621553] avak0419
+2022-04-23T21:05:21Z: PLAYER CHATTED [  321168302] ofien12345678890988  (  101.4,     3.0,    98.9)
+  another one
+2022-04-23T21:05:21Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   97.8,     2.7,    95.9)
+  I AM DINE
+2022-04-23T21:05:26Z: PLAYER ADDED   [ 1525474649] nilka1122
+2022-04-23T21:05:26Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   95.6,     2.7,    75.4)
+  DONE
+2022-04-23T21:05:30Z: PLAYER ADDED   [ 1434686540] fortniteopbos
+2022-04-23T21:05:31Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (  103.4,     3.3,    99.7)
+  it's that same guy
+2022-04-23T21:05:31Z: PLAYER ADDED   [ 2226815973] xdripyX35
+2022-04-23T21:05:33Z: PLAYER CHATTED [  660119113] GOATS129             (   88.8,     3.0,    68.7)
+  Everybody here has a beter avatar than me lol
+2022-04-23T21:05:36Z: CHRCTER ADDED  [  679236653] Avexsity             (   78.4,     2.8,    68.0)
+2022-04-23T21:05:47Z: PLAYER CHATTED [ 2593828084] Cookie28202          (   97.7,     2.7,   102.4)
+  OML LUCKY
+2022-04-23T21:06:01Z: PLAYER REMOVED [ 2593828084] Cookie28202
+2022-04-23T21:06:01Z: PLAYER REMOVED [ 1922972219] getwreckbb2
+2022-04-23T21:06:05Z: PLAYER CHATTED [ 2489941863] YT_tanker            (   90.4,     3.3,    69.9)
+  Who did it
+2022-04-23T21:06:08Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   93.7,     3.0,    70.0)
+  3
+2022-04-23T21:06:08Z: PLAYER ADDED   [ 2412142378] Cxrip_tailed
+2022-04-23T21:06:09Z: CHRCTER ADDED  [  679236653] Avexsity             (   42.1,     7.1,    89.3)
+2022-04-23T21:06:09Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (   85.4,     3.3,    67.4)
+  donate so ur dad will come back with the milk
+2022-04-23T21:06:10Z: CHRCTER ADDED  [  382139037] TakenChildrens       (   82.7,     3.3,    67.4)
+2022-04-23T21:06:13Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   95.5,     3.0,    72.3)
+  three 
+2022-04-23T21:06:21Z: CHRCTER ADDED  [ 1525474649] nilka1122            (   88.0,     3.5,    77.0)
+2022-04-23T21:06:30Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (   89.5,     3.3,    72.8)
+  Again wth
+2022-04-23T21:06:36Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   61.5,     3.3,    48.9)
+  do we ### ##### from this?
+2022-04-23T21:06:38Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   83.1,     3.3,    68.0)
+  get
+2022-04-23T21:06:42Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   82.1,     3.3,    66.5)
+  ###### from this?
+2022-04-23T21:06:46Z: PLAYER CHATTED [ 1171020874] XD_SpEtNAZ           (   91.1,     3.5,    75.3)
+  ikr
+2022-04-23T21:06:46Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   97.2,     2.7,    53.6)
+  yes
+2022-04-23T21:06:47Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   82.1,     3.3,    64.3)
+  do we get anything
+2022-04-23T21:06:48Z: PLAYER REMOVED [  660119113] GOATS129
+2022-04-23T21:06:48Z: CHRCTER ADDED  [ 2226815973] xdripyX35            (   44.7,     3.3,    45.5)
+2022-04-23T21:06:51Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   64.8,     3.2,    88.9)
+  wait we do?
+2022-04-23T21:06:55Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   63.5,     3.2,    90.6)
+  we get robu cs?
+2022-04-23T21:06:58Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   97.2,     2.7,    53.6)
+  wait what u mean
+2022-04-23T21:07:01Z: PLAYER CHATTED [ 1525474649] nilka1122            (  -14.5,     3.5,    61.9)
+  please donate
+2022-04-23T21:07:02Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   88.7,     3.0,    59.3)
+  from nukes?
+2022-04-23T21:07:04Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   45.3,     3.8,    78.1)
+  do we ### ## #### from this
+2022-04-23T21:07:05Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   55.5,     3.2,    73.5)
+  yes
+2022-04-23T21:07:07Z: PLAYER CHATTED [  382139037] TakenChildrens       (   95.4,     3.3,    69.9)
+  im not takin that personally frfr
+2022-04-23T21:07:07Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.3,     5.9,    82.3)
+  no
+2022-04-23T21:07:09Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  mhm
+2022-04-23T21:07:09Z: PLAYER CHATTED [ 1525474649] nilka1122            (  -21.5,     3.1,    62.9)
+  please dontae
+2022-04-23T21:07:10Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  damn
+2022-04-23T21:07:12Z: PLAYER CHATTED [ 2226815973] xdripyX35            (   86.7,     3.3,    75.6)
+  I'm 47 rbx of my goal
+2022-04-23T21:07:16Z: PLAYER CHATTED [ 1525474649] nilka1122            (  -20.9,     3.1,    61.4)
+  please donate
+2022-04-23T21:07:21Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  i have like
+2022-04-23T21:07:23Z: PLAYER REMOVED [ 1434686540] fortniteopbos
+2022-04-23T21:07:23Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  a HUGE
+2022-04-23T21:07:24Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (   91.8,     3.3,   108.1)
+  WHAT OMG 
+2022-04-23T21:07:24Z: PLAYER REMOVED [ 1171020874] XD_SpEtNAZ
+2022-04-23T21:07:24Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  goal
+2022-04-23T21:07:26Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  that im tryna get rn
+2022-04-23T21:07:29Z: PLAYER ADDED   [ 1291036394] Shankodev
+2022-04-23T21:07:30Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  its 2.5k robux lol
+2022-04-23T21:07:32Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  for a gamepass
+2022-04-23T21:07:32Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.9,     5.3,    82.5)
+  same
+2022-04-23T21:07:39Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (  101.9,     3.3,   100.8)
+  THAT PERSON IS LUCKY
+2022-04-23T21:07:41Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  but no one donates :(
+2022-04-23T21:07:44Z: PLAYER REMOVED [ 2226815973] xdripyX35
+2022-04-23T21:07:45Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.9,     5.3,    82.5)
+  mines 10k
+2022-04-23T21:07:47Z: PLAYER ADDED   [  299182561] jibanyan_wisper
+2022-04-23T21:07:47Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  damn
+2022-04-23T21:07:54Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  well uhh im tryna get donos from people
+2022-04-23T21:07:57Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  to get close to my goal
+2022-04-23T21:07:58Z: PLAYER ADDED   [ 1904639033] djdadkity
+2022-04-23T21:08:00Z: PLAYER CHATTED [  299182561] jibanyan_wisper      (  -28.2,     3.7,   113.9)
+  donate to me pls
+2022-04-23T21:08:03Z: PLAYER REMOVED [ 1174621553] avak0419
+2022-04-23T21:08:03Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  i only got 160  so far
+2022-04-23T21:08:05Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  :(
+2022-04-23T21:08:05Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.8,     5.4,    82.4)
+  not me  don't think about it
+2022-04-23T21:08:07Z: PLAYER CHATTED [  679236653] Avexsity             (  -14.8,     3.2,    53.4)
+  hi suma
+2022-04-23T21:08:10Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  ik
+2022-04-23T21:08:12Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   61.8,     5.4,    82.4)
+  I hqve 350
+2022-04-23T21:08:14Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (  -18.5,     2.9,    50.2)
+  suma
+2022-04-23T21:08:16Z: PLAYER CHATTED [ 1904639033] djdadkity            (  -16.3,     2.7,    47.2)
+  …
+2022-04-23T21:08:21Z: PLAYER CHATTED [  679236653] Avexsity             (  -14.8,     3.2,    53.4)
+  umm
+2022-04-23T21:08:22Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (   15.0,     3.9,   167.5)
+  can u donate? 
+2022-04-23T21:08:24Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  what does a nuke do then
+2022-04-23T21:08:24Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (  -15.3,     2.9,    52.4)
+  dw about him
+2022-04-23T21:08:29Z: PLAYER CHATTED [  679236653] Avexsity             (  -14.8,     3.2,    53.4)
+  look at my sign
+2022-04-23T21:08:35Z: PLAYER CHATTED [  299182561] jibanyan_wisper      (  -31.5,    14.9,   115.2)
+  donate to the bacons pls
+2022-04-23T21:08:40Z: PLAYER CHATTED [  679236653] Avexsity             (   -6.0,     4.1,    49.9)
+  see
+2022-04-23T21:08:43Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   62.5,     5.0,    83.2)
+  it means someone donó 100k 5o sumbody
+2022-04-23T21:08:44Z: PLAYER CHATTED [ 1904639033] djdadkity            (   -8.6,     3.0,    56.8)
+  I do
+2022-04-23T21:08:45Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (  -13.5,     6.2,    46.1)
+  /sit
+2022-04-23T21:08:48Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  oh
+2022-04-23T21:08:52Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  :( if only that were me
+2022-04-23T21:08:54Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   62.5,     5.0,    83.2)
+  alot
+2022-04-23T21:08:55Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.4,     3.2,    82.0)
+  all i need is 2k
+2022-04-23T21:08:58Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   62.1,     4.3,    84.7)
+  yea
+2022-04-23T21:08:59Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   67.5,     3.2,    78.6)
+  from someone
+2022-04-23T21:08:59Z: PLAYER CHATTED [ 1904639033] djdadkity            (   -8.6,     3.0,    56.8)
+  Clipped 
+2022-04-23T21:09:01Z: PLAYER CHATTED [ 1291036394] Shankodev            (   18.9,     3.6,   166.6)
+  hi
+2022-04-23T21:09:03Z: PLAYER CHATTED [  679236653] Avexsity             (   -4.9,     4.1,    50.2)
+  BRUH
+2022-04-23T21:09:05Z: PLAYER CHATTED [  679236653] Avexsity             (   -6.3,     4.1,    49.4)
+  WHy
+2022-04-23T21:09:05Z: PLAYER ADDED   [ 2226815973] xdripyX35
+2022-04-23T21:09:08Z: PLAYER CHATTED [ 2412142378] Cxrip_tailed         (   51.7,     3.3,    33.9)
+  well anyway good luck!
+2022-04-23T21:09:11Z: CHRCTER ADDED  [ 2226815973] xdripyX35            (   29.8,     6.9,   101.9)
+2022-04-23T21:09:13Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   73.3,     3.0,    45.0)
+  cat
+2022-04-23T21:09:16Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   74.4,     3.0,    45.0)
+  u
+2022-04-23T21:09:17Z: PLAYER CHATTED [  387860985] yangqii              (   67.7,     3.4,    31.1)
+  ty]
+2022-04-23T21:09:19Z: PLAYER REMOVED [ 2489941863] YT_tanker
+2022-04-23T21:09:20Z: PLAYER CHATTED [  321168302] ofien12345678890988  (   74.4,     3.0,    45.0)
+  donate if u will
+2022-04-23T21:09:33Z: PLAYER ADDED   [ 1434686540] fortniteopbos
+2022-04-23T21:09:34Z: PLAYER CHATTED [ 3291587853] StrxwberryPearlsx    (   -9.7,     3.3,    58.8)
+  can u donate 
+2022-04-23T21:09:35Z: PLAYER CHATTED [  299182561] jibanyan_wisper      (  -31.5,    14.9,   115.2)
+  donate to baons
+2022-04-23T21:09:36Z: PLAYER REMOVED [ 1525474649] nilka1122
+2022-04-23T21:09:39Z: PLAYER CHATTED [ 2226815973] xdripyX35            (   15.6,     3.4,   165.0)
+  I'm 47 rbx off
+2022-04-23T21:09:41Z: PLAYER CHATTED [ 2226815973] xdripyX35            (   15.6,     3.4,   165.0)
+  my goal
+2022-04-23T21:09:45Z: PLAYER CHATTED [ 2226815973] xdripyX35            (   15.6,     3.4,   165.0)
+  pls :(
+2022-04-23T21:09:50Z: CHRCTER ADDED  [  382139037] TakenChildrens       (   66.1,     3.3,    50.8)
+2022-04-23T21:09:51Z: PLAYER ADDED   [ 1525474649] nilka1122
+2022-04-23T21:09:55Z: PLAYER CHATTED [  679236653] Avexsity             (  -12.6,     3.5,    60.5)
+  want me to change or sum?
+2022-04-23T21:09:55Z: PLAYER CHATTED [ 1291036394] Shankodev            (   17.3,     3.4,   165.9)
+  HE AFK-
+2022-04-23T21:09:56Z: PLAYER CHATTED [ 2226815973] xdripyX35            (   11.6,     3.3,   162.9)
+  I want gamepass
+2022-04-23T21:10:02Z: CHRCTER ADDED  [  382139037] TakenChildrens       (   19.9,     3.3,    57.1)
+2022-04-23T21:10:06Z: PLAYER CHATTED [  679236653] Avexsity             (  -14.4,     3.2,    54.8)
+  short
+2022-04-23T21:10:07Z: PLAYER CHATTED [ 1904639033] djdadkity            (  -16.2,     2.7,    55.9)
+  ….
+2022-04-23T21:10:10Z: PLAYER CHATTED [ 1525474649] nilka1122            (   17.2,     3.5,   162.2)
+  please donate
+2022-04-23T21:10:28Z: PLAYER CHATTED [  679236653] Avexsity             (  -14.4,     3.2,    54.8)
+  why u so short
+2022-04-23T21:10:29Z: PLAYER CHATTED [  299182561] jibanyan_wisper      (  -31.5,    14.9,   115.2)
+  pls donat
+2022-04-23T21:10:29Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (   18.9,     3.6,   167.1)
+  plz donate to me
+2022-04-23T21:10:31Z: PLAYER CHATTED [ 1904639033] djdadkity            (  -16.2,     2.7,    55.9)
+  AY im not short💢!
+2022-04-23T21:10:37Z: CHRCTER ADDED  [  131843874] Progamer246821       (   42.1,     6.9,   114.0)
+2022-04-23T21:10:40Z: PLAYER CHATTED [ 1904639033] djdadkity            (  -16.2,     2.7,    57.0)
+  Idk….
+2022-04-23T21:10:43Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (   18.9,     3.6,   167.1)
+  please donate to me
+2022-04-23T21:10:43Z: PLAYER REMOVED [  131843874] Progamer246821
+2022-04-23T21:10:46Z: PLAYER CHATTED [  382139037] TakenChildrens       (   16.8,     3.3,   163.8)
+  me broke
+2022-04-23T21:10:51Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (   18.9,     3.6,   167.1)
+  please donate
+2022-04-23T21:10:55Z: PLAYER CHATTED [  536369185] FOUNTAINLIAM098      (   18.9,     3.6,   167.1)
+  plz
+2022-04-23T21:10:56Z: PLAYER CHATTED [  299182561] jibanyan_wisper      (  -31.5,    14.9,   115.2)
+  please dontate to me
+2022-04-23T21:10:58Z: CHRCTER ADDED  [  679236653] Avexsity             (  -20.8,     3.2,    59.9)
+2022-04-23T21:11:02Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 3234434331] TenZ4n_youtube
+2022-04-23T21:11:02Z: PLAYER REMOVED [  387860985] yangqii
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 3415576083] ImJack1242
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1812368855] rockfoxy120
+2022-04-23T21:11:02Z: PLAYER REMOVED [  536369185] FOUNTAINLIAM098
+2022-04-23T21:11:02Z: PLAYER REMOVED [  135431096] Eduardsorana
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1715682635] olrqq
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 3493079724] lilhammer011
+2022-04-23T21:11:02Z: PLAYER REMOVED [   95912519] zaystii
+2022-04-23T21:11:02Z: PLAYER REMOVED [  666322759] Resurgee
+2022-04-23T21:11:02Z: PLAYER REMOVED [  382139037] TakenChildrens
+2022-04-23T21:11:02Z: PLAYER REMOVED [  679236653] Avexsity
+2022-04-23T21:11:02Z: PLAYER REMOVED [  765517124] Iz_CupCakePrincess
+2022-04-23T21:11:02Z: PLAYER REMOVED [  321168302] ofien12345678890988
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 3291587853] StrxwberryPearlsx
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 2412142378] Cxrip_tailed
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1291036394] Shankodev
+2022-04-23T21:11:02Z: PLAYER REMOVED [  299182561] jibanyan_wisper
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1904639033] djdadkity
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 2226815973] xdripyX35
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1434686540] fortniteopbos
+2022-04-23T21:11:02Z: PLAYER REMOVED [ 1525474649] nilka1122
+2022-04-23T21:11:02Z: CHAT STREAM SUCCESSFULLY ENDED

@@ -1,0 +1,1671 @@
+[    1630228] : [10085147359] A Blockate World. - d07d39ec-10a9-4104-aafb-211ac0ff1fb6
+2022-07-03T01:42:24Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T01:42:24Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3587790508] Graceicd
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3557829150] rickastley_gotyou
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1176413158] tonyxtiger01
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 2006200339] quenchhel
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3572073622] PresidentPu_Tin
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1450608875] FR0TTZ
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1752069463] starrose94
+2022-07-03T01:42:24Z: PLAYER ADDED   [  942168584] joao_gamer8965
+2022-07-03T01:42:24Z: PLAYER ADDED   [   51278076] macwan
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3600147039] TheEpicQuackerYT
+2022-07-03T01:42:24Z: PLAYER ADDED   [  741290627] driftmarsiano
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3338563867] juni1019122
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1372365150] ZoomingZooZoo
+2022-07-03T01:42:24Z: PLAYER ADDED   [  907691652] ECH_Dylan
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1659650439] Coastertrain_fan
+2022-07-03T01:42:24Z: PLAYER ADDED   [  161048012] MarcosPictures
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3243687978] Frxming
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1143266940] AdzanCat
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 2262276459] PyroKemmi
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1205010003] sonicjoshupacman
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1778233010] gamer13vov
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 2416660111] CherriBlxssxm0
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 3534301793] Can_YouHelp121alt
+2022-07-03T01:42:24Z: PLAYER ADDED   [ 1508278529] gomyzaurd101
+2022-07-03T01:42:26Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -515.5,     1.3,   -62.8)
+  ban him
+2022-07-03T01:42:26Z: PLAYER REMOVED [ 3572073622] PresidentPu_Tin
+2022-07-03T01:42:28Z: PLAYER CHATTED [ 1205010003] sonicjoshupacman     (   -2.4,     5.0,    36.0)
+  Jk
+2022-07-03T01:42:28Z: PLAYER CHATTED [ 1659650439] Coastertrain_fan     ( -515.6,     5.0,   -31.0)
+  ?
+2022-07-03T01:42:30Z: CHRCTER ADDED  [ 3587790508] Graceicd             (    0.0,     6.3,     4.0)
+2022-07-03T01:42:31Z: PLAYER CHATTED [ 1778233010] gamer13vov           (    9.1,     7.5,    31.2)
+  im the music maker on this stand
+2022-07-03T01:42:33Z: PLAYER CHATTED [ 1205010003] sonicjoshupacman     (   -2.4,     5.0,    36.0)
+  I actually use the magic carpet
+2022-07-03T01:42:34Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.7)
+  Turn*
+2022-07-03T01:42:38Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.3,     4.0)
+2022-07-03T01:42:40Z: CHRCTER ADDED  [ 1450608875] FR0TTZ               (   -3.4,     6.4,     3.6)
+2022-07-03T01:42:44Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.5,     5.0,    34.8)
+  Ok mushroom how much you got
+2022-07-03T01:42:45Z: PLAYER CHATTED [ 1778233010] gamer13vov           (    7.4,     7.8,    30.6)
+  look
+2022-07-03T01:42:52Z: PLAYER CHATTED [  907691652] ECH_Dylan            (    3.3,     5.0,    12.4)
+  bro
+2022-07-03T01:42:52Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.2,     5.2,    34.6)
+  Bruh
+2022-07-03T01:42:52Z: CHRCTER ADDED  [ 1508278529] gomyzaurd101         (    0.0,     6.3,     4.0)
+2022-07-03T01:42:55Z: PLAYER CHATTED [ 1205010003] sonicjoshupacman     (    0.1,     5.0,    36.4)
+  I can’t donate because I need VIP
+2022-07-03T01:42:56Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.7)
+  Im next
+2022-07-03T01:42:58Z: PLAYER ADDED   [  742265952] TransparentRed
+2022-07-03T01:42:58Z: CHRCTER ADDED  [ 3534301793] Can_YouHelp121alt    (    0.0,    10.3,     4.0)
+2022-07-03T01:42:58Z: CHRCTER ADDED  [ 1450608875] FR0TTZ               (    0.0,    17.0,     4.0)
+2022-07-03T01:42:59Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.7)
+  Duck
+2022-07-03T01:43:05Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.7)
+  Mushroom was behind me
+2022-07-03T01:43:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.5,     4.0)
+2022-07-03T01:43:08Z: PLAYER REMOVED [ 1450608875] FR0TTZ
+2022-07-03T01:43:08Z: CHRCTER ADDED  [ 1508278529] gomyzaurd101         (    0.0,     6.3,     4.0)
+2022-07-03T01:43:10Z: PLAYER CHATTED [ 1778233010] gamer13vov           (   -8.4,     8.1,    37.0)
+  pro owner
+2022-07-03T01:43:12Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    ( -483.5,     3.0,    31.7)
+  lol
+2022-07-03T01:43:14Z: PLAYER CHATTED [  741290627] driftmarsiano        (    1.9,     5.3,    34.5)
+  Oh
+2022-07-03T01:43:16Z: PLAYER CHATTED [ 2006200339] quenchhel            (   -3.2,     9.0,    30.8)
+  u sussy tophat
+2022-07-03T01:43:19Z: PLAYER CHATTED [ 2006200339] quenchhel            (   -3.2,     9.0,    30.8)
+  YOU.
+2022-07-03T01:43:21Z: PLAYER CHATTED [ 1205010003] sonicjoshupacman     (   -4.6,     5.0,    36.6)
+  Epic 
+2022-07-03T01:43:23Z: PLAYER ADDED   [ 1792969700] faydhrrsrris
+2022-07-03T01:43:23Z: CHRCTER ADDED  [ 1508278529] gomyzaurd101         (    0.0,    12.0,     4.0)
+2022-07-03T01:43:23Z: PLAYER REMOVED [ 1508278529] gomyzaurd101
+2022-07-03T01:43:24Z: PLAYER CHATTED [   51278076] macwan               (    0.1,     5.0,    24.9)
+  two seconds u cutted
+2022-07-03T01:43:25Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    19.8,     4.0)
+2022-07-03T01:43:29Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    19.2,     4.0)
+2022-07-03T01:43:30Z: PLAYER CHATTED [ 1778233010] gamer13vov           (   -0.8,     8.1,  -117.8)
+  ok i go back to same
+2022-07-03T01:43:33Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    0.4,     5.0,    27.1)
+  idc
+2022-07-03T01:43:34Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.7)
+  Its me next
+2022-07-03T01:43:39Z: PLAYER CHATTED [  741290627] driftmarsiano        (    1.9,     5.3,    34.5)
+  !donate The 115
+2022-07-03T01:43:40Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     4.8,    28.7)
+  My turn
+2022-07-03T01:43:42Z: CHRCTER ADDED  [ 2416660111] CherriBlxssxm0       (    0.0,    12.0,     4.0)
+2022-07-03T01:43:43Z: PLAYER REMOVED [ 1205010003] sonicjoshupacman
+2022-07-03T01:43:45Z: PLAYER REMOVED [  742265952] TransparentRed
+2022-07-03T01:43:46Z: PLAYER CHATTED [ 1752069463] starrose94           (    1.4,     5.0,    29.1)
+  I got 100 and they reset it
+2022-07-03T01:43:46Z: CHRCTER ADDED  [ 1792969700] faydhrrsrris         (    0.0,    12.0,     4.0)
+2022-07-03T01:43:46Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    16.0,     4.0)
+2022-07-03T01:43:49Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.5,     5.0,    28.6)
+  Oo thx
+2022-07-03T01:43:49Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.2,     5.0,    36.6)
+  Hello
+2022-07-03T01:43:52Z: PLAYER CHATTED [ 3338563867] juni1019122          (    9.0,     5.3,    27.8)
+  hi
+2022-07-03T01:43:53Z: PLAYER ADDED   [ 1156335947] handsomeboy1d
+2022-07-03T01:43:53Z: PLAYER ADDED   [ 3644630708] Ntremen
+2022-07-03T01:43:56Z: CHRCTER ADDED  [ 1792969700] faydhrrsrris         (    0.0,    15.9,     4.0)
+2022-07-03T01:44:01Z: PLAYER CHATTED [ 1778233010] gamer13vov           (   30.7,     8.1,  -230.1)
+  a
+2022-07-03T01:44:02Z: PLAYER REMOVED [ 1143266940] AdzanCat
+2022-07-03T01:44:04Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:44:04Z: PLAYER CHATTED [ 1778233010] gamer13vov           (   30.7,     8.1,  -230.1)
+  gtg
+2022-07-03T01:44:17Z: PLAYER REMOVED [ 1778233010] gamer13vov
+2022-07-03T01:44:18Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,     6.2,     4.0)
+2022-07-03T01:44:21Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:44:21Z: PLAYER ADDED   [   39186164] JonaRider
+2022-07-03T01:44:24Z: CHRCTER ADDED  [ 3557829150] rickastley_gotyou    (    0.0,     6.3,     4.0)
+2022-07-03T01:44:26Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.2,     5.0,    35.6)
+  Im sorry but you need to show proof if you did had 100
+2022-07-03T01:44:29Z: CHRCTER ADDED  [   51278076] macwan               (    0.0,    12.1,     4.0)
+2022-07-03T01:44:30Z: CHRCTER ADDED  [ 3338563867] juni1019122          (    0.0,    12.0,     4.0)
+2022-07-03T01:44:34Z: PLAYER CHATTED [ 1752069463] starrose94           (    4.1,     8.8,    31.1)
+  ok
+2022-07-03T01:44:35Z: PLAYER REMOVED [ 1156335947] handsomeboy1d
+2022-07-03T01:44:35Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:44:40Z: CHRCTER ADDED  [ 3557829150] rickastley_gotyou    (    0.0,    12.0,     4.0)
+2022-07-03T01:44:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    15.6,     4.0)
+2022-07-03T01:44:41Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    20.7,     4.0)
+2022-07-03T01:44:43Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:44:43Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.5,     5.0,    36.0)
+  Who next
+2022-07-03T01:44:43Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    16.8,     4.0)
+2022-07-03T01:44:44Z: CHRCTER ADDED  [ 3338563867] juni1019122          (    0.0,    21.8,     4.0)
+2022-07-03T01:44:45Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    2.7,     5.0,    29.4)
+  can i get my blux?
+2022-07-03T01:44:50Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.9,     5.0,    35.0)
+  Sure
+2022-07-03T01:44:50Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -495.5,     5.2,  -102.3)
+  if u use gear on my obby u get no blux >:(
+2022-07-03T01:44:56Z: PLAYER REMOVED [   39186164] JonaRider
+2022-07-03T01:44:57Z: PLAYER REMOVED [ 2006200339] quenchhel
+2022-07-03T01:44:59Z: PLAYER ADDED   [ 2006200339] quenchhel
+2022-07-03T01:45:02Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    12.0,     4.0)
+2022-07-03T01:45:04Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.9,     5.0,    35.0)
+  Give me a sec to see how much blux you have to verify
+2022-07-03T01:45:07Z: PLAYER CHATTED [ 3338563867] juni1019122          (    7.4,     5.0,    13.4)
+  i need a carpet
+2022-07-03T01:45:10Z: CHRCTER ADDED  [ 2416660111] CherriBlxssxm0       (    0.0,     6.3,     4.0)
+2022-07-03T01:45:10Z: PLAYER CHATTED [ 3338563867] juni1019122          (   -0.8,     4.9,    35.1)
+  to get back
+2022-07-03T01:45:11Z: PLAYER CHATTED [ 3243687978] Frxming              (   24.2,     5.0,     4.1)
+  CAN U OPEN THE BLUX BOOTH??
+2022-07-03T01:45:11Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    1.1,     5.0,    28.7)
+  wait
+2022-07-03T01:45:20Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:45:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.3,     4.0)
+2022-07-03T01:45:26Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,     6.3,     4.0)
+2022-07-03T01:45:29Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    3.7,     5.0,    29.4)
+  30 bluux
+2022-07-03T01:45:33Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     7.2,     4.0)
+2022-07-03T01:45:36Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    10.0,     4.0)
+2022-07-03T01:45:36Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.9,     4.0)
+2022-07-03T01:45:41Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.1,    34.7)
+  Ok
+2022-07-03T01:45:48Z: CHRCTER ADDED  [ 2416660111] CherriBlxssxm0       (    0.0,     6.3,     4.0)
+2022-07-03T01:45:51Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:45:55Z: PLAYER CHATTED [ 1752069463] starrose94           (   13.5,    -2.3,    29.7)
+  I want my 100 blux
+2022-07-03T01:45:57Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.1,    34.7)
+  But its still says 0
+2022-07-03T01:45:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:46:04Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    4.7,     5.0,    28.9)
+  How?
+2022-07-03T01:46:05Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,     6.3,     4.0)
+2022-07-03T01:46:08Z: CHRCTER ADDED  [ 3338563867] juni1019122          (    0.0,     6.4,     4.0)
+2022-07-03T01:46:13Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.1,    34.7)
+  It probably a glitch dont worry
+2022-07-03T01:46:15Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:46:16Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    5.3,     5.0,    29.5)
+  yeah
+2022-07-03T01:46:17Z: PLAYER CHATTED [ 1752069463] starrose94           (   13.6,    -7.3,    29.7)
+  can you donate me
+2022-07-03T01:46:20Z: CHRCTER ADDED  [ 3587790508] Graceicd             (    0.0,     6.3,     4.0)
+2022-07-03T01:46:24Z: PLAYER CHATTED [ 1752069463] starrose94           (   13.6,    -8.9,    29.7)
+  100
+2022-07-03T01:46:26Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T01:46:27Z: PLAYER REMOVED [ 2416660111] CherriBlxssxm0
+2022-07-03T01:46:27Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.4,     5.5,    34.3)
+  !donate tony 30
+2022-07-03T01:46:28Z: PLAYER ADDED   [ 2806090393] Messoriun
+2022-07-03T01:46:29Z: CHRCTER ADDED  [ 1792969700] faydhrrsrris         (    0.0,    15.7,     4.0)
+2022-07-03T01:46:31Z: PLAYER REMOVED [ 1659650439] Coastertrain_fan
+2022-07-03T01:46:31Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    5.3,     5.0,    29.5)
+  Thankssss
+2022-07-03T01:46:33Z: PLAYER CHATTED [ 1752069463] starrose94           (   15.7,     1.8,    34.6)
+  hello
+2022-07-03T01:46:36Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  if techno is here im gonna be shocked
+2022-07-03T01:46:40Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.8,     5.0,    35.5)
+  ### isn’t bad ###
+2022-07-03T01:46:40Z: PLAYER CHATTED [ 1752069463] starrose94           (   15.7,     0.4,    34.6)
+  I want my 100
+2022-07-03T01:46:43Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.1,     5.0,    35.2)
+  681
+2022-07-03T01:46:45Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   43.2,     5.0,    -0.6)
+  WHO KNOWS ME
+2022-07-03T01:46:45Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,     6.2,     4.0)
+2022-07-03T01:46:45Z: CHRCTER ADDED  [ 3587790508] Graceicd             (    0.0,    10.9,     4.0)
+2022-07-03T01:46:49Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:46:50Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:46:54Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    0.0,    12.0,     4.0)
+2022-07-03T01:46:57Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,    12.0,     4.0)
+2022-07-03T01:47:02Z: PLAYER CHATTED [ 3243687978] Frxming              (   22.2,     5.0,     5.9)
+  yo
+2022-07-03T01:47:02Z: CHRCTER ADDED  [ 1792969700] faydhrrsrris         (    0.0,     6.3,     4.0)
+2022-07-03T01:47:04Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,    12.0,     4.0)
+2022-07-03T01:47:05Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -58.3,    16.8,     7.3)
+  !team set me forest green
+2022-07-03T01:47:06Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  !donate ja 681
+2022-07-03T01:47:09Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:47:12Z: PLAYER CHATTED [ 2806090393] Messoriun            (    1.6,     8.7,    16.8)
+  hii
+2022-07-03T01:47:14Z: PLAYER CHATTED [  942168584] joao_gamer8965       (    3.5,     5.0,    29.5)
+  try jo
+2022-07-03T01:47:15Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    0.0,    12.0,     4.0)
+2022-07-03T01:47:15Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  baconmaster
+2022-07-03T01:47:16Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:47:18Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  Oh
+2022-07-03T01:47:18Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  remember me
+2022-07-03T01:47:20Z: PLAYER CHATTED [ 3243687978] Frxming              (   22.2,     5.0,     5.9)
+  /w Messoriun  messoriun u took my builder away
+2022-07-03T01:47:20Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    12.0,     4.0)
+2022-07-03T01:47:23Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:47:24Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -328.9,     5.9,     4.2)
+  /w Frxming  when
+2022-07-03T01:47:25Z: PLAYER REMOVED [ 1792969700] faydhrrsrris
+2022-07-03T01:47:28Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  !donate jo 681
+2022-07-03T01:47:29Z: PLAYER CHATTED [ 3243687978] Frxming              (   31.6,     5.0,     6.2)
+  just now
+2022-07-03T01:47:30Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -472.6,    19.2,   244.8)
+  !shout hi owner
+2022-07-03T01:47:31Z: PLAYER CHATTED [  942168584] joao_gamer8965       (    3.5,     5.0,    29.5)
+  ty
+2022-07-03T01:47:31Z: PLAYER CHATTED [ 3243687978] Frxming              (   31.6,     5.0,     6.2)
+  it got taken
+2022-07-03T01:47:36Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -392.1,     4.5,    32.0)
+  /w Frxming  u never had builer tho???
+2022-07-03T01:47:36Z: PLAYER CHATTED [ 3243687978] Frxming              (   31.6,     5.0,     6.2)
+  can i have it back
+2022-07-03T01:47:37Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    0.0,     6.3,     4.0)
+2022-07-03T01:47:39Z: PLAYER CHATTED [ 3243687978] Frxming              (   27.7,     5.0,     4.9)
+  i did
+2022-07-03T01:47:39Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:47:41Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -474.5,    34.4,   223.8)
+  !shout still working on chapter 3
+2022-07-03T01:47:41Z: PLAYER CHATTED [ 1752069463] starrose94           (  -27.5,  -181.9,   -52.8)
+  hello I need my 100 blux
+2022-07-03T01:47:42Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -393.5,     5.0,    49.0)
+  no
+2022-07-03T01:47:43Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,     6.3,     4.0)
+2022-07-03T01:47:44Z: CHRCTER ADDED  [ 3587790508] Graceicd             (    0.0,    12.0,     4.0)
+2022-07-03T01:47:44Z: PLAYER CHATTED [ 3243687978] Frxming              (   27.7,     5.0,     4.9)
+  ice gave me it
+2022-07-03T01:47:45Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  ##########################################################################################
+2022-07-03T01:47:50Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  i have 726
+2022-07-03T01:47:53Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  however
+2022-07-03T01:47:54Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  Nice
+2022-07-03T01:47:54Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:47:55Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -487.4,    12.5,   -77.3)
+  hi owner
+2022-07-03T01:47:58Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  i won the ice obby
+2022-07-03T01:47:58Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -392.0,     4.5,   116.0)
+  /w Frxming  ice is not admin anymore
+2022-07-03T01:48:00Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  so
+2022-07-03T01:48:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.3,     4.0)
+2022-07-03T01:48:03Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    12.2,     4.0)
+2022-07-03T01:48:03Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (   -0.0,    15.4,     4.0)
+2022-07-03T01:48:03Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    0.0,    21.1,     4.0)
+2022-07-03T01:48:05Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  i need 1236 blux
+2022-07-03T01:48:08Z: PLAYER CHATTED [ 3243687978] Frxming              (   18.8,     5.0,     4.2)
+  he still gave me it
+2022-07-03T01:48:09Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    0.0,    10.7,     4.0)
+2022-07-03T01:48:10Z: PLAYER CHATTED [ 1752069463] starrose94           (    8.2,     5.0,    17.1)
+  can I have my blux
+2022-07-03T01:48:12Z: PLAYER CHATTED [ 3243687978] Frxming              (   18.8,     5.0,     4.2)
+  and u took it awau
+2022-07-03T01:48:13Z: PLAYER REMOVED [ 3587790508] Graceicd
+2022-07-03T01:48:15Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:48:16Z: PLAYER CHATTED [ 3243687978] Frxming              (   18.8,     5.0,     4.2)
+  i think
+2022-07-03T01:48:22Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  WHO WANTS TO PARTICIPATE IN A SIMON SAYS FOR POTENTIALLY 5K BLUX
+2022-07-03T01:48:23Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,     6.3,     4.0)
+2022-07-03T01:48:24Z: PLAYER ADDED   [ 1122979970] LyricalG4M3R
+2022-07-03T01:48:27Z: PLAYER CHATTED [ 3243687978] Frxming              (   18.8,     5.0,     4.2)
+  idk if u took it away or if it just dissapeared
+2022-07-03T01:48:28Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    3.1,     5.0,    27.0)
+  me?
+2022-07-03T01:48:29Z: CHRCTER ADDED  [ 3534301793] Can_YouHelp121alt    (    0.0,    12.0,     4.0)
+2022-07-03T01:48:32Z: PLAYER CHATTED [  161048012] MarcosPictures       (  -69.5,     5.0,     2.5)
+  me
+2022-07-03T01:48:35Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (    0.0,     7.0,     4.0)
+  how many blux
+2022-07-03T01:48:35Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    0.0,     7.0,     4.0)
+  sure
+2022-07-03T01:48:36Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  ######################
+2022-07-03T01:48:36Z: PLAYER CHATTED [ 3243687978] Frxming              (    9.3,     5.0,     6.6)
+  but can i have it back pls
+2022-07-03T01:48:37Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  me
+2022-07-03T01:48:37Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  -73.5,     5.0,     3.1)
+  meeee
+2022-07-03T01:48:38Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (    0.0,     7.0,     4.0)
+  if u beat the obby
+2022-07-03T01:48:39Z: PLAYER CHATTED [  907691652] ECH_Dylan            (    4.2,     5.0,    21.8)
+  AOmg this takes so long
+2022-07-03T01:48:40Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,     6.3,     4.0)
+2022-07-03T01:48:42Z: PLAYER CHATTED [ 2006200339] quenchhel            (  -76.4,    16.7,     6.5)
+  !tp Mess
+2022-07-03T01:48:45Z: PLAYER CHATTED [ 3243687978] Frxming              (   15.7,     5.0,     6.5)
+  i went through a long test
+2022-07-03T01:48:46Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:48:47Z: PLAYER CHATTED [ 2806090393] Messoriun            (   60.8,     2.8,   -10.9)
+  ?
+2022-07-03T01:48:49Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  real roblox acc name is macwan
+2022-07-03T01:48:50Z: PLAYER CHATTED [ 2006200339] quenchhel            (   49.9,     6.0,     4.7)
+  !ezsign
+2022-07-03T01:48:50Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,     6.3,     4.0)
+2022-07-03T01:48:53Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  #########################################################################################################
+2022-07-03T01:48:54Z: PLAYER CHATTED [ 3243687978] Frxming              (   15.7,     5.0,     6.5)
+  it was like 10-15 mins
+2022-07-03T01:48:56Z: PLAYER CHATTED [ 2006200339] quenchhel            (   49.6,     6.0,    23.0)
+  !exit
+2022-07-03T01:48:58Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     6.5)
+  /w Frxming  wait
+2022-07-03T01:48:58Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.3,     5.0,    35.1)
+  Bruh
+2022-07-03T01:49:00Z: PLAYER REMOVED [  942168584] joao_gamer8965
+2022-07-03T01:49:02Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     6.5)
+  u want builder back?
+2022-07-03T01:49:02Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  -73.5,     5.0,     3.1)
+  hello?
+2022-07-03T01:49:03Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    3.1,     5.0,    27.0)
+  DONATE ALREADY
+2022-07-03T01:49:03Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:49:04Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    12.0,     4.0)
+2022-07-03T01:49:05Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  OK GUYS
+2022-07-03T01:49:06Z: PLAYER CHATTED [ 3243687978] Frxming              (   15.7,     5.0,     6.5)
+  /w Messoriun  yes
+2022-07-03T01:49:10Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  SEARCH FOR JELLYJESS127
+2022-07-03T01:49:11Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     6.5)
+  !backup save
+2022-07-03T01:49:11Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.5,     4.0)
+2022-07-03T01:49:13Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    12.0,     4.0)
+2022-07-03T01:49:17Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     6.5)
+  !perm frx builder
+2022-07-03T01:49:18Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  THEN CLICK ON SIMON SAYS FOR 5000 BLUX
+2022-07-03T01:49:19Z: PLAYER CHATTED [  907691652] ECH_Dylan            (   64.2,     5.0,     4.5)
+  hello
+2022-07-03T01:49:19Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.7,     5.0,    35.7)
+  You need to have video proof guest that you beat the ice obby
+2022-07-03T01:49:24Z: PLAYER ADDED   [ 3659819012] SicklerBrother
+2022-07-03T01:49:25Z: PLAYER ADDED   [ 2063356818] MaddyMike20
+2022-07-03T01:49:27Z: PLAYER ADDED   [ 3621582535] Whenyoufartsohard
+2022-07-03T01:49:27Z: PLAYER ADDED   [  756377447] Zaneka0
+2022-07-03T01:49:27Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.8,     5.0,    35.5)
+  Otherwise it will be called
+2022-07-03T01:49:27Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    12.0,     4.0)
+2022-07-03T01:49:30Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    27.1,     4.0)
+2022-07-03T01:49:30Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  THEN U CAN GO TO SIMON SAYS
+2022-07-03T01:49:31Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.8,     5.0,    35.5)
+  Scamming
+2022-07-03T01:49:31Z: PLAYER CHATTED [ 1752069463] starrose94           (   65.5,     5.0,     0.1)
+  can I build a obby?
+2022-07-03T01:49:33Z: PLAYER CHATTED [   51278076] macwan               (    3.8,     5.0,    29.5)
+  how am i supposed to do it
+2022-07-03T01:49:33Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  !logs
+2022-07-03T01:49:36Z: PLAYER ADDED   [ 3672827467] senior_queso132
+2022-07-03T01:49:39Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  hiiii
+2022-07-03T01:49:42Z: PLAYER CHATTED [   51278076] macwan               (    4.0,     5.0,    29.5)
+  ill just show u i guess
+2022-07-03T01:49:43Z: PLAYER CHATTED [ 1752069463] starrose94           (   65.5,     5.0,     0.1)
+  hi
+2022-07-03T01:49:44Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  no
+2022-07-03T01:49:45Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  WHO WANTS A CHANCE AT 5K BLXU
+2022-07-03T01:49:47Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.9,     5.0,     2.6)
+  BLUX
+2022-07-03T01:49:49Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  !logs
+2022-07-03T01:49:49Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    3.2,     3.0,    27.0)
+  me
+2022-07-03T01:49:50Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    3.2,     4.4,    27.0)
+  me
+2022-07-03T01:49:51Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (  -69.6,     8.2,     1.8)
+  me
+2022-07-03T01:49:51Z: CHRCTER ADDED  [ 3672827467] senior_queso132      (    0.0,     6.3,     4.0)
+2022-07-03T01:49:53Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -55.2,     5.0,     3.3)
+  ok
+2022-07-03T01:49:53Z: PLAYER CHATTED [ 1752069463] starrose94           (   65.5,     5.0,     0.1)
+  can I get my 100
+2022-07-03T01:49:55Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  guys
+2022-07-03T01:49:55Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -63.0,    29.0,  -107.8)
+  Me
+2022-07-03T01:49:57Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  search up
+2022-07-03T01:49:58Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:49:58Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    12.0,     4.0)
+2022-07-03T01:49:59Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  Jellyjess127 
+2022-07-03T01:50:02Z: CHRCTER ADDED  [ 3621582535] Whenyoufartsohard    (    0.0,     6.3,     4.0)
+2022-07-03T01:50:02Z: PLAYER CHATTED [   51278076] macwan               (  -12.7,     5.0,    -0.5)
+  ######################
+2022-07-03T01:50:02Z: PLAYER CHATTED [  907691652] ECH_Dylan            (   64.5,     5.0,     4.6)
+  can I get my blu 
+2022-07-03T01:50:03Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  im games
+2022-07-03T01:50:05Z: PLAYER CHATTED [  907691652] ECH_Dylan            (   64.5,     5.0,     4.6)
+  Blue
+2022-07-03T01:50:05Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  no
+2022-07-03T01:50:06Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  then
+2022-07-03T01:50:08Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     4.6)
+  get 300 atleast
+2022-07-03T01:50:08Z: CHRCTER ADDED  [ 3659819012] SicklerBrother       (    0.0,     6.3,     4.0)
+2022-07-03T01:50:09Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,    12.0,     4.0)
+2022-07-03T01:50:10Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  scroll down
+2022-07-03T01:50:12Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    4.5,     5.0,    28.0)
+  Duck
+2022-07-03T01:50:12Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.7,     5.0,     6.0)
+  hi ech
+2022-07-03T01:50:13Z: PLAYER CHATTED [  907691652] ECH_Dylan            (   64.5,     5.0,     4.6)
+  ABro why t
+2022-07-03T01:50:13Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  -33.2,     5.0,     5.8)
+  theres no game for the simon says
+2022-07-03T01:50:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.3,     4.0)
+2022-07-03T01:50:19Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  and find SIMON SAYS FOR 5000 BLUX!
+2022-07-03T01:50:20Z: PLAYER CHATTED [ 3338563867] juni1019122          (    3.8,     5.0,    27.1)
+  d
+2022-07-03T01:50:21Z: PLAYER CHATTED [ 3338563867] juni1019122          (    3.8,     5.0,    27.1)
+  duck
+2022-07-03T01:50:21Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     6.3,     4.0)
+2022-07-03T01:50:22Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.1,     5.0,     7.0)
+  starts at 10 players
+2022-07-03T01:50:23Z: CHRCTER ADDED  [ 3659819012] SicklerBrother       (    0.0,     6.3,     4.0)
+2022-07-03T01:50:24Z: PLAYER CHATTED [ 2806090393] Messoriun            (   70.5,     5.0,     5.7)
+  !donate ech 60
+2022-07-03T01:50:26Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.0,     5.0,     6.6)
+  really?
+2022-07-03T01:50:27Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  -35.4,     5.0,     5.5)
+  its only Jellyjess127 things
+2022-07-03T01:50:27Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:50:31Z: PLAYER CHATTED [ 3338563867] juni1019122          (    2.6,     5.4,    29.5)
+  lemme redeem
+2022-07-03T01:50:31Z: PLAYER CHATTED [ 3338563867] juni1019122          (    2.6,     5.4,    29.5)
+  pls
+2022-07-03T01:50:31Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  -35.4,     5.0,     5.5)
+  places*
+2022-07-03T01:50:31Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.3,     5.0,     6.2)
+  Jellyjess127
+2022-07-03T01:50:31Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -0.3,     8.3,    32.2)
+  Me
+2022-07-03T01:50:31Z: PLAYER REMOVED [ 3534301793] Can_YouHelp121alt
+2022-07-03T01:50:32Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.0,    35.4)
+  !donate rick 1046
+2022-07-03T01:50:32Z: PLAYER ADDED   [  705486900] Ya_BoiRektYa
+2022-07-03T01:50:35Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -0.3,     8.3,    32.2)
+  Its me
+2022-07-03T01:50:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    11.9,     4.0)
+2022-07-03T01:50:37Z: CHRCTER ADDED  [ 3644630708] Ntremen              (    0.0,    16.9,     4.0)
+2022-07-03T01:50:40Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    17.0,     4.0)
+2022-07-03T01:50:40Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -98.8,     5.0,     1.9)
+  Okay ima do this one
+2022-07-03T01:50:40Z: PLAYER REMOVED [ 3644630708] Ntremen
+2022-07-03T01:50:42Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.3,     5.0,     6.2)
+  ## ### it says
+2022-07-03T01:50:44Z: PLAYER REMOVED [ 3659819012] SicklerBrother
+2022-07-03T01:50:44Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.0,    35.4)
+  Ok
+2022-07-03T01:50:47Z: PLAYER CHATTED [ 3338563867] juni1019122          (    2.6,     5.4,    29.5)
+  may  i redeem
+2022-07-03T01:50:47Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -38.5,     3.9,     3.8)
+  STOP ADVERTISING
+2022-07-03T01:50:48Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -38.3,     5.0,     6.2)
+  On one of the games
+2022-07-03T01:50:48Z: PLAYER REMOVED [ 1176413158] tonyxtiger01
+2022-07-03T01:50:48Z: CHRCTER ADDED  [   51278076] macwan               (    0.0,    12.0,     4.0)
+2022-07-03T01:50:50Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,    12.0,     4.0)
+2022-07-03T01:50:50Z: PLAYER ADDED   [ 1081119762] lastgest11161
+2022-07-03T01:50:51Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -37.9,     5.0,     6.6)
+  ok
+2022-07-03T01:50:51Z: PLAYER CHATTED [   51278076] macwan               (    0.0,     7.0,     4.0)
+  there i did it
+2022-07-03T01:50:51Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    22.1,     4.0)
+2022-07-03T01:50:53Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -37.9,     5.0,     6.6)
+  fine
+2022-07-03T01:50:55Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -151.2,     5.0,     5.5)
+  i have
+2022-07-03T01:50:56Z: PLAYER CHATTED [  741290627] driftmarsiano        (    4.4,     5.2,    35.8)
+  You have 0 hlux
+2022-07-03T01:50:56Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (  -21.7,     5.0,     3.9)
+  im here to claim my bux
+2022-07-03T01:50:58Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -25.1,     5.0,     5.3)
+  /w rickastley_gotyou  friend me
+2022-07-03T01:50:59Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,     6.3,     4.0)
+2022-07-03T01:51:01Z: PLAYER CHATTED [  741290627] driftmarsiano        (    3.9,     5.0,    35.0)
+  Blux*
+2022-07-03T01:51:01Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -151.2,     5.0,     5.5)
+  the steampunk glove
+2022-07-03T01:51:02Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (  -46.4,     5.0,     2.8)
+  /w PuzzledAbsurdity  kk
+2022-07-03T01:51:03Z: PLAYER CHATTED [ 3338563867] juni1019122          (    2.6,     5.4,    29.5)
+  it reset mine
+2022-07-03T01:51:03Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:51:03Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -38.2,     3.9,     2.7)
+  ok
+2022-07-03T01:51:04Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -43.4,     5.0,     5.7)
+  ill unfriend u later
+2022-07-03T01:51:04Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:05Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -43.4,     5.0,     5.7)
+  so
+2022-07-03T01:51:08Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -43.4,     5.0,     5.7)
+  u can get into simon says
+2022-07-03T01:51:09Z: PLAYER CHATTED [ 3338563867] juni1019122          (   -1.5,     5.4,    20.9)
+  i acciedently touched this
+2022-07-03T01:51:12Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,    12.0,     4.0)
+2022-07-03T01:51:13Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -46.9,     3.9,     1.1)
+  !donate rick 800
+2022-07-03T01:51:14Z: PLAYER ADDED   [ 1176413158] tonyxtiger01
+2022-07-03T01:51:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:16Z: CHRCTER ADDED  [  705486900] Ya_BoiRektYa         (    0.0,    21.8,     4.0)
+2022-07-03T01:51:17Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T01:51:19Z: CHRCTER ADDED  [ 3338563867] juni1019122          (    0.0,    12.0,     4.0)
+2022-07-03T01:51:20Z: PLAYER ADDED   [  507502395] TheOfficialMrDuck
+2022-07-03T01:51:20Z: CHRCTER ADDED  [ 1372365150] ZoomingZooZoo        (    0.0,    15.8,     4.0)
+2022-07-03T01:51:21Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.4,     7.6,    32.9)
+  Duck
+2022-07-03T01:51:22Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.0,     4.0)
+2022-07-03T01:51:23Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (   -3.9,     5.0,    13.4)
+  owner
+2022-07-03T01:51:24Z: PLAYER CHATTED [ 3621582535] Whenyoufartsohard    (    1.4,     5.0,    29.1)
+  me
+2022-07-03T01:51:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:24Z: CHRCTER ADDED  [ 3672827467] senior_queso132      (    0.0,    17.0,     4.0)
+2022-07-03T01:51:25Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -338.1,    10.2,    20.3)
+  !shout i love tax
+2022-07-03T01:51:27Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.7,     8.6,    31.6)
+  Its me
+2022-07-03T01:51:27Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.1,    12.0,     4.0)
+2022-07-03T01:51:27Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (   -8.6,     5.0,     3.0)
+  jellyjess
+2022-07-03T01:51:27Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (   -3.9,     5.0,    13.4)
+  owner
+2022-07-03T01:51:28Z: CHRCTER ADDED  [  705486900] Ya_BoiRektYa         (    0.1,    12.0,     4.0)
+2022-07-03T01:51:29Z: PLAYER CHATTED [ 3621582535] Whenyoufartsohard    (    1.6,     5.0,    29.5)
+  me want bluck
+2022-07-03T01:51:29Z: PLAYER CHATTED [ 3338563867] juni1019122          (    1.0,     3.9,    29.4)
+  but i had 109
+2022-07-03T01:51:31Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (   -3.9,     5.0,    13.4)
+  OWNER
+2022-07-03T01:51:34Z: PLAYER REMOVED [ 1372365150] ZoomingZooZoo
+2022-07-03T01:51:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:35Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    17.0,     4.0)
+2022-07-03T01:51:37Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:51:37Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    15.6,     4.0)
+2022-07-03T01:51:38Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    2.1,     8.1,    32.4)
+  They cut
+2022-07-03T01:51:43Z: PLAYER REMOVED [ 3672827467] senior_queso132
+2022-07-03T01:51:44Z: PLAYER CHATTED [ 2006200339] quenchhel            (   15.9,     6.0,     7.6)
+  hey #####
+2022-07-03T01:51:45Z: PLAYER CHATTED [   51278076] macwan               (    5.7,     5.0,     4.0)
+  tax?
+2022-07-03T01:51:46Z: PLAYER CHATTED [ 2006200339] quenchhel            (   15.7,     6.0,     7.6)
+  owner
+2022-07-03T01:51:48Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -133.0,     5.0,     3.6)
+  /w ###################### i bought the steampunk glove
+2022-07-03T01:51:51Z: CHRCTER ADDED  [  705486900] Ya_BoiRektYa         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:53Z: PLAYER CHATTED [   51278076] macwan               (    5.7,     5.0,     4.0)
+  tax is government scam
+2022-07-03T01:51:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:51:57Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:51:58Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.0,     4.0)
+2022-07-03T01:51:59Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    12.0,     4.0)
+2022-07-03T01:52:01Z: PLAYER CHATTED [ 2806090393] Messoriun            (   10.7,     5.7,     3.9)
+  /w LyricalG4M3R  nice}
+2022-07-03T01:52:02Z: PLAYER CHATTED [ 2006200339] quenchhel            (   15.7,     6.0,     7.6)
+  wanna see how much i have made in chapter 3
+2022-07-03T01:52:02Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -522.2,    -4.7,  -126.6)
+  /w Messoriun  how do i put the blux thing
+2022-07-03T01:52:04Z: PLAYER REMOVED [ 1176413158] tonyxtiger01
+2022-07-03T01:52:06Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -546.8,    -4.7,   -92.4)
+  i finished the obby
+2022-07-03T01:52:06Z: PLAYER CHATTED [ 2806090393] Messoriun            (   10.7,     3.9,     3.9)
+  /w PyroKemmi  i saw
+2022-07-03T01:52:06Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -89.4,     5.0,     4.7)
+  whats it for
+2022-07-03T01:52:07Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,    12.0,     4.0)
+2022-07-03T01:52:09Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:52:10Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.7,     5.0,    35.5)
+  !donate wh 226
+2022-07-03T01:52:11Z: PLAYER CHATTED [ 2806090393] Messoriun            (   10.7,     3.9,     3.9)
+  /i went in by accident lol
+2022-07-03T01:52:11Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -90.5,     5.0,     4.8)
+  /w ###################### /whats it for
+2022-07-03T01:52:12Z: PLAYER ADDED   [ 3534301793] Can_YouHelp121alt
+2022-07-03T01:52:13Z: PLAYER REMOVED [ 3338563867] juni1019122
+2022-07-03T01:52:15Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -488.0,     4.8,   -53.9)
+  its good
+2022-07-03T01:52:15Z: PLAYER CHATTED [ 3621582535] Whenyoufartsohard    (    0.0,     3.2,    29.5)
+  thanks so much!
+2022-07-03T01:52:16Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:52:17Z: PLAYER CHATTED [ 1752069463] starrose94           (   -1.0,     5.0,    37.2)
+  can you give me my 11
+2022-07-03T01:52:19Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  -33.2,     5.0,     0.6)
+  can i have 10 blux
+2022-07-03T01:52:21Z: PLAYER CHATTED [ 1752069463] starrose94           (   -1.0,     5.0,    37.2)
+  111
+2022-07-03T01:52:22Z: PLAYER CHATTED [ 2806090393] Messoriun            (    9.3,     3.9,     6.9)
+  /w LyricalG4M3R  let me change u team so u can do cahsp
+2022-07-03T01:52:23Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  -33.2,     5.0,     0.6)
+  i finished the easy obby
+2022-07-03T01:52:23Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.7,     5.0,    35.5)
+  Np
+2022-07-03T01:52:24Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T01:52:24Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -176.5,     5.0,     5.1)
+  and can u set me to now playing
+2022-07-03T01:52:24Z: PLAYER CHATTED [ 2806090393] Messoriun            (    9.3,     3.9,     6.9)
+  chaos****
+2022-07-03T01:52:25Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.7,     5.0,    28.7)
+  Me
+2022-07-03T01:52:28Z: PLAYER CHATTED [ 1752069463] starrose94           (   -1.0,     5.0,    37.2)
+  can you
+2022-07-03T01:52:28Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  -33.0,     5.0,    -5.4)
+  look at my blux
+2022-07-03T01:52:29Z: CHRCTER ADDED  [ 3534301793] Can_YouHelp121alt    (    0.0,    12.0,     4.0)
+2022-07-03T01:52:30Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.7,     5.0,    28.7)
+  Its my turn
+2022-07-03T01:52:30Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,    12.0,     4.0)
+2022-07-03T01:52:30Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   -4.4,     5.0,    12.6)
+  /w Can_YouHelp121alt  chill
+2022-07-03T01:52:32Z: PLAYER CHATTED [ 2806090393] Messoriun            (    9.3,     3.9,     6.9)
+  !team set big white
+2022-07-03T01:52:34Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    12.0,     4.0)
+2022-07-03T01:52:34Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.9,     5.0,    19.7)
+  people are coming
+2022-07-03T01:52:35Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    15.6,     4.0)
+2022-07-03T01:52:35Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    18.6,     4.0)
+2022-07-03T01:52:36Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    0.7,     3.6,    28.9)
+  hello
+2022-07-03T01:52:37Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -517.5,     5.0,  -112.0)
+  can u put blux thing on my oby
+2022-07-03T01:52:39Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   -9.3,     5.0,     8.3)
+  /w Ya_BoiRektYa  techno
+2022-07-03T01:52:42Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -42.9,    27.7,     1.1)
+  !team set ly white
+2022-07-03T01:52:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.7,     5.0,    28.7)
+  Move
+2022-07-03T01:52:42Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.4,     4.0)
+2022-07-03T01:52:42Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    0.0,     5.0,    29.4)
+  i reseted my bux
+2022-07-03T01:52:42Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  -32.0,     5.0,    16.8)
+  /w PuzzledAbsurdity  yes?
+2022-07-03T01:52:43Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -49.5,     5.0,     5.2)
+  im hosting a simon says
+2022-07-03T01:52:44Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    12.4,     4.0)
+2022-07-03T01:52:44Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -120.9,    27.7,     6.1)
+  /w PyroKemmi  ok
+2022-07-03T01:52:45Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -49.5,     5.0,     5.2)
+  wanna join?
+2022-07-03T01:52:46Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    0.0,     5.0,    29.4)
+  can u donate me more
+2022-07-03T01:52:46Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.4,     4.0)
+2022-07-03T01:52:46Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (    0.9,     5.0,     5.9)
+  i died
+2022-07-03T01:52:47Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (   -0.2,     5.9,     0.4)
+  I’m getting no blue
+2022-07-03T01:52:48Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  -47.3,     5.0,     1.2)
+  sure
+2022-07-03T01:52:50Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.7,     5.0,    28.7)
+  STOP CUTTING
+2022-07-03T01:52:51Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.6,     5.0,    34.8)
+  Ok
+2022-07-03T01:52:53Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -102.2,     5.0,    -0.6)
+  kk friend me and join
+2022-07-03T01:52:53Z: PLAYER CHATTED [ 3243687978] Frxming              ( -569.9,    65.0,   -97.1)
+  !statgiver 🧧BLUX 250
+2022-07-03T01:52:53Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.6,     5.0,    34.8)
+  Add
+2022-07-03T01:52:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:52:57Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -435.5,    11.6,    -4.1)
+  wait
+2022-07-03T01:52:59Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (   -0.2,     5.9,     0.4)
+  Bro this is a scan
+2022-07-03T01:52:59Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.6,     5.0,    34.8)
+  !donate st 111
+2022-07-03T01:52:59Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -435.4,     8.1,    -4.2)
+  what blux thing
+2022-07-03T01:53:01Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:53:04Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+2022-07-03T01:53:04Z: PLAYER CHATTED [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+  OW
+2022-07-03T01:53:06Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (   30.9,     5.0,     1.3)
+  SCAM
+2022-07-03T01:53:06Z: CHRCTER ADDED  [ 3557829150] rickastley_gotyou    (    0.0,     8.7,     4.0)
+2022-07-03T01:53:07Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -447.5,    14.6,     2.7)
+  the thing where u get blux
+2022-07-03T01:53:08Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T01:53:08Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:53:09Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+  Its my turn
+2022-07-03T01:53:09Z: CHRCTER ADDED  [  705486900] Ya_BoiRektYa         (    0.0,    15.3,     4.0)
+2022-07-03T01:53:09Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    20.1,     4.0)
+2022-07-03T01:53:11Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -368.7,    28.4,    -0.0)
+  /w PyroKemmi  oh
+2022-07-03T01:53:12Z: PLAYER REMOVED [ 3621582535] Whenyoufartsohard
+2022-07-03T01:53:13Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,     9.8,     4.0)
+2022-07-03T01:53:13Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -447.5,    14.6,     2.7)
+  /w Messoriun  at the end of the obby
+2022-07-03T01:53:14Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    1.1,     5.0,    29.5)
+  hello
+2022-07-03T01:53:15Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -368.5,    18.0,    -0.0)
+  did u finish it
+2022-07-03T01:53:16Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,     6.4,     4.0)
+2022-07-03T01:53:16Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    12.2,     4.0)
+2022-07-03T01:53:19Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    1.1,     3.0,    29.4)
+  i got more bux
+2022-07-03T01:53:20Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:53:22Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.6,     5.0,    29.0)
+  Duck
+2022-07-03T01:53:22Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -535.1,    14.6,  -111.2)
+  ye
+2022-07-03T01:53:25Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,    12.0,     4.0)
+2022-07-03T01:53:28Z: PLAYER CHATTED [ 1081119762] lastgest11161       
+  help
+2022-07-03T01:53:28Z: PLAYER REMOVED [  705486900] Ya_BoiRektYa
+2022-07-03T01:53:28Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    4.7,     2.6,    26.3)
+  My turn
+2022-07-03T01:53:29Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.4,     5.0,    35.1)
+  Ok i do somebody next
+2022-07-03T01:53:31Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -32.5,     5.0,    16.8)
+  abuse lol
+2022-07-03T01:53:32Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (    0.0,     7.0,     4.0)
+  O got no blux this is definitely a scam
+2022-07-03T01:53:35Z: PLAYER ADDED   [  675024968] bix451
+2022-07-03T01:53:35Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -32.5,     5.0,    16.8)
+  # ####### ## power
+2022-07-03T01:53:38Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.4,     5.0,    27.9)
+  ITS ME
+2022-07-03T01:53:38Z: PLAYER REMOVED [  741290627] driftmarsiano
+2022-07-03T01:53:39Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     5.0,  -114.3)
+  !decal blux
+2022-07-03T01:53:39Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    11.0,     4.0)
+2022-07-03T01:53:40Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    2.7,     5.0,    27.0)
+  im 3rd
+2022-07-03T01:53:42Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     5.0,  -114.3)
+  !decal size 0.8 0.4
+2022-07-03T01:53:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.4,     5.0,    27.9)
+  THEY ALL CUT
+2022-07-03T01:53:43Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.0,     4.0)
+2022-07-03T01:53:44Z: PLAYER REMOVED [ 1081119762] lastgest11161
+2022-07-03T01:53:46Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     5.0,  -114.3)
+  !decal rotation 90
+2022-07-03T01:53:46Z: PLAYER ADDED   [ 1081119762] lastgest11161
+2022-07-03T01:53:47Z: PLAYER ADDED   [  741290627] driftmarsiano
+2022-07-03T01:53:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    22.1,     4.0)
+2022-07-03T01:53:50Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    1.9,     5.0,    16.7)
+  bruh
+2022-07-03T01:53:54Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     5.0,  -114.3)
+  How much blux
+2022-07-03T01:53:55Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:53:55Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.8,     5.0,    22.1)
+  I got hubbed
+2022-07-03T01:53:57Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -284.4,     5.0,     6.4)
+  shoukd
+2022-07-03T01:53:58Z: PLAYER ADDED   [  408808921] BeastBoyLev
+2022-07-03T01:53:59Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -285.8,     5.0,     6.4)
+  should
+2022-07-03T01:54:00Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -534.3,     7.8,   -99.7)
+  hmmm
+2022-07-03T01:54:01Z: PLAYER CHATTED [ 3243687978] Frxming              ( -569.4,    65.0,   -95.8)
+  !stat weight 🧧BLUX 500
+2022-07-03T01:54:01Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         ( -285.8,     5.0,     6.4)
+  i abuse power?
+2022-07-03T01:54:02Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.2,     8.9,    30.9)
+  i was first
+2022-07-03T01:54:03Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.9,     5.0,    28.9)
+  Its me
+2022-07-03T01:54:06Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.1,     5.0,    35.8)
+  Weird
+2022-07-03T01:54:06Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.9,     5.0,    28.9)
+  ######
+2022-07-03T01:54:07Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -534.2,     7.8,   -99.7)
+  120
+2022-07-03T01:54:07Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    12.0,     4.0)
+2022-07-03T01:54:08Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T01:54:09Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.7,     3.2,    28.8)
+  Cut
+2022-07-03T01:54:10Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,    12.1,     4.0)
+2022-07-03T01:54:13Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,    11.9,     4.0)
+2022-07-03T01:54:14Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.1,     8.0,    32.5)
+  can i get my blux
+2022-07-03T01:54:14Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -569.4,    71.4,   -95.8)
+  !tp fr
+2022-07-03T01:54:15Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,     6.3,     4.0)
+2022-07-03T01:54:16Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T01:54:17Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -569.7,    65.0,   -99.0)
+  oh
+2022-07-03T01:54:19Z: PLAYER CHATTED [ 3243687978] Frxming              ( -571.9,    65.0,   -92.0)
+  ?
+2022-07-03T01:54:20Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.9,     9.0,    30.4)
+  MOVE
+2022-07-03T01:54:21Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   40.3,   -76.8,   126.4)
+  /w rickastley_gotyou  yo darn
+2022-07-03T01:54:22Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,    12.0,     4.0)
+2022-07-03T01:54:23Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T01:54:24Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     7.3,     4.0)
+2022-07-03T01:54:25Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.9,     9.0,    30.4)
+  YOU CUT THE LINE
+2022-07-03T01:54:26Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   -9.6,     2.5,    16.3)
+  wanna join the game?
+2022-07-03T01:54:26Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.1,     8.0,    32.5)
+  /w PuzzledAbsurdity  ?
+2022-07-03T01:54:26Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     8.8,     4.0)
+2022-07-03T01:54:28Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -561.5,    63.2,   -95.3)
+  make this a hard obby
+2022-07-03T01:54:30Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    10.5,     4.0)
+2022-07-03T01:54:30Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -561.5,    63.0,   -95.3)
+  500 is alot
+2022-07-03T01:54:31Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,     6.3,     4.0)
+2022-07-03T01:54:32Z: PLAYER CHATTED [ 3243687978] Frxming              ( -570.9,    65.0,   -96.1)
+  it is
+2022-07-03T01:54:32Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    12.0,     4.0)
+2022-07-03T01:54:33Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:54:34Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.2,     8.2,    32.3)
+  yeah give me a second
+2022-07-03T01:54:35Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:54:36Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.3,     5.0,     1.5)
+  kk
+2022-07-03T01:54:36Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -536.8,     7.8,   -34.3)
+  /c system
+2022-07-03T01:54:37Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:54:37Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -46.0,     5.0,     0.7)
+  Bro
+2022-07-03T01:54:37Z: PLAYER CHATTED [  408808921] BeastBoyLev         
+  So uh my iPad died
+2022-07-03T01:54:38Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -0.1,     5.2,    34.6)
+  Ok if i get hub again i will donate people 2x the amount they get
+2022-07-03T01:54:39Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.3,     5.0,     1.5)
+  sorry for pressurin u
+2022-07-03T01:54:39Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -536.8,     7.8,   -34.3)
+  !sign 120 blu
+2022-07-03T01:54:39Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -523.9,     5.0,  -114.8)
+  wait billy
+2022-07-03T01:54:40Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.4,     4.0)
+2022-07-03T01:54:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    17.0,     4.0)
+2022-07-03T01:54:42Z: PLAYER CHATTED [  675024968] bix451               (  -26.6,     5.0,     1.6)
+  big foot is spawn slapping
+2022-07-03T01:54:42Z: PLAYER CHATTED [ 3243687978] Frxming              ( -569.4,    65.0,   -95.6)
+  thats the weight right?
+2022-07-03T01:54:42Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,     6.6,     4.0)
+2022-07-03T01:54:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   41.1,  -249.4,    76.3)
+  STOP 
+2022-07-03T01:54:43Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -59.4,     5.0,    -0.9)
+  Give me blux
+2022-07-03T01:54:43Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T01:54:43Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -523.9,     5.0,  -114.8)
+  !tp billy me
+2022-07-03T01:54:43Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -536.8,     7.8,   -34.3)
+  !sign 120 blux
+2022-07-03T01:54:46Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.7,     4.0)
+2022-07-03T01:54:46Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -523.9,     5.0,  -114.8)
+  !tp pyro me
+2022-07-03T01:54:47Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     7.0,     4.0)
+2022-07-03T01:54:47Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,    12.0,     4.0)
+2022-07-03T01:54:49Z: PLAYER REMOVED [  741290627] driftmarsiano
+2022-07-03T01:54:50Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -521.6,     5.0,  -113.4)
+  how much was it
+2022-07-03T01:54:52Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.0,     7.0,     4.0)
+  SOMEONE SPAWN KILLING
+2022-07-03T01:54:52Z: PLAYER CHATTED [ 2063356818] MaddyMike20          ( -101.7,     5.0,     6.4)
+  I’m not getting blux
+2022-07-03T01:54:53Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -28.3,     5.0,     6.3)
+  am i allowed to abuse power?
+2022-07-03T01:54:55Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    2.6,     5.0,    24.3)
+  LOL
+2022-07-03T01:54:56Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  /w LyricalG4M3R  no
+2022-07-03T01:54:57Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -532.1,    10.8,  -106.0)
+  80
+2022-07-03T01:54:57Z: PLAYER ADDED   [  823972452] jazi9292
+2022-07-03T01:54:59Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,    10.6,     4.0)
+2022-07-03T01:54:59Z: PLAYER CHATTED [   51278076] macwan               ( -523.9,     5.0,  -113.6)
+  i won it
+2022-07-03T01:54:59Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -50.0,     5.0,     6.1)
+  ok
+2022-07-03T01:54:59Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  actually
+2022-07-03T01:55:01Z: PLAYER CHATTED [ 3243687978] Frxming              ( -569.4,    65.0,   -95.6)
+  !stat weight 🧧BLUX 500
+2022-07-03T01:55:02Z: PLAYER ADDED   [  741290627] driftmarsiano
+2022-07-03T01:55:04Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T01:55:05Z: PLAYER CHATTED [  756377447] Zaneka0              (  -65.6,     5.0,    -1.3)
+  uhhhh
+2022-07-03T01:55:07Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  abuse just A LITTLE
+2022-07-03T01:55:08Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.2,     5.0,    34.9)
+  now donate me 2k
+2022-07-03T01:55:10Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    2.2,     3.3,    34.9)
+  i was first
+2022-07-03T01:55:10Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,     9.0,     4.0)
+2022-07-03T01:55:13Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,     9.0,     4.0)
+2022-07-03T01:55:14Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  !stat weight blux 80 80
+2022-07-03T01:55:16Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  !statgiver blux 80
+2022-07-03T01:55:17Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     9.0,     4.0)
+2022-07-03T01:55:17Z: PLAYER CHATTED [ 3243687978] Frxming              ( -569.6,    65.0,   -96.1)
+  !stat weight 500
+2022-07-03T01:55:17Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.1,    12.2,     4.0)
+2022-07-03T01:55:17Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.7,     5.0,    39.4)
+  2x the blux
+2022-07-03T01:55:17Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  !tele
+2022-07-03T01:55:18Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -65.8,     5.0,     2.5)
+  ok
+2022-07-03T01:55:18Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -541.2,    10.7,   -96.8)
+  thx
+2022-07-03T01:55:19Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    4.1,     5.0,    21.3)
+  huh
+2022-07-03T01:55:21Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  Duck
+2022-07-03T01:55:24Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -522.6,     5.0,  -111.7)
+  !hidedecals
+2022-07-03T01:55:25Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    4.1,     5.0,    21.3)
+  blux got reset rip
+2022-07-03T01:55:25Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  Its my turn
+2022-07-03T01:55:25Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    0.8,     8.4,    32.0)
+  i was fifrst
+2022-07-03T01:55:27Z: PLAYER ADDED   [  286352410] redsheepTV101
+2022-07-03T01:55:28Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -3.0,     7.2,    33.1)
+  its mine
+2022-07-03T01:55:30Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -3.0,     7.2,    33.1)
+  he cutted
+2022-07-03T01:55:31Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T01:55:32Z: PLAYER CHATTED [  408808921] BeastBoyLev         
+  And now I’m on a broken iPad 
+2022-07-03T01:55:33Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -327.1,    40.6,    24.7)
+  !shout owner wanna see how much progress i made in chapter 3
+2022-07-03T01:55:33Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  Yiur not in line
+2022-07-03T01:55:33Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:55:34Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:55:34Z: CHRCTER ADDED  [   51278076] macwan               (    0.1,    12.0,     4.0)
+2022-07-03T01:55:34Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.1,    15.6,     4.0)
+2022-07-03T01:55:35Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.1,    20.8,     4.0)
+2022-07-03T01:55:36Z: PLAYER CHATTED [ 2262276459] PyroKemmi            ( -537.1,    10.7,   -49.2)
+  !sign Reward: 80 blux 
+2022-07-03T01:55:37Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -23.5,     5.0,     0.3)
+  How do you get gears off
+2022-07-03T01:55:39Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -185.4,    14.2,   -15.1)
+  !SHOUT sure
+2022-07-03T01:55:39Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  This is not fair
+2022-07-03T01:55:40Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -82.0,     5.0,     6.9)
+  /w MaddyMike20  hey
+2022-07-03T01:55:41Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,     6.4,     4.0)
+2022-07-03T01:55:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  ######
+2022-07-03T01:55:44Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,     6.3,     4.0)
+2022-07-03T01:55:44Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -82.0,     5.0,     6.9)
+  wanna compete in a simon says
+2022-07-03T01:55:44Z: PLAYER REMOVED [  408808921] BeastBoyLev
+2022-07-03T01:55:44Z: PLAYER ADDED   [  408808921] BeastBoyLev
+2022-07-03T01:55:47Z: PLAYER CHATTED [ 2063356818] MaddyMike20          ( -109.4,     5.0,    -0.6)
+  /w PuzzledAbsurdity  What
+2022-07-03T01:55:47Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -82.0,     5.0,     6.9)
+  for 5k b$
+2022-07-03T01:55:48Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,     6.3,     4.0)
+2022-07-03T01:55:51Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  ### not even in line
+2022-07-03T01:55:52Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T01:55:53Z: PLAYER CHATTED [ 2063356818] MaddyMike20          ( -183.3,     5.0,    -1.7)
+  /w PuzzledAbsurdity  Yes
+2022-07-03T01:55:53Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     4.7,    44.0)
+  woah
+2022-07-03T01:55:54Z: CHRCTER ADDED  [  408808921] BeastBoyLev          (    0.0,     6.3,     4.0)
+2022-07-03T01:55:56Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -170.4,     5.0,     3.3)
+  ok friend me
+2022-07-03T01:55:59Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -170.4,     5.0,     3.3)
+  and join
+2022-07-03T01:55:59Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.3,     5.0,    35.2)
+  Darn did you cut
+2022-07-03T01:55:59Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -524.0,     5.0,    96.0)
+  AYO
+2022-07-03T01:56:00Z: PLAYER REMOVED [  408808921] BeastBoyLev
+2022-07-03T01:56:00Z: PLAYER CHATTED [ 2063356818] MaddyMike20          (  -61.1,     5.0,     6.2)
+  K
+2022-07-03T01:56:00Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,     6.3,     4.0)
+2022-07-03T01:56:02Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.3,     4.0)
+2022-07-03T01:56:03Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -2.5,     8.5,    31.8)
+  no
+2022-07-03T01:56:03Z: PLAYER CHATTED [ 3243687978] Frxming              ( -568.8,    65.0,   -97.2)
+  !statgiver 🧧BLUX 500
+2022-07-03T01:56:04Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -2.5,     8.5,    31.8)
+  he did
+2022-07-03T01:56:05Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  My turn 
+2022-07-03T01:56:05Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:56:09Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  He did
+2022-07-03T01:56:09Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,    12.0,     4.0)
+2022-07-03T01:56:11Z: PLAYER CHATTED [ 3243687978] Frxming              ( -568.8,    65.0,   -97.2)
+  !stat weight 500
+2022-07-03T01:56:12Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -2.5,     8.5,    31.8)
+  he did
+2022-07-03T01:56:12Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  kk join
+2022-07-03T01:56:12Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  And
+2022-07-03T01:56:14Z: PLAYER ADDED   [ 2666292962] StupidMan3003
+2022-07-03T01:56:19Z: PLAYER CHATTED [ 2063356818] MaddyMike20          ( -137.4,     5.0,     1.6)
+  /w PuzzledAbsurdity  K
+2022-07-03T01:56:20Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -534.1,   -15.3,   332.9)
+  wip btw
+2022-07-03T01:56:21Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  He is not in line
+2022-07-03T01:56:23Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -535.8,   -53.2,   353.0)
+  ohh
+2022-07-03T01:56:23Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -2.5,     8.5,    31.8)
+  i was first
+2022-07-03T01:56:24Z: CHRCTER ADDED  [ 2063356818] MaddyMike20          (    0.0,    11.1,     4.0)
+2022-07-03T01:56:24Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T01:56:27Z: PLAYER REMOVED [ 2063356818] MaddyMike20
+2022-07-03T01:56:28Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -548.1,   -22.7,   315.8)
+  rlly good so far
+2022-07-03T01:56:29Z: CHRCTER ADDED  [  507502395] TheOfficialMrDuck    (    0.0,     6.4,     4.0)
+2022-07-03T01:56:29Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (  -11.6,     5.0,     2.2)
+  the power
+2022-07-03T01:56:29Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -1.6,     7.7,    32.9)
+  ay
+2022-07-03T01:56:30Z: CHRCTER ADDED  [  286352410] redsheepTV101        (    0.0,     6.3,     4.0)
+2022-07-03T01:56:32Z: CHRCTER ADDED  [  675024968] bix451               (   -0.0,    12.0,     4.0)
+2022-07-03T01:56:34Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:56:36Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.8,     5.0,    29.4)
+  Yiurnot even in line
+2022-07-03T01:56:37Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -1.6,     7.7,    32.9)
+  where did my 1k blux go
+2022-07-03T01:56:38Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -1.6,     7.7,    32.9)
+  bro
+2022-07-03T01:56:38Z: PLAYER CHATTED [ 1752069463] starrose94           (   -1.6,     5.0,    38.3)
+  I want my 161
+2022-07-03T01:56:42Z: PLAYER REMOVED [  507502395] TheOfficialMrDuck
+2022-07-03T01:56:44Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -1.6,     7.7,    32.9)
+  i had 1.1k
+2022-07-03T01:56:46Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (   -0.9,     8.4,    32.0)
+  still give me
+2022-07-03T01:56:48Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.2,     4.0)
+2022-07-03T01:56:54Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T01:56:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.3,     4.0)
+2022-07-03T01:56:59Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.2,     4.0)
+2022-07-03T01:57:00Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -0.0,     5.0,    35.3)
+  How about tjis if you guys fight to the death i will give you guys ## and you can be admin in my game
+2022-07-03T01:57:04Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -2.4,     5.0,    28.7)
+  MOVEM
+2022-07-03T01:57:05Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,     6.3,     4.0)
+2022-07-03T01:57:05Z: PLAYER CHATTED [ 1752069463] starrose94           (    1.5,     5.0,    36.9)
+  can I have my 161
+2022-07-03T01:57:06Z: PLAYER CHATTED [ 3557829150] rickastley_gotyou    (    1.7,     5.0,    20.0)
+  ay ok
+2022-07-03T01:57:08Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.3,     4.0)
+2022-07-03T01:57:09Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,     6.3,     4.0)
+2022-07-03T01:57:09Z: PLAYER ADDED   [ 1092159466] ASAP12893
+2022-07-03T01:57:12Z: CHRCTER ADDED  [ 2806090393] Messoriun            (    0.0,    17.1,     4.0)
+2022-07-03T01:57:13Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    10.5,     4.0)
+2022-07-03T01:57:17Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,     6.3,     4.0)
+2022-07-03T01:57:18Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,    12.0,     4.0)
+2022-07-03T01:57:19Z: PLAYER CHATTED [ 1122979970] LyricalG4M3R         (    1.4,     5.0,    17.0)
+  idk why i did this
+2022-07-03T01:57:19Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T01:57:22Z: PLAYER CHATTED [ 2806090393] Messoriun            (    3.6,     5.0,    14.0)
+  duck i will hub u for advertising
+2022-07-03T01:57:23Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:57:25Z: PLAYER CHATTED [ 1752069463] starrose94           (    1.0,     5.0,    36.5)
+  atop
+2022-07-03T01:57:25Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (   -0.2,    11.4,     4.0)
+2022-07-03T01:57:25Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T01:57:27Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.3,     5.0,    30.6)
+  Owner i need a fight state
+2022-07-03T01:57:28Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,    12.0,     4.0)
+2022-07-03T01:57:29Z: PLAYER CHATTED [ 1752069463] starrose94           (    1.0,     5.0,    36.5)
+  stop
+2022-07-03T01:57:30Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  /w driftmarsiano  hey
+2022-07-03T01:57:30Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+2022-07-03T01:57:31Z: PLAYER CHATTED [ 2806090393] Messoriun            (    1.6,     5.0,    25.2)
+  !debrisreset
+2022-07-03T01:57:32Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   20.1,     5.0,     4.1)
+  drift
+2022-07-03T01:57:32Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.4,     4.0)
+2022-07-03T01:57:33Z: PLAYER CHATTED [ 2806090393] Messoriun            (    1.6,     5.0,    25.2)
+  !cmds
+2022-07-03T01:57:34Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,    12.0,     4.0)
+2022-07-03T01:57:36Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -1.5,     5.0,    24.5)
+  What
+2022-07-03T01:57:37Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,     6.3,     4.0)
+2022-07-03T01:57:37Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    11.0,     4.0)
+2022-07-03T01:57:38Z: PLAYER CHATTED [ 2806090393] Messoriun            (    1.6,     5.0,    25.2)
+  !fixdebris
+2022-07-03T01:57:39Z: CHRCTER ADDED  [   51278076] macwan               (    0.3,     7.0,     4.6)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 2262276459] PyroKemmi            (    0.0,    11.0,     2.9)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (   -0.1,     5.1,     8.6)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 1752069463] starrose94           (   -1.4,    15.5,     3.9)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 3243687978] Frxming              (    0.9,     7.0,     6.2)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (   -1.2,     6.8,     1.4)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 3557829150] rickastley_gotyou    (   -2.5,     6.7,     6.6)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.9,     4.4)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    30.0,     4.0)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 2006200339] quenchhel            (   -0.2,     7.0,     5.5)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 2806090393] Messoriun            (    0.0,    32.0,     4.0)
+2022-07-03T01:57:39Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity    
+  wanna compete in a simon says for 5k b$
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (   -0.7,     7.0,     4.9)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  756377447] Zaneka0              (   -7.7,     5.0,     7.5)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 3534301793] Can_YouHelp121alt    (    0.0,    41.0,     4.0)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  675024968] bix451               (   -0.0,    29.2,     4.0)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (   -1.5,    19.6,    14.7)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  823972452] jazi9292             (   -0.3,     5.8,     0.2)
+2022-07-03T01:57:39Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    1.0,     7.0,     3.7)
+2022-07-03T01:57:40Z: CHRCTER ADDED  [  286352410] redsheepTV101        (    0.0,    48.2,     4.0)
+2022-07-03T01:57:40Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    4.2,     7.7,     5.1)
+2022-07-03T01:57:40Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,    66.0,     4.0)
+2022-07-03T01:57:40Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+2022-07-03T01:57:41Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (  -10.1,     5.0,     3.6)
+2022-07-03T01:57:44Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    1.5,     7.0,     6.1)
+2022-07-03T01:57:44Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+2022-07-03T01:57:45Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:57:45Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,    16.9,     4.0)
+2022-07-03T01:57:48Z: CHRCTER ADDED  [ 3557829150] rickastley_gotyou    (    0.0,    12.0,     4.0)
+2022-07-03T01:57:48Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    0.0,    15.4,     4.0)
+2022-07-03T01:57:48Z: PLAYER CHATTED [ 1081119762] lastgest11161        (  -97.5,     3.0,     4.0)
+  WTH HAPPEN
+2022-07-03T01:57:49Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    21.9,     4.0)
+2022-07-03T01:57:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:57:50Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -0.1,     5.0,    31.4)
+  I win
+2022-07-03T01:57:54Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.0,     4.0)
+2022-07-03T01:57:57Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  /w Can_YouHelp121alt  dude
+2022-07-03T01:57:58Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.1,    65.0,   -97.1)
+  ############################
+2022-07-03T01:58:01Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -36.2,     5.0,    -2.7)
+  more people are coming
+2022-07-03T01:58:02Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -36.2,     5.0,    -2.7)
+  6/10
+2022-07-03T01:58:03Z: PLAYER CHATTED [ 2806090393] Messoriun            (   -2.6,     3.0,    15.0)
+  !ban rick
+2022-07-03T01:58:03Z: PLAYER REMOVED [ 3557829150] rickastley_gotyou
+2022-07-03T01:58:05Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.1,    65.0,   -97.1)
+  messor
+2022-07-03T01:58:06Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -36.2,     5.0,    -2.7)
+  j sure u dont ##### #####
+2022-07-03T01:58:06Z: PLAYER REMOVED [ 1092159466] ASAP12893
+2022-07-03T01:58:08Z: PLAYER CHATTED [ 1752069463] starrose94           (   -2.4,     5.0,    10.9)
+  can I have my 161
+2022-07-03T01:58:08Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:58:08Z: PLAYER REMOVED [ 2262276459] PyroKemmi
+2022-07-03T01:58:08Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -34.3,     5.0,   -18.9)
+  u sure?
+2022-07-03T01:58:10Z: CHRCTER ADDED  [ 1122979970] LyricalG4M3R         (    0.0,    12.0,     4.0)
+2022-07-03T01:58:11Z: PLAYER CHATTED [ 2806090393] Messoriun            (   -3.3,     3.5,    14.4)
+  no
+2022-07-03T01:58:11Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    2.9,     6.8,     5.1)
+  I won
+2022-07-03T01:58:12Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -231.3,   250.7,   125.8)
+  !tp
+2022-07-03T01:58:12Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     6.3,     4.0)
+2022-07-03T01:58:14Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.3,     3.0,    -2.0)
+  ###################### YOU WERE NOT GIVE WHAT PEOPLE WANTED SO I DID WHAT I DID
+2022-07-03T01:58:15Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    0.1,    22.2,    26.7)
+  /w PuzzledAbsurdity  wut
+2022-07-03T01:58:16Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T01:58:18Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     6.3,     4.0)
+2022-07-03T01:58:18Z: PLAYER ADDED   [ 3557829150] rickastley_gotyou
+2022-07-03T01:58:18Z: PLAYER REMOVED [ 3557829150] rickastley_gotyou
+2022-07-03T01:58:19Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.1,    65.0,   -97.1)
+  !tp mess me
+2022-07-03T01:58:19Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T01:58:20Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -35.7,    29.0,  -100.8)
+  more people are in the simon says
+2022-07-03T01:58:21Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.3,     4.0)
+2022-07-03T01:58:21Z: PLAYER CHATTED [   51278076] macwan               (   64.4,     5.0,     3.1)
+  how did i just
+2022-07-03T01:58:23Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    10.8,     4.0)
+2022-07-03T01:58:23Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -35.7,    29.0,  -100.8)
+  ##### come back
+2022-07-03T01:58:23Z: PLAYER REMOVED [ 1122979970] LyricalG4M3R
+2022-07-03T01:58:23Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -571.6,    68.3,   -92.0)
+  !ban lyr
+2022-07-03T01:58:24Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,    12.0,     4.0)
+2022-07-03T01:58:24Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.1,    65.0,   -97.1)
+  how does the stat weight work
+2022-07-03T01:58:25Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.0,     7.0,     4.0)
+  STOP
+2022-07-03T01:58:27Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -30.5,     5.0,    -9.5)
+  ?
+2022-07-03T01:58:29Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -572.6,    65.0,   -88.8)
+  so
+2022-07-03T01:58:32Z: CHRCTER ADDED  [ 3534301793] Can_YouHelp121alt    (    0.0,     6.3,     4.0)
+2022-07-03T01:58:33Z: CHRCTER ADDED  [  756377447] Zaneka0              (    0.0,    12.0,     4.0)
+2022-07-03T01:58:34Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    16.4,     4.0)
+2022-07-03T01:58:34Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -572.6,    65.0,   -88.8)
+  actually
+2022-07-03T01:58:34Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T01:58:35Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (  -54.1,     5.0,     2.8)
+  Duck
+2022-07-03T01:58:36Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -572.6,    65.0,   -88.8)
+  ill do it for u
+2022-07-03T01:58:39Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -91.0)
+  how much is it
+2022-07-03T01:58:39Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,    12.0,     4.0)
+2022-07-03T01:58:40Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.1,    65.0,   -97.1)
+  ok
+2022-07-03T01:58:41Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    (    0.0,     7.0,     4.0)
+  /w PuzzledAbsurdity  what were u saying
+2022-07-03T01:58:41Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+2022-07-03T01:58:42Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    16.9,     4.0)
+2022-07-03T01:58:44Z: PLAYER CHATTED [ 3243687978] Frxming              ( -582.5,    66.3,   -96.9)
+  500\
+2022-07-03T01:58:44Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -69.3,     5.0,     5.2)
+  look
+2022-07-03T01:58:46Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (  -56.9,     5.0,     4.2)
+  Do i get my blux
+2022-07-03T01:58:47Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -83.6,     5.0,     3.2)
+  so basically
+2022-07-03T01:58:50Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -89.8)
+  !stat weight blux 505 500
+2022-07-03T01:58:51Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -534.8,   -32.1,   344.1)
+  this is wip
+2022-07-03T01:58:52Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -83.6,     5.0,     3.2)
+  wanna go back into simon says
+2022-07-03T01:58:54Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -528.0,   -31.0,   344.6)
+  Oh.
+2022-07-03T01:58:58Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -107.3,     5.0,     2.9)
+  more people are there
+2022-07-03T01:58:59Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -89.8)
+  !statgiver blux 500
+2022-07-03T01:58:59Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,     6.3,     4.0)
+2022-07-03T01:58:59Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -527.5,   -30.7,   344.4)
+  I had no problem sliding down.
+2022-07-03T01:59:03Z: PLAYER CHATTED [ 3534301793] Can_YouHelp121alt    ( -104.1,     5.0,     2.3)
+  /w PuzzledAbsurdity  k
+2022-07-03T01:59:07Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -527.9,   -31.0,   345.4)
+  Is this the hard stage?
+2022-07-03T01:59:10Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -89.8)
+  !statgiver 505
+2022-07-03T01:59:10Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -107.3,     5.0,     2.9)
+  kk join
+2022-07-03T01:59:11Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T01:59:14Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -89.8)
+  !statgiver blux 505
+2022-07-03T01:59:15Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -530.8,   -32.1,   353.8)
+  yeah lava wraparounds
+2022-07-03T01:59:16Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,     6.3,     4.0)
+2022-07-03T01:59:18Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,     6.3,     4.0)
+2022-07-03T01:59:18Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -573.6,    65.0,   -89.8)
+  my error loll
+2022-07-03T01:59:19Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+2022-07-03T01:59:21Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:59:22Z: PLAYER CHATTED [ 1752069463] starrose94           (   10.0,     5.0,     5.6)
+  Owner what is rainbow carpet?
+2022-07-03T01:59:23Z: PLAYER CHATTED [ 3243687978] Frxming              ( -582.0,    64.3,   -96.9)
+  ty
+2022-07-03T01:59:24Z: PLAYER CHATTED [ 1752069463] starrose94           (   10.0,     5.0,     5.6)
+  id
+2022-07-03T01:59:26Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -530.8,   -32.1,   353.8)
+  i just decided to test ball roll
+2022-07-03T01:59:28Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T01:59:29Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,     6.3,     4.0)
+2022-07-03T01:59:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,    12.0,     4.0)
+2022-07-03T01:59:32Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,     6.3,     4.0)
+2022-07-03T01:59:33Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -565.0,    44.0,   -53.7)
+  !shout rainbow carpet is flying machine of the GODS
+2022-07-03T01:59:35Z: PLAYER ADDED   [ 2349290514] LucasGo3458
+2022-07-03T01:59:36Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     ( -107.3,     5.0,     2.8)
+  yo?
+2022-07-03T01:59:37Z: CHRCTER ADDED  [  286352410] redsheepTV101        (    0.0,    11.0,     4.0)
+2022-07-03T01:59:39Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T01:59:47Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T01:59:52Z: PLAYER CHATTED [ 2006200339] quenchhel            ( -377.0,    47.7,     2.2)
+  !shout can i add my chapter 2 obby stuff into custom obby rankings
+2022-07-03T01:59:52Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T01:59:53Z: CHRCTER ADDED  [  286352410] redsheepTV101        (    0.0,    12.0,     4.0)
+2022-07-03T01:59:53Z: PLAYER CHATTED [  741290627] driftmarsiano        (  -60.4,     5.0,     0.4)
+  Unfortunately owner is going to ban me for advertising the game even tho everyone spend hours on this game for the shop to be closed
+2022-07-03T01:59:57Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -82.0,     6.4,     5.3)
+  !shout yes
+2022-07-03T01:59:57Z: PLAYER REMOVED [  286352410] redsheepTV101
+2022-07-03T01:59:58Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,    12.0,     4.0)
+2022-07-03T02:00:00Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T02:00:02Z: PLAYER REMOVED [ 3534301793] Can_YouHelp121alt
+2022-07-03T02:00:05Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -176.0,     6.0,     3.8)
+  !shout ok
+2022-07-03T02:00:07Z: PLAYER CHATTED [ 3243687978] Frxming              ( -540.9,    13.7,   -99.6)
+  !decal
+2022-07-03T02:00:08Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -267.1,    13.4,     1.7)
+  why
+2022-07-03T02:00:12Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -249.8,     5.0,     3.8)
+  Hi.
+2022-07-03T02:00:16Z: CHRCTER ADDED  [ 2666292962] StupidMan3003        (    0.0,    12.0,     4.0)
+2022-07-03T02:00:18Z: CHRCTER ADDED  [  161048012] MarcosPictures       (    0.0,    12.0,     4.0)
+2022-07-03T02:00:20Z: PLAYER REMOVED [ 2666292962] StupidMan3003
+2022-07-03T02:00:22Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.5,    65.0,   -90.9)
+  !decal baller red
+2022-07-03T02:00:24Z: PLAYER CHATTED [ 2006200339] quenchhel            (   31.4,     9.6,  -152.2)
+  !sign Chapter 2 of Ball's obby stuff #3
+2022-07-03T02:00:25Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T02:00:25Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.5,    65.0,   -90.9)
+  ###### ###
+2022-07-03T02:00:30Z: PLAYER REMOVED [  161048012] MarcosPictures
+2022-07-03T02:00:30Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.5,    65.0,   -90.9)
+  !decal baller
+2022-07-03T02:00:37Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T02:00:38Z: CHRCTER ADDED  [ 2006200339] quenchhel            (    0.0,    12.0,     4.0)
+2022-07-03T02:00:44Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -248.2,     5.0,     3.9)
+  I thought Duck wouldn've worked as an agent for Messori.
+2022-07-03T02:00:45Z: PLAYER CHATTED [  675024968] bix451               (  -98.8,     5.0,     5.4)
+  #####
+2022-07-03T02:00:49Z: PLAYER CHATTED [ 2006200339] quenchhel            (  -29.3,    37.2,    19.7)
+  !shout YO OWNER U HAVE ALOT OF EARNINGS
+2022-07-03T02:00:50Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T02:00:54Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.0,     4.0)
+2022-07-03T02:00:56Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -248.7,     5.0,     6.7)
+  i love agnets
+2022-07-03T02:00:56Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T02:01:00Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -248.7,     5.0,     6.7)
+  /agent
+2022-07-03T02:01:00Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (   -0.5,     7.0,     2.5)
+  this is too cheap and mess
+2022-07-03T02:01:03Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.5,    65.0,   -90.9)
+  !decal color really red
+2022-07-03T02:01:04Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    0.0,     6.3,     4.0)
+2022-07-03T02:01:04Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -24.3,     5.0,     0.9)
+  /w VisualPlugin  hey visual
+2022-07-03T02:01:05Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  -93.9,     5.0,     5.2)
+  messy
+2022-07-03T02:01:07Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.5,    65.0,   -90.9)
+  !decal blux
+2022-07-03T02:01:09Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -33.8,     5.0,     0.3)
+  wanna compete in a simon says
+2022-07-03T02:01:09Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -33.8,     5.0,     0.3)
+  for
+2022-07-03T02:01:10Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,     6.3,     4.0)
+2022-07-03T02:01:11Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.2,     4.0)
+2022-07-03T02:01:11Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -33.8,     5.0,     0.3)
+  5k b$?
+2022-07-03T02:01:15Z: PLAYER CHATTED [ 2806090393] Messoriun            (    4.6,     5.2,     4.4)
+  !shout it not that messy :/
+2022-07-03T02:01:17Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -31.4,  -488.5,   -25.2)
+  /w LucasGo3458  hey unlisted
+2022-07-03T02:01:17Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,     6.3,     4.0)
+2022-07-03T02:01:20Z: PLAYER CHATTED [ 3243687978] Frxming              ( -574.3,    65.0,   -89.5)
+  !decal blux
+2022-07-03T02:01:23Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  wanna compete in a simon says for 5k b$?
+2022-07-03T02:01:23Z: PLAYER CHATTED [ 2349290514] LucasGo3458          ( -338.8,     5.0,     3.9)
+  and only fey things are actually good
+2022-07-03T02:01:24Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     6.3,     4.0)
+2022-07-03T02:01:25Z: PLAYER CHATTED [ 3243687978] Frxming              ( -575.7,    65.0,   -96.2)
+  !decal blux
+2022-07-03T02:01:25Z: PLAYER CHATTED [ 1081119762] lastgest11161        ( -527.9,   -31.0,   350.8)
+  WTH
+2022-07-03T02:01:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -2.8,     5.5,     8.1)
+  /w PuzzledAbsurdity  Where?
+2022-07-03T02:01:26Z: PLAYER ADDED   [ 1089944450] jcready0991
+2022-07-03T02:01:27Z: PLAYER CHATTED [ 2349290514] LucasGo3458          ( -338.8,     5.0,     3.9)
+  like the obbys and the floor
+2022-07-03T02:01:30Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -30.5,     5.0,     3.6)
+  join me
+2022-07-03T02:01:30Z: CHRCTER ADDED  [ 2349290514] LucasGo3458          (    0.0,    12.0,     4.0)
+2022-07-03T02:01:31Z: PLAYER ADDED   [ 1308718076] RockMike1390
+2022-07-03T02:01:31Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -30.5,     5.0,     3.6)
+  ill show u
+2022-07-03T02:01:32Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -377.7,    27.5,     4.2)
+  thanks
+2022-07-03T02:01:33Z: PLAYER CHATTED [ 1752069463] starrose94           (   -6.0,     5.0,     4.0)
+  I want my 206
+2022-07-03T02:01:33Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -30.5,     5.0,     3.6)
+  in blockate
+2022-07-03T02:01:38Z: PLAYER CHATTED [ 1752069463] starrose94           (   -6.0,     5.0,     8.6)
+  duck
+2022-07-03T02:01:40Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (   -2.7,     6.9,     3.9)
+  so i don't completely give bad things
+2022-07-03T02:01:42Z: CHRCTER ADDED  [ 1089944450] jcready0991          (    0.0,     7.2,     4.0)
+2022-07-03T02:01:45Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,     6.1,     4.0)
+2022-07-03T02:01:46Z: PLAYER CHATTED [ 1081119762] lastgest11161        ( -527.8,   -31.0,   343.1)
+  I will wait
+2022-07-03T02:01:49Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     9.0,     4.0)
+2022-07-03T02:01:50Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,    12.0,     4.0)
+2022-07-03T02:01:52Z: PLAYER CHATTED [ 2349290514] LucasGo3458          ( -110.5,     5.6,     2.2)
+  sure and when
+2022-07-03T02:01:52Z: PLAYER ADDED   [  417591982] MICKEYO22
+2022-07-03T02:01:55Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    8.1,    10.2,    -5.1)
+  rn
+2022-07-03T02:01:55Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    17.1,     4.0)
+2022-07-03T02:01:55Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.6,     5.0,    16.5)
+  Yes
+2022-07-03T02:01:57Z: CHRCTER ADDED  [ 1308718076] RockMike1390         (    0.0,    12.0,     4.0)
+2022-07-03T02:01:57Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    2.1,     5.0,    11.3)
+  Duck
+2022-07-03T02:01:58Z: PLAYER CHATTED [ 1752069463] starrose94           (   -0.4,     5.0,    10.0)
+  can j have my 206
+2022-07-03T02:01:58Z: PLAYER CHATTED [ 3243687978] Frxming              ( -575.7,    65.0,   -96.2)
+  !decal rotation 90
+2022-07-03T02:01:59Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   16.8,     5.0,   -12.5)
+  we need more players
+2022-07-03T02:02:01Z: PLAYER CHATTED [ 1752069463] starrose94           (   -0.6,     5.0,    10.3)
+  i
+2022-07-03T02:02:02Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   16.8,     5.0,   -12.5)
+  which is why im asking
+2022-07-03T02:02:04Z: PLAYER CHATTED [ 3243687978] Frxming              ( -573.9,    65.0,   -87.8)
+  !tele
+2022-07-03T02:02:06Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,     6.3,     4.0)
+2022-07-03T02:02:08Z: PLAYER CHATTED [ 1089944450] jcready0991          (  -32.4,     5.0,   -12.0)
+  i beat knife jumps
+2022-07-03T02:02:08Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.3,     5.0,    11.7)
+  Can I claim my blux
+2022-07-03T02:02:08Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    12.6,     4.0)
+2022-07-03T02:02:11Z: PLAYER CHATTED [ 2349290514] LucasGo3458          ( -139.7,     5.6,     2.2)
+  all though i do have a 10k bux game since i got 90k, still k
+2022-07-03T02:02:13Z: PLAYER CHATTED [ 1089944450] jcready0991          (  -32.4,     5.0,   -12.0)
+  where’s my 10 blux
+2022-07-03T02:02:18Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -64.4,     5.0,     6.5)
+  kk thanks
+2022-07-03T02:02:22Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -76.0,     5.0,     4.2)
+  join me
+2022-07-03T02:02:24Z: PLAYER CHATTED [  823972452] jazi9292             (   42.5,     5.0,     7.4)
+  Is there a way to claim your blux
+2022-07-03T02:02:24Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.6,    65.0,   -90.9)
+  !decal baller
+2022-07-03T02:02:25Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -76.2,     5.0,     3.9)
+  visual
+2022-07-03T02:02:26Z: CHRCTER ADDED  [ 2349290514] LucasGo3458          (    0.0,     7.1,     4.0)
+2022-07-03T02:02:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -80.3,     5.0,     2.9)
+  ¿?
+2022-07-03T02:02:29Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.6,    65.0,   -90.9)
+  !decal color red
+2022-07-03T02:02:29Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -76.2,     5.0,     3.9)
+  unfriend someone and join me
+2022-07-03T02:02:32Z: CHRCTER ADDED  [  417591982] MICKEYO22            (    0.0,    12.0,     4.0)
+2022-07-03T02:02:32Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,    13.1,     4.0)
+2022-07-03T02:02:36Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.6,    65.0,   -90.9)
+  !decal color really red
+2022-07-03T02:02:37Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -0.3,     5.0,    37.3)
+  Add me
+2022-07-03T02:02:40Z: PLAYER CHATTED [  417591982] MICKEYO22            ( -274.4,     5.0,   -13.9)
+  Jojo
+2022-07-03T02:02:42Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,    12.0,     4.0)
+2022-07-03T02:02:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (   -0.4,     5.0,    23.8)
+  Duck
+2022-07-03T02:02:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -80.3,     5.0,     2.9)
+  Home on a sec.
+2022-07-03T02:02:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -80.3,     5.0,     2.9)
+  *Hold.
+2022-07-03T02:02:51Z: PLAYER CHATTED [  741290627] driftmarsiano        (   -0.9,     5.0,    42.8)
+  !donate st 206
+2022-07-03T02:02:53Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.8,     5.0,    35.1)
+  STOP
+2022-07-03T02:02:53Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    0.0,    12.0,     4.0)
+2022-07-03T02:02:56Z: PLAYER CHATTED [  823972452] jazi9292             (  -12.7,     5.0,     2.9)
+  Owner
+2022-07-03T02:02:56Z: PLAYER REMOVED [  756377447] Zaneka0
+2022-07-03T02:03:01Z: CHRCTER ADDED  [  417591982] MICKEYO22            (    0.0,     6.3,     4.0)
+2022-07-03T02:03:01Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (    1.4,     7.0,     2.2)
+  i thought u leaving
+2022-07-03T02:03:01Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    0.8,     5.0,    34.3)
+  BAN THESE GUYS
+2022-07-03T02:03:04Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.6,    65.0,   -90.9)
+  !decal blux circle
+2022-07-03T02:03:04Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.6,     5.0,     1.4)
+  i am
+2022-07-03T02:03:07Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -75.6,     5.0,     1.4)
+  waiting for visual
+2022-07-03T02:03:07Z: PLAYER CHATTED [  823972452] jazi9292             (  -12.7,     5.0,     2.9)
+  Can I claim my blux
+2022-07-03T02:03:08Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T02:03:10Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.6,    65.0,   -90.9)
+  !decal rotation 90
+2022-07-03T02:03:10Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (    1.4,     7.0,     2.2)
+  then when
+2022-07-03T02:03:11Z: CHRCTER ADDED  [ 1308718076] RockMike1390         (    0.0,     6.2,     4.0)
+2022-07-03T02:03:13Z: PLAYER CHATTED [  907691652] ECH_Dylan            ( -484.1,     3.0,    41.5)
+  owner come to afk obby
+2022-07-03T02:03:14Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,     6.3,     4.0)
+2022-07-03T02:03:14Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -71.6,     3.0,   -67.5)
+  when hes ready
+2022-07-03T02:03:15Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (    1.4,     7.0,     2.2)
+  also, which is the game
+2022-07-03T02:03:16Z: CHRCTER ADDED  [ 1089944450] jcready0991          (    0.0,     6.3,     4.0)
+2022-07-03T02:03:16Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     ( -148.6,     5.0,     3.1)
+  Duck
+2022-07-03T02:03:17Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -71.6,     3.0,   -67.5)
+  i want it
+2022-07-03T02:03:18Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -71.6,     3.0,   -67.5)
+  asap
+2022-07-03T02:03:19Z: PLAYER ADDED   [  756377447] Zaneka0
+2022-07-03T02:03:22Z: PLAYER CHATTED [ 3243687978] Frxming              ( -568.7,    61.0,   -77.5)
+  ?
+2022-07-03T02:03:23Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -65.5,     9.0,   -85.6)
+  simon says for 5k blux
+2022-07-03T02:03:24Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     ( -267.7,     5.0,     3.0)
+  Duck
+2022-07-03T02:03:24Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  -64.4,    -0.9,   -88.0)
+  also
+2022-07-03T02:03:25Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -571.6,    65.0,   -85.6)
+  !decal size 0.8 0.4
+2022-07-03T02:03:26Z: PLAYER CHATTED [  907691652] ECH_Dylan            ( -484.1,     3.0,    41.5)
+  owner
+2022-07-03T02:03:26Z: CHRCTER ADDED  [  981150866] PuzzledAbsurdity     (    0.0,    12.0,     4.0)
+2022-07-03T02:03:27Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -571.6,    65.0,   -85.6)
+  !done
+2022-07-03T02:03:27Z: PLAYER CHATTED [ 1308718076] RockMike1390         ( -244.9,     5.6,     6.8)
+  ayo
+2022-07-03T02:03:27Z: PLAYER CHATTED [ 3243687978] Frxming              ( -572.2,    63.2,   -81.1)
+  ty
+2022-07-03T02:03:31Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  u can find it on front page
+2022-07-03T02:03:32Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    0.0,    12.0,     4.0)
+2022-07-03T02:03:32Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -569.9,    54.2,  -105.2)
+  yw
+2022-07-03T02:03:33Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    0.0,     7.0,     4.0)
+  scroll down
+2022-07-03T02:03:38Z: CHRCTER ADDED  [  675024968] bix451               (  -22.4,     5.0,     4.2)
+2022-07-03T02:03:39Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,     7.0,     4.0)
+2022-07-03T02:03:45Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (    1.7,     6.2,     0.7)
+  and i already found a troll obby for 100k bux
+2022-07-03T02:03:50Z: CHRCTER ADDED  [  417591982] MICKEYO22            (    0.0,     6.3,     4.0)
+2022-07-03T02:03:51Z: PLAYER CHATTED [ 2806090393] Messoriun            (   13.5,    -1.0,    15.1)
+  !shout bike race to the end( you get 100 blux)
+2022-07-03T02:03:51Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (  -10.9,     5.0,     5.7)
+  Duck
+2022-07-03T02:03:52Z: CHRCTER ADDED  [ 1089944450] jcready0991          (   -0.0,    12.0,     4.0)
+2022-07-03T02:03:53Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   15.2,     5.0,     1.3)
+  ik
+2022-07-03T02:03:54Z: PLAYER ADDED   [  185948922] Nisttarch
+2022-07-03T02:03:55Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (    1.7,     6.2,     0.6)
+  ..and thats my best thing im currently at
+2022-07-03T02:03:57Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   15.2,     5.0,     1.3)
+  join me
+2022-07-03T02:03:58Z: PLAYER CHATTED [  741290627] driftmarsiano        (  -25.8,     5.0,     2.1)
+  You know that people want blux so i did what i did i gave people blux and they are happy and you ban me there is going to be a war so make your choice owner
+2022-07-03T02:04:00Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   15.2,     5.0,     1.3)
+  join me guys
+2022-07-03T02:04:02Z: CHRCTER ADDED  [  417591982] MICKEYO22            (    0.0,    12.0,     4.0)
+2022-07-03T02:04:04Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity
+2022-07-03T02:04:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.2,     5.0,     2.9)
+  I'll make the firendship temporary.
+2022-07-03T02:04:12Z: CHRCTER ADDED  [  675024968] bix451               (    0.0,     6.3,     4.0)
+2022-07-03T02:04:12Z: PLAYER CHATTED [  907691652] ECH_Dylan            ( -528.8,   -31.0,   307.3)
+  it’s mr in time
+2022-07-03T02:04:13Z: PLAYER CHATTED [   51278076] macwan               (  -11.6,     5.0,     6.5)
+  I MADE IT
+2022-07-03T02:04:16Z: PLAYER CHATTED [ 2806090393] Messoriun            (  -30.3,    29.9,    -1.7)
+  !shout guest wins
+2022-07-03T02:04:17Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T02:04:20Z: PLAYER CHATTED [ 1308718076] RockMike1390         (   -9.2,     5.5,     7.1)
+  howw
+2022-07-03T02:04:21Z: PLAYER REMOVED [ 2349290514] LucasGo3458
+2022-07-03T02:04:21Z: PLAYER CHATTED [  907691652] ECH_Dylan            ( -528.8,   -31.0,   307.3)
+  Morbin
+2022-07-03T02:04:21Z: CHRCTER ADDED  [ 1089944450] jcready0991          (    0.0,     6.4,     4.0)
+2022-07-03T02:04:22Z: PLAYER CHATTED [  823972452] jazi9292             (  -15.7,     5.0,     8.3)
+  Owner
+2022-07-03T02:04:23Z: PLAYER CHATTED [ 1081119762] lastgest11161        ( -372.4,  -321.1,    70.1)
+  aw
+2022-07-03T02:04:24Z: CHRCTER ADDED  [ 1081119762] lastgest11161        (    0.0,    12.0,     4.0)
+2022-07-03T02:04:25Z: PLAYER CHATTED [ 2806090393] Messoriun            ( -227.9,    29.9,     8.4)
+  !donate mac 100
+2022-07-03T02:04:26Z: CHRCTER ADDED  [  741290627] driftmarsiano        (    0.0,     7.0,     4.0)
+2022-07-03T02:04:27Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (  -10.4,     5.0,     5.0)
+2022-07-03T02:04:28Z: PLAYER CHATTED [  823972452] jazi9292             (  -15.1,     5.0,     7.1)
+  Can I have my blux
+2022-07-03T02:04:28Z: PLAYER CHATTED [ 1308718076] RockMike1390         (  -22.7,     5.6,     7.7)
+  i wanted 100 bux
+2022-07-03T02:04:35Z: CHRCTER ADDED  [ 3600147039] TheEpicQuackerYT     (    0.0,    12.0,     4.0)
+2022-07-03T02:04:36Z: PLAYER REMOVED [  756377447] Zaneka0
+2022-07-03T02:04:40Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,    12.0,     4.0)
+2022-07-03T02:04:42Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.4,     5.0,    17.1)
+  Duck
+2022-07-03T02:04:44Z: PLAYER CHATTED [  741290627] driftmarsiano        (    2.1,     5.0,    26.0)
+  I will give the blux
+2022-07-03T02:04:44Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    3.2,     5.0,    22.4)
+  Come
+2022-07-03T02:04:45Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T02:04:47Z: CHRCTER ADDED  [  417591982] MICKEYO22            (    0.0,    12.0,     4.0)
+2022-07-03T02:04:49Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.5,     5.0,    26.5)
+  Yes
+2022-07-03T02:04:50Z: CHRCTER ADDED  [ 1089944450] jcready0991          (    0.0,    12.0,     4.0)
+2022-07-03T02:04:55Z: PLAYER CHATTED [ 1308718076] RockMike1390         (  -16.7,     5.6,     6.1)
+  😡😡😡😡
+2022-07-03T02:04:55Z: PLAYER CHATTED [ 3243687978] Frxming              ( -567.2,     5.0,     3.2)
+  !sign Progressive Wallhop
+2022-07-03T02:04:55Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T02:04:55Z: PLAYER REMOVED [ 1081119762] lastgest11161
+2022-07-03T02:04:56Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.5,     5.0,    26.5)
+  I did the one for 500
+2022-07-03T02:04:57Z: CHRCTER ADDED  [  823972452] jazi9292             (    0.0,     6.3,     4.0)
+2022-07-03T02:04:59Z: CHRCTER ADDED  [ 1752069463] starrose94           (    0.0,     6.3,     4.0)
+2022-07-03T02:05:00Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.5,     5.0,    26.5)
+  It was hard
+2022-07-03T02:05:00Z: CHRCTER ADDED  [ 1308718076] RockMike1390         (    0.0,    12.0,     4.0)
+2022-07-03T02:05:02Z: PLAYER CHATTED [ 3243687978] Frxming              ( -567.2,     5.0,     3.2)
+  !sign Progressive
+2022-07-03T02:05:10Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.5,     5.0,    26.5)
+  Very hard
+2022-07-03T02:05:10Z: CHRCTER ADDED  [  907691652] ECH_Dylan            (    0.0,    12.0,     4.0)
+2022-07-03T02:05:12Z: PLAYER CHATTED [ 3243687978] Frxming              ( -567.2,     5.0,     3.2)
+  !sign Progressive Wall Hop
+2022-07-03T02:05:12Z: CHRCTER ADDED  [ 1089944450] jcready0991          (    0.0,    12.0,     4.0)
+2022-07-03T02:05:13Z: PLAYER CHATTED [  185948922] Nisttarch            ( -269.1,     5.0,     3.1)
+  whats the hardest obby here
+2022-07-03T02:05:22Z: PLAYER CHATTED [ 3600147039] TheEpicQuackerYT     (    1.5,     5.0,    26.5)
+  Do I get 500?
+2022-07-03T02:05:25Z: PLAYER CHATTED [  741290627] driftmarsiano        (    0.7,     5.0,    30.4)
+  You have 0 but i trust you
+2022-07-03T02:05:27Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 1752069463] starrose94
+2022-07-03T02:05:27Z: PLAYER REMOVED [   51278076] macwan
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 3600147039] TheEpicQuackerYT
+2022-07-03T02:05:27Z: PLAYER REMOVED [  907691652] ECH_Dylan
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 3243687978] Frxming
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 2006200339] quenchhel
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 2806090393] Messoriun
+2022-07-03T02:05:27Z: PLAYER REMOVED [  675024968] bix451
+2022-07-03T02:05:27Z: PLAYER REMOVED [  823972452] jazi9292
+2022-07-03T02:05:27Z: PLAYER REMOVED [  741290627] driftmarsiano
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 1089944450] jcready0991
+2022-07-03T02:05:27Z: PLAYER REMOVED [ 1308718076] RockMike1390
+2022-07-03T02:05:27Z: PLAYER REMOVED [  417591982] MICKEYO22
+2022-07-03T02:05:27Z: PLAYER REMOVED [  185948922] Nisttarch

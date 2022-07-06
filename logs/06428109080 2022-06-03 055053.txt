@@ -1,0 +1,126 @@
+[    1630228] : [ 6428109080] Roblox Developer Hangout - fadb78eb-02c8-4275-b579-fe96f97549b4
+2022-06-03T05:50:53Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-03T05:50:53Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-03T05:50:53Z: PLAYER ADDED   [  922107823] Derzern
+2022-06-03T05:50:53Z: PLAYER ADDED   [  451987041] RespiredFlame
+2022-06-03T05:51:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    67.3,     2.2)
+  Yes I am.
+2022-06-03T05:51:06Z: PLAYER CHATTED [  922107823] Derzern              (  -42.7,    66.6,     2.9)
+  alr
+2022-06-03T05:51:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    67.3,     2.2)
+  But I'm not for hire.
+2022-06-03T05:51:15Z: PLAYER CHATTED [  922107823] Derzern              (  -42.7,    66.6,     2.9)
+  i can pay
+2022-06-03T05:51:27Z: PLAYER CHATTED [  922107823] Derzern              (  -42.7,    66.6,     2.9)
+  only for today
+2022-06-03T05:51:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    67.3,     2.2)
+  I have a bad history with commissions.
+2022-06-03T05:51:39Z: PLAYER ADDED   [ 1282506560] Vagos_time
+2022-06-03T05:51:44Z: PLAYER CHATTED [  922107823] Derzern              (  -43.9,    66.6,     2.9)
+  commissions what is tha tmean
+2022-06-03T05:51:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    67.3,     2.2)
+  Basically what you're asking me to do.
+2022-06-03T05:52:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -47.8,    67.3,     2.2)
+  I do something, and you pay me back.
+2022-06-03T05:52:05Z: PLAYER CHATTED [  922107823] Derzern              (  -43.9,    66.6,     2.9)
+  i want you to make a gamepass
+2022-06-03T05:52:27Z: PLAYER CHATTED [  922107823] Derzern              (  -40.2,    66.6,     3.1)
+  u can?
+2022-06-03T05:52:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.2,    67.3,    -1.8)
+  That may be unlikely.
+2022-06-03T05:52:52Z: CHRCTER ADDED  [ 1282506560] Vagos_time           (  -61.4,    66.8,     1.7)
+2022-06-03T05:52:52Z: PLAYER CHATTED [  922107823] Derzern              (  -39.7,    66.6,     2.5)
+  what do you mean
+2022-06-03T05:52:54Z: PLAYER REMOVED [  451987041] RespiredFlame
+2022-06-03T05:53:22Z: PLAYER CHATTED [  922107823] Derzern              (  -39.5,    66.6,     1.3)
+  its for
+2022-06-03T05:53:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -38.2,    67.3,    -1.8)
+  I don't know if I'd be able or willing to help.
+2022-06-03T05:53:23Z: PLAYER CHATTED [  922107823] Derzern              (  -39.5,    66.6,     1.3)
+  profit
+2022-06-03T05:53:27Z: PLAYER REMOVED [ 1282506560] Vagos_time
+2022-06-03T05:53:33Z: PLAYER CHATTED [  922107823] Derzern              (  -40.7,    66.6,     1.9)
+  how do you teleport
+2022-06-03T05:53:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -43.2,    67.3,     4.3)
+  I run client-side scripts.
+2022-06-03T05:53:53Z: PLAYER CHATTED [  922107823] Derzern              (  -38.6,    66.6,     3.6)
+  so u wanna help or nah
+2022-06-03T05:54:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    67.3,     2.5)
+  I might have to decline for now.
+2022-06-03T05:54:09Z: PLAYER CHATTED [  922107823] Derzern              (  -39.4,    66.6,     2.8)
+  rn 
+2022-06-03T05:54:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -44.3,    67.3,     2.5)
+  It's probably very easy to do.
+2022-06-03T05:54:14Z: PLAYER CHATTED [  922107823] Derzern              (  -39.4,    66.6,     2.8)
+  i already hire someone to make that
+2022-06-03T05:54:19Z: PLAYER CHATTED [  922107823] Derzern              (  -38.4,    66.6,     3.8)
+  but he afk rn
+2022-06-03T05:54:22Z: PLAYER CHATTED [  922107823] Derzern              (  -37.1,    66.6,     2.5)
+  i already paid
+2022-06-03T05:54:27Z: PLAYER CHATTED [  922107823] Derzern              (  -34.3,    66.6,     5.9)
+  i think i got scam
+2022-06-03T05:54:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -30.3,    94.9,    -6.1)
+  How long was he AFK?
+2022-06-03T05:54:53Z: PLAYER CHATTED [  922107823] Derzern              (  -36.3,    66.6,     1.5)
+  like 2 hours
+2022-06-03T05:54:55Z: PLAYER CHATTED [  922107823] Derzern              (  -31.1,    75.3,     1.9)
+  i think
+2022-06-03T05:54:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.1,    67.3,    10.4)
+  He could be busy.
+2022-06-03T05:55:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -8.1,    67.3,    10.4)
+  Give him the night.
+2022-06-03T05:55:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   18.9,    67.4,    14.9)
+  Or day.
+2022-06-03T05:55:08Z: PLAYER CHATTED [  922107823] Derzern              (  -20.2,    73.1,    12.6)
+  he should say it to me
+2022-06-03T05:55:22Z: PLAYER ADDED   [ 1745379275] VARYSCARYAAA03195
+2022-06-03T05:55:22Z: PLAYER CHATTED [  922107823] Derzern              (   -3.8,    75.6,    21.2)
+  i spam masage but no answer
+2022-06-03T05:55:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.9,    68.8,    23.1)
+  If he left you in the middle of your conversation, that's one thing.
+2022-06-03T05:56:18Z: PLAYER CHATTED [  922107823] Derzern              (   44.4,    66.6,    21.3)
+  idk man
+2022-06-03T05:56:18Z: PLAYER ADDED   [  659837362] c6py
+2022-06-03T05:56:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   84.1,    73.6,    34.5)
+  People don't usually say they'll be away when they're not directly talking wtih you.
+2022-06-03T05:56:24Z: PLAYER CHATTED [  922107823] Derzern              (   52.3,    69.6,    24.0)
+  i just think i got scam
+2022-06-03T05:56:28Z: PLAYER CHATTED [  922107823] Derzern              (   70.0,    72.9,    33.1)
+  with 300 bobux
+2022-06-03T05:56:35Z: PLAYER CHATTED [ 1745379275] VARYSCARYAAA03195    (   84.7,    72.8,    37.1)
+  play my stupid games
+2022-06-03T05:56:46Z: PLAYER CHATTED [  659837362] c6py                 (  -70.9,    67.6,   -37.3)
+  ####
+2022-06-03T05:56:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  131.9,    65.0,    32.5)
+  Which ones?
+2022-06-03T05:56:53Z: PLAYER CHATTED [  659837362] c6py                 (  -78.7,    67.5,     9.6)
+  nigeria is a country
+2022-06-03T05:56:56Z: PLAYER CHATTED [ 1745379275] VARYSCARYAAA03195    (  127.8,    64.1,    34.5)
+  there 4
+2022-06-03T05:57:07Z: PLAYER CHATTED [  922107823] Derzern              (   20.2,    66.6,    14.5)
+  hei
+2022-06-03T05:57:09Z: PLAYER CHATTED [  922107823] Derzern              (   17.5,    66.6,    16.0)
+  scripter?
+2022-06-03T05:57:12Z: PLAYER CHATTED [  659837362] c6py                 (    9.6,    67.6,    12.5)
+  no
+2022-06-03T05:57:13Z: PLAYER CHATTED [ 1745379275] VARYSCARYAAA03195    (  127.0,    64.1,    34.6)
+  jenna sad bully story (epik)
+2022-06-03T05:57:13Z: PLAYER CHATTED [  659837362] c6py                 (   10.7,    67.6,    12.4)
+  soz
+2022-06-03T05:57:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  132.6,    65.0,    31.0)
+  Let's chek it out!
+2022-06-03T05:57:38Z: PLAYER CHATTED [  922107823] Derzern              (  127.9,    64.3,    30.9)
+  no
+2022-06-03T05:58:30Z: PLAYER CHATTED [  922107823] Derzern              (  121.2,    64.3,    47.9)
+  who is a scripter
+2022-06-03T05:58:33Z: CHRCTER ADDED  [  659837362] c6py                 (  -61.4,    67.6,     1.7)
+2022-06-03T05:58:34Z: CHRCTER ADDED  [ 1745379275] VARYSCARYAAA03195    (  -61.4,    66.5,     1.7)
+2022-06-03T05:58:48Z: PLAYER REMOVED [ 1745379275] VARYSCARYAAA03195
+2022-06-03T05:58:57Z: PLAYER CHATTED [  659837362] c6py                 (  -32.1,    67.6,    50.2)
+  i love watching 
+2022-06-03T05:59:00Z: PLAYER CHATTED [  659837362] c6py                 (  -32.1,    67.6,    50.2)
+  #######
+2022-06-03T05:59:23Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-03T05:59:23Z: PLAYER REMOVED [  922107823] Derzern
+2022-06-03T05:59:23Z: PLAYER REMOVED [  659837362] c6py
+2022-06-03T05:59:23Z: CHAT STREAM SUCCESSFULLY ENDED

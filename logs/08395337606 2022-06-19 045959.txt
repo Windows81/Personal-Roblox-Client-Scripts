@@ -1,0 +1,14 @@
+[    1630228] : [ 8395337606] BloxyTown Nuclear Energy Facility - 362c6bc8-6537-46ae-927f-9e7da917221a
+2022-06-19T05:01:23Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-19T05:01:23Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-19T05:01:23Z: PLAYER ADDED   [  741762780] GoTest334
+2022-06-19T05:01:26Z: PLAYER CHATTED [  741762780] GoTest334            (  -22.9,    95.7,   317.0)
+  idk why
+2022-06-19T05:01:35Z: PLAYER CHATTED [  741762780] GoTest334            (  -22.9,    95.7,   317.0)
+  hold on let me shut down this server
+2022-06-19T05:01:41Z: PLAYER CHATTED [  741762780] GoTest334            (  -22.9,    95.7,   317.0)
+  i think weird stuff is going on
+2022-06-19T05:01:46Z: PLAYER CHATTED [  741762780] GoTest334            (  -22.9,    95.7,   317.0)
+  ;shutdown
+2022-06-19T05:02:11Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-19T05:02:11Z: PLAYER REMOVED [  741762780] GoTest334

@@ -1,0 +1,23 @@
+[    1630228] : [ 9863847818] Unolegy TestingGrounds(PC) - 918fe216-76fc-4f6f-89a7-b5f3f86b6598
+2022-06-10T08:23:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-10T08:23:49Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-10T08:23:49Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-06-10T08:23:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.8,     4.7,    -3.3)
+  'Uneology' and 'Studios' are too far apart.
+2022-06-10T08:24:20Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -3.5,     3.6,    -5.9)
+  I tried to do it like untamed animals
+2022-06-10T08:24:33Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -3.5,     3.6,    -5.9)
+  where top text is bigger
+2022-06-10T08:24:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -1.8,     4.7,    -3.3)
+  I mean on the bottom-right.
+2022-06-10T08:24:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -2.5,     4.0,    -4.6)
+  Yes.
+2022-06-10T08:24:59Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -2.5,     4.0,    -4.6)
+  i know.
+2022-06-10T08:25:07Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -2.5,     4.0,    -4.6)
+  1 sec
+2022-06-10T08:25:18Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -2.5,     4.0,    -4.6)
+  let me send u
+2022-06-10T08:25:31Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-06-10T08:25:36Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-10T08:25:36Z: CHAT STREAM SUCCESSFULLY ENDED

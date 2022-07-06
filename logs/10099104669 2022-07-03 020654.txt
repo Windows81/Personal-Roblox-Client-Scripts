@@ -1,0 +1,150 @@
+[    1630228] : [10099104669] A Blockate World. - 178dd74f-f4ab-4305-8d60-40057cfc6070
+2022-07-03T02:06:54Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-03T02:06:54Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-03T02:06:54Z: PLAYER ADDED   [ 1176413158] tonyxtiger01
+2022-07-03T02:06:54Z: PLAYER ADDED   [ 2349290514] LucasGo3458
+2022-07-03T02:06:54Z: PLAYER ADDED   [  705486900] Ya_BoiRektYa
+2022-07-03T02:06:54Z: PLAYER ADDED   [ 1418005308] JellyJess127
+2022-07-03T02:06:54Z: PLAYER ADDED   [ 1195248302] JRC0804
+2022-07-03T02:06:54Z: PLAYER ADDED   [  981150866] PuzzledAbsurdity
+2022-07-03T02:07:00Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  364.2,    49.2,    -0.3)
+  /w PuzzledAbsurdity  How much b$?
+2022-07-03T02:07:03Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  349.5,    52.2,    23.0)
+  5k
+2022-07-03T02:07:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  370.4,     5.0,    33.1)
+  How many rounds is the limit?
+2022-07-03T02:07:06Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  364.2,    49.2,    -0.3)
+  Mk
+2022-07-03T02:07:06Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  374.3,     5.0,    27.5)
+  and thats until they run out
+2022-07-03T02:07:09Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  379.5,     5.0,    33.0)
+  and 1 world = 500 blux
+2022-07-03T02:07:14Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  349.5,    52.2,    23.0)
+  if sales go through the roof or we just feel like it 10k
+2022-07-03T02:07:19Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  349.5,    52.2,    23.0)
+  whos fundin it btw
+2022-07-03T02:07:21Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  380.1,     5.0,    32.2)
+  what is 500 devided by 25K?
+2022-07-03T02:07:23Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  378.3,     5.0,    31.5)
+  100 worlds if you win 10 times
+2022-07-03T02:07:25Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  375.8,    50.6,     4.6)
+  /w PuzzledAbsurdity  I'll do it
+2022-07-03T02:07:29Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  375.8,    50.6,     4.6)
+  Alright!
+2022-07-03T02:07:30Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  349.5,    52.2,    23.0)
+  kk
+2022-07-03T02:07:35Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  375.8,    50.6,     4.6)
+  We shall begin Simon Says
+2022-07-03T02:07:35Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  368.4,    52.2,    30.5)
+  ALR
+2022-07-03T02:07:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  378.7,     5.0,    33.7)
+  1.25e-3?
+2022-07-03T02:07:41Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  368.8,    52.2,    35.6)
+  file will be simon
+2022-07-03T02:07:50Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  380.9,     5.0,    32.0)
+  thats wayy too much for me but i dont care since i litterary got vip so i can get 100 worlds
+2022-07-03T02:07:52Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  375.8,    50.6,     4.6)
+  !shout Simon says go to red
+2022-07-03T02:07:57Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  384.5,     5.0,    26.8)
+  red
+2022-07-03T02:07:59Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  308.3,    52.2,    80.0)
+  ################
+2022-07-03T02:08:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  381.4,     5.0,    25.3)
+  !shout 3
+2022-07-03T02:08:01Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  308.3,    52.2,    80.0)
+  i think
+2022-07-03T02:08:06Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  363.4,    32.9,    18.6)
+  !shout Slmon says go to blue
+2022-07-03T02:08:11Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  383.0,     5.0,    24.7)
+  SLMON
+2022-07-03T02:08:14Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  383.0,     5.0,    24.7)
+  ITS SLMON
+2022-07-03T02:08:15Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  383.0,     5.0,    29.0)
+  it's ez to tell lol
+2022-07-03T02:08:16Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  358.6,     7.0,    40.7)
+  Not Simon..
+2022-07-03T02:08:19Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  383.0,     5.0,    29.0)
+  i'm used to slmon
+2022-07-03T02:08:23Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  358.2,    52.2,    34.1)
+  WAIT
+2022-07-03T02:08:27Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  358.2,    52.2,    34.1)
+  LET DEM RECEEM
+2022-07-03T02:08:28Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  358.2,    52.2,    34.1)
+  redeem
+2022-07-03T02:08:35Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  374.7,    52.2,    23.9)
+  !fly
+2022-07-03T02:08:37Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  379.1,     5.2,    29.5)
+  its the floppa and  vosia;
+2022-07-03T02:08:38Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  371.6,     5.0,    27.6)
+  im also competing
+2022-07-03T02:08:39Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  376.0,     3.0,    30.1)
+  BRO
+2022-07-03T02:08:39Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  376.4,     5.4,    28.6)
+  wait
+2022-07-03T02:08:41Z: CHRCTER ADDED  [ 1176413158] tonyxtiger01         (    4.0,     5.1,     8.0)
+2022-07-03T02:08:41Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (    4.0,     5.1,     8.0)
+  DO TP ALL 
+2022-07-03T02:08:41Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  376.4,     5.0,    28.6)
+  ### #### #### back
+2022-07-03T02:08:42Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  379.1,     5.0,    29.5)
+  VISUAL IS EXPLOITING
+2022-07-03T02:08:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    4.0,     5.1,    16.0)
+2022-07-03T02:08:43Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (    4.0,    10.0,    16.0)
+  !tp all
+2022-07-03T02:08:44Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  379.1,     5.0,    29.5)
+  BAN VISUAL
+2022-07-03T02:08:45Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  377.0,     5.0,    27.0)
+  visual hax?
+2022-07-03T02:08:46Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (   12.4,     5.0,    12.2)
+  oop
+2022-07-03T02:08:47Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  377.0,     5.0,    27.0)
+  i mean
+2022-07-03T02:08:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (    6.1,     5.0,    14.5)
+  Yes.
+2022-07-03T02:08:49Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  379.1,     5.0,    29.5)
+  HE IS HACKIN
+2022-07-03T02:08:50Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  377.0,     5.0,    27.0)
+  hes dead nbow
+2022-07-03T02:08:51Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  362.3,    34.8,    28.0)
+  ##########
+2022-07-03T02:08:52Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (   21.2,     5.0,    11.1)
+  FILE
+2022-07-03T02:08:53Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  362.4,    33.9,    27.9)
+  !tp all pu
+2022-07-03T02:08:54Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  362.4,    68.1,    27.9)
+  do we have a problem now?
+2022-07-03T02:08:57Z: PLAYER CHATTED [ 1418005308] JellyJess127         (  362.4,    40.0,    27.9)
+  IK
+2022-07-03T02:08:58Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  358.4,     5.0,    36.0)
+  THANKSS
+2022-07-03T02:08:58Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  374.5,     5.0,    21.1)
+  ban visual
+2022-07-03T02:08:59Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  384.1,     5.0,    32.4)
+  ok redemption
+2022-07-03T02:08:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  364.5,     5.0,    31.4)
+  I was trying to prevent my death.
+2022-07-03T02:09:00Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  374.5,     5.0,    21.1)
+  he is hacking
+2022-07-03T02:09:00Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  384.1,     5.0,    32.4)
+  since
+2022-07-03T02:09:03Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  371.7,     5.0,    24.8)
+  all you can do is !kill
+2022-07-03T02:09:04Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  377.2,     5.0,    35.3)
+  whos hacking
+2022-07-03T02:09:05Z: PLAYER CHATTED [ 2349290514] LucasGo3458          (  371.7,     5.0,    24.8)
+  thats even easier
+2022-07-03T02:09:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  370.5,     5.0,    30.3)
+  I was.
+2022-07-03T02:09:08Z: PLAYER CHATTED [  705486900] Ya_BoiRektYa         (  373.1,     5.0,    28.2)
+  ban visual
+2022-07-03T02:09:09Z: PLAYER CHATTED [ 1176413158] tonyxtiger01         (  374.1,     5.0,    31.3)
+  visual
+2022-07-03T02:09:14Z: PLAYER CHATTED [  981150866] PuzzledAbsurdity     (  377.2,     5.0,    35.3)
+  also let them redeem since
+2022-07-03T02:09:16Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-03T02:09:17Z: PLAYER REMOVED [ 1176413158] tonyxtiger01
+2022-07-03T02:09:17Z: PLAYER REMOVED [ 2349290514] LucasGo3458
+2022-07-03T02:09:17Z: PLAYER REMOVED [  705486900] Ya_BoiRektYa
+2022-07-03T02:09:17Z: PLAYER REMOVED [ 1418005308] JellyJess127
+2022-07-03T02:09:17Z: PLAYER REMOVED [ 1195248302] JRC0804
+2022-07-03T02:09:17Z: PLAYER REMOVED [  981150866] PuzzledAbsurdity

@@ -1,0 +1,23 @@
+[    1630228] : [10080134170] A Blockate World. - f3cef64d-4454-467e-8d43-bfadf3d9bce4
+2022-07-01T09:12:00Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-01T09:12:01Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-01T09:12:01Z: PLAYER ADDED   [ 1092159466] ASAP12893
+2022-07-01T09:12:01Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-07-01T09:12:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.7,     5.0,  2031.2)
+  Working well.
+2022-07-01T09:13:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.7,     5.0,  2066.1)
+  Almost 1/6 of the way done.
+2022-07-01T09:13:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,     5.0,  2232.7)
+  I know now why I was kicked.
+2022-07-01T09:13:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,     5.0,  2232.7)
+  I set a bunch of CONCURRENT requests to delete all the blocks.
+2022-07-01T09:15:29Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:15:49Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.0,     5.0,    -0.1)
+  The code is not clean
+2022-07-01T09:16:19Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:16:20Z: PLAYER REMOVED [ 1092159466] ASAP12893
+2022-07-01T09:18:07Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:19:29Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.3,     5.0,     2.4)
+  look on the kord
+2022-07-01T09:23:40Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-01T09:23:40Z: PLAYER REMOVED [ 3109050268] Avionlix

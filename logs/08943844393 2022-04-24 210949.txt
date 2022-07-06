@@ -1,0 +1,796 @@
+[    1630228] : [ 8943844393] PLS DONATE 💸 [Voice Chat] - 4e8c518c-6deb-4f89-b053-e31184f1222c
+2022-04-24T21:09:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-24T21:09:51Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 3163999997] GKZ_VHS
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1576855619] irllyhatehotdogs
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1407799108] LUIZIROKUN
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1040609171] TwitchBumpyfn
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 2722469348] yuukilind737
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1924114063] October30thLuvu
+2022-04-24T21:09:51Z: PLAYER ADDED   [  729220184] XuffX
+2022-04-24T21:09:51Z: PLAYER ADDED   [  396439708] MeChamavaAdriiel
+2022-04-24T21:09:51Z: PLAYER ADDED   [  188850540] jc_07
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1071977754] smasher08191_best10
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1608783466] lemonlaxYT
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1545046882] The_BenjaGT
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 2975109919] pedrorobertobs2
+2022-04-24T21:09:51Z: PLAYER ADDED   [   87754117] FishinManC
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 2789763069] Rageryx3
+2022-04-24T21:09:51Z: PLAYER ADDED   [  383967038] bekikami
+2022-04-24T21:09:51Z: PLAYER ADDED   [ 1757370870] sofi_fofinhah
+2022-04-24T21:09:51Z: PLAYER ADDED   [  127344414] DashOfPinkk
+2022-04-24T21:09:51Z: PLAYER ADDED   [  143223088] Vvannity
+2022-04-24T21:10:14Z: PLAYER ADDED   [ 1285258931] Roxythebestqueen1
+2022-04-24T21:10:15Z: PLAYER CHATTED [  143223088] Vvannity             (   22.8,     3.0,   166.8)
+  yo
+2022-04-24T21:10:16Z: PLAYER ADDED   [   61567554] rares1o
+2022-04-24T21:10:19Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.1,     3.7,    39.5)
+  que pasión
+2022-04-24T21:10:24Z: PLAYER REMOVED [  127344414] DashOfPinkk
+2022-04-24T21:10:31Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.1,     3.7,    39.5)
+  POETICOO DIOOS
+2022-04-24T21:10:33Z: PLAYER ADDED   [ 2336369024] Notlilspazlol
+2022-04-24T21:10:33Z: PLAYER CHATTED [  143223088] Vvannity             (  -10.5,     3.6,    54.9)
+  how did u make the font that
+2022-04-24T21:10:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.5,     4.4,    51.5)
+  RichText.
+2022-04-24T21:10:44Z: PLAYER ADDED   [ 3486426860] CookiePieGirl23
+2022-04-24T21:10:45Z: PLAYER REMOVED [ 3486426860] CookiePieGirl23
+2022-04-24T21:10:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -5.0,     4.0,    59.1)
+  Look up 'richtext roblox'.
+2022-04-24T21:10:47Z: PLAYER REMOVED [   61567554] rares1o
+2022-04-24T21:10:59Z: PLAYER CHATTED [ 1757370870] sofi_fofinhah        (   29.6,     3.1,   167.7)
+  np
+2022-04-24T21:11:01Z: PLAYER REMOVED [ 1071977754] smasher08191_best10
+2022-04-24T21:11:01Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    38.2)
+  /e dance
+2022-04-24T21:11:03Z: PLAYER CHATTED [ 2722469348] yuukilind737         (   95.0,    15.2,   154.3)
+  hii 
+2022-04-24T21:11:04Z: PLAYER ADDED   [  366983788] BigTimeFrosty
+2022-04-24T21:11:10Z: PLAYER ADDED   [  109880579] gn8rly
+2022-04-24T21:11:11Z: PLAYER ADDED   [  390783109] ItxAlvaroo
+2022-04-24T21:11:16Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (   65.9,     3.2,    36.1)
+  Trash
+2022-04-24T21:11:37Z: PLAYER REMOVED [ 2336369024] Notlilspazlol
+2022-04-24T21:11:41Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   61.7,     3.3,    36.4)
+  /e happy
+2022-04-24T21:11:42Z: PLAYER ADDED   [ 2749489288] insanegamer430
+2022-04-24T21:11:43Z: PLAYER REMOVED [  188850540] jc_07
+2022-04-24T21:11:44Z: PLAYER REMOVED [  143223088] Vvannity
+2022-04-24T21:11:54Z: PLAYER ADDED   [  948899400] lIlIlIIlIlllIII
+2022-04-24T21:11:58Z: PLAYER ADDED   [   61567554] rares1o
+2022-04-24T21:12:06Z: PLAYER CHATTED [  109880579] gn8rly               (   62.9,     3.6,    34.3)
+  /e dance
+2022-04-24T21:12:06Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    38.2)
+  alla madreee
+2022-04-24T21:12:09Z: PLAYER CHATTED [  109880579] gn8rly               (   62.9,     3.6,    34.3)
+  SO GOOODDDD
+2022-04-24T21:12:12Z: PLAYER CHATTED [ 1757370870] sofi_fofinhah        (  -26.3,     3.1,   109.6)
+  /e danc
+2022-04-24T21:12:18Z: PLAYER CHATTED [ 1757370870] sofi_fofinhah        (  -26.3,     3.1,   109.6)
+  /e damce
+2022-04-24T21:12:19Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   61.7,     3.3,    36.4)
+  #######
+2022-04-24T21:12:23Z: PLAYER CHATTED [ 2722469348] yuukilind737         (  -25.7,     3.6,   112.2)
+  /e dance
+2022-04-24T21:12:24Z: PLAYER CHATTED [ 1757370870] sofi_fofinhah        (  -26.3,     3.1,   109.6)
+  /e dance
+2022-04-24T21:12:27Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   61.7,     3.3,    36.4)
+  es hermos
+2022-04-24T21:12:29Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    38.2)
+  enseñame a cantar we
+2022-04-24T21:12:31Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   61.7,     3.3,    36.4)
+  o
+2022-04-24T21:12:38Z: PLAYER CHATTED [ 2722469348] yuukilind737         (  -25.7,     3.6,   112.2)
+  /e dance2
+2022-04-24T21:12:46Z: PLAYER CHATTED [ 1757370870] sofi_fofinhah        (  -26.3,     3.2,   109.6)
+  /e dance3
+2022-04-24T21:12:48Z: PLAYER REMOVED [   61567554] rares1o
+2022-04-24T21:12:55Z: PLAYER ADDED   [ 1187430294] yofavljada
+2022-04-24T21:13:11Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   69.5,     3.9,    35.3)
+  piola
+2022-04-24T21:13:27Z: PLAYER REMOVED [ 1187430294] yofavljada
+2022-04-24T21:13:31Z: PLAYER ADDED   [  212460709] 09nanu
+2022-04-24T21:13:32Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    37.8)
+  que voz!
+2022-04-24T21:13:40Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   68.3,     3.9,    36.1)
+  no epro cantas bien
+2022-04-24T21:13:42Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    37.8)
+  que buenardo
+2022-04-24T21:13:46Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    37.8)
+  bravoooo
+2022-04-24T21:13:58Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   70.3,     3.9,    35.4)
+  :>
+2022-04-24T21:14:02Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   61.6,     3.9,    35.1)
+  CLAP CLAP
+2022-04-24T21:14:10Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   69.7,     3.7,    35.1)
+  lo que quieras xde
+2022-04-24T21:14:12Z: PLAYER CHATTED [ 1407799108] LUIZIROKUN           (   63.5,     3.7,    37.8)
+  canta una de grupo ms
+2022-04-24T21:14:19Z: PLAYER CHATTED [  109880579] gn8rly               (   70.3,     3.0,    38.6)
+  9th
+2022-04-24T21:14:20Z: PLAYER CHATTED [  109880579] gn8rly               (   70.3,     3.0,    38.6)
+  come
+2022-04-24T21:14:24Z: PLAYER CHATTED [  396439708] MeChamavaAdriiel     (   66.6,     3.3,    37.9)
+  sorry fella i need to quit because homework
+2022-04-24T21:14:27Z: PLAYER CHATTED [  396439708] MeChamavaAdriiel     (   66.6,     3.3,    37.9)
+  see ya
+2022-04-24T21:14:33Z: PLAYER REMOVED [  396439708] MeChamavaAdriiel
+2022-04-24T21:14:36Z: CHRCTER ADDED  [ 2975109919] pedrorobertobs2      (   54.8,     6.6,   101.9)
+2022-04-24T21:14:51Z: PLAYER CHATTED [  109880579] gn8rly               (   66.3,     3.0,    41.5)
+  come
+2022-04-24T21:14:53Z: PLAYER REMOVED [  729220184] XuffX
+2022-04-24T21:14:55Z: PLAYER ADDED   [   23498913] Elextrangero
+2022-04-24T21:15:01Z: PLAYER ADDED   [ 2351789096] Kitty_isgood10
+2022-04-24T21:15:03Z: CHRCTER ADDED  [ 2975109919] pedrorobertobs2      (   29.8,     6.6,   101.9)
+2022-04-24T21:15:10Z: PLAYER CHATTED [  109880579] gn8rly               (   88.5,     3.0,   111.7)
+  come
+2022-04-24T21:15:11Z: PLAYER REMOVED [ 1407799108] LUIZIROKUN
+2022-04-24T21:15:19Z: PLAYER REMOVED [   87754117] FishinManC
+2022-04-24T21:15:22Z: PLAYER ADDED   [  160889556] ColdLocke
+2022-04-24T21:15:30Z: PLAYER CHATTED [  109880579] gn8rly               (   98.3,     2.7,    52.3)
+  ####
+2022-04-24T21:15:32Z: PLAYER CHATTED [  109880579] gn8rly               (   98.3,     2.7,    52.3)
+  pi
+2022-04-24T21:15:33Z: PLAYER CHATTED [  109880579] gn8rly               (   98.3,     2.7,    52.3)
+  ##
+2022-04-24T21:15:37Z: PLAYER CHATTED [  109880579] gn8rly               (   98.6,     2.7,    51.0)
+  chose
+2022-04-24T21:15:39Z: PLAYER CHATTED [  109880579] gn8rly               (   97.6,     2.7,    53.5)
+  one
+2022-04-24T21:16:01Z: PLAYER REMOVED [ 2351789096] Kitty_isgood10
+2022-04-24T21:16:17Z: PLAYER ADDED   [  513338184] WhoTookMySauce
+2022-04-24T21:16:19Z: PLAYER ADDED   [  127344414] DashOfPinkk
+2022-04-24T21:16:26Z: PLAYER REMOVED [ 1285258931] Roxythebestqueen1
+2022-04-24T21:16:39Z: PLAYER REMOVED [  513338184] WhoTookMySauce
+2022-04-24T21:16:39Z: PLAYER ADDED   [  729220184] XuffX
+2022-04-24T21:16:43Z: PLAYER ADDED   [ 1421622682] carrasco_juliopro
+2022-04-24T21:17:20Z: PLAYER REMOVED [ 2749489288] insanegamer430
+2022-04-24T21:17:21Z: PLAYER ADDED   [ 2749489288] insanegamer430
+2022-04-24T21:17:36Z: PLAYER REMOVED [  390783109] ItxAlvaroo
+2022-04-24T21:17:37Z: PLAYER ADDED   [ 1350229611] chickenrunner312
+2022-04-24T21:17:46Z: PLAYER CHATTED [  729220184] XuffX                (   76.2,     3.3,    54.1)
+  ?
+2022-04-24T21:17:47Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   70.0,     3.6,    49.6)
+  pls robux
+2022-04-24T21:17:52Z: PLAYER CHATTED [ 2975109919] pedrorobertobs2      (   94.4,     3.1,    57.2)
+  I DONT HAVE ROBUX
+2022-04-24T21:17:54Z: PLAYER CHATTED [ 2975109919] pedrorobertobs2      (   94.4,     3.1,    57.2)
+  SRRY
+2022-04-24T21:17:55Z: PLAYER REMOVED [ 2749489288] insanegamer430
+2022-04-24T21:18:03Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   69.9,     3.6,    50.4)
+  100k robux
+2022-04-24T21:18:06Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   69.9,     3.6,    50.4)
+  pls
+2022-04-24T21:18:12Z: PLAYER ADDED   [ 3150374456] ObsixL
+2022-04-24T21:18:15Z: PLAYER CHATTED [  948899400] lIlIlIIlIlllIII      (   69.5,     3.3,    54.1)
+  1m
+2022-04-24T21:18:16Z: PLAYER CHATTED [  109880579] gn8rly               (   72.4,     3.0,    51.8)
+  ELX
+2022-04-24T21:18:17Z: PLAYER CHATTED [  948899400] lIlIlIIlIlllIII      (   69.5,     3.3,    54.1)
+  dea
+2022-04-24T21:18:18Z: PLAYER REMOVED [ 1350229611] chickenrunner312
+2022-04-24T21:18:19Z: PLAYER CHATTED [  109880579] gn8rly               (   72.4,     3.0,    51.8)
+  caps
+2022-04-24T21:18:19Z: PLAYER CHATTED [  729220184] XuffX                (   75.4,     3.3,    53.3)
+  can donate me 100?
+2022-04-24T21:18:19Z: PLAYER CHATTED [   23498913] Elextrangero         (   72.4,     3.3,    53.4)
+  ?
+2022-04-24T21:18:20Z: PLAYER ADDED   [   66807130] shirosify
+2022-04-24T21:18:22Z: PLAYER CHATTED [  109880579] gn8rly               (   72.4,     3.0,    51.8)
+  follow
+2022-04-24T21:18:23Z: PLAYER CHATTED [ 3163999997] GKZ_VHS              (   73.2,     3.7,    48.9)
+  1k
+2022-04-24T21:18:26Z: PLAYER CHATTED [ 3163999997] GKZ_VHS              (   73.2,     3.7,    48.9)
+  x d
+2022-04-24T21:18:31Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   70.3,     3.6,    50.8)
+  100 pls
+2022-04-24T21:18:44Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  i know lol
+2022-04-24T21:18:49Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  i can understand lol
+2022-04-24T21:18:50Z: PLAYER CHATTED [  729220184] XuffX                (   77.0,     3.3,    52.5)
+  can donate me?
+2022-04-24T21:18:56Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  i just dont wanna donate
+2022-04-24T21:18:57Z: PLAYER CHATTED [  729220184] XuffX                (   77.0,     3.3,    52.5)
+  come here
+2022-04-24T21:19:02Z: PLAYER REMOVED [  127344414] DashOfPinkk
+2022-04-24T21:19:05Z: PLAYER CHATTED [  729220184] XuffX                (   77.2,     3.3,    50.8)
+  donate me
+2022-04-24T21:19:08Z: PLAYER CHATTED [  212460709] 09nanu               (   74.4,     3.3,    56.4)
+  did you get headless by trading?=
+2022-04-24T21:19:08Z: PLAYER CHATTED [  160889556] ColdLocke            (  106.3,    14.4,   144.7)
+  /wave
+2022-04-24T21:19:09Z: PLAYER REMOVED [ 3150374456] ObsixL
+2022-04-24T21:19:10Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  yeah
+2022-04-24T21:19:11Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  or wth
+2022-04-24T21:19:11Z: PLAYER CHATTED [  160889556] ColdLocke            (  106.3,    14.4,   144.7)
+  /e wave
+2022-04-24T21:19:12Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  oh
+2022-04-24T21:19:17Z: PLAYER CHATTED [  729220184] XuffX                (   74.0,     3.3,    47.7)
+  come
+2022-04-24T21:19:18Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  for how long
+2022-04-24T21:19:21Z: PLAYER CHATTED [  109880579] gn8rly               (   87.4,     3.2,    49.4)
+  09th
+2022-04-24T21:19:22Z: PLAYER CHATTED [  729220184] XuffX                (   75.3,     3.3,    50.6)
+  here
+2022-04-24T21:19:23Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  have you been trading?
+2022-04-24T21:19:23Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  like 2 months
+2022-04-24T21:19:25Z: PLAYER CHATTED [  109880579] gn8rly               (   87.0,     3.1,    49.1)
+  9th
+2022-04-24T21:19:26Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  oh
+2022-04-24T21:19:27Z: PLAYER CHATTED [  109880579] gn8rly               (   87.0,     3.1,    49.1)
+  follow
+2022-04-24T21:19:27Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  2 months?
+2022-04-24T21:19:28Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  in general?
+2022-04-24T21:19:30Z: PLAYER REMOVED [ 1757370870] sofi_fofinhah
+2022-04-24T21:19:32Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  nono
+2022-04-24T21:19:33Z: PLAYER CHATTED [   23498913] Elextrangero         (   75.7,     3.3,    52.4)
+  like a year or so
+2022-04-24T21:19:36Z: PLAYER CHATTED [  212460709] 09nanu               (   74.8,     3.3,    56.6)
+  i meant when you started
+2022-04-24T21:19:38Z: PLAYER CHATTED [  729220184] XuffX                (   74.3,     3.3,    49.7)
+  can donate me?
+2022-04-24T21:19:40Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  a year
+2022-04-24T21:19:42Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   88.8,     3.6,    51.9)
+  i dont have robux
+2022-04-24T21:19:42Z: PLAYER CHATTED [  212460709] 09nanu               (   74.2,     3.3,    56.0)
+  k
+2022-04-24T21:19:44Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   88.8,     3.6,    51.9)
+  ssry
+2022-04-24T21:19:45Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  yeah'
+2022-04-24T21:19:46Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   88.8,     3.6,    51.9)
+  srry
+2022-04-24T21:19:48Z: PLAYER CHATTED [  729220184] XuffX                (   79.1,     3.3,    51.6)
+  come
+2022-04-24T21:19:51Z: PLAYER CHATTED [  212460709] 09nanu               (   75.2,     3.3,    56.6)
+  I just made 1 month of trading
+2022-04-24T21:19:53Z: PLAYER ADDED   [  245645356] ttylersong
+2022-04-24T21:19:53Z: PLAYER CHATTED [  212460709] 09nanu               (   75.2,     3.3,    56.6)
+  and I gave up
+2022-04-24T21:19:54Z: PLAYER CHATTED [  729220184] XuffX                (   62.5,     3.0,    31.8)
+  here
+2022-04-24T21:19:55Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  nice!
+2022-04-24T21:19:56Z: PLAYER CHATTED [  212460709] 09nanu               (   75.2,     3.3,    56.6)
+  700 to 4k
+2022-04-24T21:20:01Z: PLAYER ADDED   [ 2336369024] Notlilspazlol
+2022-04-24T21:20:01Z: PLAYER CHATTED [  729220184] XuffX                (   74.3,     3.3,    48.9)
+  come
+2022-04-24T21:20:01Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  its a slow process
+2022-04-24T21:20:04Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  super slow
+2022-04-24T21:20:04Z: PLAYER CHATTED [  212460709] 09nanu               (   75.2,     3.3,    56.6)
+  yeah
+2022-04-24T21:20:06Z: PLAYER CHATTED [   23498913] Elextrangero         (   76.8,     3.3,    53.7)
+  but its worth it
+2022-04-24T21:20:09Z: PLAYER CHATTED [  729220184] XuffX                (   76.0,     3.3,    51.3)
+  come
+2022-04-24T21:20:11Z: PLAYER CHATTED [  212460709] 09nanu               (   75.2,     3.3,    56.6)
+  My goal is headless
+2022-04-24T21:20:16Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.0)
+  any suggestions?
+2022-04-24T21:20:17Z: PLAYER ADDED   [ 1855352280] nasukoh
+2022-04-24T21:20:18Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  i believe you can do it
+2022-04-24T21:20:26Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  honestly make alot of trades
+2022-04-24T21:20:27Z: PLAYER CHATTED [  729220184] XuffX                (   72.7,     3.3,    50.6)
+  come donate me
+2022-04-24T21:20:30Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  I have 10k to spend in limiteds so idk what to buy
+2022-04-24T21:20:34Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  I have commando
+2022-04-24T21:20:37Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  ohhh mm
+2022-04-24T21:20:39Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  id say save it
+2022-04-24T21:20:43Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  okay okay
+2022-04-24T21:20:46Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  mhm
+2022-04-24T21:20:49Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  so I just keep trading with commando
+2022-04-24T21:20:52Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  yeah
+2022-04-24T21:20:55Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  okay okay
+2022-04-24T21:20:58Z: PLAYER CHATTED [  729220184] XuffX                (   72.7,     3.3,    50.6)
+  can donate me?
+2022-04-24T21:21:00Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (   93.5,     3.5,    51.8)
+  NAH IM GOOD
+2022-04-24T21:21:00Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  no
+2022-04-24T21:21:03Z: PLAYER CHATTED [  729220184] XuffX                (   74.2,     3.3,    51.0)
+  follow me
+2022-04-24T21:21:06Z: PLAYER CHATTED [  729220184] XuffX                (   74.2,     3.3,    51.0)
+  uh. ok
+2022-04-24T21:21:12Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  yeah, for me it was slow because I always tried to get profit
+2022-04-24T21:21:18Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  and I got profit in every trade
+2022-04-24T21:21:20Z: PLAYER REMOVED [ 2722469348] yuukilind737
+2022-04-24T21:21:28Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  kinda I dont want lose
+2022-04-24T21:21:30Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  true but sometimes you have to either lose a lil or do a still trade
+2022-04-24T21:21:32Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  yeah
+2022-04-24T21:21:36Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  its a rough process
+2022-04-24T21:21:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.3,     3.7,    45.1)
+  Hi.
+2022-04-24T21:21:44Z: PLAYER ADDED   [ 1446891865] d5ld
+2022-04-24T21:21:49Z: PLAYER REMOVED [ 1855352280] nasukoh
+2022-04-24T21:21:51Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  i got work in 30 mins i gtg
+2022-04-24T21:21:55Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  kk
+2022-04-24T21:21:55Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  but good luck!
+2022-04-24T21:21:55Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (   -6.3,     3.8,    51.6)
+  How u do that
+2022-04-24T21:21:56Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  gl
+2022-04-24T21:21:58Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  tysm
+2022-04-24T21:22:00Z: PLAYER REMOVED [ 1421622682] carrasco_juliopro
+2022-04-24T21:22:00Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  yessir
+2022-04-24T21:22:01Z: PLAYER CHATTED [  729220184] XuffX                (   81.3,     3.3,    46.5)
+  pls can donate me ?
+2022-04-24T21:22:01Z: PLAYER CHATTED [  212460709] 09nanu               (   74.7,     3.3,    56.1)
+  good luck u too
+2022-04-24T21:22:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -13.3,     3.7,    45.1)
+  Automation.
+2022-04-24T21:22:04Z: PLAYER CHATTED [   23498913] Elextrangero         (   77.6,     3.3,    53.0)
+  have a good day man
+2022-04-24T21:22:08Z: PLAYER REMOVED [   23498913] Elextrangero
+2022-04-24T21:22:12Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (   -6.3,     3.8,    51.6)
+  Ok
+2022-04-24T21:22:16Z: PLAYER REMOVED [  160889556] ColdLocke
+2022-04-24T21:22:18Z: PLAYER ADDED   [ 2445943399] unknown_10pez
+2022-04-24T21:22:18Z: PLAYER REMOVED [ 1040609171] TwitchBumpyfn
+2022-04-24T21:22:21Z: PLAYER REMOVED [  245645356] ttylersong
+2022-04-24T21:22:26Z: PLAYER REMOVED [  212460709] 09nanu
+2022-04-24T21:22:30Z: PLAYER CHATTED [  729220184] XuffX                (   10.3,     3.2,   110.4)
+  ###########
+2022-04-24T21:22:31Z: PLAYER CHATTED [ 3163999997] GKZ_VHS              (  106.3,     3.3,    62.0)
+  *cheats active
+2022-04-24T21:22:37Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (   97.4,     3.3,   102.5)
+  Noble come
+2022-04-24T21:22:37Z: PLAYER REMOVED [  729220184] XuffX
+2022-04-24T21:22:44Z: PLAYER CHATTED [ 2336369024] Notlilspazlol        (  179.3,     2.3,    67.6)
+  Look
+2022-04-24T21:22:54Z: PLAYER REMOVED [   66807130] shirosify
+2022-04-24T21:22:55Z: PLAYER ADDED   [  123806474] FIREYAUTO
+2022-04-24T21:23:00Z: PLAYER ADDED   [   34552676] mychal0924321
+2022-04-24T21:23:15Z: PLAYER REMOVED [ 2445943399] unknown_10pez
+2022-04-24T21:23:21Z: PLAYER ADDED   [  212460709] 09nanu
+2022-04-24T21:23:40Z: PLAYER REMOVED [  123806474] FIREYAUTO
+2022-04-24T21:23:42Z: PLAYER REMOVED [   34552676] mychal0924321
+2022-04-24T21:23:43Z: PLAYER REMOVED [ 2336369024] Notlilspazlol
+2022-04-24T21:23:45Z: PLAYER REMOVED [  212460709] 09nanu
+2022-04-24T21:23:49Z: PLAYER ADDED   [   34552676] mychal0924321
+2022-04-24T21:23:52Z: PLAYER REMOVED [ 1446891865] d5ld
+2022-04-24T21:23:54Z: PLAYER ADDED   [ 1641574013] G1MMEYOSOUL
+2022-04-24T21:23:56Z: PLAYER ADDED   [  123806474] FIREYAUTO
+2022-04-24T21:23:56Z: PLAYER ADDED   [ 2459640102] keisha12343214
+2022-04-24T21:23:58Z: PLAYER REMOVED [   34552676] mychal0924321
+2022-04-24T21:23:59Z: PLAYER ADDED   [ 1514309960] Bc_6l
+2022-04-24T21:24:01Z: CHRCTER ADDED  [ 1545046882] The_BenjaGT          (   42.1,     7.2,   114.0)
+2022-04-24T21:24:04Z: PLAYER ADDED   [   34552676] mychal0924321
+2022-04-24T21:24:08Z: PLAYER REMOVED [   34552676] mychal0924321
+2022-04-24T21:24:10Z: PLAYER ADDED   [ 1798256845] executionIy
+2022-04-24T21:24:17Z: PLAYER ADDED   [  729220184] XuffX
+2022-04-24T21:24:17Z: PLAYER REMOVED [  123806474] FIREYAUTO
+2022-04-24T21:24:19Z: PLAYER ADDED   [   34552676] mychal0924321
+2022-04-24T21:24:20Z: PLAYER REMOVED [ 2975109919] pedrorobertobs2
+2022-04-24T21:24:26Z: PLAYER CHATTED [  109880579] gn8rly               (   87.3,     3.0,    61.0)
+  yo
+2022-04-24T21:24:27Z: PLAYER CHATTED [  109880579] gn8rly               (   87.3,     3.0,    61.0)
+  bc
+2022-04-24T21:24:32Z: PLAYER ADDED   [ 1551462839] 2468Omar95212
+2022-04-24T21:24:33Z: PLAYER CHATTED [  109880579] gn8rly               (   60.7,     3.0,    51.2)
+  follow
+2022-04-24T21:24:41Z: PLAYER REMOVED [   34552676] mychal0924321
+2022-04-24T21:24:44Z: PLAYER ADDED   [ 3353955150] uhKyxo
+2022-04-24T21:24:59Z: PLAYER REMOVED [ 1641574013] G1MMEYOSOUL
+2022-04-24T21:25:00Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -25.4,     3.4,   111.8)
+  hey noble!
+2022-04-24T21:25:05Z: PLAYER CHATTED [  109880579] gn8rly               (  -13.1,     3.0,   123.6)
+  ye?
+2022-04-24T21:25:06Z: PLAYER CHATTED [  729220184] XuffX                (   58.4,     3.9,   100.8)
+  can daonte me?
+2022-04-24T21:25:08Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -18.0,     3.8,   122.1)
+  wanna dono?
+2022-04-24T21:25:09Z: PLAYER CHATTED [  109880579] gn8rly               (  -13.1,     3.0,   123.6)
+  cant donate
+2022-04-24T21:25:11Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -18.0,     3.8,   122.1)
+  anything helps ;D
+2022-04-24T21:25:14Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -18.9,     3.8,   121.5)
+  kk
+2022-04-24T21:25:15Z: PLAYER CHATTED [  729220184] XuffX                (   54.5,     3.8,    99.8)
+  donate me
+2022-04-24T21:25:16Z: PLAYER ADDED   [   66807130] shirosify
+2022-04-24T21:25:17Z: PLAYER CHATTED [  109880579] gn8rly               (  -12.0,     3.0,   124.3)
+  0 robux :(
+2022-04-24T21:25:24Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -20.3,     3.4,   117.5)
+  hey 9th!
+2022-04-24T21:25:28Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (  -25.3,     3.8,   117.4)
+  wanna dono?
+2022-04-24T21:25:28Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:29Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:30Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:33Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:33Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:34Z: PLAYER REMOVED [ 3353955150] uhKyxo
+2022-04-24T21:25:34Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:35Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:35Z: PLAYER CHATTED [  729220184] XuffX                (   33.4,     3.3,   105.6)
+  can doante me?
+2022-04-24T21:25:35Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:25:36Z: PLAYER CHATTED [  109880579] gn8rly               (   36.9,     3.0,    36.3)
+  yo
+2022-04-24T21:26:00Z: PLAYER REMOVED [  729220184] XuffX
+2022-04-24T21:26:04Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   -9.0,     3.4,   114.5)
+  hey
+2022-04-24T21:26:12Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   -4.9,     3.4,   150.2)
+  wanna dono?
+2022-04-24T21:26:14Z: PLAYER ADDED   [  165458225] TotiWebs
+2022-04-24T21:26:21Z: PLAYER ADDED   [ 1446891865] d5ld
+2022-04-24T21:26:22Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   -4.9,     3.4,   150.2)
+  anything helps :D
+2022-04-24T21:26:32Z: PLAYER REMOVED [ 1514309960] Bc_6l
+2022-04-24T21:26:37Z: PLAYER CHATTED [  165458225] TotiWebs             (   97.0,     3.3,   104.1)
+  hello
+2022-04-24T21:26:45Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (    6.0,     3.4,   157.1)
+  hey guys!!
+2022-04-24T21:26:49Z: PLAYER ADDED   [  245645356] ttylersong
+2022-04-24T21:26:52Z: PLAYER CHATTED [   66807130] shirosify            (   -6.7,     3.3,   157.8)
+  /e dance2
+2022-04-24T21:26:52Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (    1.1,     3.4,   152.4)
+  pls dono anything helps :DD
+2022-04-24T21:26:59Z: PLAYER REMOVED [  245645356] ttylersong
+2022-04-24T21:27:10Z: PLAYER ADDED   [ 1673324118] RDXBOSs12
+2022-04-24T21:27:20Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   84.0,     3.3,   144.6)
+  ok
+2022-04-24T21:27:20Z: PLAYER CHATTED [  109880579] gn8rly               (  101.9,     3.0,    70.3)
+  /e dance
+2022-04-24T21:27:23Z: PLAYER REMOVED [   66807130] shirosify
+2022-04-24T21:27:23Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   82.7,     3.4,   138.8)
+  hey
+2022-04-24T21:27:24Z: PLAYER REMOVED [ 1446891865] d5ld
+2022-04-24T21:27:32Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   84.0,     3.3,   144.6)
+  :>
+2022-04-24T21:27:39Z: PLAYER ADDED   [  817919888] xXNaeee_25Xx
+2022-04-24T21:27:41Z: PLAYER ADDED   [  408929629] yGhost_PvPYT1
+2022-04-24T21:27:42Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   84.6,     3.4,   139.8)
+  idk wuts going in vc here
+2022-04-24T21:27:48Z: PLAYER CHATTED [  109880579] gn8rly               (   84.1,     3.0,   144.9)
+  yo
+2022-04-24T21:27:49Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   93.5,     3.6,   141.9)
+  ban
+2022-04-24T21:27:50Z: PLAYER CHATTED [  109880579] gn8rly               (   84.1,     3.0,   144.9)
+  ####
+2022-04-24T21:27:50Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   83.7,     3.4,   147.0)
+  cant hear nun
+2022-04-24T21:27:51Z: PLAYER ADDED   [   53163739] BMO43353
+2022-04-24T21:27:52Z: PLAYER CHATTED [  109880579] gn8rly               (   84.1,     3.0,   144.9)
+  follow
+2022-04-24T21:27:57Z: PLAYER ADDED   [ 1683758562] Alexsanderk98k
+2022-04-24T21:27:58Z: PLAYER CHATTED [ 1673324118] RDXBOSs12            (   82.5,     3.9,   142.4)
+  I have 8
+2022-04-24T21:27:59Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   93.3,     3.6,   139.0)
+  /ban keisha
+2022-04-24T21:28:01Z: PLAYER ADDED   [  374085370] bigbrotherst
+2022-04-24T21:28:04Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   88.6,     3.4,   122.9)
+  hey
+2022-04-24T21:28:04Z: CHRCTER ADDED  [  408929629] yGhost_PvPYT1        (   42.1,     6.9,    89.3)
+2022-04-24T21:28:07Z: PLAYER CHATTED [  165458225] TotiWebs             (   88.3,     3.3,   121.1)
+  sup
+2022-04-24T21:28:08Z: PLAYER CHATTED [  109880579] gn8rly               (   90.3,     3.0,   123.8)
+  follo
+2022-04-24T21:28:10Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.3,     3.4,   125.9)
+  wanna dono?
+2022-04-24T21:28:12Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.3,     3.4,   125.9)
+  anything helps ;D
+2022-04-24T21:28:17Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.3,     3.3,   121.2)
+  i don't have any robux
+2022-04-24T21:28:18Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.3,     3.3,   121.2)
+  :(
+2022-04-24T21:28:19Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.3,     3.4,   125.9)
+  .
+2022-04-24T21:28:21Z: PLAYER ADDED   [  729220184] XuffX
+2022-04-24T21:28:21Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.3,     3.4,   125.9)
+  :(
+2022-04-24T21:28:27Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.3,     3.3,   121.2)
+  no se
+2022-04-24T21:28:28Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.3,     3.3,   121.2)
+  XD
+2022-04-24T21:28:30Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.1,     3.4,   127.5)
+  y'all wana dono?
+2022-04-24T21:28:36Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.3,     3.3,   121.2)
+  no se si habla español
+2022-04-24T21:28:37Z: PLAYER CHATTED [  948899400] lIlIlIIlIlllIII      (   94.4,     3.3,   124.6)
+  XD
+2022-04-24T21:28:40Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   16.5,     3.0,    44.6)
+  hey
+2022-04-24T21:28:45Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.5,     3.3,   121.3)
+  ah bueno
+2022-04-24T21:28:50Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   87.0,     3.4,   129.2)
+  wut's good
+2022-04-24T21:28:58Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   18.6,     3.0,    45.7)
+  can you help me? 
+2022-04-24T21:29:04Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   88.0,     3.8,   131.4)
+  hey
+2022-04-24T21:29:08Z: PLAYER CHATTED [  374085370] bigbrotherst         (   78.2,     3.0,   136.3)
+  yo
+2022-04-24T21:29:09Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   84.5,     3.4,   130.0)
+  wanna dono?
+2022-04-24T21:29:09Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.5,     3.3,   121.9)
+  como tuviste un hijo
+2022-04-24T21:29:14Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   84.5,     3.4,   130.0)
+  anything helps :D
+2022-04-24T21:29:19Z: PLAYER CHATTED [  165458225] TotiWebs             (   90.0,     3.3,   121.5)
+  que
+2022-04-24T21:29:21Z: PLAYER CHATTED [  374085370] bigbrotherst         (   78.5,     3.0,   137.7)
+  where u at
+2022-04-24T21:29:22Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.8,     3.0,    57.3)
+  hey
+2022-04-24T21:29:28Z: PLAYER REMOVED [ 1673324118] RDXBOSs12
+2022-04-24T21:29:29Z: PLAYER CHATTED [  408929629] yGhost_PvPYT1        (    3.0,     3.3,    56.9)
+  eae mano
+2022-04-24T21:29:30Z: PLAYER CHATTED [  165458225] TotiWebs             (   91.8,     3.4,   134.0)
+  dijo ay so
+2022-04-24T21:29:34Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.2,     3.0,    56.4)
+  oi
+2022-04-24T21:29:34Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   -0.3,     3.4,   155.7)
+  :DD
+2022-04-24T21:29:38Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (    0.9,     3.4,   154.6)
+  ...
+2022-04-24T21:29:41Z: PLAYER CHATTED [ 1551462839] 2468Omar95212        (   19.5,     3.4,   154.3)
+  ty!
+2022-04-24T21:29:44Z: PLAYER CHATTED [  165458225] TotiWebs             (   91.8,     3.4,   134.0)
+  muchisima casualidad
+2022-04-24T21:29:44Z: PLAYER REMOVED [  817919888] xXNaeee_25Xx
+2022-04-24T21:29:45Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.9,     3.0,    56.8)
+  br kkkkkkk
+2022-04-24T21:29:51Z: PLAYER REMOVED [ 2789763069] Rageryx3
+2022-04-24T21:29:52Z: PLAYER CHATTED [  408929629] yGhost_PvPYT1        (    4.5,     3.3,    59.2)
+  so eu po
+2022-04-24T21:29:54Z: PLAYER CHATTED [ 1608783466] lemonlaxYT           (   25.7,     3.4,    34.8)
+  mmmmm
+2022-04-24T21:29:55Z: PLAYER REMOVED [ 1551462839] 2468Omar95212
+2022-04-24T21:30:01Z: PLAYER CHATTED [  408929629] yGhost_PvPYT1        (    4.5,     3.3,    59.2)
+  aquele cara que tava com skin simples
+2022-04-24T21:30:02Z: PLAYER CHATTED [  165458225] TotiWebs             (  101.9,     3.4,    84.9)
+  dice que la sigamos
+2022-04-24T21:30:03Z: PLAYER CHATTED [ 1798256845] executionIy          (   22.9,     3.3,    32.7)
+  /e dance2
+2022-04-24T21:30:07Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.6,     3.0,    56.8)
+  ahhhhhhhh
+2022-04-24T21:30:09Z: PLAYER ADDED   [ 2248297104] tffdgdzde
+2022-04-24T21:30:14Z: PLAYER CHATTED [  374085370] bigbrotherst         (   43.0,     3.0,    39.9)
+  LOL
+2022-04-24T21:30:16Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.6,     3.0,    56.8)
+  kkkkkkk
+2022-04-24T21:30:24Z: PLAYER CHATTED [  165458225] TotiWebs             (   92.5,     3.4,    50.3)
+  you sing for robux right?
+2022-04-24T21:30:32Z: PLAYER REMOVED [  729220184] XuffX
+2022-04-24T21:30:35Z: PLAYER CHATTED [  165458225] TotiWebs             (   92.8,     3.6,    50.7)
+  que me cante 15 años tenia tu hemrana
+2022-04-24T21:30:43Z: PLAYER CHATTED [  408929629] yGhost_PvPYT1        (    7.5,     3.3,    58.8)
+  só voltei pra te adicioanr
+2022-04-24T21:30:47Z: PLAYER REMOVED [  408929629] yGhost_PvPYT1
+2022-04-24T21:30:48Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   88.8,     3.7,    50.8)
+  una de faraon 
+2022-04-24T21:30:50Z: PLAYER CHATTED [  165458225] TotiWebs             (   92.0,     3.9,    51.3)
+  i don't have robux
+2022-04-24T21:30:52Z: PLAYER CHATTED [  374085370] bigbrotherst         (   45.4,     3.2,    58.6)
+  wha
+2022-04-24T21:30:53Z: PLAYER CHATTED [  165458225] TotiWebs             (   92.0,     3.9,    51.3)
+  i wasted :(
+2022-04-24T21:31:15Z: PLAYER CHATTED [  165458225] TotiWebs             (   92.0,     3.9,    51.3)
+  dice que si le donan 1k hace lo que nosotros queramos
+2022-04-24T21:31:20Z: PLAYER CHATTED [  374085370] bigbrotherst         (   22.0,     3.0,    40.0)
+  ### ##### is to much
+2022-04-24T21:31:21Z: PLAYER ADDED   [  953399073] jrisqt
+2022-04-24T21:31:28Z: PLAYER CHATTED [  165458225] TotiWebs             (   91.0,     3.9,    51.5)
+  XD?
+2022-04-24T21:31:32Z: PLAYER ADDED   [ 1344798585] 2vht
+2022-04-24T21:31:42Z: PLAYER CHATTED [  165458225] TotiWebs             (   89.8,     3.3,    52.0)
+  hagamos que robe otro hijo del viejo
+2022-04-24T21:31:44Z: PLAYER CHATTED [  953399073] jrisqt               (    8.0,     3.7,    39.3)
+  make it 3
+2022-04-24T21:31:45Z: PLAYER REMOVED [ 1344798585] 2vht
+2022-04-24T21:31:47Z: PLAYER CHATTED [  953399073] jrisqt               (    8.0,     3.7,    39.3)
+  and u got a deal
+2022-04-24T21:31:50Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (    3.8,     3.5,    41.7)
+  hey
+2022-04-24T21:31:53Z: PLAYER CHATTED [  165458225] TotiWebs             (   83.2,     3.3,    52.3)
+  XD
+2022-04-24T21:31:57Z: PLAYER ADDED   [  687096769] stormy10146
+2022-04-24T21:32:07Z: PLAYER CHATTED [  165458225] TotiWebs             (   81.2,     3.3,    51.2)
+  onichan reveal
+2022-04-24T21:32:07Z: PLAYER ADDED   [  245645356] ttylersong
+2022-04-24T21:32:11Z: PLAYER ADDED   [  729220184] XuffX
+2022-04-24T21:32:12Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (    3.9,     3.5,    41.7)
+  :/
+2022-04-24T21:32:26Z: PLAYER ADDED   [ 1344798585] 2vht
+2022-04-24T21:32:30Z: PLAYER CHATTED [  165458225] TotiWebs             (   86.7,     3.9,    46.8)
+  ayer me puse el vc y es muy random
+2022-04-24T21:32:34Z: PLAYER REMOVED [  729220184] XuffX
+2022-04-24T21:32:39Z: PLAYER REMOVED [   53163739] BMO43353
+2022-04-24T21:32:40Z: PLAYER CHATTED [  165458225] TotiWebs             (   88.3,     3.9,    49.3)
+  me voy
+2022-04-24T21:32:45Z: PLAYER CHATTED [  165458225] TotiWebs             (   88.9,     3.5,    50.5)
+  roba otro hijo por mi
+2022-04-24T21:32:46Z: PLAYER REMOVED [ 1683758562] Alexsanderk98k
+2022-04-24T21:32:47Z: PLAYER ADDED   [ 1013403725] moystmushroom
+2022-04-24T21:32:52Z: PLAYER CHATTED [  165458225] TotiWebs             (   43.3,     3.3,    38.4)
+  sayonara
+2022-04-24T21:32:57Z: PLAYER ADDED   [ 1366154846] rjejjeryjr2
+2022-04-24T21:33:05Z: PLAYER ADDED   [ 1744961132] AliveBucket
+2022-04-24T21:33:07Z: PLAYER CHATTED [ 1344798585] 2vht                 (    1.5,     3.9,    43.6)
+  yo
+2022-04-24T21:33:09Z: PLAYER ADDED   [  851681467] vmpexl
+2022-04-24T21:33:12Z: PLAYER CHATTED [  165458225] TotiWebs             (   16.3,     3.7,    40.3)
+  repeat it i didn't hear sorry
+2022-04-24T21:33:19Z: PLAYER CHATTED [ 1344798585] 2vht                 (   91.8,     3.9,    51.0)
+  im pooer
+2022-04-24T21:33:19Z: PLAYER REMOVED [ 1366154846] rjejjeryjr2
+2022-04-24T21:33:20Z: PLAYER CHATTED [ 1344798585] 2vht                 (   93.4,     3.8,    52.0)
+  poor
+2022-04-24T21:33:24Z: PLAYER CHATTED [  165458225] TotiWebs             (    9.3,     3.4,    39.8)
+  dice que le donemos
+2022-04-24T21:33:25Z: PLAYER CHATTED [ 1798256845] executionIy          (    7.7,     3.1,    36.4)
+  50
+2022-04-24T21:33:42Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  me llaman el traductor perro
+2022-04-24T21:33:43Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   12.8,     3.9,    40.8)
+  no bobux
+2022-04-24T21:33:46Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  porque soy un traductor
+2022-04-24T21:33:48Z: PLAYER REMOVED [ 2248297104] tffdgdzde
+2022-04-24T21:33:48Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  y siempre perro
+2022-04-24T21:33:58Z: CHRCTER ADDED  [  953399073] jrisqt               (   42.1,     8.5,   114.0)
+2022-04-24T21:34:01Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  bueno me voy
+2022-04-24T21:34:09Z: PLAYER ADDED   [ 1683758562] Alexsanderk98k
+2022-04-24T21:34:17Z: PLAYER ADDED   [ 1948071167] imavilliger9090909
+2022-04-24T21:34:27Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  al que me done se la succiono
+2022-04-24T21:34:44Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  siempre
+2022-04-24T21:34:56Z: PLAYER CHATTED [  165458225] TotiWebs             (   10.3,     3.3,    39.7)
+  bueno me voy
+2022-04-24T21:34:57Z: PLAYER REMOVED [  165458225] TotiWebs
+2022-04-24T21:35:04Z: PLAYER ADDED   [ 1891204834] F4BETAx
+2022-04-24T21:35:41Z: PLAYER CHATTED [ 1344798585] 2vht                 (    5.7,     3.5,    40.9)
+  #### ### # #######
+2022-04-24T21:35:43Z: PLAYER CHATTED [ 1344798585] 2vht                 (    5.7,     3.5,    40.9)
+  what 
+2022-04-24T21:35:43Z: PLAYER CHATTED [ 1344798585] 2vht                 (    5.7,     3.5,    40.9)
+  are
+2022-04-24T21:35:44Z: PLAYER CHATTED [ 1344798585] 2vht                 (    5.7,     3.5,    40.9)
+  you
+2022-04-24T21:35:45Z: PLAYER CHATTED [ 1344798585] 2vht                 (    5.7,     3.5,    40.9)
+  #######
+2022-04-24T21:35:56Z: PLAYER REMOVED [  245645356] ttylersong
+2022-04-24T21:36:06Z: PLAYER REMOVED [ 1891204834] F4BETAx
+2022-04-24T21:36:07Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   52.3,     3.9,    32.2)
+  DONATE?
+2022-04-24T21:36:08Z: PLAYER CHATTED [ 1744961132] AliveBucket          (   15.1,     3.6,    38.7)
+  i already own it?
+2022-04-24T21:36:09Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   52.3,     3.9,    32.2)
+  caps
+2022-04-24T21:36:17Z: PLAYER CHATTED [ 1744961132] AliveBucket          (   12.7,     3.9,    36.9)
+  make another one
+2022-04-24T21:36:18Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   51.4,     3.2,    29.5)
+  to her?
+2022-04-24T21:36:21Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  no
+2022-04-24T21:36:22Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  dont
+2022-04-24T21:36:24Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  do it
+2022-04-24T21:36:25Z: PLAYER REMOVED [ 1344798585] 2vht
+2022-04-24T21:36:25Z: PLAYER CHATTED [  687096769] stormy10146          (   50.0,     2.9,    22.0)
+  WHAT?
+2022-04-24T21:36:26Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   51.6,     3.9,    31.5)
+  u want me to dono to her?
+2022-04-24T21:36:27Z: PLAYER ADDED   [ 1891204834] F4BETAx
+2022-04-24T21:36:30Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   50.5,     3.9,    31.7)
+  i have vc
+2022-04-24T21:36:30Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  she stole my idea
+2022-04-24T21:36:33Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  no come here
+2022-04-24T21:36:33Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   50.5,     3.9,    31.7)
+  i can hear u
+2022-04-24T21:36:34Z: PLAYER CHATTED [  109880579] gn8rly               (   49.8,     3.6,    30.0)
+  come
+2022-04-24T21:36:38Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   50.5,     3.9,    31.7)
+  uh
+2022-04-24T21:36:47Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   91.2,     3.3,    55.1)
+  mhm
+2022-04-24T21:36:47Z: PLAYER ADDED   [ 2248297104] tffdgdzde
+2022-04-24T21:36:51Z: PLAYER REMOVED [ 1891204834] F4BETAx
+2022-04-24T21:36:57Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   67.9,     3.3,    46.3)
+  hm
+2022-04-24T21:37:01Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   67.9,     3.3,    46.3)
+  mk
+2022-04-24T21:37:16Z: PLAYER ADDED   [ 1188388075] EnlightedVibez
+2022-04-24T21:37:18Z: PLAYER REMOVED [ 1188388075] EnlightedVibez
+2022-04-24T21:37:18Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   70.2,     3.3,    45.8)
+  uh
+2022-04-24T21:37:22Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   70.2,     3.3,    45.8)
+  Hmm
+2022-04-24T21:37:28Z: PLAYER CHATTED [  851681467] vmpexl               (   45.8,     2.7,    22.0)
+  amazing
+2022-04-24T21:37:28Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   73.9,     3.3,    51.4)
+  ik
+2022-04-24T21:37:34Z: PLAYER CHATTED [  687096769] stormy10146          (   50.0,     2.9,    22.0)
+  TYSMMM
+2022-04-24T21:37:34Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   74.8,     3.3,    50.4)
+  idk i need to save
+2022-04-24T21:37:38Z: PLAYER CHATTED [  109880579] gn8rly               (   80.7,     3.0,    51.9)
+  pls
+2022-04-24T21:37:41Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   74.9,     3.3,    52.1)
+  Hmm
+2022-04-24T21:37:48Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   74.9,     3.3,    52.1)
+  give me like 20 mins
+2022-04-24T21:37:56Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (  -22.0,     3.0,   125.8)
+  hey
+2022-04-24T21:38:02Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   74.9,     3.3,    52.1)
+  No
+2022-04-24T21:38:10Z: PLAYER REMOVED [  953399073] jrisqt
+2022-04-24T21:38:13Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   30.8,     3.3,    54.4)
+  :|
+2022-04-24T21:38:21Z: PLAYER ADDED   [ 1317512399] C_iiSofxii
+2022-04-24T21:38:22Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   30.8,     3.3,    54.4)
+  im not donating today
+2022-04-24T21:38:23Z: PLAYER ADDED   [ 2749489288] insanegamer430
+2022-04-24T21:38:26Z: PLAYER CHATTED [ 1948071167] imavilliger9090909   (   30.8,     3.3,    54.4)
+  but ill think about it
+2022-04-24T21:38:39Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (   -0.0,     3.0,   152.4)
+  hey
+2022-04-24T21:38:40Z: PLAYER REMOVED [ 1317512399] C_iiSofxii
+2022-04-24T21:38:47Z: PLAYER CHATTED [ 2749489288] insanegamer430       (   37.4,     3.6,   110.9)
+  hold on
+2022-04-24T21:38:49Z: PLAYER CHATTED [ 1545046882] The_BenjaGT          (   11.4,     3.6,    39.4)
+  ok
+2022-04-24T21:38:50Z: PLAYER CHATTED [  948899400] lIlIlIIlIlllIII      (   14.1,     3.7,    41.1)
+  XD
+2022-04-24T21:38:52Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (    4.1,     3.0,   158.8)
+  can you help me? 
+2022-04-24T21:38:59Z: PLAYER ADDED   [ 1576970233] BLOBGUMPER
+2022-04-24T21:39:02Z: PLAYER CHATTED [ 1683758562] Alexsanderk98k       (    4.1,     3.0,   158.8)
+  ok sorry
+2022-04-24T21:39:11Z: PLAYER ADDED   [ 1016550243] adam_corley24
+2022-04-24T21:39:13Z: PLAYER CHATTED [  948899400] lIlIlIIlIlllIII      (   14.5,     3.5,    38.4)
+  afk

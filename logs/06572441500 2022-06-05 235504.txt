@@ -1,0 +1,399 @@
+[    1630228] : [ 6572441500] t v o kids role play for - 33152a6d-8b13-4260-88fd-db33c5d2b31f
+2022-06-05T23:55:04Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-05T23:55:04Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-05T23:55:04Z: PLAYER ADDED   [ 2538919186] daniel_baiav
+2022-06-05T23:55:04Z: PLAYER ADDED   [ 1328355150] davitalo_simoesraupp
+2022-06-05T23:55:04Z: PLAYER ADDED   [ 2046507765] Carsons721
+2022-06-05T23:55:04Z: PLAYER ADDED   [ 3533273204] guh1256fv
+2022-06-05T23:55:04Z: PLAYER ADDED   [ 1613069571] patrocaleo
+2022-06-05T23:55:17Z: PLAYER REMOVED [ 1328355150] davitalo_simoesraupp
+2022-06-05T23:55:35Z: PLAYER CHATTED [ 2046507765] Carsons721           (   25.5,     3.8,    69.6)
+  ###### q
+2022-06-05T23:55:36Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (   25.5,     3.9,    73.1)
+2022-06-05T23:55:36Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   25.5,     3.9,    73.1)
+  ;re
+2022-06-05T23:55:42Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   11.7,     4.0,    75.9)
+  ;btools
+2022-06-05T23:55:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.6,     4.0,    69.5)
+  Hi Carsons!
+2022-06-05T23:56:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   20.6,     4.0,    76.2)
+  Hi Guh!
+2022-06-05T23:56:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   21.2,     4.0,    79.5)
+  Hi Daniel!
+2022-06-05T23:56:24Z: PLAYER CHATTED [ 3533273204] guh1256fv            (   25.3,     3.8,    75.9)
+  hi Visual
+2022-06-05T23:56:26Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    9.7,     3.4,    24.5)
+2022-06-05T23:56:32Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   14.7,     4.0,    73.3)
+  ;name me forde
+2022-06-05T23:56:41Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   14.7,     4.0,    73.3)
+  ;name me force
+2022-06-05T23:56:47Z: PLAYER CHATTED [ 3533273204] guh1256fv            (   25.5,     3.8,    75.1)
+  ######################
+2022-06-05T23:56:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   10.9,     3.4,    23.3)
+2022-06-05T23:57:12Z: PLAYER REMOVED [ 3533273204] guh1256fv
+2022-06-05T23:57:56Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   20.7,     4.0,    96.6)
+  pase
+2022-06-05T23:58:03Z: PLAYER ADDED   [ 2459600571] TheBigO74
+2022-06-05T23:58:05Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   20.7,     4.0,    96.6)
+  PAUSE
+2022-06-05T23:58:07Z: PLAYER REMOVED [ 2538919186] daniel_baiav
+2022-06-05T23:58:13Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   15.5,     4.0,    87.7)
+  REPAUSE
+2022-06-05T23:58:23Z: PLAYER REMOVED [ 2046507765] Carsons721
+2022-06-05T23:58:33Z: PLAYER ADDED   [ 2046507765] Carsons721
+2022-06-05T23:58:45Z: PLAYER REMOVED [ 2459600571] TheBigO74
+2022-06-05T23:59:30Z: CHRCTER ADDED  [ 2046507765] Carsons721           (   25.4,     3.9,    69.7)
+2022-06-05T23:59:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   10.9,     3.4,    23.2)
+2022-06-05T23:59:31Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (   11.0,     3.0,    -3.0)
+2022-06-05T23:59:31Z: PLAYER CHATTED [ 2046507765] Carsons721           (   25.4,     3.9,    69.7)
+  ;re all
+2022-06-05T23:59:45Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   12.2,     3.0,    -5.4)
+  ;buildingtools
+2022-06-06T00:00:21Z: PLAYER CHATTED [ 2046507765] Carsons721           (   25.2,     3.0,     4.8)
+  ;btools 
+2022-06-06T00:00:31Z: CHRCTER ADDED  [ 2046507765] Carsons721           (   25.2,     3.0,     4.8)
+2022-06-06T00:00:31Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   10.9,     3.4,    23.2)
+2022-06-06T00:00:31Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (   19.5,     3.0,    -0.6)
+2022-06-06T00:00:31Z: PLAYER CHATTED [ 2046507765] Carsons721           (   25.2,     3.0,     4.8)
+  ;re all
+2022-06-06T00:00:33Z: PLAYER ADDED   [ 2821028099] TheSkecthy_Bacon
+2022-06-06T00:00:40Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   23.5,     3.0,     6.7)
+  ;btools
+2022-06-06T00:00:48Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (    5.8,     3.4,    25.0)
+  ;fly
+2022-06-06T00:00:54Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   15.2,     3.1,    36.2)
+  ;btools
+2022-06-06T00:01:32Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -21.2,    10.9,    67.4)
+  ;n oh no, the chair is broken :(
+2022-06-06T00:01:42Z: PLAYER CHATTED [ 2046507765] Carsons721           (   14.4,     4.0,    50.0)
+  ;btools 
+2022-06-06T00:01:45Z: CHRCTER ADDED  [ 2821028099] TheSkecthy_Bacon     (   -4.9,    12.1,    -0.8)
+2022-06-06T00:01:45Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   -4.9,    12.1,    -0.8)
+  ;re me
+2022-06-06T00:01:51Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   -7.0,     6.6,    -1.8)
+  ;unfly
+2022-06-06T00:01:56Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   -7.0,     3.0,    -1.8)
+  ;btools
+2022-06-06T00:02:06Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (    5.5,     3.0,     4.4)
+  ;speed me 60
+2022-06-06T00:02:14Z: CHRCTER ADDED  [ 2046507765] Carsons721           (    9.7,     3.4,    28.0)
+2022-06-06T00:02:17Z: PLAYER CHATTED [ 1613069571] patrocaleo           (    4.4,     4.0,    50.6)
+  oh no is broked
+2022-06-06T00:02:36Z: PLAYER CHATTED [ 2046507765] Carsons721           (   14.1,     4.0,    59.7)
+  I want to play Blue and glass
+2022-06-06T00:03:19Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   27.6,     4.0,    63.4)
+  ;fly
+2022-06-06T00:03:23Z: PLAYER CHATTED [ 2046507765] Carsons721           (   14.1,     4.0,    59.7)
+  ;btools 
+2022-06-06T00:04:00Z: PLAYER CHATTED [ 2046507765] Carsons721           (   -1.9,     3.0,    48.3)
+  I want to be blue and glass
+2022-06-06T00:04:55Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (    1.1,    45.4,    19.7)
+  ;unfly
+2022-06-06T00:05:23Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (    1.4,     3.0,    17.3)
+  ;fire me ;sit me ;spin me 100
+2022-06-06T00:05:29Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (   17.7,     1.1,  -198.1)
+  ;fly
+2022-06-06T00:06:18Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -20.2,    21.2,   -46.5)
+  ;unfly me
+2022-06-06T00:06:45Z: CHRCTER ADDED  [ 2821028099] TheSkecthy_Bacon     (  -24.2,     3.0,   -31.2)
+2022-06-06T00:06:45Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -24.2,     3.0,   -31.2)
+  ;re me
+2022-06-06T00:06:47Z: PLAYER REMOVED [ 2046507765] Carsons721
+2022-06-06T00:06:49Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -24.1,     3.0,   -30.1)
+  ;btools
+2022-06-06T00:07:08Z: PLAYER ADDED   [ 2570101662] RODRIGOCASTELS
+2022-06-06T00:07:09Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -14.3,     3.0,   -19.2)
+  ;speed me 70
+2022-06-06T00:07:23Z: PLAYER ADDED   [ 2046507765] Carsons721
+2022-06-06T00:07:38Z: PLAYER REMOVED [ 2570101662] RODRIGOCASTELS
+2022-06-06T00:07:58Z: PLAYER CHATTED [ 2046507765] Carsons721           (    4.0,     4.5,    25.2)
+  ;btools 
+2022-06-06T00:09:17Z: PLAYER ADDED   [ 3533273204] guh1256fv
+2022-06-06T00:09:26Z: PLAYER CHATTED [ 2821028099] TheSkecthy_Bacon     (  -34.2,    14.5,   -13.7)
+  ;speed me 50
+2022-06-06T00:09:30Z: PLAYER REMOVED [ 2821028099] TheSkecthy_Bacon
+2022-06-06T00:10:04Z: CHRCTER ADDED  [ 3533273204] guh1256fv            (   11.9,     3.4,    30.2)
+2022-06-06T00:10:24Z: CHRCTER ADDED  [ 3533273204] guh1256fv            (    4.5,     3.4,    25.2)
+2022-06-06T00:10:53Z: CHRCTER ADDED  [ 3533273204] guh1256fv            (    4.7,     3.4,    20.8)
+2022-06-06T00:11:27Z: PLAYER ADDED   [ 3202181225] Imcoolyournot952
+2022-06-06T00:11:55Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    4.0,     3.0,    -5.7)
+  ;btools
+2022-06-06T00:12:18Z: PLAYER REMOVED [ 3533273204] guh1256fv
+2022-06-06T00:12:40Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -23.4,     3.0,    -2.2)
+  ;invisible
+2022-06-06T00:13:22Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -46.0,     3.0,   -18.5)
+  Not me
+2022-06-06T00:13:27Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -43.8,     3.0,    -9.1)
+  ;re all
+2022-06-06T00:13:27Z: CHRCTER ADDED  [ 3202181225] Imcoolyournot952     (  -50.0,     3.0,   -13.6)
+2022-06-06T00:13:27Z: CHRCTER ADDED  [ 2046507765] Carsons721           (  -19.1,    37.7,    17.3)
+2022-06-06T00:13:27Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   11.0,     4.5,    23.3)
+2022-06-06T00:13:27Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (  -43.8,     3.0,    -9.1)
+2022-06-06T00:13:34Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -43.8,     3.0,    -9.1)
+  ;btools
+2022-06-06T00:13:39Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -49.9,     3.0,   -12.6)
+  ;fling p ;mute p
+2022-06-06T00:13:46Z: PLAYER REMOVED [ 1613069571] patrocaleo
+2022-06-06T00:13:50Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -34.0,     3.0,    -2.0)
+  ;btools
+2022-06-06T00:13:52Z: CHRCTER ADDED  [ 2046507765] Carsons721           (   11.1,     3.4,    21.9)
+2022-06-06T00:13:53Z: PLAYER ADDED   [ 1613069571] patrocaleo
+2022-06-06T00:14:08Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (    8.7,     3.4,    21.0)
+2022-06-06T00:14:11Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -31.0,     3.0,    -0.6)
+  ;alert all winter is coming
+2022-06-06T00:14:12Z: PLAYER CHATTED [ 2046507765] Carsons721           (    1.0,     3.0,     9.3)
+  ;btools 
+2022-06-06T00:14:31Z: PLAYER CHATTED [ 1613069571] patrocaleo           (    8.7,     4.5,    20.9)
+  ;mute Imcool
+2022-06-06T00:14:35Z: PLAYER REMOVED [ 3202181225] Imcoolyournot952
+2022-06-06T00:14:37Z: PLAYER ADDED   [ 3202181225] Imcoolyournot952
+2022-06-06T00:14:42Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -2.1,     3.0,    11.4)
+  ;loadmap
+2022-06-06T00:15:00Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -5.1,     3.4,    13.0)
+  ;unmute Imcool
+2022-06-06T00:15:01Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    9.5,     3.4,    30.3)
+  ;crash p ;slock
+2022-06-06T00:15:02Z: PLAYER CHATTED [ 2046507765] Carsons721           (    6.6,     3.0,   -10.2)
+  Lego to coconut tree
+2022-06-06T00:15:17Z: PLAYER REMOVED [ 1613069571] patrocaleo
+2022-06-06T00:15:23Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -17.2,     3.0,    25.3)
+  ;btools
+2022-06-06T00:15:43Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -33.1,     3.0,    10.0)
+  Winter is here
+2022-06-06T00:17:08Z: PLAYER CHATTED [ 2046507765] Carsons721           (    0.2,     3.5,    46.6)
+  Let's Make a Snowman
+2022-06-06T00:18:52Z: PLAYER ADDED   [ 3454317316] liamitani2017
+2022-06-06T00:18:53Z: PLAYER REMOVED [ 3454317316] liamitani2017
+2022-06-06T00:19:15Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   12.4,     3.5,     4.3)
+  *screen shots it*
+2022-06-06T00:19:34Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    4.4,     3.5,    -1.7)
+  Its cold in winter
+2022-06-06T00:20:15Z: PLAYER ADDED   [ 1613069571] patrocaleo
+2022-06-06T00:20:19Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -1.6,     4.4,    68.6)
+  GUYS Look 
+2022-06-06T00:20:19Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (    4.7,     3.4,    26.3)
+2022-06-06T00:20:25Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -3.2,     4.4,    67.9)
+  A años all
+2022-06-06T00:20:32Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -3.2,     4.4,    67.9)
+  A snowball
+2022-06-06T00:20:46Z: PLAYER CHATTED [ 1613069571] patrocaleo           (    9.6,     4.4,   -10.2)
+  woow
+2022-06-06T00:20:55Z: PLAYER ADDED   [ 3600702449] guhguh_2
+2022-06-06T00:20:57Z: PLAYER REMOVED [ 3600702449] guhguh_2
+2022-06-06T00:21:11Z: CHRCTER ADDED  [ 2046507765] Carsons721           (    5.8,     3.4,    22.1)
+2022-06-06T00:21:17Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -54.0,     3.0,    26.1)
+  ;btoo.s
+2022-06-06T00:21:22Z: PLAYER CHATTED [ 2046507765] Carsons721           (   34.1,     3.0,     7.7)
+  ;btools 
+2022-06-06T00:21:25Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -68.9,     3.0,    38.1)
+  ;buildingtools
+2022-06-06T00:21:28Z: PLAYER ADDED   [ 3600702449] guhguh_2
+2022-06-06T00:21:30Z: PLAYER REMOVED [ 3600702449] guhguh_2
+2022-06-06T00:22:08Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -60.5,     3.0,    55.2)
+  big ball
+2022-06-06T00:22:21Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -78.8,     3.0,   126.8)
+  WHAIT
+2022-06-06T00:23:08Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -39.8,     3.0,    18.5)
+  ;alert all summer coming
+2022-06-06T00:23:30Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -9.4,     3.0,    22.9)
+  woow is big ball
+2022-06-06T00:23:43Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -22.1,     3.0,    41.8)
+  Winter is now Water
+2022-06-06T00:24:00Z: PLAYER ADDED   [  833776523] angelboyfbi
+2022-06-06T00:24:01Z: PLAYER REMOVED [  833776523] angelboyfbi
+2022-06-06T00:24:28Z: PLAYER REMOVED [ 2046507765] Carsons721
+2022-06-06T00:25:04Z: PLAYER ADDED   [ 1962213688] Cjlionguard
+2022-06-06T00:25:05Z: PLAYER REMOVED [ 1962213688] Cjlionguard
+2022-06-06T00:25:25Z: PLAYER ADDED   [ 1962213688] Cjlionguard
+2022-06-06T00:25:26Z: PLAYER REMOVED [ 1962213688] Cjlionguard
+2022-06-06T00:25:41Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   10.2,     4.0,   -45.9)
+  ;u Analí k
+2022-06-06T00:25:48Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   10.2,     4.0,   -45.9)
+  ;unslock 
+2022-06-06T00:26:24Z: PLAYER ADDED   [ 2046507765] Carsons721
+2022-06-06T00:26:31Z: PLAYER ADDED   [ 3600702449] guhguh_2
+2022-06-06T00:26:38Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    8.6,     4.0,  -220.6)
+  ;time 10
+2022-06-06T00:26:44Z: PLAYER ADDED   [ 1787980236] Questionable_Aiden
+2022-06-06T00:26:49Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    2.3,     4.0,  -204.8)
+  ;time 7
+2022-06-06T00:26:58Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    2.3,     4.0,  -204.8)
+  ;time 4
+2022-06-06T00:27:06Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    2.3,     4.0,  -204.8)
+  ##### #
+2022-06-06T00:27:18Z: CHRCTER ADDED  [ 3600702449] guhguh_2             (   12.1,     3.4,    20.4)
+2022-06-06T00:27:18Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (    2.3,     4.0,  -204.8)
+  ;time 12
+2022-06-06T00:27:26Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -7.0,     4.0,  -223.9)
+  ;time 00
+2022-06-06T00:27:32Z: PLAYER ADDED   [ 2780431223] LostandLearn
+2022-06-06T00:27:35Z: PLAYER REMOVED [ 1787980236] Questionable_Aiden
+2022-06-06T00:27:35Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -7.0,     4.0,  -223.9)
+  ;time 10
+2022-06-06T00:27:45Z: PLAYER ADDED   [ 1787980236] Questionable_Aiden
+2022-06-06T00:28:07Z: PLAYER CHATTED [ 2780431223] LostandLearn         (  -68.1,     4.0,    50.0)
+  what is even the point of the game?
+2022-06-06T00:28:09Z: PLAYER CHATTED [ 2780431223] LostandLearn         (  -74.2,     4.0,    21.4)
+  ;fly
+2022-06-06T00:28:36Z: PLAYER REMOVED [ 2780431223] LostandLearn
+2022-06-06T00:28:40Z: PLAYER CHATTED [ 3600702449] guhguh_2             (   20.3,     4.0,    68.5)
+  ;fly
+2022-06-06T00:28:48Z: PLAYER ADDED   [ 3048715719] Jadenjt2014
+2022-06-06T00:29:00Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -20.9,     4.0,  -219.0)
+  What
+2022-06-06T00:29:16Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   10.6,     4.5,  -209.7)
+  ;sit
+2022-06-06T00:29:49Z: PLAYER REMOVED [ 3600702449] guhguh_2
+2022-06-06T00:30:38Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -27.3,     4.0,  -211.5)
+  ;time 5
+2022-06-06T00:30:39Z: PLAYER REMOVED [ 3048715719] Jadenjt2014
+2022-06-06T00:30:44Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -3.4,     4.0,   -73.5)
+  ;time 0
+2022-06-06T00:30:51Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -3.4,     4.0,   -73.5)
+  ;time 17
+2022-06-06T00:30:52Z: PLAYER ADDED   [ 3424998917] Twingry
+2022-06-06T00:30:57Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -26.1,     4.0,  -210.0)
+  ;time 17
+2022-06-06T00:31:01Z: PLAYER REMOVED [ 1787980236] Questionable_Aiden
+2022-06-06T00:31:05Z: PLAYER CHATTED [ 2046507765] Carsons721           (   30.7,     4.0,    -7.1)
+  ;btools 
+2022-06-06T00:31:11Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   -1.1,     4.0,  -176.0)
+  ;fly
+2022-06-06T00:31:31Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  258.9,   124.8,   204.4)
+  ;time 7
+2022-06-06T00:31:32Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   23.5,     4.0,  -162.5)
+  ;time 19
+2022-06-06T00:31:40Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  258.9,   124.8,   204.4)
+  ;time 19
+2022-06-06T00:32:46Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  258.9,   124.8,   204.4)
+  ;time  23
+2022-06-06T00:32:59Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  258.9,   124.8,   204.4)
+  ;time 0
+2022-06-06T00:33:01Z: PLAYER ADDED   [ 3467134789] rosarosa085
+2022-06-06T00:33:07Z: PLAYER REMOVED [ 3424998917] Twingry
+2022-06-06T00:33:08Z: PLAYER ADDED   [ 3600702449] guhguh_2
+2022-06-06T00:33:08Z: PLAYER ADDED   [ 3424998917] Twingry
+2022-06-06T00:33:09Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.1,     4.0,  -188.2)
+  woow is neptu e
+2022-06-06T00:33:15Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.1,     4.0,  -188.2)
+  Netuno e
+2022-06-06T00:33:26Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.1,     4.0,  -188.2)
+  Neptune
+2022-06-06T00:33:37Z: PLAYER REMOVED [ 2046507765] Carsons721
+2022-06-06T00:33:39Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (   -4.1,     4.0,  -188.2)
+2022-06-06T00:33:39Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.1,     4.0,  -188.2)
+  ;re
+2022-06-06T00:33:48Z: PLAYER REMOVED [ 3424998917] Twingry
+2022-06-06T00:33:49Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -25.0,     4.0,  -183.7)
+  neptune
+2022-06-06T00:33:54Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -25.0,     4.0,  -183.7)
+  ;btools
+2022-06-06T00:33:57Z: PLAYER REMOVED [ 3467134789] rosarosa085
+2022-06-06T00:34:16Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (   98.6,    18.2,   -45.1)
+  ;MR URANUS IS COMING TO COLÍDE WITH EARTH
+2022-06-06T00:34:31Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.3,     4.0,  -113.7)
+  oh no
+2022-06-06T00:34:35Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.3,     4.0,  -113.7)
+  oh no
+2022-06-06T00:34:36Z: PLAYER CHATTED [ 3600702449] guhguh_2             (    5.6,     4.0,    37.7)
+  oh no
+2022-06-06T00:34:41Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.3,     4.0,  -113.7)
+  ############
+2022-06-06T00:34:56Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.3,     4.0,  -113.7)
+  OH NO OH NO OH NONONONONO
+2022-06-06T00:35:05Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( -184.2,    23.6,    87.3)
+  ;m f
+2022-06-06T00:35:16Z: PLAYER REMOVED [ 3600702449] guhguh_2
+2022-06-06T00:35:17Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( -184.2,    23.6,    87.3)
+  ;m but never colíder
+2022-06-06T00:35:26Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( -184.2,    23.6,    87.3)
+  ;EXPLODE ALL
+2022-06-06T00:35:26Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -4.3,     4.0,  -113.7)
+  ;fly
+2022-06-06T00:35:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   13.0,     3.4,    30.1)
+2022-06-06T00:35:29Z: CHRCTER ADDED  [ 3202181225] Imcoolyournot952     (   10.0,     3.4,    21.2)
+2022-06-06T00:35:29Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (   11.0,     3.4,    23.5)
+2022-06-06T00:35:37Z: PLAYER CHATTED [ 1613069571] patrocaleo           ( -135.2,   135.1,    -6.9)
+  ;btools
+2022-06-06T00:35:58Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -21.3,    14.3,     9.2)
+  ;m NOW IS COMING MARS
+2022-06-06T00:36:07Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  -21.3,    14.3,     9.2)
+  ;btools
+2022-06-06T00:36:13Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -10.9,  1186.2,   350.2)
+  ;unfly
+2022-06-06T00:36:24Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -10.9,     4.0,   350.2)
+  mart
+2022-06-06T00:36:30Z: PLAYER ADDED   [ 3424998917] Twingry
+2022-06-06T00:36:43Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -2.0,     4.0,   302.0)
+  ;time 3
+2022-06-06T00:36:43Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  290.6,    61.7,    59.8)
+  ;time y p
+2022-06-06T00:36:50Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  290.6,    61.7,    59.8)
+  ;time 10
+2022-06-06T00:37:03Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     (  420.4,    93.4,    73.2)
+  ;fly me  1000
+2022-06-06T00:37:10Z: CHRCTER ADDED  [ 3202181225] Imcoolyournot952     (    7.3,     3.4,    26.2)
+2022-06-06T00:37:16Z: PLAYER ADDED   [ 3376890662] Sjwquicktough
+2022-06-06T00:37:48Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 3999.9,  8078.4, -1139.9)
+  ;btools
+2022-06-06T00:37:52Z: PLAYER CHATTED [ 3376890662] Sjwquicktough        (    6.5,     4.0,    46.6)
+  ;become everyones father
+2022-06-06T00:37:54Z: PLAYER REMOVED [ 3376890662] Sjwquicktough
+2022-06-06T00:38:13Z: PLAYER REMOVED [ 3424998917] Twingry
+2022-06-06T00:38:43Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4335.7,  9304.9, -2671.1)
+  ;unfly
+2022-06-06T00:38:49Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   -0.4,     4.0,   282.3)
+  woow is mart
+2022-06-06T00:38:54Z: PLAYER ADDED   [ 3292168946] lynkin1001
+2022-06-06T00:39:21Z: PLAYER CHATTED [ 3292168946] lynkin1001           (   54.6,     4.0,   -12.6)
+  !fly
+2022-06-06T00:39:32Z: PLAYER ADDED   [ 3591909564] Brandonandbill6350
+2022-06-06T00:39:52Z: PLAYER REMOVED [ 3292168946] lynkin1001
+2022-06-06T00:39:55Z: PLAYER ADDED   [ 3292168946] lynkin1001
+2022-06-06T00:40:27Z: PLAYER REMOVED [ 3591909564] Brandonandbill6350
+2022-06-06T00:40:57Z: PLAYER CHATTED [ 1613069571] patrocaleo           (   77.6,     4.0,   210.4)
+  mercule
+2022-06-06T00:40:57Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4361.1,  8651.7, -2672.1)
+  ;bring all
+2022-06-06T00:41:30Z: PLAYER REMOVED [ 3292168946] lynkin1001
+2022-06-06T00:41:33Z: PLAYER ADDED   [ 3419368683] jathiel02
+2022-06-06T00:41:33Z: PLAYER ADDED   [ 3292168946] lynkin1001
+2022-06-06T00:41:37Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4335.7,  8651.7, -2692.6)
+  Poop apocalipsis
+2022-06-06T00:42:01Z: PLAYER CHATTED [ 3419368683] jathiel02            ( 4363.0,  8651.7, -2672.0)
+  ;to V
+2022-06-06T00:42:06Z: PLAYER ADDED   [ 1673073074] 33bambam3
+2022-06-06T00:42:20Z: PLAYER CHATTED [ 1673073074] 33bambam3            (   12.8,     4.0,    22.7)
+  wow
+2022-06-06T00:42:23Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4367.4,  8651.7, -2697.0)
+  No its GLITCH
+2022-06-06T00:42:33Z: PLAYER CHATTED [ 1613069571] patrocaleo           ( 4370.3,  8651.7, -2674.7)
+  let's play make a sun ####### Vênus marth sartune Júpiter uranus and neptune
+2022-06-06T00:42:34Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4357.1,  8651.7, -2678.8)
+  ;color j black
+2022-06-06T00:42:43Z: PLAYER CHATTED [ 3202181225] Imcoolyournot952     ( 4357.1,  8651.7, -2678.8)
+  ;say j HAHAHAHA
+2022-06-06T00:42:47Z: PLAYER CHATTED [ 1673073074] 33bambam3            (   -6.4,     4.0,   -86.7)
+  ;to pk
+2022-06-06T00:42:53Z: PLAYER CHATTED [ 1673073074] 33bambam3            (   -6.4,     4.0,   -86.7)
+  ;to lm
+2022-06-06T00:43:01Z: PLAYER CHATTED [ 1673073074] 33bambam3            ( 4365.9,  4776.3, -2687.6)
+  ;to pa
+2022-06-06T00:43:05Z: PLAYER CHATTED [ 1613069571] patrocaleo          
+  jo
+2022-06-06T00:43:06Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   11.4,     3.4,    22.9)
+2022-06-06T00:43:07Z: CHRCTER ADDED  [ 3202181225] Imcoolyournot952     (   13.8,     3.4,    21.0)
+2022-06-06T00:43:07Z: CHRCTER ADDED  [ 3419368683] jathiel02            (   12.9,     3.4,    30.2)
+2022-06-06T00:43:08Z: CHRCTER ADDED  [ 1613069571] patrocaleo           (    9.7,     3.4,    30.0)
+2022-06-06T00:43:08Z: PLAYER CHATTED [ 3419368683] jathiel02            (   12.9,     4.0,    30.2)
+  ;to pa
+2022-06-06T00:43:12Z: CHRCTER ADDED  [ 1673073074] 33bambam3            (   11.5,     3.4,    28.9)
+2022-06-06T00:43:13Z: PLAYER CHATTED [ 1613069571] patrocaleo           (    8.6,     4.0,    29.1)
+  no
+2022-06-06T00:43:17Z: PLAYER CHATTED [ 3419368683] jathiel02            (    9.9,     4.0,    46.0)
+  ;fly
+2022-06-06T00:43:20Z: PLAYER CHATTED [ 1613069571] patrocaleo           (  -27.0,     4.0,   -14.3)
+  STOP
+2022-06-06T00:43:41Z: CHRCTER ADDED  [ 3419368683] jathiel02            (    6.5,     3.7,    29.2)
+2022-06-06T00:43:41Z: PLAYER CHATTED [ 3419368683] jathiel02            (    6.5,     3.7,    29.2)
+  ;res ;unfly

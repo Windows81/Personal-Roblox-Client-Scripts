@@ -1,0 +1,940 @@
+[    1630228] : [ 8395560237] ⛔FREE OWNER ADMIN [Ban, kick, Btools] - 17ee3ac5-adf9-41bc-b513-4795abe1bef8
+2022-06-18T21:07:24Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-06-18T21:07:24Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 2228966355] jman46789
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 2494145987] Zzipjj
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 1677950203] mmbnjw2
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 3291339451] space_lover326
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 3612019866] asasaasasasasad1
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 3436364252] yuyuuusuuu
+2022-06-18T21:07:24Z: PLAYER ADDED   [ 2490062210] dizzymizzyJ123
+2022-06-18T21:07:28Z: PLAYER CHATTED [ 3436364252] yuyuuusuuu           (  214.6,   278.3,  -167.4)
+  security
+2022-06-18T21:07:33Z: PLAYER ADDED   [ 3543486767] Zanikualo125
+2022-06-18T21:07:34Z: PLAYER CHATTED [ 2494145987] Zzipjj               (  224.8,   336.1,  -243.4)
+  ;m plz guys staff me
+2022-06-18T21:07:44Z: PLAYER CHATTED [ 3436364252] yuyuuusuuu           (  218.7,   278.3,  -164.5)
+  hi fares
+2022-06-18T21:07:45Z: PLAYER CHATTED [ 3543486767] Zanikualo125         (  218.3,   278.6,  -162.5)
+  ;m no
+2022-06-18T21:07:50Z: PLAYER CHATTED [ 3543486767] Zanikualo125         (  218.3,   278.6,  -162.5)
+  Hi
+2022-06-18T21:07:52Z: PLAYER CHATTED [ 2494145987] Zzipjj               (  215.8,   340.1,  -261.1)
+  ;m why
+2022-06-18T21:07:54Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  214.5,   278.6,  -167.5)
+  hello friend
+2022-06-18T21:08:06Z: PLAYER CHATTED [ 3543486767] Zanikualo125         (  218.3,   278.6,  -162.5)
+  ;kick z
+2022-06-18T21:08:07Z: PLAYER REMOVED [ 2494145987] Zzipjj
+2022-06-18T21:08:13Z: PLAYER CHATTED [ 3543486767] Zanikualo125         (  218.3,   278.6,  -162.5)
+  Hello
+2022-06-18T21:08:18Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  215.2,   278.8,  -164.7)
+  hello
+2022-06-18T21:08:22Z: PLAYER CHATTED [ 3543486767] Zanikualo125         (  218.2,   278.6,  -162.4)
+  ;kick s
+2022-06-18T21:08:23Z: PLAYER REMOVED [ 3291339451] space_lover326
+2022-06-18T21:08:26Z: PLAYER ADDED   [ 3597050511] NickLuis200_alt
+2022-06-18T21:08:31Z: PLAYER CHATTED [ 2490062210] dizzymizzyJ123       (  213.2,   279.1,  -158.6)
+  ;btools
+2022-06-18T21:08:33Z: PLAYER REMOVED [ 3543486767] Zanikualo125
+2022-06-18T21:08:36Z: PLAYER CHATTED [ 2228966355] jman46789            (  214.4,   278.1,  -162.2)
+  Brat
+2022-06-18T21:08:38Z: PLAYER ADDED   [  691635668] VicDeth
+2022-06-18T21:08:38Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  222.1,   278.2,  -164.6)
+  ;admins
+2022-06-18T21:08:40Z: PLAYER CHATTED [ 3436364252] yuyuuusuuu           (  219.9,   277.8,  -163.1)
+  1logs
+2022-06-18T21:08:48Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  222.2,   278.0,  -160.8)
+  ;cmdbar2
+2022-06-18T21:09:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  242.5,   275.7,  -172.8)
+  ¡Welcome!
+2022-06-18T21:09:06Z: PLAYER CHATTED [  691635668] VicDeth              (  245.8,   275.0,  -170.8)
+  hi!
+2022-06-18T21:09:10Z: PLAYER CHATTED [ 3436364252] yuyuuusuuu           (  219.9,   277.8,  -163.1)
+  1uncmdbar2 Nick
+2022-06-18T21:09:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  242.5,   275.7,  -172.8)
+  It's called '¡hi!
+2022-06-18T21:09:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  242.5,   275.7,  -172.8)
+  ¡Hi!
+2022-06-18T21:09:18Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  237.0,   275.4,  -171.7)
+  /e ########
+2022-06-18T21:09:23Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  261.8,   275.4,  -152.5)
+  WHY DO U ALWAYS DO THAT
+2022-06-18T21:09:30Z: PLAYER CHATTED [  691635668] VicDeth              (  245.8,   275.0,  -170.8)
+  Hi!
+2022-06-18T21:09:33Z: PLAYER CHATTED [ 2490062210] dizzymizzyJ123       (  235.0,   338.0,  -244.4)
+  ;m no
+2022-06-18T21:09:34Z: PLAYER CHATTED [ 3436364252] yuyuuusuuu           (  250.7,   275.0,  -183.8)
+  1admins
+2022-06-18T21:09:36Z: PLAYER CHATTED [  691635668] VicDeth              (  245.8,   275.0,  -170.8)
+  Welcome
+2022-06-18T21:09:41Z: PLAYER CHATTED [  691635668] VicDeth              (  245.8,   275.0,  -170.8)
+  Bienvenido
+2022-06-18T21:09:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  242.3,   275.7,  -173.0)
+  ¡Wélcome!
+2022-06-18T21:09:46Z: PLAYER REMOVED [ 3436364252] yuyuuusuuu
+2022-06-18T21:09:46Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  253.4,   275.4,  -183.0)
+  ;cmdbar
+2022-06-18T21:09:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  242.3,   275.7,  -173.0)
+  Biyen veneedoe.
+2022-06-18T21:09:57Z: PLAYER CHATTED [  691635668] VicDeth              (  245.8,   275.0,  -170.8)
+  :fly
+2022-06-18T21:10:05Z: PLAYER CHATTED [  691635668] VicDeth              (  246.1,   275.0,  -169.7)
+  ;fly
+2022-06-18T21:10:14Z: PLAYER ADDED   [ 2463203873] PixeI_YY
+2022-06-18T21:10:19Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  237.0,   275.4,  -160.7)
+  ;logs all
+2022-06-18T21:10:32Z: PLAYER CHATTED [ 2490062210] dizzymizzyJ123       (  263.1,   275.9,  -165.1)
+  ;logs none
+2022-06-18T21:10:38Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  250.0,   275.0,  -177.6)
+  no 
+2022-06-18T21:10:45Z: PLAYER REMOVED [ 2490062210] dizzymizzyJ123
+2022-06-18T21:10:46Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  261.0,   275.4,  -169.1)
+  yes
+2022-06-18T21:10:47Z: PLAYER ADDED   [ 1588482297] sebasem77
+2022-06-18T21:10:54Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  260.5,   275.4,  -168.5)
+  ;talk all yes
+2022-06-18T21:10:59Z: PLAYER REMOVED [ 1677950203] mmbnjw2
+2022-06-18T21:11:03Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  244.4,   275.4,  -173.8)
+  ;talk all i will
+2022-06-18T21:11:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  235.2,   282.3,    94.8)
+  Yo te siempre estoy mirando...
+2022-06-18T21:11:04Z: PLAYER CHATTED [ 1588482297] sebasem77            (  235.2,   274.7,  -170.6)
+  ;explode all
+2022-06-18T21:11:04Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.1,   278.3,  -164.9)
+2022-06-18T21:11:04Z: CHRCTER ADDED  [  691635668] VicDeth              (  214.8,   282.2,  -165.3)
+2022-06-18T21:11:04Z: CHRCTER ADDED  [ 1588482297] sebasem77            (  213.4,   278.1,  -165.9)
+2022-06-18T21:11:04Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  210.9,   278.8,  -163.9)
+2022-06-18T21:11:05Z: CHRCTER ADDED  [ 2463203873] PixeI_YY             (  209.8,   278.3,  -161.1)
+2022-06-18T21:11:05Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  211.2,   281.6,  -161.5)
+2022-06-18T21:11:05Z: CHRCTER ADDED  [ 2228966355] jman46789            (  219.4,   277.5,  -161.5)
+2022-06-18T21:11:06Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  209.7,   278.3,  -160.3)
+  SHUT UP AND STOP
+2022-06-18T21:11:12Z: PLAYER CHATTED [ 1588482297] sebasem77            (  213.6,   278.0,  -166.2)
+  I am back
+2022-06-18T21:11:16Z: PLAYER CHATTED [  691635668] VicDeth              (  233.7,   275.4,  -146.4)
+  ;re
+2022-06-18T21:11:16Z: CHRCTER ADDED  [  691635668] VicDeth              (  233.7,   275.4,  -146.4)
+2022-06-18T21:11:18Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  235.7,   275.4,  -167.8)
+  I THOUGHT SOMEONE BANNED U CARL
+2022-06-18T21:11:22Z: PLAYER CHATTED [ 1588482297] sebasem77            (  231.5,   274.8,  -162.7)
+  ;m back
+2022-06-18T21:11:26Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  238.9,   275.0,  -150.0)
+  lol
+2022-06-18T21:11:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  234.7,   274.6,  -102.3)
+  *Siempre te estoy mirando.
+2022-06-18T21:11:32Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  238.9,   275.0,  -150.0)
+  ;m same
+2022-06-18T21:11:32Z: PLAYER CHATTED [ 1588482297] sebasem77            (  227.1,   276.4,  -165.6)
+  I am a hacker
+2022-06-18T21:11:35Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  231.4,   275.6,  -160.2)
+  ;ADMINS
+2022-06-18T21:11:39Z: PLAYER CHATTED [ 1588482297] sebasem77            (  228.8,   275.6,  -164.8)
+  Heheh
+2022-06-18T21:11:56Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  217.7,   281.9,  -156.8)
+  ;Ban asa
+2022-06-18T21:12:13Z: PLAYER CHATTED [  691635668] VicDeth              (  206.6,   279.3,  -165.0)
+  ;unfly
+2022-06-18T21:12:16Z: PLAYER CHATTED [ 1588482297] sebasem77            (  222.8,   276.8,  -172.9)
+  ;pm me
+2022-06-18T21:12:22Z: PLAYER CHATTED [  691635668] VicDeth              (  211.8,   278.2,  -164.7)
+  ;tp visual
+2022-06-18T21:12:27Z: PLAYER CHATTED [ 1588482297] sebasem77            (  221.3,   275.8,  -175.7)
+  ;pm all
+2022-06-18T21:12:41Z: PLAYER REMOVED [ 2463203873] PixeI_YY
+2022-06-18T21:12:42Z: PLAYER CHATTED [ 1588482297] sebasem77            (  221.3,   275.8,  -175.7)
+  ;pm all I will hack you
+2022-06-18T21:12:43Z: PLAYER ADDED   [ 2463203873] PixeI_YY
+2022-06-18T21:12:58Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  248.8,   275.4,  -170.3)
+  ;pm all ##### ####
+2022-06-18T21:12:59Z: PLAYER ADDED   [  963029723] tolgahan980
+2022-06-18T21:13:09Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  225.0,   276.0,  -199.8)
+  ;pm all sus
+2022-06-18T21:13:10Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  207.3,   275.0,  -180.7)
+  ;Ban asa
+2022-06-18T21:13:19Z: PLAYER CHATTED [ 1588482297] sebasem77            (  216.6,   277.9,  -168.3)
+  ;pm all not now
+2022-06-18T21:13:26Z: PLAYER CHATTED [  963029723] tolgahan980          (  239.0,   275.0,  -184.8)
+  ;cmdbar2
+2022-06-18T21:13:30Z: PLAYER ADDED   [ 1677950203] mmbnjw2
+2022-06-18T21:13:39Z: PLAYER CHATTED [ 1588482297] sebasem77            (  236.5,   274.7,  -155.0)
+  ;pm later
+2022-06-18T21:13:49Z: PLAYER CHATTED [  691635668] VicDeth              (  194.1,   275.0,  -152.2)
+  #############
+2022-06-18T21:13:52Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  210.5,   278.3,  -167.6)
+  ;pm all sus
+2022-06-18T21:13:54Z: PLAYER CHATTED [  691635668] VicDeth              (  196.9,   275.0,  -154.9)
+  ;hat
+2022-06-18T21:13:57Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  219.4,   278.3,  -161.9)
+  /e ;admins 
+2022-06-18T21:14:02Z: PLAYER CHATTED [ 1588482297] sebasem77            (  219.0,   274.7,  -183.1)
+  ;pm all later
+2022-06-18T21:14:09Z: PLAYER REMOVED [ 1677950203] mmbnjw2
+2022-06-18T21:14:14Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  239.7,   260.0,   855.2)
+  ;sword
+2022-06-18T21:14:17Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  235.4,   260.4,   855.5)
+  ;pm as sus
+2022-06-18T21:14:17Z: PLAYER CHATTED [ 1588482297] sebasem77            (  227.1,   274.8,  -178.1)
+  ;explode all
+2022-06-18T21:14:17Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  216.1,   278.8,  -167.6)
+2022-06-18T21:14:17Z: CHRCTER ADDED  [ 1588482297] sebasem77            (  209.9,   281.1,  -166.1)
+2022-06-18T21:14:17Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  217.4,   283.1,  -168.4)
+2022-06-18T21:14:17Z: CHRCTER ADDED  [  963029723] tolgahan980          (  212.3,   278.1,  -167.6)
+2022-06-18T21:14:17Z: CHRCTER ADDED  [ 2463203873] PixeI_YY             (  218.2,   278.5,  -162.3)
+2022-06-18T21:14:17Z: CHRCTER ADDED  [ 2228966355] jman46789            (  213.7,   282.7,  -168.1)
+2022-06-18T21:14:18Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.4,   282.5,  -161.3)
+2022-06-18T21:14:18Z: CHRCTER ADDED  [  691635668] VicDeth              (  216.9,   278.3,  -166.4)
+2022-06-18T21:14:19Z: PLAYER CHATTED [  691635668] VicDeth              (  216.9,   278.2,  -166.4)
+  ;cmds
+2022-06-18T21:14:22Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  217.2,   278.4,  -164.9)
+  ;tp me as
+2022-06-18T21:14:24Z: PLAYER REMOVED [  963029723] tolgahan980
+2022-06-18T21:14:27Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  226.8,   277.3,  -165.3)
+  ######
+2022-06-18T21:14:32Z: PLAYER CHATTED [ 1588482297] sebasem77            (  222.3,   274.7,  -180.3)
+  ;explode all
+2022-06-18T21:14:32Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  217.3,   278.8,  -163.2)
+2022-06-18T21:14:32Z: CHRCTER ADDED  [ 2228966355] jman46789            (  211.6,   280.6,  -162.5)
+2022-06-18T21:14:32Z: CHRCTER ADDED  [ 2463203873] PixeI_YY             (  215.9,   278.4,  -161.0)
+2022-06-18T21:14:32Z: CHRCTER ADDED  [ 1588482297] sebasem77            (  217.5,   280.9,  -169.0)
+2022-06-18T21:14:32Z: CHRCTER ADDED  [  691635668] VicDeth              (  212.3,   278.4,  -160.4)
+2022-06-18T21:14:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.2,   282.0,  -160.3)
+2022-06-18T21:14:33Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  209.9,   278.0,  -165.1)
+2022-06-18T21:14:36Z: PLAYER ADDED   [ 3466891621] fnaglikemasoN22
+2022-06-18T21:14:42Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  215.9,   278.5,  -161.0)
+  ;Ban asa
+2022-06-18T21:14:42Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  233.3,   275.4,  -159.3)
+  ;pm all suss
+2022-06-18T21:14:47Z: PLAYER REMOVED [ 1588482297] sebasem77
+2022-06-18T21:14:53Z: PLAYER CHATTED [  691635668] VicDeth              (  211.6,   275.1,  -145.0)
+  #####################
+2022-06-18T21:14:56Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  204.6,   277.7,  -158.8)
+  admins
+2022-06-18T21:14:58Z: PLAYER CHATTED [ 3466891621] fnaglikemasoN22      (  218.2,   278.8,  -169.2)
+  ;ban nec
+2022-06-18T21:14:59Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  204.6,   277.7,  -158.8)
+  ;admins
+2022-06-18T21:15:11Z: PLAYER ADDED   [ 2510899478] waaoody123
+2022-06-18T21:15:11Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  215.9,   278.5,  -161.0)
+  ;Ban asa 
+2022-06-18T21:15:21Z: PLAYER ADDED   [ 1677950203] mmbnjw2
+2022-06-18T21:15:28Z: PLAYER CHATTED [ 2510899478] waaoody123           (  219.7,   277.4,  -169.2)
+  ;cmdbar2
+2022-06-18T21:15:31Z: PLAYER CHATTED [  691635668] VicDeth              (  249.6,   275.0,  -135.3)
+  ;cmds
+2022-06-18T21:15:38Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  213.7,   278.6,  -164.8)
+  /e ;admins
+2022-06-18T21:15:42Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  215.9,   278.5,  -161.0)
+  ;mi n
+2022-06-18T21:15:47Z: PLAYER CHATTED [ 3466891621] fnaglikemasoN22      (  222.2,   275.8,  -180.1)
+  ;ban
+2022-06-18T21:15:49Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  246.4,   260.0,   837.8)
+  ;give sword nick
+2022-06-18T21:15:52Z: PLAYER CHATTED [ 2463203873] PixeI_YY             (  215.9,   278.5,  -161.0)
+  ;kick asa
+2022-06-18T21:15:53Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  252.2,   260.0,   856.6)
+  1v1
+2022-06-18T21:15:54Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  248.4,   260.4,   787.4)
+  ;SWORD
+2022-06-18T21:16:00Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  250.1,   260.4,   791.6)
+  /sword
+2022-06-18T21:16:00Z: PLAYER CHATTED [  691635668] VicDeth              (  264.7,   275.0,  -167.4)
+  ;re
+2022-06-18T21:16:00Z: CHRCTER ADDED  [  691635668] VicDeth              (  264.8,   274.9,  -167.2)
+2022-06-18T21:16:04Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  248.2,   260.4,   777.4)
+  3
+2022-06-18T21:16:04Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  248.2,   260.4,   777.4)
+  2
+2022-06-18T21:16:06Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  247.7,   260.4,   774.9)
+  1
+2022-06-18T21:16:09Z: PLAYER CHATTED [  691635668] VicDeth              (  249.4,   279.8,  -215.4)
+  ;re
+2022-06-18T21:16:09Z: CHRCTER ADDED  [  691635668] VicDeth              (  249.4,   279.7,  -215.4)
+2022-06-18T21:16:18Z: PLAYER REMOVED [ 2228966355] jman46789
+2022-06-18T21:16:23Z: PLAYER CHATTED [ 3466891621] fnaglikemasoN22      (  224.9,   275.8,  -184.3)
+  Bru
+2022-06-18T21:16:26Z: PLAYER CHATTED [ 1677950203] mmbnjw2              (  222.2,   336.8,  -241.2)
+  /e ;logs
+2022-06-18T21:16:31Z: PLAYER REMOVED [ 1677950203] mmbnjw2
+2022-06-18T21:16:34Z: PLAYER REMOVED [ 2463203873] PixeI_YY
+2022-06-18T21:16:38Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  215.0,   279.0,  -159.4)
+2022-06-18T21:16:38Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.5,   279.6,  -168.2)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  211.2,   279.8,  -165.3)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [  691635668] VicDeth              (  212.4,   278.2,  -164.3)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  211.0,   278.8,  -166.4)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.5,   278.0,  -168.6)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  214.2,   280.9,  -167.1)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  217.9,   282.4,  -167.6)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.9,   278.3,  -164.4)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [  691635668] VicDeth              (  211.4,   278.3,  -161.7)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  211.4,   279.8,  -165.1)
+2022-06-18T21:16:39Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  211.3,   280.6,  -166.1)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  210.3,   278.4,  -160.9)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  213.5,   278.8,  -168.6)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  218.7,   279.1,  -160.0)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [  691635668] VicDeth              (  210.2,   278.3,  -162.4)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.0,   279.6,  -167.1)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  212.8,   280.0,  -162.1)
+2022-06-18T21:16:40Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  211.8,   278.6,  -164.6)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [  691635668] VicDeth              (  209.6,   278.3,  -161.2)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  214.3,   278.7,  -169.0)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  219.3,   279.9,  -166.3)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  218.7,   279.0,  -161.5)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.4,   278.3,  -162.6)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [  691635668] VicDeth              (  219.2,   283.3,  -161.3)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  217.9,   284.9,  -166.5)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  218.3,   281.3,  -162.5)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.0,   285.6,  -163.4)
+2022-06-18T21:16:41Z: CHRCTER ADDED  [  691635668] VicDeth              (  215.6,   278.6,  -159.3)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  212.4,   280.0,  -162.9)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  211.7,   278.9,  -165.6)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  219.2,   278.8,  -160.0)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.5,   278.2,  -164.9)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  218.9,   280.0,  -165.2)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [  691635668] VicDeth              (  213.6,   283.2,  -164.9)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.5,   278.4,  -162.9)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  218.0,   284.9,  -164.6)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  209.8,   279.8,  -164.2)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  213.9,   278.9,  -161.1)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [  691635668] VicDeth              (  213.0,   281.5,  -162.3)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  216.5,   278.4,  -169.1)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.3,   285.3,  -163.0)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [  691635668] VicDeth              (  215.6,   278.6,  -159.6)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  215.8,   283.3,  -160.5)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.7,   288.5,  -160.9)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  212.1,   278.2,  -163.5)
+2022-06-18T21:16:42Z: CHRCTER ADDED  [  691635668] VicDeth              (  217.2,   292.8,  -160.9)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  209.7,   282.6,  -162.4)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  212.1,   278.9,  -159.5)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  210.5,   278.3,  -162.4)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  218.7,   280.2,  -161.4)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  212.9,   283.0,  -161.7)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [  691635668] VicDeth              (  212.1,   278.1,  -165.8)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  212.3,   287.4,  -162.5)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  211.3,   278.7,  -163.2)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  213.4,   279.3,  -160.7)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.9,   280.1,  -161.7)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  216.9,   278.5,  -168.1)
+2022-06-18T21:16:43Z: CHRCTER ADDED  [  691635668] VicDeth              (  210.7,   278.0,  -165.9)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.2,   278.3,  -165.7)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  218.8,   282.8,  -162.0)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  218.9,   283.0,  -165.1)
+2022-06-18T21:16:44Z: PLAYER REMOVED [ 3466891621] fnaglikemasoN22
+2022-06-18T21:16:44Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  218.7,   287.6,  -164.1)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.0,   278.4,  -161.1)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [  691635668] VicDeth              (  212.6,   278.2,  -164.6)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.4,   280.0,  -163.8)
+2022-06-18T21:16:44Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.1,   278.2,  -166.9)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  219.5,   278.8,  -164.6)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [  691635668] VicDeth              (  215.8,   278.5,  -160.7)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.5,   279.7,  -165.5)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  213.2,   284.3,  -166.1)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  210.6,   283.9,  -164.5)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [  691635668] VicDeth              (  213.9,   278.2,  -164.8)
+2022-06-18T21:16:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  213.9,   280.1,  -161.5)
+2022-06-18T21:16:46Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  213.2,   278.5,  -167.7)
+2022-06-18T21:16:46Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.4,   278.2,  -166.3)
+2022-06-18T21:16:46Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.4,   280.1,  -165.0)
+2022-06-18T21:16:46Z: CHRCTER ADDED  [  691635668] VicDeth              (  211.6,   282.7,  -168.4)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  210.1,   278.7,  -163.2)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [  691635668] VicDeth              (  219.0,   278.6,  -160.5)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  214.2,   279.7,  -167.5)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.8,   282.6,  -161.3)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  216.9,   278.5,  -169.1)
+2022-06-18T21:16:47Z: CHRCTER ADDED  [  691635668] VicDeth              (  211.4,   277.9,  -168.5)
+2022-06-18T21:16:48Z: PLAYER ADDED   [ 3466891621] fnaglikemasoN22
+2022-06-18T21:16:48Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  215.2,   280.3,  -161.6)
+2022-06-18T21:16:48Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.8,   278.6,  -159.3)
+2022-06-18T21:16:48Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.1,   279.7,  -168.4)
+2022-06-18T21:16:52Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.7,   282.9,  -167.1)
+2022-06-18T21:16:52Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  215.5,   287.3,  -167.1)
+2022-06-18T21:16:52Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  211.2,   278.9,  -164.6)
+2022-06-18T21:16:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  216.4,   279.9,  -165.9)
+2022-06-18T21:16:53Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  215.7,   283.5,  -166.2)
+2022-06-18T21:16:53Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.0,   278.5,  -159.8)
+2022-06-18T21:16:53Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  215.5,   279.2,  -162.2)
+2022-06-18T21:16:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  216.7,   288.4,  -166.1)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  217.5,   282.6,  -163.3)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.2,   282.9,  -165.5)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  213.8,   278.9,  -166.3)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  219.5,   284.9,  -162.9)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.7,   278.4,  -161.3)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  213.2,   283.2,  -160.4)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.9,   280.4,  -162.4)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  214.5,   278.6,  -166.6)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.2,   278.1,  -168.3)
+2022-06-18T21:16:56Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  215.4,   279.3,  -160.3)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.1,   279.6,  -167.6)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [  691635668] VicDeth              (  214.5,   280.6,  -166.1)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  209.8,   278.4,  -160.3)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  211.3,   283.2,  -161.1)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  209.8,   278.1,  -164.3)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.4,   279.7,  -168.5)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  211.4,   288.1,  -160.5)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  210.3,   292.4,  -161.1)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  217.4,   282.0,  -166.4)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [  691635668] VicDeth              (  215.8,   283.8,  -167.9)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  211.4,   280.0,  -161.7)
+2022-06-18T21:16:57Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.9,   278.5,  -162.5)
+2022-06-18T21:16:58Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  217.9,   278.2,  -166.5)
+2022-06-18T21:16:58Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  217.3,   283.2,  -163.2)
+2022-06-18T21:16:58Z: CHRCTER ADDED  [  691635668] VicDeth              (  214.5,   282.6,  -161.1)
+2022-06-18T21:16:58Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  217.5,   279.7,  -168.2)
+2022-06-18T21:17:03Z: PLAYER CHATTED [ 3466891621] fnaglikemasoN22      (  210.8,   282.8,  -164.7)
+  ;cmdbar2
+2022-06-18T21:17:05Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  217.5,   278.6,  -166.6)
+  /logs all
+2022-06-18T21:17:14Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.4,   278.4,  -162.9)
+2022-06-18T21:17:14Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  217.9,   279.1,  -165.2)
+2022-06-18T21:17:14Z: CHRCTER ADDED  [  691635668] VicDeth              (  214.8,   278.0,  -167.4)
+2022-06-18T21:17:15Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  213.9,   278.7,  -164.5)
+2022-06-18T21:17:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  214.8,   280.1,  -168.4)
+2022-06-18T21:17:15Z: PLAYER ADDED   [ 1102207991] ImWallmar_t
+2022-06-18T21:17:15Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  213.7,   278.6,  -164.5)
+  ;noclip
+2022-06-18T21:17:17Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  215.0,   278.8,  -163.3)
+2022-06-18T21:17:17Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.5,   283.4,  -164.3)
+2022-06-18T21:17:17Z: CHRCTER ADDED  [  691635668] VicDeth              (  219.5,   284.0,  -165.1)
+2022-06-18T21:17:17Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  212.4,   279.6,  -167.7)
+2022-06-18T21:17:17Z: PLAYER ADDED   [ 3490829120] iamlittletrashcan
+2022-06-18T21:17:17Z: CHRCTER ADDED  [ 3466891621] fnaglikemasoN22      (  215.8,   288.2,  -164.5)
+2022-06-18T21:17:20Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  214.9,   278.8,  -162.5)
+  /noclip
+2022-06-18T21:17:31Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  211.8,   278.3,  -162.5)
+  ;size me 100
+2022-06-18T21:17:40Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  214.9,   278.8,  -162.5)
+  ;bringh all
+2022-06-18T21:17:47Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  214.9,   278.8,  -162.5)
+  /bring all
+2022-06-18T21:17:52Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  287.7,    89.3,  -205.2)
+  ;size me 40
+2022-06-18T21:17:57Z: CHRCTER ADDED  [ 1102207991] ImWallmar_t          (  210.8,   279.5,  -160.2)
+2022-06-18T21:18:02Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  175.4,   790.4,   -80.8)
+  1v1
+2022-06-18T21:18:07Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  212.9,   278.2,  -163.2)
+  ;size
+2022-06-18T21:18:11Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  315.9,  1258.2,  -160.4)
+  ok
+2022-06-18T21:18:12Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  313.5,  1251.7,  -161.4)
+  come
+2022-06-18T21:18:17Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  212.0,   278.1,  -165.2)
+  ;sizenme 0.001
+2022-06-18T21:18:17Z: PLAYER CHATTED [  691635668] VicDeth              (  200.6,   275.0,  -177.9)
+  ;size 200
+2022-06-18T21:18:24Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  212.0,   278.1,  -165.2)
+  ;size me 10
+2022-06-18T21:18:27Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  313.5,  1251.7,  -161.4)
+  wheres the box?
+2022-06-18T21:18:33Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  313.5,  1251.7,  -161.4)
+  here
+2022-06-18T21:18:39Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  195.4,   228.9,  -134.4)
+  ;speed me 50
+2022-06-18T21:18:40Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  313.5,  1251.7,  -161.4)
+  /tp as
+2022-06-18T21:18:42Z: PLAYER CHATTED [ 2510899478] waaoody123           (  223.8,   276.3,  -158.9)
+  ########################################################################################################################################################################################################
+2022-06-18T21:18:50Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  256.9,   260.4,   833.8)
+  ;swor
+2022-06-18T21:18:50Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  188.5,   257.5,   -75.9)
+  ;size me 5
+2022-06-18T21:18:52Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  255.5,   260.4,   835.4)
+  /sword
+2022-06-18T21:18:53Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  301.3,   260.0,   845.3)
+  ;sword
+2022-06-18T21:18:57Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  249.6,   260.4,   837.8)
+  not yet
+2022-06-18T21:19:01Z: PLAYER CHATTED [ 2510899478] waaoody123           (  227.5,   275.9,  -162.3)
+  ########################################################################################################################################################################################################
+2022-06-18T21:19:08Z: PLAYER REMOVED [ 3466891621] fnaglikemasoN22
+2022-06-18T21:19:10Z: PLAYER ADDED   [  796048061] harunzock
+2022-06-18T21:19:14Z: PLAYER CHATTED [  691635668] VicDeth              (  243.3,   411.4,  -160.4)
+  ;kill all
+2022-06-18T21:19:14Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.1,   280.6,  -164.6)
+2022-06-18T21:19:14Z: CHRCTER ADDED  [ 3490829120] iamlittletrashcan    (  212.9,   278.0,  -167.8)
+2022-06-18T21:19:14Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  211.4,   278.7,  -162.8)
+2022-06-18T21:19:15Z: CHRCTER ADDED  [  691635668] VicDeth              (  219.0,   282.4,  -165.2)
+2022-06-18T21:19:15Z: CHRCTER ADDED  [ 1102207991] ImWallmar_t          (  217.1,   282.5,  -166.2)
+2022-06-18T21:19:15Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  213.4,   284.4,  -165.6)
+2022-06-18T21:19:15Z: CHRCTER ADDED  [  796048061] harunzock            (  218.9,   278.5,  -162.4)
+2022-06-18T21:19:15Z: CHRCTER ADDED  [ 2510899478] waaoody123           (  217.8,   282.0,  -163.2)
+2022-06-18T21:19:15Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  206.5,   257.8,  -158.9)
+  ;size me 1
+2022-06-18T21:19:21Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  217.2,   278.1,  -167.1)
+  ;alert all  KING KONG IS comin
+2022-06-18T21:19:24Z: PLAYER ADDED   [ 1236317942] arg_gabriel
+2022-06-18T21:19:26Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  128.7,   298.5,   348.8)
+  ;sword
+2022-06-18T21:19:28Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  217.2,   278.1,  -167.1)
+  ;lag others
+2022-06-18T21:19:35Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  218.7,   277.9,  -170.5)
+  ;size me 5
+2022-06-18T21:19:39Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  166.7,   260.4,   878.1)
+  /sword
+2022-06-18T21:19:43Z: PLAYER CHATTED [ 2510899478] waaoody123           (  217.9,   278.4,  -162.5)
+  ########################################################################################################################################################################################################
+2022-06-18T21:19:44Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  412.1,   -89.1,  1151.0)
+  wth
+2022-06-18T21:19:47Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  384.1,   -90.0,  1127.7)
+  stop
+2022-06-18T21:19:50Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  473.1,   -82.0,   983.3)
+  /size me 
+2022-06-18T21:19:51Z: PLAYER REMOVED [ 3490829120] iamlittletrashcan
+2022-06-18T21:19:51Z: PLAYER CHATTED [  691635668] VicDeth              (  243.3,   411.4,  -160.4)
+  ;kill all
+2022-06-18T21:19:51Z: PLAYER CHATTED [  796048061] harunzock            (  244.2,   416.8,  -147.9)
+  ;reset me
+2022-06-18T21:19:53Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.7,   278.5,  -160.0)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [  691635668] VicDeth              (  213.9,   278.3,  -163.6)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [  796048061] harunzock            (  213.3,   279.3,  -161.2)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [  796048061] harunzock            (  198.4,   660.0,   -46.4)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [ 1102207991] ImWallmar_t          (  210.9,   278.3,  -162.2)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [ 1236317942] arg_gabriel          (  213.8,   279.6,  -165.0)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  209.9,   284.2,  -168.1)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  210.4,   279.6,  -167.7)
+2022-06-18T21:19:53Z: CHRCTER ADDED  [ 2510899478] waaoody123           (  210.0,   278.0,  -165.4)
+2022-06-18T21:19:55Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  204.4,   250.8,  -154.4)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [ 1102207991] ImWallmar_t          (  209.7,   277.9,  -161.8)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [ 1236317942] arg_gabriel          (  214.0,   283.2,  -165.2)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [ 2510899478] waaoody123           (  211.5,   278.0,  -164.7)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  208.5,   275.4,  -149.3)
+2022-06-18T21:19:56Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  208.1,   274.6,  -151.3)
+  stop
+2022-06-18T21:19:56Z: CHRCTER ADDED  [  691635668] VicDeth              (  238.7,   274.8,  -157.5)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  212.4,   277.4,  -175.5)
+2022-06-18T21:19:56Z: CHRCTER ADDED  [  796048061] harunzock            (  191.2,   226.1,   -48.8)
+2022-06-18T21:19:59Z: PLAYER CHATTED [ 2510899478] waaoody123           (  211.3,   278.1,  -164.6)
+  ######################
+2022-06-18T21:20:00Z: PLAYER CHATTED [  796048061] harunzock            (  191.4,   244.4,   -48.8)
+  ;fly me
+2022-06-18T21:20:00Z: PLAYER ADDED   [ 2359677361] vanjaaa2012
+2022-06-18T21:20:01Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  208.4,   275.9,  -150.6)
+  i will report
+2022-06-18T21:20:01Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  204.2,   251.0,  -154.1)
+  ;size all 0.1
+2022-06-18T21:20:08Z: PLAYER CHATTED [ 2510899478] waaoody123           (  200.0,   272.4,  -171.1)
+  ;re all
+2022-06-18T21:20:08Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  242.8,   290.9,  -118.8)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [ 3597050511] NickLuis200_alt      (  208.4,   271.2,  -150.6)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [ 2359677361] vanjaaa2012          (  215.1,   276.6,  -169.2)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [ 1236317942] arg_gabriel          (  251.1,   273.2,  -209.1)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [ 1102207991] ImWallmar_t          (  205.9,   272.6,  -171.7)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [  796048061] harunzock            (  196.6,   284.5,    48.7)
+2022-06-18T21:20:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  267.2,   270.7,  -178.0)
+2022-06-18T21:20:09Z: CHRCTER ADDED  [  691635668] VicDeth              (  212.9,   271.2,  -186.2)
+2022-06-18T21:20:09Z: CHRCTER ADDED  [ 2510899478] waaoody123           (  199.9,   271.1,  -171.1)
+2022-06-18T21:20:09Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  207.6,   275.8,  -150.2)
+  /size all 11
+2022-06-18T21:20:09Z: PLAYER CHATTED [  796048061] harunzock            (  196.7,   289.0,    49.1)
+  ;ormal me
+2022-06-18T21:20:13Z: PLAYER ADDED   [ 1655141658] XAddison_PlayingX
+2022-06-18T21:20:14Z: PLAYER REMOVED [ 1236317942] arg_gabriel
+2022-06-18T21:20:17Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  211.6,   248.7,   -45.5)
+  /size all 1
+2022-06-18T21:20:18Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  323.7,   105.6,    37.7)
+  ;m lol asa is fatherless 
+2022-06-18T21:20:25Z: PLAYER CHATTED [  691635668] VicDeth              (  268.8,   275.0,  -174.5)
+  /size 11
+2022-06-18T21:20:27Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  316.4,   174.5,    25.5)
+  ;flu
+2022-06-18T21:20:31Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  305.8,   260.0,   930.0)
+  ;sword
+2022-06-18T21:20:32Z: PLAYER CHATTED [  796048061] harunzock            (  308.3,   287.1,   -42.4)
+  ;laserEyes
+2022-06-18T21:20:41Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  319.3,   255.5,    17.8)
+  ;size me 40
+2022-06-18T21:20:46Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  289.7,   260.4,   928.1)
+  //sword
+2022-06-18T21:20:48Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  322.6,   260.0,   937.2)
+  :sword nick
+2022-06-18T21:20:49Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  280.7,   260.4,   925.2)
+  /sword
+2022-06-18T21:20:49Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  757.3,   200.0,   -14.3)
+  ;size me 10
+2022-06-18T21:20:55Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  247.1,   260.4,   932.0)
+  3
+2022-06-18T21:20:55Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  247.1,   260.4,   932.0)
+  2
+2022-06-18T21:20:56Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  247.1,   260.4,   932.0)
+  1
+2022-06-18T21:20:56Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  224.0,   275.0,  -184.2)
+  /korblox
+2022-06-18T21:20:57Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  247.1,   260.4,   932.0)
+  go
+2022-06-18T21:20:59Z: PLAYER CHATTED [  691635668] VicDeth              (  261.1,   274.9,  -192.0)
+  /size me 11
+2022-06-18T21:21:00Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  781.8,   250.8,   -17.2)
+  ;size me 50
+2022-06-18T21:21:04Z: PLAYER CHATTED [  691635668] VicDeth              (  255.6,   294.5,  -232.2)
+  ;size me 11
+2022-06-18T21:21:05Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  210.8,   274.7,  -186.9)
+  /headless
+2022-06-18T21:21:07Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          ( 1016.9,   194.2,  -418.7)
+  ;size me 10
+2022-06-18T21:21:09Z: PLAYER CHATTED [  796048061] harunzock            (  215.6,   276.1,  -178.1)
+  /korblox
+2022-06-18T21:21:12Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          ( 1029.0,   247.8,  -440.9)
+  ;speed me 50
+2022-06-18T21:21:13Z: PLAYER CHATTED [  796048061] harunzock            (  215.6,   276.1,  -178.1)
+  /headless
+2022-06-18T21:21:17Z: PLAYER CHATTED [  796048061] harunzock            (  215.6,   276.1,  -178.1)
+  /valk
+2022-06-18T21:21:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  232.0,   275.3,  -154.6)
+2022-06-18T21:21:34Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.2,   278.6,  -159.6)
+2022-06-18T21:21:36Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  320.3,   260.4,   882.7)
+  gg
+2022-06-18T21:21:39Z: PLAYER REMOVED [ 2510899478] waaoody123
+2022-06-18T21:21:45Z: PLAYER CHATTED [  796048061] harunzock            (  254.9,   275.0,  -176.6)
+  ;cmds
+2022-06-18T21:21:46Z: PLAYER CHATTED [ 2359677361] vanjaaa2012          (  240.6,   275.0,  -170.0)
+  #################
+2022-06-18T21:21:46Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  253.4,   260.4,   877.1)
+  ;bring as
+2022-06-18T21:21:51Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  257.9,   260.4,   874.8)
+  /bring as
+2022-06-18T21:21:55Z: PLAYER CHATTED [ 3597050511] NickLuis200_alt      (  257.9,   260.4,   874.8)
+  /bring as
+2022-06-18T21:22:01Z: PLAYER CHATTED [  796048061] harunzock            (  254.9,   275.0,  -176.6)
+  ;warp
+2022-06-18T21:22:02Z: PLAYER CHATTED [ 2359677361] vanjaaa2012          (  240.6,   275.0,  -170.0)
+  ;BRING all
+2022-06-18T21:22:07Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  210.0,   278.4,  -159.4)
+2022-06-18T21:22:09Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.1,   278.2,  -166.9)
+2022-06-18T21:22:12Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  268.1,   302.0,  -160.1)
+  Who u
+2022-06-18T21:22:17Z: PLAYER CHATTED [ 2359677361] vanjaaa2012          (  231.5,   275.0,  -178.3)
+  ####
+2022-06-18T21:22:19Z: PLAYER ADDED   [ 2386317213] adoptadoptme222
+2022-06-18T21:22:22Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.0,   278.2,  -164.2)
+2022-06-18T21:22:24Z: PLAYER CHATTED [ 2359677361] vanjaaa2012          (  231.5,   275.0,  -178.3)
+  ;fly
+2022-06-18T21:22:25Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.5,   282.8,  -164.9)
+2022-06-18T21:22:25Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.6,   278.4,  -161.4)
+2022-06-18T21:22:25Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.2,   278.1,  -166.2)
+2022-06-18T21:22:26Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  199.8,   274.7,  -148.2)
+  ;cmds
+2022-06-18T21:22:26Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.9,   281.1,  -163.5)
+2022-06-18T21:22:27Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.1,   278.4,  -161.0)
+2022-06-18T21:22:28Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.7,   282.8,  -164.4)
+2022-06-18T21:22:28Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  219.6,   305.3,  -164.3)
+  ;fling owner
+2022-06-18T21:22:28Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.2,   282.8,  -164.5)
+2022-06-18T21:22:28Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.9,   278.4,  -160.7)
+2022-06-18T21:22:29Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  214.9,   278.4,  -161.5)
+2022-06-18T21:22:29Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  212.0,   281.1,  -164.6)
+2022-06-18T21:22:29Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.0,   278.4,  -162.5)
+2022-06-18T21:22:29Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  212.9,   277.9,  -168.9)
+2022-06-18T21:22:30Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.8,   277.9,  -169.0)
+2022-06-18T21:22:30Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  214.4,   278.3,  -163.4)
+2022-06-18T21:22:30Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.0,   281.4,  -163.4)
+2022-06-18T21:22:31Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.0,   278.4,  -163.5)
+2022-06-18T21:22:31Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.7,   278.7,  -159.4)
+2022-06-18T21:22:31Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  214.4,   283.1,  -164.6)
+2022-06-18T21:22:31Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.6,   278.1,  -165.9)
+2022-06-18T21:22:32Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.4,   280.9,  -164.0)
+2022-06-18T21:22:32Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  209.6,   278.3,  -162.4)
+2022-06-18T21:22:33Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.3,   278.0,  -169.1)
+2022-06-18T21:22:33Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.1,   278.3,  -165.0)
+2022-06-18T21:22:33Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.2,   278.3,  -165.0)
+2022-06-18T21:22:33Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.2,   278.3,  -164.8)
+2022-06-18T21:22:34Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.1,   278.2,  -166.8)
+2022-06-18T21:22:35Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  217.9,   278.4,  -162.6)
+2022-06-18T21:22:35Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  211.0,   278.3,  -162.3)
+2022-06-18T21:22:35Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  214.4,   278.4,  -162.2)
+2022-06-18T21:22:36Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.4,   278.0,  -169.1)
+2022-06-18T21:22:36Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.0,   278.0,  -168.2)
+2022-06-18T21:22:36Z: PLAYER CHATTED [ 2359677361] vanjaaa2012          (  231.5,   278.8,  -178.3)
+  ;char me Builderman
+2022-06-18T21:22:37Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.5,   278.3,  -163.7)
+2022-06-18T21:22:37Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  219.5,   278.3,  -164.9)
+2022-06-18T21:22:37Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  199.8,   274.7,  -148.2)
+  ;fly
+2022-06-18T21:22:37Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.8,   281.7,  -168.3)
+2022-06-18T21:22:37Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.1,   278.4,  -163.3)
+2022-06-18T21:22:38Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  213.1,   281.7,  -168.8)
+2022-06-18T21:22:38Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.4,   278.0,  -169.2)
+2022-06-18T21:22:38Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  218.4,   278.1,  -167.8)
+2022-06-18T21:22:39Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  215.9,   278.1,  -166.8)
+2022-06-18T21:22:39Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.1,   278.0,  -168.2)
+2022-06-18T21:22:40Z: CHRCTER ADDED  [ 3612019866] asasaasasasasad1     (  216.0,   278.6,  -159.7)
+2022-06-18T21:22:41Z: PLAYER REMOVED [ 2359677361] vanjaaa2012
+2022-06-18T21:22:48Z: PLAYER CHATTED [  796048061] harunzock            (  228.1,   274.9,  -191.0)
+  ;cmdbar2 me
+2022-06-18T21:22:49Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  206.8,   349.3,  -264.3)
+  ;poop harun
+2022-06-18T21:22:54Z: PLAYER REMOVED [ 3597050511] NickLuis200_alt
+2022-06-18T21:22:56Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  213.4,   274.8,  -183.8)
+  ;width me 50
+2022-06-18T21:22:58Z: PLAYER CHATTED [ 1102207991] ImWallmar_t          (  219.6,   305.1,  -164.3)
+  ;fling Vi
+2022-06-18T21:23:03Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  246.6,   257.6,   -60.5)
+  ;fly
+2022-06-18T21:23:14Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  268.2,   289.9,  -153.4)
+  ;poop neco
+2022-06-18T21:23:19Z: PLAYER CHATTED [ 3612019866] asasaasasasasad1     (  209.1,   349.7,   576.0)
+  who want to 1v1
+2022-06-18T21:23:20Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  349.3,   282.9,   -85.0)
+  ;spin me 20
+2022-06-18T21:23:34Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  305.5,   264.6,   -56.5)
+  ;width me 99
+2022-06-18T21:23:46Z: PLAYER CHATTED [  796048061] harunzock            (  257.4,   275.0,  -181.4)
+  ;ban Im_Walmart_r
+2022-06-18T21:23:49Z: PLAYER REMOVED [ 1102207991] ImWallmar_t
+2022-06-18T21:23:51Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  268.9,   275.3,  -158.3)
+  ;qserverranks
+2022-06-18T21:23:57Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  252.8,   275.8,  -167.7)
+  ;serverranks
+2022-06-18T21:24:01Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  263.4,   297.5,  -139.8)
+  ;width  me 80
+2022-06-18T21:24:13Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  175.3,   298.5,  -154.7)
+  ;size me 99
+2022-06-18T21:24:26Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  375.7,   356.5,   -70.7)
+  ;width me 50
+2022-06-18T21:24:27Z: PLAYER CHATTED [  796048061] harunzock            (  274.7,   274.4,  -187.7)
+  ####
+2022-06-18T21:24:30Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  274.7,   580.2,  -147.1)
+  ;width me 99
+2022-06-18T21:24:36Z: PLAYER CHATTED [  796048061] harunzock            (  274.7,   274.4,  -187.7)
+  vanesa
+2022-06-18T21:24:38Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  375.7,   356.5,   -70.7)
+  ;width me 20
+2022-06-18T21:24:41Z: PLAYER ADDED   [ 2802032713] Minecraftjffh
+2022-06-18T21:24:46Z: CHRCTER ADDED  [ 2386317213] adoptadoptme222      (  214.5,   278.6,  -166.1)
+2022-06-18T21:24:47Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  214.5,   277.9,  -165.7)
+  ;Spin me
+2022-06-18T21:24:47Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  375.7,   356.5,   -70.7)
+  ;re
+2022-06-18T21:24:47Z: CHRCTER ADDED  [ 1655141658] XAddison_PlayingX    (  375.7,   356.5,   -70.7)
+2022-06-18T21:24:52Z: PLAYER CHATTED [  796048061] harunzock            (  274.7,   274.4,  -187.7)
+  schau jz auf den dynamic typen auf liste
+2022-06-18T21:24:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  218.5,   278.2,  -161.3)
+  hello
+2022-06-18T21:25:00Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  215.5,   275.7,  -176.6)
+  ;size me 30
+2022-06-18T21:25:09Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  240.1,   274.7,  -172.4)
+  ban
+2022-06-18T21:25:10Z: CHRCTER ADDED  [ 2386317213] adoptadoptme222      (  217.3,   278.7,  -165.4)
+2022-06-18T21:25:22Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  269.1,   274.7,  -179.8)
+  ###
+2022-06-18T21:25:23Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  217.3,   278.0,  -165.4)
+  ;bighead me
+2022-06-18T21:25:26Z: PLAYER CHATTED [  796048061] harunzock            (  268.7,   275.0,  -174.0)
+  ;ban ############################
+2022-06-18T21:25:35Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  225.2,   276.7,  -165.6)
+  ban you
+2022-06-18T21:25:42Z: PLAYER CHATTED [ 2386317213] adoptadoptme222      (  217.3,   281.8,  -165.4)
+  ;serverranks
+2022-06-18T21:25:47Z: PLAYER CHATTED [  796048061] harunzock            (  267.3,   275.0,  -176.8)
+  shu t up
+2022-06-18T21:25:50Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  263.2,   274.7,  -181.4)
+  No
+2022-06-18T21:25:54Z: PLAYER REMOVED [ 2386317213] adoptadoptme222
+2022-06-18T21:25:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  303.1,   261.7,   831.0)
+  can ban
+2022-06-18T21:26:01Z: PLAYER CHATTED [ 1655141658] XAddison_PlayingX    (  247.6,   259.7,   889.9)
+  ;ban Minecraftjffh
+2022-06-18T21:26:13Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  287.3,   259.7,   851.2)
+  ;ban 
+2022-06-18T21:26:15Z: PLAYER CHATTED [  796048061] harunzock            (  264.0,   260.0,   956.1)
+  ;ban ##########################
+2022-06-18T21:26:26Z: PLAYER REMOVED [ 1655141658] XAddison_PlayingX
+2022-06-18T21:26:31Z: PLAYER CHATTED [  691635668] VicDeth              (  197.0,   289.7,   792.9)
+  ;god
+2022-06-18T21:26:44Z: PLAYER CHATTED [  796048061] harunzock            (  270.3,   260.0,   940.3)
+  ;sword me
+2022-06-18T21:26:45Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  263.6,   259.7,   952.0)
+  ####
+2022-06-18T21:26:47Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  263.6,   259.7,   952.0)
+  ;ban
+2022-06-18T21:26:48Z: PLAYER CHATTED [  691635668] VicDeth              (  212.1,   289.7,   800.1)
+  ;tools
+2022-06-18T21:27:16Z: PLAYER ADDED   [ 1655141658] XAddison_PlayingX
+2022-06-18T21:27:17Z: PLAYER REMOVED [ 1655141658] XAddison_PlayingX
+2022-06-18T21:27:17Z: CHRCTER ADDED  [  691635668] VicDeth              (  204.6,   301.2,   811.8)
+2022-06-18T21:27:19Z: PLAYER CHATTED [  691635668] VicDeth              (  204.2,   260.0,   811.7)
+  ;re
+2022-06-18T21:27:30Z: PLAYER CHATTED [  796048061] harunzock            (  265.9,   260.0,   952.0)
+  MOHAMMED
+2022-06-18T21:27:35Z: PLAYER CHATTED [  796048061] harunzock            (  265.9,   260.0,   952.0)
+  WHY DID U BANN HER
+2022-06-18T21:27:43Z: PLAYER CHATTED [  796048061] harunzock            (  263.5,   260.0,   956.1)
+  motherless kid
+2022-06-18T21:27:47Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  257.8,   259.7,   963.4)
+  back
+2022-06-18T21:27:51Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  257.8,   259.7,   963.4)
+  what happened 
+2022-06-18T21:27:52Z: PLAYER CHATTED [  691635668] VicDeth              (  252.1,   260.0,   956.4)
+  ;size 11
+2022-06-18T21:27:53Z: PLAYER CHATTED [  796048061] harunzock            (  263.5,   260.0,   956.1)
+  get lost in your game world
+2022-06-18T21:27:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  257.8,   259.7,   963.4)
+  ban
+2022-06-18T21:27:58Z: PLAYER CHATTED [  691635668] VicDeth              (  252.1,   260.0,   956.4)
+  ;size me 11
+2022-06-18T21:28:05Z: PLAYER REMOVED [  796048061] harunzock
+2022-06-18T21:28:17Z: PLAYER CHATTED [  691635668] VicDeth              (  238.6,   350.2,   924.0)
+  ;tp VisualPlugin
+2022-06-18T21:28:36Z: CHRCTER ADDED  [ 2802032713] Minecraftjffh        (  211.3,   278.0,  -162.2)
+2022-06-18T21:28:42Z: PLAYER CHATTED [  691635668] VicDeth              (  156.4,   350.2,   820.4)
+  ban
+2022-06-18T21:28:48Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  229.2,   275.3,  -163.5)
+  what 
+2022-06-18T21:28:55Z: PLAYER CHATTED [  691635668] VicDeth              (  156.4,   350.2,   820.4)
+  ;ban Minecraft
+2022-06-18T21:28:55Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  226.9,   276.3,  -166.0)
+  ;name me ban
+2022-06-18T21:29:02Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  221.7,   259.7,   850.3)
+  ;ban
+2022-06-18T21:29:21Z: PLAYER CHATTED [  691635668] VicDeth              (  201.1,   212.2,   891.4)
+  ;re
+2022-06-18T21:29:21Z: CHRCTER ADDED  [  691635668] VicDeth              (  198.3,   223.6,   889.7)
+2022-06-18T21:29:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  249.6,   260.7,   834.6)
+  :cmds
+2022-06-18T21:29:41Z: PLAYER REMOVED [  691635668] VicDeth
+2022-06-18T21:30:03Z: PLAYER ADDED   [  691635668] VicDeth
+2022-06-18T21:30:03Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  201.6,   320.2,   785.0)
+  ;re
+2022-06-18T21:30:04Z: CHRCTER ADDED  [ 2802032713] Minecraftjffh        (  201.6,   320.1,   785.0)
+2022-06-18T21:30:05Z: PLAYER REMOVED [  691635668] VicDeth
+2022-06-18T21:30:15Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  201.5,   320.2,   785.0)
+  ;kick a
+2022-06-18T21:30:16Z: PLAYER REMOVED [ 3612019866] asasaasasasasad1
+2022-06-18T21:30:20Z: PLAYER ADDED   [ 2493706823] Bigman9464
+2022-06-18T21:30:37Z: PLAYER ADDED   [ 2240611547] penguinboy334
+2022-06-18T21:30:40Z: PLAYER REMOVED [ 2493706823] Bigman9464
+2022-06-18T21:30:50Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.5,   320.2,   826.1)
+  ahhah
+2022-06-18T21:30:53Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.5,   320.2,   826.1)
+  ;tp all me
+2022-06-18T21:30:54Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  171.9,   320.4,   827.9)
+  ;ban all
+2022-06-18T21:30:57Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  178.6,   320.2,   824.9)
+  No
+2022-06-18T21:31:02Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  178.6,   320.2,   824.9)
+  ban me
+2022-06-18T21:31:04Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  171.9,   320.5,   827.9)
+  ;ban Mo
+2022-06-18T21:31:07Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  171.9,   320.5,   827.9)
+  Wait
+2022-06-18T21:31:08Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  176.8,   320.2,   827.0)
+  Can't 
+2022-06-18T21:31:15Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.8,   320.2,   826.7)
+  rank ban
+2022-06-18T21:31:19Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  171.9,   320.5,   827.9)
+  ;ban mine
+2022-06-18T21:31:24Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.8,   320.2,   826.7)
+  Rank ban
+2022-06-18T21:31:37Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.5,   320.2,   826.1)
+  #######
+2022-06-18T21:31:42Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  176.7,   320.5,   831.2)
+  I can’t ban yiu
+2022-06-18T21:31:43Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.4,   320.2,   828.2)
+  rank me ban 
+2022-06-18T21:31:49Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  173.8,   320.5,   834.3)
+  How
+2022-06-18T21:31:49Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.4,   320.2,   828.2)
+  yes
+2022-06-18T21:31:52Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  173.8,   320.5,   834.3)
+  ??
+2022-06-18T21:31:53Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.4,   320.2,   828.8)
+  rank ban
+2022-06-18T21:31:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  174.8,   320.2,   830.4)
+  I ###
+2022-06-18T21:31:59Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  175.6,   320.5,   833.3)
+  Your not
+2022-06-18T21:32:04Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  175.6,   320.5,   833.3)
+  ;admins
+2022-06-18T21:32:09Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  ;name me ban
+2022-06-18T21:32:15Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  No fake
+2022-06-18T21:32:16Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  175.6,   320.5,   833.3)
+  I’m Ben too
+2022-06-18T21:32:19Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  yes
+2022-06-18T21:32:24Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  why kick apl
+2022-06-18T21:32:25Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  174.8,   320.5,   829.7)
+  I’m ban too
+2022-06-18T21:32:28Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  yes
+2022-06-18T21:32:31Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  174.8,   320.5,   829.7)
+  Wanna abuse
+2022-06-18T21:32:42Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.0)
+  why you kick all 
+2022-06-18T21:32:47Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  174.8,   320.5,   829.7)
+  Because
+2022-06-18T21:32:52Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  175.0,   320.2,   826.2)
+  I
+2022-06-18T21:32:54Z: PLAYER REMOVED [ 2240611547] penguinboy334
+2022-06-18T21:32:55Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  221.6,   280.1,  -139.2)
+2022-06-18T21:32:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  176.5,   320.2,   824.1)
+  ban 3
+2022-06-18T21:33:17Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  146.2,   320.2,   816.3)
+  ;tp all me
+2022-06-18T21:33:18Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  215.6,   279.7,  -168.2)
+2022-06-18T21:33:28Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  146.2,   320.2,   816.3)
+  ;time 9
+2022-06-18T21:33:30Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  146.2,   320.2,   816.3)
+  ;fly
+2022-06-18T21:34:02Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  228.9,   275.2,  -171.3)
+  ..
+2022-06-18T21:34:35Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  217.9,   276.7,  -149.8)
+  player 
+2022-06-18T21:34:37Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  217.1,   282.0,  -156.6)
+  2
+2022-06-18T21:34:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  267.7,   274.7,  -170.5)
+  ;byools
+2022-06-18T21:35:00Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  267.7,   274.7,  -170.5)
+  ;btools
+2022-06-18T21:36:51Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  271.4,   274.4,  -169.6)
+  ..
+2022-06-18T21:37:04Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  271.4,   274.4,  -169.6)
+  ;time
+2022-06-18T21:38:13Z: PLAYER ADDED   [ 2240611547] penguinboy334
+2022-06-18T21:38:25Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  218.2,   277.4,  -158.4)
+  hello
+2022-06-18T21:38:28Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  218.8,   278.2,  -162.3)
+  ban
+2022-06-18T21:38:30Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  215.8,   278.6,  -160.1)
+  Hello
+2022-06-18T21:38:32Z: PLAYER CHATTED [ 2240611547] penguinboy334        (  215.8,   278.6,  -160.1)
+  Ggg
+2022-06-18T21:38:33Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  218.8,   278.0,  -162.3)
+  too ban
+2022-06-18T21:38:34Z: PLAYER REMOVED [ 2240611547] penguinboy334
+2022-06-18T21:38:38Z: PLAYER ADDED   [ 3429469570] 8rhzmudjdons800
+2022-06-18T21:38:56Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  271.4,   274.4,  -169.6)
+  hello
+2022-06-18T21:39:11Z: PLAYER REMOVED [ 3429469570] 8rhzmudjdons800
+2022-06-18T21:39:37Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  249.5,   276.8,  -154.3)
+  played 2
+2022-06-18T21:39:39Z: PLAYER ADDED   [ 3623176103] Wyalackin
+2022-06-18T21:39:57Z: PLAYER CHATTED [ 3623176103] Wyalackin            (  262.0,   275.0,  -170.9)
+  :ban all
+2022-06-18T21:40:06Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  271.4,   274.4,  -169.6)
+  hello
+2022-06-18T21:40:17Z: PLAYER CHATTED [ 3623176103] Wyalackin            (  258.2,   275.0,  -173.2)
+  :ban others
+2022-06-18T21:40:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  261.4,   275.7,  -178.8)
+  Hi.
+2022-06-18T21:40:20Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  262.3,   274.7,  -171.7)
+  Naoa
+2022-06-18T21:40:26Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  262.3,   274.7,  -171.7)
+  Bam
+2022-06-18T21:40:26Z: PLAYER CHATTED [ 3623176103] Wyalackin            (  258.4,   275.0,  -173.1)
+  ;ban others
+2022-06-18T21:40:27Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  262.3,   274.7,  -171.7)
+  ban
+2022-06-18T21:40:33Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  260.6,   274.7,  -171.4)
+  ;ban
+2022-06-18T21:40:35Z: PLAYER CHATTED [ 3623176103] Wyalackin            (  258.4,   322.0,  -173.1)
+  ;jail all
+2022-06-18T21:40:52Z: PLAYER REMOVED [ 3623176103] Wyalackin
+2022-06-18T21:40:57Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  262.2,   274.9,  -174.3)
+  ;unjail all
+2022-06-18T21:41:06Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  258.6,   274.7,  -175.9)
+  Ban
+2022-06-18T21:41:12Z: PLAYER CHATTED [ 2802032713] Minecraftjffh        (  271.4,   274.4,  -169.6)
+  zz
+2022-06-18T21:42:21Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-06-18T21:42:21Z: PLAYER REMOVED [ 2802032713] Minecraftjffh

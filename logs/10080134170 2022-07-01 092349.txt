@@ -1,0 +1,215 @@
+[    1630228] : [10080134170] A Blockate World. - f3cef64d-4454-467e-8d43-bfadf3d9bce4
+2022-07-01T09:23:49Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-01T09:23:50Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-01T09:23:50Z: PLAYER ADDED   [ 3109050268] Avionlix
+2022-07-01T09:23:59Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:25:01Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:25:02Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   108.2,     0.0)
+2022-07-01T09:25:20Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:25:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   108.2,     0.0)
+2022-07-01T09:25:29Z: PLAYER ADDED   [ 1092159466] ASAP12893
+2022-07-01T09:26:29Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:26:29Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   108.2,     0.0)
+2022-07-01T09:26:29Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   113.1,     0.0)
+2022-07-01T09:26:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,    25.1)
+  This has 666 blocks.
+2022-07-01T09:27:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.8,     5.0,   181.4)
+  Not 666 blocks long:
+2022-07-01T09:27:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.8,     5.0,   181.4)
+  It was made with 666 blocks.
+2022-07-01T09:27:28Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.1,     5.0,   193.0)
+  its kinda hard to setup the script you gave me
+2022-07-01T09:27:47Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:27:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:28:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,    10.0,     0.0)
+  One of my goals is to make my scripts easily executibl.
+2022-07-01T09:28:11Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:28:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,    10.0,     1.8)
+  What I did tonight doesn't reflect that well.
+2022-07-01T09:28:37Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.9,     5.0,    60.5)
+  it doesn't really matter that much because i'm not that good at exploiting
+2022-07-01T09:28:47Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:28:47Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   109.0,     0.0)
+2022-07-01T09:28:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.4,     5.0,   519.5)
+  What you said is precisely why is matters.
+2022-07-01T09:29:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (    1.5,     5.0,   554.0)
+  *It.
+2022-07-01T09:29:04Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  yeah
+2022-07-01T09:29:04Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:29:09Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,    10.0,     0.0)
+  so how do i do it?
+2022-07-01T09:29:20Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:29:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,    -0.6)
+  Just copy the contents of 'lib-build' where "exec'lib-build'" is.
+2022-07-01T09:29:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,    -0.6)
+  That I think should work.
+2022-07-01T09:29:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,    -0.6)
+  If it doesn't, debug.
+2022-07-01T09:29:50Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.8,     5.0,    13.8)
+  Why exploit in the first place
+2022-07-01T09:29:52Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.5,     5.0,    -1.5)
+  kk ill try
+2022-07-01T09:30:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.3,     5.0,     2.6)
+  it creates emergent gameplay.
+2022-07-01T09:30:17Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.4,     5.0,    12.5)
+  for you not the other players
+2022-07-01T09:30:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.3,     5.0,     2.6)
+  I am a programmer and a hacker by spirit.
+2022-07-01T09:30:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.4,     5.0,     2.6)
+  Running your own code on a public server is awesome.
+2022-07-01T09:30:36Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:30:50Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.4,     5.0,    12.5)
+  use your knowledge for good not for bad
+2022-07-01T09:30:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     4.5)
+  I run a dictatorship.
+2022-07-01T09:31:15Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.4,     5.0,    12.5)
+  That helped who
+2022-07-01T09:31:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,     4.5)
+  What do I know about good?
+2022-07-01T09:31:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     4.9,    11.4)
+  I helped your continent get cheap petrol!
+2022-07-01T09:31:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     4.9,    11.4)
+  Imagine this!
+2022-07-01T09:31:35Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.4,     5.0,    12.5)
+  not really
+2022-07-01T09:31:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,    11.4)
+  £1.30 in July 2022!
+2022-07-01T09:31:45Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:31:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  1 pound 30!
+2022-07-01T09:31:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  TODAY!
+2022-07-01T09:31:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  In 2022!
+2022-07-01T09:32:17Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.3,     5.0,     5.1)
+  you did nothing
+2022-07-01T09:32:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  My fellow Californian customers get petrol for $5.3/gal.
+2022-07-01T09:32:27Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:32:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  They on average pay $6.0/gal.
+2022-07-01T09:32:55Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.3,     5.0,     5.1)
+  What has this got to do with that
+2022-07-01T09:33:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  You asked me what I did.
+2022-07-01T09:33:09Z: PLAYER CHATTED [ 3109050268] Avionlix             (   -0.3,     5.0,     5.1)
+  what has programming blocks have to do with that
+2022-07-01T09:33:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  I save people in the Earthly nations from their own economic crises.
+2022-07-01T09:33:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  You told me to use my power for good and not for evil.
+2022-07-01T09:34:21Z: PLAYER ADDED   [ 2272763724] SethHarry_Decals
+2022-07-01T09:34:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  I am getting word from my London Vecistani petrol station.
+2022-07-01T09:35:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.1,     5.0,    11.1)
+  Prices are now £1.65.
+2022-07-01T09:35:15Z: CHRCTER ADDED  [ 2272763724] SethHarry_Decals     (    0.0,   103.1,     0.0)
+2022-07-01T09:35:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.4,     5.0,    15.1)
+  I was WAY out of date.
+2022-07-01T09:35:39Z: PLAYER REMOVED [ 2272763724] SethHarry_Decals
+2022-07-01T09:36:01Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:36:50Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:36:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   108.2,     0.0)
+2022-07-01T09:36:50Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   113.3,     0.0)
+2022-07-01T09:37:02Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.1,     5.0,    -1.0)
+  seems like it didn't work, that's kinda sad
+2022-07-01T09:37:15Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.1,     5.0,    -1.0)
+  indonesia flags
+2022-07-01T09:37:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,    25.7)
+  Any error messages?
+2022-07-01T09:37:21Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  ye
+2022-07-01T09:37:23Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:37:48Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:37:57Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:37:58Z: PLAYER CHATTED [ 3109050268] Avionlix             (    0.0,     5.0,     0.0)
+  /w VisualPlugin  Look on the kord
+2022-07-01T09:38:45Z: CHRCTER ADDED  [ 3109050268] Avionlix             (    0.0,   103.1,     0.0)
+2022-07-01T09:38:45Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   108.2,     0.0)
+2022-07-01T09:38:46Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   113.3,     0.0)
+2022-07-01T09:39:31Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,    -1.1)
+  huh.
+2022-07-01T09:39:42Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:39:46Z: PLAYER CHATTED [    1630228] VisualPlugin        
+  That was me.
+2022-07-01T09:39:47Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:39:52Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:40:24Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -0.2,     9.0,   373.5)
+  okay in conclusion
+2022-07-01T09:40:30Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.6,     9.0,   424.4)
+  it didn't work
+2022-07-01T09:40:57Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:41:03Z: PLAYER REMOVED [ 3109050268] Avionlix
+2022-07-01T09:43:04Z: PLAYER ADDED   [ 2961790639] howdareyoucarrotudie
+2022-07-01T09:45:05Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.2,     9.0,   292.6)
+  wait
+2022-07-01T09:45:12Z: PLAYER CHATTED [ 1092159466] ASAP12893            (   -1.2,     9.0,   292.6)
+  is this MENT to be used with "jjsploit"
+2022-07-01T09:45:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     9.0,  3698.3)
+  Not necessarily.
+2022-07-01T09:45:21Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:45:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     9.0,  3698.3)
+  You might be missing my auto-exec script.
+2022-07-01T09:45:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     9.0,  3698.3)
+  It sets up custom environment variables.
+2022-07-01T09:45:47Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.5,     9.0,    98.4)
+  yeah.
+2022-07-01T09:45:53Z: PLAYER CHATTED [ 1092159466] ASAP12893           
+  i'm definitely missing it
+2022-07-01T09:45:56Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:46:34Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,    10.0,     0.0)
+  so how'd i insert it in here
+2022-07-01T09:47:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.7,     9.0,  3638.5)
+  Try inserting just the function definitions from 'lib-build'.
+2022-07-01T09:47:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.7,     9.0,  3638.5)
+  Then checking if any variables are missing.
+2022-07-01T09:47:56Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.3,     9.0,   161.6)
+  k
+2022-07-01T09:47:58Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    1.3,     9.0,   161.6)
+  i'll try
+2022-07-01T09:48:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:48:08Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   108.2,     0.0)
+2022-07-01T09:48:08Z: CHRCTER ADDED  [ 2961790639] howdareyoucarrotudie (    0.0,   113.3,     0.0)
+2022-07-01T09:48:11Z: PLAYER CHATTED [ 2961790639] howdareyoucarrotudie (    3.7,  -247.2,    -6.3)
+  e###
+2022-07-01T09:48:19Z: CHRCTER ADDED  [ 2961790639] howdareyoucarrotudie (   -0.2,     8.8,     5.0)
+2022-07-01T09:48:32Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:48:40Z: PLAYER REMOVED [ 2961790639] howdareyoucarrotudie
+2022-07-01T09:49:18Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:49:19Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+  still. didn't work,
+2022-07-01T09:49:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.1,     5.0,    87.6)
+  Hit F9.
+2022-07-01T09:49:33Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  yeah
+2022-07-01T09:49:34Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  there's errors
+2022-07-01T09:49:36Z: CHRCTER ADDED  [    1630228] VisualPlugin         (    0.0,   103.1,     0.0)
+2022-07-01T09:49:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (    0.0,    10.0,     0.0)
+  Which ones?
+2022-07-01T09:49:51Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.1,     5.0,    15.8)
+  keeps indexing ### something
+2022-07-01T09:49:54Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.1,     5.0,     0.1)
+  null
+2022-07-01T09:49:57Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.2,     5.0,    40.9)
+  or
+2022-07-01T09:50:05Z: CHRCTER ADDED  [ 1092159466] ASAP12893            (    0.0,   103.1,     0.0)
+2022-07-01T09:50:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.4,     5.0,    51.2)
+  Looks like a function definition is missing.
+2022-07-01T09:50:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.4,     5.0,    51.2)
+  Line number too.
+2022-07-01T09:50:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.4,     5.0,    51.2)
+  It's like normal scripting, but you have no step debugger.
+2022-07-01T09:50:47Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  yeah
+2022-07-01T09:50:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,    14.6)
+  I should get going now.
+2022-07-01T09:50:55Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  okay
+2022-07-01T09:50:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   -0.2,     5.0,    14.6)
+  Good morning!
+2022-07-01T09:51:17Z: PLAYER CHATTED [ 1092159466] ASAP12893            (    0.0,     5.0,     0.0)
+  good afternoon
+2022-07-01T09:51:20Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-01T09:51:20Z: PLAYER REMOVED [ 1092159466] ASAP12893
