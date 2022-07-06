@@ -1,6 +1,5 @@
 local args = _G.EXEC_ARGS
 local env = getfenv()
-local evt = Instance.new'BindableEvent'
 
 local FUNCS = {}
 local function load(i, s, d) FUNCS[s] = args[s] or env[s] or args[i] or d end
@@ -13,6 +12,7 @@ load(6, 'BLOCK_CHUNK_SIZE', -1)
 load(7, 'BLOCK_CHUNK_PERIOD', 0)
 
 _G.build_last_cleared = _G.build_last_cleared or tick()
+_G.build_evt = _G.build_evt or Instance.new'BindableEvent'
 _G.build_store = _G.build_store or {}
 _G.build_cache = _G.build_cache or {}
 _G.build_queue = _G.build_queue or {}
@@ -39,13 +39,15 @@ spawn(
 			end
 
 			if #queue > 0 then
-				local queue_args = table.remove(queue)
+				local queue_args = queue[#queue]
 				local cf = queue_args[1]
 				_G.build_cache[cf] = true
+				queue[#queue] = nil
 				count = count + 1
 				spawn(
 					function()
-						local o = FUNCS.ADD_BLOCK(unpack(queue_args))
+						local s, o = pcall(FUNCS.ADD_BLOCK, unpack(queue_args))
+						if not s then o = nil end
 						_G.build_cache[cf] = nil
 						if o then
 							if not FUNCS.WAIT_FOR_BLOCK then
@@ -53,7 +55,7 @@ spawn(
 								_G.build_store[k] = o
 							end
 						end
-						evt:Fire(cf, o)
+						_G.build_evt:Fire(cf, o)
 					end)
 			else
 				wait()
@@ -76,7 +78,7 @@ if FUNCS.WAIT_FOR_BLOCK then
 
 				_G.build_store[cache_key(near_cf)] = obj
 				_G.build_cache[near_cf] = nil
-				evt:Fire(near_cf, obj)
+				_G.build_evt:Fire(near_cf, obj)
 			end
 		end)
 end
@@ -99,17 +101,20 @@ local function make(cfs, ...)
 			for i = #queue, 1, -1 do queue[i + #cfs] = queue[i] end
 
 			-- Adds new CFrames to the queue.
-			for i, cf in next, cfs do
+			local c = 1
+			for i = #cfs, 1, -1 do
+				local cf = cfs[i]
 				cf_list[i] = cf
 				local s = cache_key(cf)
 				if store[s] == nil then
+					queue[c] = {cf, unpack(a)}
 					store[s] = false
-					queue[i] = {cf, unpack(a)}
+					c = c + 1
 				end
 			end
 		end)
 
-	local con = evt.Event:Connect(
+	local con = _G.build_evt.Event:Connect(
 		function(cf, obj)
 			local i = table.find(cf_list, cf)
 			if not i then return end
@@ -147,6 +152,9 @@ end
 
 local function reset()
 	local b = true
+	table.clear(_G.build_queue)
+	while next(_G.build_cache) do _G.build_evt.Event:Wait() end
+	table.clear(_G.build_queue)
 	if FUNCS.CLEAR_BLOCKS then
 		FUNCS.CLEAR_BLOCKS()
 		for s, o in next, _G.build_store do
@@ -166,9 +174,8 @@ local function reset()
 		end
 	end
 
-	-- Sets clear state and resets the slate.
+	-- Toggles clear state and resets the slate.
 	if b then
-		table.clear(_G.build_queue)
 		_G.build_last_cleared = nil
 		wait(1)
 		_G.build_last_cleared = tick()

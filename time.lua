@@ -7,7 +7,7 @@ if #args == 1 and args[1] == false then
 	return
 end
 
-local format = args[1] or [[Happy %H:%M:%S UTC!]]
+local format = args[1] or [[Happy %H:%M UTC!]]
 local write = args[2] or function(m, t)
 	game:GetService('ReplicatedStorage'):WaitForChild(
 		'DefaultChatSystemChatEvents'):WaitForChild('SayMessageRequest'):FireServer(
