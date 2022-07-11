@@ -1,0 +1,1602 @@
+[    1630228] : [  332146943] Therapy Session [VOICE ENABLED] - c098e02a-acfb-4f9b-8261-b9a99217b4c9
+2022-07-11T07:35:05Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-11T07:35:05Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-11T07:36:19Z: PLAYER ADDED   [ 1750853538] XxautumnsxX2
+2022-07-11T07:36:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Welcome.
+2022-07-11T07:36:27Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   47.8,     4.3,    64.8)
+  Hell
+2022-07-11T07:36:30Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   45.6,     4.3,    64.2)
+  Hello-
+2022-07-11T07:36:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Heav
+2022-07-11T07:36:35Z: PLAYER ADDED   [ 1047370543] fhutfygfyfy
+2022-07-11T07:36:37Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   45.6,     4.3,    64.2)
+  Sorry 
+2022-07-11T07:36:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Heaven-
+2022-07-11T07:36:46Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I meant to say sorry*
+2022-07-11T07:36:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  You're good.
+2022-07-11T07:36:53Z: PLAYER CHATTED [ 1047370543] fhutfygfyfy          (   42.9,     4.3,    60.6)
+  Yo
+2022-07-11T07:36:53Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I mean
+2022-07-11T07:36:56Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Hello-
+2022-07-11T07:36:58Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  LOL
+2022-07-11T07:36:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  We all know what today is.
+2022-07-11T07:37:05Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  What is today?
+2022-07-11T07:37:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Today is your first session with a new therapist.
+2022-07-11T07:37:17Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Oh yea
+2022-07-11T07:37:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  We've all had that happen to us:
+2022-07-11T07:37:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  We mèét a new person for the first time.
+2022-07-11T07:37:34Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I’ve never had a real therapist 
+2022-07-11T07:37:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  'What will he be like'?
+2022-07-11T07:37:44Z: PLAYER REMOVED [ 1047370543] fhutfygfyfy
+2022-07-11T07:37:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I've had therapy years ago,
+2022-07-11T07:37:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  But not for substace abuse.
+2022-07-11T07:38:02Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Does it help?
+2022-07-11T07:38:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I didn't help myself.
+2022-07-11T07:38:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  That's what I'll say.
+2022-07-11T07:38:14Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Oh.
+2022-07-11T07:38:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I am your there-apist.
+2022-07-11T07:38:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  There-
+2022-07-11T07:38:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Apush.
+2022-07-11T07:38:38Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Ok
+2022-07-11T07:39:00Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  . 
+2022-07-11T07:39:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Tell me your problems in the form of a C++ #include statement.
+2022-07-11T07:39:15Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Oh ok so well.
+2022-07-11T07:39:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I should mention.
+2022-07-11T07:39:40Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I am having these terrible thoughts/
+2022-07-11T07:39:44Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Dying*
+2022-07-11T07:39:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I log all my chats to my Di server,
+2022-07-11T07:39:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I log all my chats,
+2022-07-11T07:39:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  And so is Roblox,
+2022-07-11T07:40:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  So confidentiality is already broken.
+2022-07-11T07:40:07Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Lol
+2022-07-11T07:40:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I apologise for not having remembered to say that.
+2022-07-11T07:40:21Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Ok
+2022-07-11T07:40:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  That's part of why I asked for the problems in C++.
+2022-07-11T07:40:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Or Yython.
+2022-07-11T07:40:46Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Ohh ok
+2022-07-11T07:40:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Python.
+2022-07-11T07:40:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Anything I can debug.
+2022-07-11T07:40:54Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  May I ask what they r?
+2022-07-11T07:41:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Any programming language you feel comfortable with using.
+2022-07-11T07:41:23Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Wow ok
+2022-07-11T07:41:41Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Well, yea latley I’ve just been thinking of dying
+2022-07-11T07:41:50Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Like I feel like there no point for me
+2022-07-11T07:41:57Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I feel worthless 
+2022-07-11T07:42:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  No you're not.
+2022-07-11T07:42:11Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I am
+2022-07-11T07:42:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Can you show me an example?
+2022-07-11T07:42:42Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  This even happened when I was little for example when I was
+2022-07-11T07:42:48Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I would get a knife
+2022-07-11T07:42:54Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  And point it at myself
+2022-07-11T07:43:04Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Yesterday o tried to strangle myself
+2022-07-11T07:43:10Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  But, feeling bad
+2022-07-11T07:43:20Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I just think of all the bad hints
+2022-07-11T07:43:22Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Things*
+2022-07-11T07:43:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Let's look at the good hints/things.
+2022-07-11T07:43:41Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  You're here with a programmer.
+2022-07-11T07:43:44Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  I’ve tried that for a couple years
+2022-07-11T07:44:04Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.0,     4.3,    62.7)
+  It worked for a little
+2022-07-11T07:44:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  I forgot to mention.
+2022-07-11T07:44:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  My chats are actually logged to GitHub.
+2022-07-11T07:44:39Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.0,     4.3,    62.7)
+  Oh
+2022-07-11T07:44:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  Not much different,
+2022-07-11T07:44:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  But you can't put toxic comments on my chats.
+2022-07-11T07:45:14Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.0,     4.3,    62.7)
+  Wdym?
+2022-07-11T07:45:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.6,     4.2,    53.6)
+  One thing GitHub is is a code sharing platform.
+2022-07-11T07:45:37Z: PLAYER CHATTED [ 1750853538] XxautumnsxX2         (   40.9,     4.2,    66.2)
+  Oh 
+2022-07-11T07:45:44Z: PLAYER REMOVED [ 1750853538] XxautumnsxX2
+2022-07-11T07:45:47Z: PLAYER ADDED   [ 2063315205] Xxroise_doggyXx
+2022-07-11T07:45:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Welcome to me.
+2022-07-11T07:46:08Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  helo
+2022-07-11T07:46:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  I will be your cout-sultant.
+2022-07-11T07:46:47Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  my English might be bad 
+2022-07-11T07:46:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  I can take any problems you provide in C++ and probably debug it.
+2022-07-11T07:46:55Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  ### ######
+2022-07-11T07:47:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  ¿Hablas español?
+2022-07-11T07:47:19Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I'm from France
+2022-07-11T07:47:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Got it.
+2022-07-11T07:47:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Jeu recogé un program en C++ et le debugge.
+2022-07-11T07:48:50Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  ty but I moved from france when I was10 I don't rember everything
+2022-07-11T07:49:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  No problem!
+2022-07-11T07:50:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Are there any memory leaks you may have had recently?
+2022-07-11T07:50:09Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  But I am here because I was deaf ## ##### life and I just got my hearing
+2022-07-11T07:50:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Nice!
+2022-07-11T07:51:27Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  Ty! but My Adoptive parents are always busy and they do not know yet
+2022-07-11T07:51:43Z: PLAYER ADDED   [ 1047370543] fhutfygfyfy
+2022-07-11T07:51:52Z: PLAYER CHATTED [ 1047370543] fhutfygfyfy          (   47.1,     4.3,    64.8)
+  Hi
+2022-07-11T07:52:03Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  and I don't know how to talk yet
+2022-07-11T07:52:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Send them text.
+2022-07-11T07:52:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Or as I say: «le text».
+2022-07-11T07:52:43Z: PLAYER REMOVED [ 1047370543] fhutfygfyfy
+2022-07-11T07:53:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Or an email.
+2022-07-11T07:53:10Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  my parents don't have ######
+2022-07-11T07:53:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Which one?
+2022-07-11T07:54:02Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  both
+2022-07-11T07:54:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Send them a letter where you know they will check.
+2022-07-11T07:55:03Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+   I actually will try that
+2022-07-11T07:55:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Also let them know that you can't understand speech just yet.
+2022-07-11T07:56:09Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  but I had to pay for my computer and we don't have enough money to pay to ## ## ### ##### ######
+2022-07-11T07:56:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Sorry?
+2022-07-11T07:56:40Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  everybody in my family has a job including mw
+2022-07-11T07:56:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Got it.
+2022-07-11T07:57:22Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I have been stressed for a while now I barley  get any sleep
+2022-07-11T07:57:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  You got your hearing.
+2022-07-11T07:58:14Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+   yes 
+2022-07-11T07:58:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  That's something to celebwheat.
+2022-07-11T07:58:55Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I have no time and I don't know what stuff is and i can just sit in mu
+2022-07-11T07:59:14Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  room until I figure out what is what
+2022-07-11T07:59:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  There's probably a constant droning sound coming from another room.
+2022-07-11T07:59:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  A low pitch, if you will.
+2022-07-11T08:00:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  If you're alone in the house, those sounds come either from fans or from outside.
+2022-07-11T08:00:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  If the sounds fade in and out,
+2022-07-11T08:00:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  they're vehicles.
+2022-07-11T08:00:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  If you're not alone, there could be clanking sounds if someone is in the kitchen.
+2022-07-11T08:01:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Or any variety of talking noises and such if the TV is on.
+2022-07-11T08:03:31Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I have learned what some stuff is such as wind vehicles and screaming and gunshots my cousin told me just in case of danger
+2022-07-11T08:03:56Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  other than that I don't know anything else
+2022-07-11T08:04:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  That's really useful!
+2022-07-11T08:05:29Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  but I cant really understand what letters sound yet 
+2022-07-11T08:05:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  That will be difficult.
+2022-07-11T08:06:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Both in English and in French.
+2022-07-11T08:06:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Letters don't map one-to-one to sounds.
+2022-07-11T08:06:41Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  oh. I thought it would be a bit easy
+2022-07-11T08:07:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  I'll be back.
+2022-07-11T08:07:45Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  im going to start by writing a note to other people in school and asking them to teach me
+2022-07-11T08:07:53Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  oh ok.
+2022-07-11T08:08:17Z: PLAYER ADDED   [ 3265333803] WavaIava11
+2022-07-11T08:08:40Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  hi
+2022-07-11T08:08:44Z: PLAYER ADDED   [ 3621281540] theyluv_hailxy
+2022-07-11T08:09:00Z: PLAYER REMOVED [ 3621281540] theyluv_hailxy
+2022-07-11T08:09:27Z: PLAYER REMOVED [ 3265333803] WavaIava11
+2022-07-11T08:10:48Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  i hear something weird and I can hear two really loud things
+2022-07-11T08:11:12Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I can't really make out what it is
+2022-07-11T08:11:21Z: PLAYER ADDED   [ 1568474456] dummymelanie
+2022-07-11T08:11:52Z: PLAYER REMOVED [ 1568474456] dummymelanie
+2022-07-11T08:18:09Z: PLAYER ADDED   [  134334166] GoldenBowArrow
+2022-07-11T08:18:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Back.
+2022-07-11T08:18:23Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   43.7,     4.3,    61.5)
+  excuse me
+2022-07-11T08:18:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  ¿?
+2022-07-11T08:18:31Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.4,     4.3,    59.7)
+  whose the ########
+2022-07-11T08:18:31Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  hello
+2022-07-11T08:18:34Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.4,     4.3,    59.7)
+  thearpist
+2022-07-11T08:18:43Z: PLAYER ADDED   [  312560463] 15xVibe
+2022-07-11T08:18:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Eyem the therapist.
+2022-07-11T08:18:52Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  I need someone to talk to
+2022-07-11T08:18:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Talk to us both.
+2022-07-11T08:19:01Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  doctor is just my comfort name
+2022-07-11T08:19:01Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  ###############################################
+2022-07-11T08:19:03Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.1,     4.3,    62.0)
+  what is this
+2022-07-11T08:19:08Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  ive been going through things
+2022-07-11T08:19:11Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  with my wi
+2022-07-11T08:19:13Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  e
+2022-07-11T08:19:14Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.2,     4.3,    60.5)
+  fe
+2022-07-11T08:19:23Z: PLAYER CHATTED [  312560463] 15xVibe              (   41.7,     6.4,    53.5)
+  yea..
+2022-07-11T08:19:23Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.0,     5.9,    54.6)
+  move damn it
+2022-07-11T08:19:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  This is a seshun.
+2022-07-11T08:19:25Z: PLAYER CHATTED [  312560463] 15xVibe              (   41.8,     6.5,    53.2)
+  :/
+2022-07-11T08:19:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  And we're all being shunned.
+2022-07-11T08:19:32Z: PLAYER CHATTED [  312560463] 15xVibe              (   42.0,     4.9,    56.7)
+  help
+2022-07-11T08:19:41Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.0,     5.9,    55.0)
+  how do i sit
+2022-07-11T08:19:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Help is provided.
+2022-07-11T08:19:43Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.5,     4.3,    60.5)
+  whos tge therapist
+2022-07-11T08:19:50Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     5.9,    55.4)
+  him 
+2022-07-11T08:19:52Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  also i heard two loud noises and something weird
+2022-07-11T08:19:52Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.4,     4.3,    60.2)
+  i need to talk
+2022-07-11T08:19:56Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     5.9,    55.4)
+  well all of us in our hearts
+2022-07-11T08:20:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  You sit by setting Humanoid.Sit to true.
+2022-07-11T08:20:04Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     5.9,    55.4)
+  we are sll thearpists
+2022-07-11T08:20:05Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.4,     4.3,    60.2)
+  I NEED HELP
+2022-07-11T08:20:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  Humanoid's sit property.
+2022-07-11T08:20:10Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     5.9,    55.4)
+  :sit
+2022-07-11T08:20:12Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     5.9,    55.4)
+  ###
+2022-07-11T08:20:25Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.4,     4.3,    60.2)
+  im so mae
+2022-07-11T08:20:27Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.4,     4.3,    60.2)
+  mad
+2022-07-11T08:20:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.9,     4.2,    66.2)
+  You need a script executior to do that.
+2022-07-11T08:20:29Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.6,     5.3,    56.3)
+  sthu
+2022-07-11T08:20:34Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.3,     4.3,    57.4)
+  i see
+2022-07-11T08:20:36Z: PLAYER CHATTED [  312560463] 15xVibe              (   36.4,     4.3,    60.2)
+  I NEED TO TALK
+2022-07-11T08:20:38Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.5,     4.3,    57.4)
+  so u script
+2022-07-11T08:20:41Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.9,     4.3,    57.7)
+  can u build?
+2022-07-11T08:20:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    60.8)
+  Yes an dyes.
+2022-07-11T08:20:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    60.8)
+  *And yes.
+2022-07-11T08:20:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    60.8)
+  And also yes.
+2022-07-11T08:20:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    60.8)
+  Yes as well.
+2022-07-11T08:20:54Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   41.9,     4.3,    57.7)
+  how long have u been building
+2022-07-11T08:20:56Z: PLAYER CHATTED [  312560463] 15xVibe              (   40.9,     4.2,    66.2)
+  ok i said i need to talk
+2022-07-11T08:21:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    60.8)
+  Over y8s years.
+2022-07-11T08:21:08Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  dang so ur og
+2022-07-11T08:21:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  I've been around since 2008-11-30.
+2022-07-11T08:21:18Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  sthu zombie
+2022-07-11T08:21:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  That means I'm an 08.
+2022-07-11T08:21:27Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  the adults are talking
+2022-07-11T08:21:30Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  fr 
+2022-07-11T08:21:35Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  bro thats crazy 
+2022-07-11T08:21:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  Yeh!
+2022-07-11T08:21:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  2008 November 30!
+2022-07-11T08:21:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  Nov 30!
+2022-07-11T08:21:45Z: PLAYER CHATTED [  312560463] 15xVibe              (   39.3,     4.3,    57.7)
+  im so done
+2022-07-11T08:21:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  YES!
+2022-07-11T08:21:53Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  i have been building but stopped cause i couldnt use blender
+2022-07-11T08:21:54Z: PLAYER REMOVED [  312560463] 15xVibe
+2022-07-11T08:21:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  My Roblox account's account can use VC.
+2022-07-11T08:22:03Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  fr?
+2022-07-11T08:22:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  mine cant
+2022-07-11T08:22:25Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    62.4)
+  Im sorry ma'am i didnt mean to take away from this session
+2022-07-11T08:22:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    60.1)
+  I need 13 more years until my Roblox account's Roblox account's Roblox account can use VC.
+2022-07-11T08:22:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    59.9)
+  She's AFK.
+2022-07-11T08:22:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.7,     4.3,    59.9)
+  I believe.
+2022-07-11T08:22:45Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.8,     4.3,    61.6)
+  i noticed those glasses
+2022-07-11T08:22:47Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.8,     4.3,    61.6)
+  theyre og
+2022-07-11T08:22:48Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  back
+2022-07-11T08:22:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,     4.3,    61.6)
+  Wanna do this session together?
+2022-07-11T08:23:03Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.6,     4.3,    60.5)
+  Ill listen
+2022-07-11T08:23:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.6,     4.3,    60.5)
+  if thats ok
+2022-07-11T08:23:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  Doctor recently got her hearing for the first time.
+2022-07-11T08:23:15Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I heard something so I went outside it was a train 
+2022-07-11T08:23:27Z: PLAYER ADDED   [ 2844441518] PlayingDoomspire
+2022-07-11T08:23:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  Nice!
+2022-07-11T08:24:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  Have you ever heard the chromatic scale being played before?
+2022-07-11T08:24:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  It's got only 12 notes.
+2022-07-11T08:24:21Z: PLAYER REMOVED [ 2844441518] PlayingDoomspire
+2022-07-11T08:24:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  Their names (at least in French) are do, do#, re, re#, etc.
+2022-07-11T08:24:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  I think.
+2022-07-11T08:24:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  But In English, you call them C, C#, etc.
+2022-07-11T08:25:00Z: PLAYER ADDED   [  312560463] 15xVibe
+2022-07-11T08:25:09Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   42.5,     5.9,    54.4)
+  oh no
+2022-07-11T08:25:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    60.1)
+  After G#, it goes to A, then back to C.
+2022-07-11T08:25:14Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.7,     4.3,    69.4)
+  sit
+2022-07-11T08:25:17Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.7,     4.3,    69.4)
+  quietly
+2022-07-11T08:25:19Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.7,     4.3,    69.4)
+  inside voices
+2022-07-11T08:25:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.7,     4.3,    69.4)
+  shhh
+2022-07-11T08:25:22Z: PLAYER CHATTED [  312560463] 15xVibe              (   25.7,     7.0,    73.0)
+  /w GoldenBowArrow  whats hallening
+2022-07-11T08:25:27Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   30.9,     4.3,    71.2)
+  watch
+2022-07-11T08:25:27Z: PLAYER CHATTED [  312560463] 15xVibe              (   25.7,     7.0,    73.0)
+  afk
+2022-07-11T08:25:31Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   30.9,     4.3,    71.2)
+  dont talk
+2022-07-11T08:25:42Z: PLAYER CHATTED [  312560463] 15xVibe              (   25.7,     7.0,    73.0)
+  /w GoldenBowArrow  is he the owner
+2022-07-11T08:25:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.8,     4.3,    62.6)
+  Your chats are being logged on GitHub by the way.
+2022-07-11T08:25:54Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  no hes not
+2022-07-11T08:25:59Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  whats git hub?
+2022-07-11T08:26:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.8,     4.3,    62.6)
+  Code sharing platform.
+2022-07-11T08:26:22Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  so they can see our private messages>
+2022-07-11T08:26:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.6,     4.3,    61.7)
+  I log all server chats to a file,
+2022-07-11T08:26:24Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  ?
+2022-07-11T08:26:29Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  so ur the owner?
+2022-07-11T08:26:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.6,     4.3,    61.7)
+  They can see private messages sent to me.
+2022-07-11T08:26:31Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I have never heard of the chromatic scale before
+2022-07-11T08:26:41Z: PLAYER CHATTED [  312560463] 15xVibe              (   25.7,     7.0,    73.0)
+  wait he can see our messages
+2022-07-11T08:26:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.6,     4.3,    60.6)
+  I use a script executor.
+2022-07-11T08:26:50Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  yes he can theres no point
+2022-07-11T08:26:59Z: PLAYER CHATTED [  312560463] 15xVibe              (   25.7,     7.0,    73.0)
+  wth
+2022-07-11T08:26:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.3,     4.3,    59.6)
+  The chromatic scale are the notes tht make up most music today.
+2022-07-11T08:27:05Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  theres nothing with it
+2022-07-11T08:27:07Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    57.3)
+  im sorry
+2022-07-11T08:27:13Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  oh
+2022-07-11T08:27:20Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   27.5,     4.3,    53.9)
+  I feel horrible rn sir
+2022-07-11T08:27:24Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   27.5,     4.3,    53.9)
+  i dont wanna intrupt
+2022-07-11T08:27:27Z: PLAYER CHATTED [  312560463] 15xVibe              (   43.6,     4.3,    61.5)
+  whats haplening
+2022-07-11T08:27:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.9,     4.3,    57.0)
+  Roblox are tracking our chats anyway.
+2022-07-11T08:27:34Z: PLAYER CHATTED [  312560463] 15xVibe              (   43.6,     4.3,    61.5)
+  please excuse him
+2022-07-11T08:27:43Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   27.5,     4.3,    53.9)
+  /w 15xVibe  HOLY HELL HE CAN STILL SEE UR MESSAGES
+2022-07-11T08:27:43Z: PLAYER CHATTED [  312560463] 15xVibe              (   43.6,     4.3,    61.5)
+  hes some what slow
+2022-07-11T08:27:46Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   27.5,     4.3,    53.9)
+  roblox?
+2022-07-11T08:27:49Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.4,     4.3,    54.5)
+  wdym
+2022-07-11T08:27:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.2,     4.3,    58.7)
+  Whatever you say gets filtered.
+2022-07-11T08:28:04Z: PLAYER CHATTED [  312560463] 15xVibe              (   43.6,     4.3,    61.5)
+  wait what are you?
+2022-07-11T08:28:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.2,     4.3,    58.7)
+  You see people get banned for infractions that they see.
+2022-07-11T08:28:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.7,     4.3,    59.8)
+  I'm a plugi.
+2022-07-11T08:28:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.7,     4.3,    59.8)
+  *Plugin.
+2022-07-11T08:28:22Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   29.1,     4.3,    55.1)
+  wait so ur not a person?
+2022-07-11T08:28:23Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.0,     4.3,    59.6)
+  im so confused
+2022-07-11T08:28:24Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   29.1,     4.3,    55.1)
+  what?
+2022-07-11T08:28:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.0,     4.3,    58.8)
+  They can see what they typed.
+2022-07-11T08:28:29Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   29.1,     4.3,    55.1)
+  hows that possible
+2022-07-11T08:28:34Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.0,     4.3,    59.6)
+  who can
+2022-07-11T08:28:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.0,     4.3,    58.8)
+  I am an artificial intelligentlemen.
+2022-07-11T08:28:39Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.8,     4.3,    55.4)
+  plugins dont have that kind of power
+2022-07-11T08:28:40Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.8,     4.3,    59.8)
+  are you the owner
+2022-07-11T08:28:41Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.8,     4.3,    55.4)
+  do they
+2022-07-11T08:28:45Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.8,     4.3,    55.4)
+  nah 
+2022-07-11T08:28:47Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.8,     4.3,    55.4)
+  no way
+2022-07-11T08:28:50Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.8,     4.3,    59.8)
+  lies
+2022-07-11T08:28:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.0,     4.3,    58.8)
+  I am NOT the owner of the game.
+2022-07-11T08:28:56Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.8,     4.3,    59.8)
+  WOW
+2022-07-11T08:28:59Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.8,     4.3,    59.8)
+  U 
+2022-07-11T08:29:04Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.8,     4.3,    59.8)
+  HOW U DO THAT
+2022-07-11T08:29:13Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.4,     4.3,    61.0)
+  do u have admin
+2022-07-11T08:29:14Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   28.8,     4.3,    55.4)
+  theres no way that has to be impossible dude plugins are like F3X and stuff
+2022-07-11T08:29:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.4,     4.3,    69.0)
+  Script executor,
+2022-07-11T08:29:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.4,     4.3,    69.0)
+  I use JJSploit, but KRNL also works.
+2022-07-11T08:29:35Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.5,     4.3,    62.1)
+  so can u see me and his pms?
+2022-07-11T08:29:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    68.7)
+  I can not.
+2022-07-11T08:29:43Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.7,     4.3,    62.5)
+  oh
+2022-07-11T08:29:46Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.3)
+  i wasent saying anything bad
+2022-07-11T08:29:51Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.7,     4.3,    62.5)
+  he was
+2022-07-11T08:29:52Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.5,     4.3,    64.5)
+  i just didnt wanna intrupt
+2022-07-11T08:29:54Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.5,     4.3,    64.5)
+  bro
+2022-07-11T08:30:06Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I am just confused
+2022-07-11T08:30:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  anyway thats crazy ur age on roblox
+2022-07-11T08:30:14Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  like 2008
+2022-07-11T08:30:19Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  dude i was 3
+2022-07-11T08:30:19Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.5,     4.3,    59.5)
+  hi
+2022-07-11T08:30:26Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  hello
+2022-07-11T08:30:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    68.6)
+  And I was 8 and THREE/tenths.
+2022-07-11T08:30:33Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.2,     4.3,    57.7)
+  what do you do here?
+2022-07-11T08:30:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.0,     4.3,    68.6)
+  3/10.
+2022-07-11T08:30:39Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  its honeslty cool too meet such an og player
+2022-07-11T08:30:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  Thanks.
+2022-07-11T08:30:49Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  which was ur favorite egg hunt
+2022-07-11T08:30:51Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I do not understand
+2022-07-11T08:30:52Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  2018 i bet
+2022-07-11T08:30:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  None.
+2022-07-11T08:30:53Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.2,     4.3,    57.7)
+  how old r u
+2022-07-11T08:30:55Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  WHAT
+2022-07-11T08:30:59Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.2)
+  did u play them
+2022-07-11T08:31:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  I was 8.3 in late November 2008.
+2022-07-11T08:31:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  I made my own sucky games.
+2022-07-11T08:31:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  Calculate my age now.
+2022-07-11T08:31:18Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.2,     4.3,    65.2)
+  well if he was 8
+2022-07-11T08:31:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.2,     4.3,    65.2)
+  and its 2022
+2022-07-11T08:31:23Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.0,     4.3,    65.2)
+  do ur math
+2022-07-11T08:31:24Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  im
+2022-07-11T08:31:25Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.2,     4.3,    65.4)
+  how old
+2022-07-11T08:31:27Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.0,     4.3,    65.3)
+  idk
+2022-07-11T08:31:27Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.0,     4.3,    65.0)
+  bro
+2022-07-11T08:31:30Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.0,     4.3,    65.3)
+  u do it
+2022-07-11T08:31:32Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.0,     4.3,    65.0)
+  omg
+2022-07-11T08:31:38Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I was 8 in 2008
+2022-07-11T08:31:47Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.0,     4.3,    65.3)
+  like 30?
+2022-07-11T08:31:48Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.0,     4.3,    65.0)
+  14 plus 8
+2022-07-11T08:31:57Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.0,     4.3,    65.0)
+  makes sense since hes og
+2022-07-11T08:31:59Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.2,     4.3,    65.4)
+  22
+2022-07-11T08:32:02Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.2,     4.3,    65.4)
+  ?
+2022-07-11T08:32:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  I'm 22±0.5 years old,
+2022-07-11T08:32:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  12.9±0.03 to be more precise.
+2022-07-11T08:32:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.0)
+  makes sense hes been on the platform for awhile
+2022-07-11T08:32:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  *21.9.
+2022-07-11T08:32:31Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.0,     4.3,    65.6)
+  what do u think of the removal of tixs
+2022-07-11T08:32:37Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.2,     4.3,    65.4)
+  your so cool
+2022-07-11T08:32:43Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I'm 23 my birthday was last month
+2022-07-11T08:32:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  Not great,
+2022-07-11T08:32:47Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.6,     4.3,    61.8)
+  fr?
+2022-07-11T08:32:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.8,     4.3,    68.0)
+  Not liferuining.
+2022-07-11T08:32:54Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.9,     4.3,    63.6)
+  happy late bday
+2022-07-11T08:33:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.3,     4.3,    67.4)
+  Tix were being heavily inflated,
+2022-07-11T08:33:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.8,     4.3,    64.3)
+  thats true they have become a lot more business now
+2022-07-11T08:33:11Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    64.0)
+  mhm fake vists
+2022-07-11T08:33:13Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   39.1,     4.3,    59.6)
+  thank you
+2022-07-11T08:33:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.3,     4.3,    67.4)
+  So they kept losing value by 2016.
+2022-07-11T08:33:16Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    64.0)
+  al lthat
+2022-07-11T08:33:17Z: PLAYER CHATTED [  312560463] 15xVibe              (   38.1,     4.3,    63.6)
+  /w GoldenBowArrow  this is so cool these are literaly ogs
+2022-07-11T08:33:31Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    64.0)
+  Sad i joined as soon as tixs left
+2022-07-11T08:33:33Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    64.0)
+  /w 15xVibe  fr
+2022-07-11T08:33:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.6,     4.3,    67.7)
+  I don't like that because it made it harder to generate revenue.
+2022-07-11T08:33:47Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    64.7)
+  Thats ture
+2022-07-11T08:33:50Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.7,     4.3,    64.7)
+  true
+2022-07-11T08:33:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.6,     4.3,    67.7)
+  Premium payouts mostly fixed the problem.
+2022-07-11T08:33:54Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.9,     4.3,    64.1)
+  where there a lot or games back then
+2022-07-11T08:33:56Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  but the whole game have just became anime clickers And anime games
+2022-07-11T08:34:00Z: PLAYER CHATTED [  312560463] 15xVibe              (   37.0,     4.3,    65.6)
+  were*
+2022-07-11T08:34:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.6,     4.3,    67.7)
+  But when they came out, I already had a few places to shof off.
+2022-07-11T08:34:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   34.5,     4.3,    62.0)
+  and simulators
+2022-07-11T08:34:11Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.4,     4.3,    62.5)
+  ITS SO ANNOYING
+2022-07-11T08:34:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.7,     4.3,    65.6)
+  Avoid these games.
+2022-07-11T08:34:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.4,     4.3,    62.4)
+  i look for a good game and they mostly suck
+2022-07-11T08:34:33Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  avoid these games?
+2022-07-11T08:34:37Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I miss the old roblox
+2022-07-11T08:34:39Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  Like this game
+2022-07-11T08:34:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.9,     4.3,    64.0)
+  Don't look for them.
+2022-07-11T08:34:44Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  why?
+2022-07-11T08:34:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,     4.3,    62.5)
+  Not like this.
+2022-07-11T08:34:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,     4.3,    62.5)
+  Avoid the sims and tycòóns.
+2022-07-11T08:34:56Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  OH
+2022-07-11T08:34:58Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  i was like
+2022-07-11T08:35:00Z: PLAYER CHATTED [  312560463] 15xVibe              (   41.5,     4.3,    61.7)
+  why?
+2022-07-11T08:35:00Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    61.3)
+  oh damn
+2022-07-11T08:35:06Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  afk
+2022-07-11T08:35:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,     4.3,    62.5)
+  Unless you wish to design scripts to farm tokens or something.
+2022-07-11T08:35:09Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.6,     4.3,    60.2)
+  i have only been playing since 2016
+2022-07-11T08:35:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.9,     4.3,    63.7)
+  That's a game in itself.
+2022-07-11T08:35:33Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.0,     4.3,    59.9)
+  do u build in blender or mostly studio
+2022-07-11T08:35:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,     4.3,    61.9)
+  Mostly Studio,
+2022-07-11T08:35:57Z: PLAYER REMOVED [  312560463] 15xVibe
+2022-07-11T08:36:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.0,     4.3,    61.9)
+  But I sometimes have to use Blender for more detailled meshwork.
+2022-07-11T08:36:05Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.0,     4.3,    59.9)
+  I dislike how studio is so limited
+2022-07-11T08:36:10Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  it annoys me
+2022-07-11T08:36:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  It's got better.
+2022-07-11T08:36:16Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  I use asset packs
+2022-07-11T08:36:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  I ironically do NOT use plugins.
+2022-07-11T08:36:27Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  f3x?
+2022-07-11T08:36:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  I used to use my own plugin.
+2022-07-11T08:36:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  Guess the name.
+2022-07-11T08:36:42Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  Visual
+2022-07-11T08:36:43Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  Lol
+2022-07-11T08:36:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  VisualPlugin.
+2022-07-11T08:36:50Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  figured haha
+2022-07-11T08:36:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  I named myself after another plugin called ViP.
+2022-07-11T08:37:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  Guess what it stands for.
+2022-07-11T08:37:07Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  Uhhhh
+2022-07-11T08:37:10Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  no clue haha
+2022-07-11T08:37:13Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  what does it mean
+2022-07-11T08:37:14Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  back
+2022-07-11T08:37:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.0,     4.3,    61.6)
+  VisualPlugin.
+2022-07-11T08:37:19Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.3)
+  oh obv
+2022-07-11T08:37:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.1,     4.3,    59.9)
+  Lol
+2022-07-11T08:37:23Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.0,     4.3,    60.1)
+  im dumb
+2022-07-11T08:37:25Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   37.2,     4.3,    58.3)
+  wb
+2022-07-11T08:37:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.4,     4.3,    61.0)
+  You're not.
+2022-07-11T08:37:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.1,     4.3,    58.1)
+  I suggest you search 'chromatic scale' on YouTube.
+2022-07-11T08:37:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.8,     5.0,    55.4)
+  I said something nuffy.
+2022-07-11T08:37:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.8,     4.3,    58.6)
+  Look up on YouTubeL
+2022-07-11T08:38:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.8,     4.3,    58.6)
+  'Chromatic scale'
+2022-07-11T08:38:03Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   47.2,     4.3,    53.3)
+  persona! space please
+2022-07-11T08:38:15Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   47.6,     4.3,    53.5)
+  ok
+2022-07-11T08:38:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.5,     4.3,    62.9)
+  That's what I said that got censored for no reason.
+2022-07-11T08:39:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.5,     4.3,    60.3)
+  Golden:
+2022-07-11T08:39:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.5,     4.3,    60.3)
+  Do you build massive hotels?
+2022-07-11T08:40:03Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.7,     4.3,    59.6)
+  Op sorry
+2022-07-11T08:40:06Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.7,     4.3,    59.6)
+  I was afk
+2022-07-11T08:40:08Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.7,     4.3,    59.6)
+  anyway
+2022-07-11T08:40:12Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   47.6,     4.3,    53.5)
+  so basically the chromatic scale are words are sounds that people use to make music talk and ect
+2022-07-11T08:40:14Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.3,     4.3,    60.3)
+  I like to make small maps
+2022-07-11T08:40:29Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  Like I dont know if u have ever played epic minigames
+2022-07-11T08:40:42Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  I like to make maps in that sorta style
+2022-07-11T08:40:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  I did once or twice.
+2022-07-11T08:40:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  I was there in 2008/09,
+2022-07-11T08:40:55Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  My goal is to get one of my maps in there game
+2022-07-11T08:41:00Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  dang
+2022-07-11T08:41:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  2012-2022.
+2022-07-11T08:41:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  Then 2012 through 2022.
+2022-07-11T08:41:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  2012,
+2022-07-11T08:41:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  2013,
+2022-07-11T08:41:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  Up to 2022.
+2022-07-11T08:41:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  ###########ÒÓ########
+2022-07-11T08:41:32Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  problem is, im limited to my building skills as i cant use blender
+2022-07-11T08:41:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  Also in 2010.
+2022-07-11T08:41:39Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  2010?
+2022-07-11T08:41:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  I had a different account in 2010.
+2022-07-11T08:41:51Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   40.5,     4.3,    60.0)
+  Ah
+2022-07-11T08:41:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.9,     4.3,    60.0)
+  Cos I kinda forgot the pass for this one.
+2022-07-11T08:42:06Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   47.0,     4.3,    54.1)
+  I'm going to use Google translate to do English to English qnd play the sound on how to say it
+2022-07-11T08:42:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   47.7,     4.3,    58.2)
+  The chromatic scale are not words.
+2022-07-11T08:42:24Z: PLAYER ADDED   [ 3594302690] sxphe11
+2022-07-11T08:42:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.3,     4.3,    57.8)
+  They're frequencies.
+2022-07-11T08:42:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   43.8,     4.3,    59.5)
+  They can be mimicked by instruments or by human voice.
+2022-07-11T08:43:04Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.9,     4.3,    60.2)
+  sounds very confusing
+2022-07-11T08:43:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.0,     4.3,    68.9)
+  Welcome.
+2022-07-11T08:43:12Z: PLAYER CHATTED [ 3594302690] sxphe11              (   53.9,     4.3,    68.6)
+  Hello
+2022-07-11T08:43:13Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.4,     4.3,    59.7)
+  I have no clue haha
+2022-07-11T08:43:14Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  hello
+2022-07-11T08:43:31Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   35.5,     4.3,    60.3)
+  how long have u been palying roblxo
+2022-07-11T08:43:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.1,     4.3,    68.9)
+  We have an emer-jeu-ncy.
+2022-07-11T08:43:37Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.0,     4.3,    60.7)
+  roblox
+2022-07-11T08:43:43Z: PLAYER CHATTED [ 3594302690] sxphe11              (   53.9,     4.3,    68.6)
+  What is it?
+2022-07-11T08:43:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.9,     4.3,    68.8)
+  A Franchwoman just got'd her hearing for the first time.
+2022-07-11T08:43:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.9,     4.3,    68.8)
+  A plugin can fly and teleport around the map!
+2022-07-11T08:44:06Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I joined in 2010 I was 10
+2022-07-11T08:44:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.9,     4.3,    68.8)
+  And can you spot the OG 2008 player?
+2022-07-11T08:44:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   50.9,     4.3,    68.8)
+  And the other OG 2010 player?
+2022-07-11T08:44:19Z: PLAYER CHATTED [ 3594302690] sxphe11              (   53.9,     4.3,    68.6)
+  This guy?
+2022-07-11T08:44:30Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    59.4)
+  danggg i joined in 2016 i wish i couldve seen the other egg hunts
+2022-07-11T08:44:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.0,     4.3,    78.7)
+  One of us.
+2022-07-11T08:44:47Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.2,     4.3,    59.4)
+  I miss some of them
+2022-07-11T08:44:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   31.3,     4.3,    66.8)
+  Maybe it could be you...
+2022-07-11T08:44:58Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I'm still mad they deleted egg hunts
+2022-07-11T08:45:04Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.1)
+  SAME man it sucks fr
+2022-07-11T08:45:05Z: PLAYER CHATTED [ 3594302690] sxphe11              (   27.3,     6.9,    73.8)
+  Doctor is an og 2010 player 
+2022-07-11T08:45:10Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.1)
+  i think 2018 was the best
+2022-07-11T08:45:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.1,     4.3,    63.4)
+  And the 08 player?
+2022-07-11T08:45:24Z: PLAYER CHATTED [ 3594302690] sxphe11              (   26.4,     4.3,    65.2)
+  Golden or you
+2022-07-11T08:45:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Let's comPete.
+2022-07-11T08:45:37Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.1)
+  Ill try
+2022-07-11T08:45:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Pun challenge.
+2022-07-11T08:45:40Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.1)
+  ill proably lsoe
+2022-07-11T08:45:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Tree,
+2022-07-11T08:45:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Too,
+2022-07-11T08:45:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Fun,
+2022-07-11T08:45:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.8,     4.3,    62.4)
+  Go!
+2022-07-11T08:45:57Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  uhhh
+2022-07-11T08:45:59Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  Dang
+2022-07-11T08:46:11Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  i cant think of anything
+2022-07-11T08:46:15Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  im on the spot
+2022-07-11T08:46:17Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  Lol
+2022-07-11T08:46:25Z: PLAYER CHATTED [ 3594302690] sxphe11              (   25.3,     4.3,    65.4)
+  I’m so lost
+2022-07-11T08:46:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.6,     4.3,    63.3)
+  I thought you're off the spot.
+2022-07-11T08:46:36Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  at 8 I liked playing with Legos TBH I actually still do make lego sets
+2022-07-11T08:46:42Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   39.6,     4.3,    60.5)
+  Lol
+2022-07-11T08:46:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.1,     4.3,    59.2)
+  Move a few studs in my direction.
+2022-07-11T08:46:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.4,     4.3,    56.9)
+  Now I'm on the spot.
+2022-07-11T08:47:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.9,     4.3,    57.3)
+  I meant to have you stand here,
+2022-07-11T08:47:07Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   36.9,     4.3,    62.6)
+  im going to go have a good night
+2022-07-11T08:47:11Z: PLAYER CHATTED [ 3594302690] sxphe11              (   25.3,     4.3,    65.4)
+  What’s happening?
+2022-07-11T08:47:15Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   34.3,     7.4,    54.0)
+  bye
+2022-07-11T08:47:21Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.3)
+  /w sxphe11  bro
+2022-07-11T08:47:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   35.5,     4.3,    58.8)
+  A compuntition.
+2022-07-11T08:47:24Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.3)
+  i have no clue
+2022-07-11T08:47:26Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.3)
+  i joined
+2022-07-11T08:47:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   33.8,     4.3,    61.9)
+  Good night!
+2022-07-11T08:47:36Z: PLAYER CHATTED [ 3594302690] sxphe11              (   25.3,     4.3,    65.4)
+  /w GoldenBowArrow  Ohh lol
+2022-07-11T08:47:41Z: PLAYER CHATTED [  134334166] GoldenBowArrow       (   33.9,     4.3,    65.3)
+  Night friend!
+2022-07-11T08:47:44Z: PLAYER REMOVED [  134334166] GoldenBowArrow
+2022-07-11T08:47:47Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  night and bye
+2022-07-11T08:47:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.3,     4.3,    59.0)
+  I don't accept friend requests.
+2022-07-11T08:48:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.3,     4.3,    59.0)
+  You can add me on Drowzy.
+2022-07-11T08:48:07Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  I did not mean to
+2022-07-11T08:48:09Z: PLAYER ADDED   [ 3395133410] incuubss
+2022-07-11T08:48:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.3,     4.3,    59.0)
+  An dDIzzy too.
+2022-07-11T08:48:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   34.3,     4.3,    59.0)
+  You're good.
+2022-07-11T08:48:22Z: PLAYER CHATTED [ 3594302690] sxphe11              (   25.3,     4.3,    65.4)
+  I’m going to go to sleep
+2022-07-11T08:48:25Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.6,     4.2,    53.6)
+  ?
+2022-07-11T08:48:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   30.8,     4.3,    63.1)
+  Good night!
+2022-07-11T08:48:32Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   38.5,     4.3,    60.8)
+  hi
+2022-07-11T08:48:37Z: PLAYER CHATTED [ 3594302690] sxphe11              (   25.3,     4.3,    65.4)
+  Ciao loving people
+2022-07-11T08:48:39Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Hello
+2022-07-11T08:48:40Z: PLAYER REMOVED [ 3594302690] sxphe11
+2022-07-11T08:48:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Let's do a pun compuntition.
+2022-07-11T08:49:03Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Okay
+2022-07-11T08:49:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Tree,
+2022-07-11T08:49:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Too,
+2022-07-11T08:49:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Fun,
+2022-07-11T08:49:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Go!
+2022-07-11T08:49:19Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   36.5,     4.3,    58.9)
+  wait I hear something weird let me go check out the window whta it is
+2022-07-11T08:49:30Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  I have major wood in my pance 
+2022-07-11T08:49:35Z: PLAYER ADDED   [ 3698197018] bachistiki
+2022-07-11T08:49:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  What key is it in?
+2022-07-11T08:49:50Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  It is getting increasingly too much for my pance to contain
+2022-07-11T08:50:00Z: PLAYER REMOVED [ 3698197018] bachistiki
+2022-07-11T08:50:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  What key is that wood in?
+2022-07-11T08:50:02Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   36.5,     4.3,    58.9)
+  a tree just fell
+2022-07-11T08:50:02Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Let’s have some fun and bring it out
+2022-07-11T08:50:13Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Is that good?
+2022-07-11T08:50:14Z: PLAYER ADDED   [  970592898] chachitoprecioso
+2022-07-11T08:50:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.4,     4.3,    61.7)
+  Bees-flat?
+2022-07-11T08:50:20Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Rate my puns 1-10
+2022-07-11T08:50:27Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  ######## 😂
+2022-07-11T08:50:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  I'll rate it a minor metal out of ten.
+2022-07-11T08:50:35Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Actually it is in 
+2022-07-11T08:50:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  Or a Locrian masonry.
+2022-07-11T08:50:54Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  S tho she may Bee a Minor 
+2022-07-11T08:51:01Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  She is ###### for her ahge
+2022-07-11T08:51:04Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   31.9,     4.3,    71.6)
+  hi
+2022-07-11T08:51:15Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  I think I win 
+2022-07-11T08:51:15Z: PLAYER CHATTED [  970592898] chachitoprecioso     (   23.6,     4.2,    74.6)
+  hello
+2022-07-11T08:51:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  No, not really.
+2022-07-11T08:51:23Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  What’s my prize
+2022-07-11T08:51:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  Your joke is not at the rating of majority.
+2022-07-11T08:51:32Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Ur puns bleww 
+2022-07-11T08:51:41Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  No pun intended😅
+2022-07-11T08:51:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  It needs to be 18.0000000 to be an adult.
+2022-07-11T08:51:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  You set the terms,
+2022-07-11T08:51:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  Scale from 1 to 10.
+2022-07-11T08:52:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  Your jokes are juvenile.
+2022-07-11T08:52:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  My jokes tend to be rated at a prime number,
+2022-07-11T08:52:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  So I usually do out of 7,
+2022-07-11T08:52:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.2,     4.3,    63.0)
+  But for today, I'll opt for 23.
+2022-07-11T08:52:45Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.8,     4.3,    66.2)
+  its funny how this game turned to puns 
+2022-07-11T08:52:46Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Ayee
+2022-07-11T08:52:51Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  23 out of 10
+2022-07-11T08:52:56Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Thas good enough for me
+2022-07-11T08:53:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.9,     4.3,    62.6)
+  Thanks.
+2022-07-11T08:53:03Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Slightly lower than expected 
+2022-07-11T08:53:08Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  But it is what it is
+2022-07-11T08:53:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.9,     4.3,    62.6)
+  Still at the age of majority,
+2022-07-11T08:53:14Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  However 
+2022-07-11T08:53:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.9,     4.3,    62.6)
+  But I support youngers' rights.
+2022-07-11T08:53:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.9,     4.3,    62.6)
+  Younger people's rights.
+2022-07-11T08:53:24Z: PLAYER REMOVED [  970592898] chachitoprecioso
+2022-07-11T08:53:27Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  I believe my puns were top tier
+2022-07-11T08:53:35Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  And deserve nothing less than a 99
+2022-07-11T08:53:45Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.8,     4.3,    66.2)
+  MY DOG WAS JUST IN THE LIVING ROOM AND ITS GONE
+2022-07-11T08:53:47Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  You, my friend
+2022-07-11T08:53:50Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Are tripping
+2022-07-11T08:53:52Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.8,     4.3,    66.2)
+  #####
+2022-07-11T08:54:01Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   35.9,     4.3,    67.5)
+  ####
+2022-07-11T08:54:07Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Whoa..
+2022-07-11T08:54:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.1,     2.3,    62.9)
+  I couldn't quite trip,
+2022-07-11T08:54:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.1,     2.3,    62.9)
+  But I removed my legs.
+2022-07-11T08:54:36Z: PLAYER CHATTED [ 3395133410] incuubss             (   41.1,     4.9,    63.5)
+  I see
+2022-07-11T08:54:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   53.9,     4.7,    68.6)
+2022-07-11T08:54:54Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   35.9,     4.3,    67.5)
+  WHY THE ### IS MY DOG ON TOP OF THE FRIDGE
+2022-07-11T08:55:18Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Well visual
+2022-07-11T08:55:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.3,     4.3,    62.0)
+  You probably missed out on an op-purr-tunity to make a pun out of your last state-mint.
+2022-07-11T08:55:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.5,     4.3,    61.9)
+  Aye!
+2022-07-11T08:56:06Z: PLAYER CHATTED [ 3395133410] incuubss             (   40.9,     4.2,    66.2)
+  Anyways chile-
+2022-07-11T08:56:08Z: PLAYER REMOVED [ 3395133410] incuubss
+2022-07-11T08:56:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.5,     4.3,    61.9)
+  What could be top-tier if it isn't verif ... oh.
+2022-07-11T08:57:01Z: PLAYER ADDED   [ 3395133410] incuubss
+2022-07-11T08:57:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.8,     4.3,    58.4)
+  Welcome back.
+2022-07-11T08:57:31Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I am slowly rubbing the base of ## #####
+2022-07-11T08:57:44Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Applying # ###### moisturizer
+2022-07-11T08:57:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.6,     4.3,    58.0)
+  I was just thinking about signing you up for an incuubation programme.
+2022-07-11T08:58:02Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   36.0,     4.3,    65.5)
+  You used the wrong  Aye you used aye as AYE FRIENDS you  are supposed to go GET BURNED B-  And not aye get it right
+2022-07-11T08:58:30Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   37.2,     4.3,    59.8)
+  a whole paragraph on air-
+2022-07-11T08:58:31Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  To the presumptive that doing so will greatly decrease the chances of developing a rash
+2022-07-11T08:58:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.8,     4.3,    61.2)
+  Aye know what form of 'I' I should've used.
+2022-07-11T08:58:40Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I am over here 
+2022-07-11T08:58:44Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Stroking 
+2022-07-11T08:58:52Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I am a freak
+2022-07-11T08:58:55Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Man
+2022-07-11T08:58:57Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Fr
+2022-07-11T08:58:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.0,     4.3,    58.4)
+  I'm a plugin.
+2022-07-11T08:59:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.0,     4.3,    58.4)
+  Refer to me not as 'man', but as 'plug'!
+2022-07-11T08:59:12Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   36.1,     4.3,    58.5)
+  Stroking?
+2022-07-11T08:59:13Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Plugin to where
+2022-07-11T08:59:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.0,     4.3,    58.4)
+  Plugin to a visual plugin.
+2022-07-11T08:59:51Z: PLAYER ADDED   [ 3573350843] jacobrileycalleja222
+2022-07-11T08:59:51Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Are u perhaps a plug-in 
+2022-07-11T08:59:53Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Into
+2022-07-11T08:59:58Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  This puhh?
+2022-07-11T08:59:59Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   36.1,     4.3,    58.5)
+  stroking?
+2022-07-11T09:00:04Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Doctor shut up
+2022-07-11T09:00:07Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Please
+2022-07-11T09:00:22Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I do not care to explain if u don’t understand 
+2022-07-11T09:00:22Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   41.6,     5.9,    54.7)
+  :sit
+2022-07-11T09:00:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.3,     4.3,    57.7)
+  No.
+2022-07-11T09:00:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.1,     4.3,    57.9)
+  Doctor can hear as well as any of us.
+2022-07-11T09:00:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.1,     4.3,    57.9)
+  She knows when to shut up.
+2022-07-11T09:00:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.8,     4.3,    57.5)
+  You know when to ask the right questions,
+2022-07-11T09:00:51Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Clearly u have miss trained her
+2022-07-11T09:01:07Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   30.2,     4.3,    56.7)
+  can i have therapy?
+2022-07-11T09:01:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.8,     4.3,    57.5)
+  I Mrs Train quite well.
+2022-07-11T09:01:08Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Perhaps I shall step in 
+2022-07-11T09:01:15Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  And do it myself
+2022-07-11T09:01:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.8,     4.3,    57.5)
+  Fèél frèé to.
+2022-07-11T09:01:16Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   34.0,     4.3,    58.2)
+  I am non binary please just call me doctor are ####
+2022-07-11T09:01:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.2,     4.3,    58.1)
+  Thanks for the clarification.
+2022-07-11T09:01:28Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Hm
+2022-07-11T09:01:41Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I was bluffing..
+2022-07-11T09:01:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.6,     4.3,    57.3)
+  Not buffering?
+2022-07-11T09:01:57Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Buffering 
+2022-07-11T09:01:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.6,     4.3,    57.3)
+  I hope your lost packets find their way back.
+2022-07-11T09:02:04Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  #############
+2022-07-11T09:02:09Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   40.9,     4.2,    66.2)
+  can i #### therapy
+2022-07-11T09:02:14Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Appreciate it
+2022-07-11T09:02:18Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   40.9,     4.2,    66.2)
+  have
+2022-07-11T09:02:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (   38.3,     4.3,    56.9)
+  Touché.
+2022-07-11T09:02:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.3,     4.3,    65.7)
+  7DOC,
+2022-07-11T09:02:32Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  7doc
+2022-07-11T09:02:35Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   40.9,     4.2,    66.2)
+  yea
+2022-07-11T09:02:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   37.1,     4.3,    65.6)
+  Your con-sultan today will be Incuubs the incuubator.
+2022-07-11T09:03:04Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Mhm
+2022-07-11T09:03:07Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   39.4,     4.3,    63.2)
+  im new
+2022-07-11T09:03:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.2,     4.3,    64.2)
+  Consultan.
+2022-07-11T09:03:13Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  What plagues ur mind sir
+2022-07-11T09:03:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   36.3,     4.3,    63.5)
+  Consultant.
+2022-07-11T09:03:21Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Daddy
+2022-07-11T09:03:35Z: PLAYER CHATTED [ 3573350843] jacobrileycalleja222 (   40.9,     4.2,    66.2)
+  huh
+2022-07-11T09:03:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (   29.6,     4.3,    63.6)
+  I AM ALWAYS WATCHING
+2022-07-11T09:03:44Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  What has u feeling diseased
+2022-07-11T09:03:55Z: PLAYER REMOVED [ 3573350843] jacobrileycalleja222
+2022-07-11T09:04:00Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Bro..
+2022-07-11T09:04:07Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Doctor u scared him off
+2022-07-11T09:04:09Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  U idiot
+2022-07-11T09:04:16Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  What is wrong with you
+2022-07-11T09:04:21Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   27.7,     4.3,    55.2)
+  bye I have to go
+2022-07-11T09:04:26Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Oh no
+2022-07-11T09:04:31Z: PLAYER ADDED   [ 3697856397] MyDarkTwistedFantasi
+2022-07-11T09:04:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   30.4,     4.3,    60.1)
+  Take care!
+2022-07-11T09:04:38Z: PLAYER CHATTED [ 2063315205] Xxroise_doggyXx      (   27.7,     4.3,    55.2)
+  ty!
+2022-07-11T09:04:39Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Hello
+2022-07-11T09:04:44Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Kanye album
+2022-07-11T09:04:51Z: PLAYER REMOVED [ 2063315205] Xxroise_doggyXx
+2022-07-11T09:04:54Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Hello most mid Kankakee album
+2022-07-11T09:04:56Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   45.3,     4.3,    60.5)
+  FINALLY
+2022-07-11T09:04:57Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   45.3,     4.3,    60.5)
+  NO
+2022-07-11T09:04:58Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Kanye*
+2022-07-11T09:05:03Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   45.3,     4.3,    60.5)
+  FINALLY SOMEONE GETS IT
+2022-07-11T09:05:07Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   45.3,     4.3,    60.5)
+  BUT ITS NOT MID
+2022-07-11T09:05:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.4,     4.3,    61.6)
+  I reverse all my music.
+2022-07-11T09:05:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.9,     4.3,    61.1)
+  I do.
+2022-07-11T09:05:16Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  It is very mid
+2022-07-11T09:05:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.5,     4.3,    61.0)
+  Just a sec.
+2022-07-11T09:05:39Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   38.3,     4.3,    56.9)
+  U got vc?
+2022-07-11T09:05:50Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Not no more
+2022-07-11T09:06:07Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Wait brb
+2022-07-11T09:06:09Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Bhae 
+2022-07-11T09:06:10Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   36.9,     4.3,    56.5)
+  Alr
+2022-07-11T09:06:12Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   36.9,     4.3,    56.5)
+  -
+2022-07-11T09:06:15Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   36.3,     4.3,    59.4)
+  Nvm
+2022-07-11T09:06:25Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I’m talking to visual..
+2022-07-11T09:06:28Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   33.3,     4.3,    61.5)
+  ik 
+2022-07-11T09:06:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.1,     4.3,    59.4)
+  I was AFK.
+2022-07-11T09:06:32Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   33.3,     4.3,    61.5)
+  That’s y I said nvm
+2022-07-11T09:06:37Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Sike
+2022-07-11T09:06:41Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  I was talking to you
+2022-07-11T09:06:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   40.1,     4.3,    59.4)
+  Do you hear anything?
+2022-07-11T09:06:44Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   32.9,     4.3,    63.4)
+  ??
+2022-07-11T09:06:45Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Say it back
+2022-07-11T09:06:49Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Have some manners
+2022-07-11T09:06:54Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   34.9,     4.3,    57.3)
+  goodbye sir
+2022-07-11T09:06:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (   39.0,     4.3,    58.8)
+  I'll be AFK again.
+2022-07-11T09:06:59Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Kjll urself
+2022-07-11T09:07:09Z: PLAYER CHATTED [ 3395133410] incuubss             (   37.6,     4.2,    53.6)
+  Sorry
+2022-07-11T09:07:11Z: PLAYER REMOVED [ 3395133410] incuubss
+2022-07-11T09:07:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.5,     4.3,    72.3)
+  Hear it now?
+2022-07-11T09:08:31Z: PLAYER ADDED   [   36113444] awesomerichey
+2022-07-11T09:09:11Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   51.0,     4.3,    72.6)
+  what.
+2022-07-11T09:09:40Z: PLAYER CHATTED [   36113444] awesomerichey        (   53.9,     4.3,    68.6)
+  Did y’all hear that?
+2022-07-11T09:09:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    68.3)
+  Hear anything from me?
+2022-07-11T09:09:57Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    72.1)
+  Soooo true
+2022-07-11T09:10:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.9,     4.3,    69.2)
+  Is it still playing for you?
+2022-07-11T09:10:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.8,     4.3,    68.7)
+  I'm playing music.
+2022-07-11T09:10:19Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.2,     4.3,    71.7)
+  I can’t hear it
+2022-07-11T09:10:24Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.2,     4.3,    71.7)
+  I can only hear this guy
+2022-07-11T09:10:25Z: PLAYER CHATTED [   36113444] awesomerichey        (   53.9,     4.3,    68.6)
+  Why u sound like rue from euphoria
+2022-07-11T09:10:32Z: PLAYER CHATTED [   36113444] awesomerichey        (   53.9,     4.3,    68.5)
+  No racial
+2022-07-11T09:10:37Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   51.4,     4.3,    71.7)
+  Rue from hunger games
+2022-07-11T09:10:48Z: PLAYER CHATTED [   36113444] awesomerichey        (   53.9,     4.3,    68.5)
+  U blacc?
+2022-07-11T09:10:53Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.6,     4.3,    71.0)
+  Mixed 
+2022-07-11T09:10:57Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   47.0,     4.3,    72.0)
+  My dad black
+2022-07-11T09:11:00Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   47.0,     4.3,    72.0)
+  Momma white 
+2022-07-11T09:11:10Z: PLAYER CHATTED [   36113444] awesomerichey        (   53.9,     4.3,    68.5)
+  Lightskin babay
+2022-07-11T09:11:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.0,     4.3,    66.9)
+  I'm trying to get music to play.
+2022-07-11T09:11:38Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.6)
+  What uu playin ?
+2022-07-11T09:11:39Z: PLAYER REMOVED [   36113444] awesomerichey
+2022-07-11T09:11:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    66.9)
+  Dawn FM in reverse.
+2022-07-11T09:11:54Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  in reverse .
+2022-07-11T09:11:58Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  like..
+2022-07-11T09:12:05Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  reverse the song?
+2022-07-11T09:12:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    66.9)
+  The songs in the album.
+2022-07-11T09:12:22Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  ALL?
+2022-07-11T09:12:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    66.9)
+  Yes.
+2022-07-11T09:12:38Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  In REVERSED ?
+2022-07-11T09:12:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    66.9)
+  Yes.
+2022-07-11T09:12:50Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  y
+2022-07-11T09:12:56Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  Y not just normal
+2022-07-11T09:12:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.3,     4.3,    66.9)
+  I like how it souncds.
+2022-07-11T09:13:46Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   50.7,     4.3,    63.7)
+  no.
+2022-07-11T09:14:14Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   49.8,     4.3,    62.9)
+  PLAY IT
+2022-07-11T09:14:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.8,     4.3,    66.6)
+  I'm trying to.
+2022-07-11T09:14:24Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   49.8,     4.3,    62.9)
+  WHATS WRONG W YO MICROPHONE 
+2022-07-11T09:14:33Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   51.5,     4.3,    66.7)
+  U on mobile right
+2022-07-11T09:14:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.1,     4.3,    67.1)
+  I use VB Audio Cable.
+2022-07-11T09:14:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (   48.8,     4.3,    67.0)
+  I'm on my desktop.
+2022-07-11T09:14:44Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    60.8)
+  ohh
+2022-07-11T09:15:28Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    60.8)
+  Pls woman just switch 2 mobile 
+2022-07-11T09:15:33Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    60.8)
+  Won’t it b easier ?
+2022-07-11T09:15:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.4,     4.3,    63.6)
+  I'm male,
+2022-07-11T09:16:00Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    60.8)
+  U r??
+2022-07-11T09:16:04Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   52.8,     4.3,    60.8)
+  My bad
+2022-07-11T09:16:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.4,     4.3,    63.6)
+  But my mobile is not optimised for Roblox.
+2022-07-11T09:16:09Z: PLAYER ADDED   [ 2943067778] V10L3NT_Z33
+2022-07-11T09:16:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (   49.2,     4.3,    64.1)
+  You're good.
+2022-07-11T09:16:31Z: PLAYER REMOVED [ 2943067778] V10L3NT_Z33
+2022-07-11T09:18:11Z: PLAYER ADDED   [   36113444] awesomerichey
+2022-07-11T09:18:23Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   25.7,     7.0,    72.4)
+  what
+2022-07-11T09:18:31Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   25.7,     7.0,    72.4)
+  y u walk-in like u gotta sh 
+2022-07-11T09:18:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (   32.9,     4.3,    60.5)
+  I'll be off now.
+2022-07-11T09:18:50Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.2,     4.3,    64.2)
+  Alrighty 
+2022-07-11T09:18:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (   44.8,     4.3,    59.2)
+  You can see my YouTube channel!
+2022-07-11T09:18:52Z: PLAYER REMOVED [   36113444] awesomerichey
+2022-07-11T09:18:57Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.2,     4.3,    64.2)
+  What is it?
+2022-07-11T09:19:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (   45.6,     4.3,    59.5)
+  VisualPlugin the Multilingual Programmer
+2022-07-11T09:19:13Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   48.2,     4.3,    64.2)
+  alright I’ll check it out
+2022-07-11T09:20:29Z: PLAYER REMOVED [ 3697856397] MyDarkTwistedFantasi
+2022-07-11T09:21:04Z: PLAYER ADDED   [ 3697856397] MyDarkTwistedFantasi
+2022-07-11T09:21:09Z: PLAYER CHATTED [ 3697856397] MyDarkTwistedFantasi (   53.9,     4.3,    68.6)
+  Found it
+2022-07-11T09:22:01Z: PLAYER REMOVED [ 3697856397] MyDarkTwistedFantasi
+2022-07-11T09:23:59Z: PLAYER ADDED   [ 3591395358] icyyzxce
+2022-07-11T09:24:18Z: PLAYER REMOVED [ 3591395358] icyyzxce
+2022-07-11T09:24:27Z: PLAYER ADDED   [ 3591395358] icyyzxce
+2022-07-11T09:24:30Z: PLAYER REMOVED [ 3591395358] icyyzxce
+2022-07-11T09:25:33Z: PLAYER ADDED   [ 2711154929] theluvkk23
+2022-07-11T09:25:39Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   53.9,     4.3,    68.6)
+  Uh
+2022-07-11T09:25:41Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   53.9,     4.3,    68.6)
+  Hi
+2022-07-11T09:25:50Z: PLAYER REMOVED [ 2711154929] theluvkk23
+2022-07-11T09:26:20Z: PLAYER ADDED   [ 3697110456] addy_lxser
+2022-07-11T09:26:29Z: PLAYER CHATTED [ 3697110456] addy_lxser           (   50.4,     4.3,    64.3)
+  Hi :(
+2022-07-11T09:27:05Z: PLAYER CHATTED [ 3697110456] addy_lxser           (   44.3,     4.3,    57.9)
+  Uhm person? 
+2022-07-11T09:27:07Z: PLAYER REMOVED [ 3697110456] addy_lxser
+2022-07-11T09:27:18Z: PLAYER ADDED   [  126834945] mermss
+2022-07-11T09:27:40Z: PLAYER ADDED   [ 2711154929] theluvkk23
+2022-07-11T09:27:51Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Hi
+2022-07-11T09:27:53Z: PLAYER ADDED   [ 2797221934] K0saki_Onodera
+2022-07-11T09:28:00Z: PLAYER CHATTED [  126834945] mermss               (   40.9,     4.2,    66.2)
+  Hello
+2022-07-11T09:28:04Z: PLAYER CHATTED [  126834945] mermss               (   40.9,     4.2,    66.2)
+  So
+2022-07-11T09:28:11Z: PLAYER CHATTED [  126834945] mermss               (   40.9,     4.2,    66.2)
+  Everything okay?
+2022-07-11T09:28:17Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  No
+2022-07-11T09:28:26Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  can u ols move
+2022-07-11T09:28:30Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Pls
+2022-07-11T09:28:32Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   38.4,     4.6,    56.1)
+  ok
+2022-07-11T09:28:40Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  so uh
+2022-07-11T09:28:44Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  I lost my bsf
+2022-07-11T09:28:51Z: PLAYER CHATTED [  126834945] mermss               (   40.9,     4.2,    66.2)
+  Ah, okay
+2022-07-11T09:28:56Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.4,     4.6,    56.3)
+  u told it in ealrier server 
+2022-07-11T09:29:05Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.4,     4.6,    56.3)
+  🤦🏼‍♀️
+2022-07-11T09:29:10Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  …
+2022-07-11T09:29:23Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+   That wasent even it
+2022-07-11T09:29:24Z: PLAYER CHATTED [  126834945] mermss               (   40.9,     4.2,    66.2)
+  Elizabeth can you please move
+2022-07-11T09:29:29Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   38.6,     5.6,    54.8)
+  fr
+2022-07-11T09:29:31Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   38.6,     5.6,    54.8)
+  Like
+2022-07-11T09:29:38Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.5,     4.3,    56.8)
+  me no Elizabeth 
+2022-07-11T09:29:41Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.5,     4.3,    56.8)
+  mr rica
+2022-07-11T09:29:44Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  If u got a problem js leave
+2022-07-11T09:29:49Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  girl
+2022-07-11T09:29:49Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.5,     4.3,    56.8)
+  me*
+2022-07-11T09:29:59Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  ok mrs gurl
+2022-07-11T09:30:04Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Can u move
+2022-07-11T09:30:08Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.5,     4.3,    56.8)
+  Ok
+2022-07-11T09:30:10Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  I can smel u
+2022-07-11T09:30:17Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Thank u
+2022-07-11T09:30:26Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.4,     4.3,    59.4)
+  I bath once in a year
+2022-07-11T09:30:33Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Idc
+2022-07-11T09:30:35Z: PLAYER CHATTED [ 2797221934] K0saki_Onodera       (   39.4,     4.3,    59.4)
+  I no stink 
+2022-07-11T09:30:39Z: PLAYER REMOVED [  126834945] mermss
+2022-07-11T09:30:40Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  yes u do
+2022-07-11T09:30:44Z: PLAYER CHATTED [ 2711154929] theluvkk23           (   37.6,     4.2,    53.6)
+  Ur like 9
+2022-07-11T09:30:45Z: PLAYER REMOVED [ 2797221934] K0saki_Onodera
+2022-07-11T09:30:49Z: PLAYER REMOVED [ 2711154929] theluvkk23
+2022-07-11T09:31:12Z: PLAYER ADDED   [ 3465250473] lowkeykeeleyXo
+2022-07-11T09:31:30Z: PLAYER ADDED   [  210160981] Alicia_catlover88
+2022-07-11T09:31:49Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   34.1,     4.3,    73.3)
+  hi i need serious help
+2022-07-11T09:32:07Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   37.6,     4.2,    53.6)
+  hi
+2022-07-11T09:32:12Z: PLAYER CHATTED [  210160981] Alicia_catlover88    (   40.9,     4.2,    66.2)
+  WELL GET HELP HEHEHEHEHEHHEHE
+2022-07-11T09:32:23Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   37.6,     4.2,    53.6)
+  there's something wrong with me
+2022-07-11T09:32:34Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   37.6,     4.2,    53.6)
+  i like long bananas
+2022-07-11T09:32:55Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   37.6,     4.2,    53.6)
+  ############################
+2022-07-11T09:33:01Z: PLAYER CHATTED [ 3465250473] lowkeykeeleyXo       (   37.6,     4.2,    53.6)
+  disabled
+2022-07-11T09:33:02Z: PLAYER REMOVED [  210160981] Alicia_catlover88
+2022-07-11T09:33:07Z: PLAYER REMOVED [ 3465250473] lowkeykeeleyXo

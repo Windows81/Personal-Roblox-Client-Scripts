@@ -1,0 +1,14 @@
+[    1630228] : [ 4794911592] The Kubla Khan Las Vegas - Hotel Showcase, W.I.P - df3f2ee0-acbe-4c3b-8ee1-9c83a6b608f7
+2022-07-09T06:50:50Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-07-09T06:50:51Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-07-09T06:50:51Z: PLAYER ADDED   [ 1581340012] basenjilover5
+2022-07-09T06:53:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  290.0,   163.7,   169.8)
+  I'll be off.
+2022-07-09T06:53:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  290.0,   163.7,   169.8)
+  I might do more improvements.
+2022-07-09T06:53:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  290.0,   163.7,   169.8)
+  You're in my comms server,
+2022-07-09T06:53:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  290.0,   163.7,   169.8)
+  So get in touch!
+2022-07-09T06:53:54Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-07-09T06:53:54Z: PLAYER REMOVED [ 1581340012] basenjilover5
