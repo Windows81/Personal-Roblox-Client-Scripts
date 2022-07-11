@@ -1,0 +1,248 @@
+[ 4893559188 - 0116a677-8e6d-4ba6-ae93-3e5c6e1b904f] F3X Building !
+2022-03-05T22:24:42Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-05T22:24:42Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 2682998688] UwUBroJulian
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 1248786061] thomastrain673
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 1016610101] BabyCharlesLo
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 1231477761] peter6monthsold
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 2392618215] Mrguyguy5
+2022-03-05T22:24:42Z: PLAYER ADDED   [ 2750698288] Alexboymepoop
+2022-03-05T22:24:48Z: PLAYER CHATTED [ 2682998688] UwUBroJulian         (  216.9,   194.7,  -588.9)
+  How do you build?
+2022-03-05T22:24:55Z: PLAYER CHATTED [ 2682998688] UwUBroJulian         (  206.7,   194.7,  -601.4)
+  Am new
+2022-03-05T22:24:55Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  204.8,   194.8,  -598.6)
+  build what??
+2022-03-05T22:25:01Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  204.3,   195.0,  -598.9)
+  wow
+2022-03-05T22:27:10Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:12Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  199.7,   195.2,  -599.1)
+  tommy the show train
+2022-03-05T22:27:12Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:15Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:17Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:17Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:19Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:19Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:21Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:27:21Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:23Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:23Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:23Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:25Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:25Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:25Z: UwUBroJulian has made a new part.
+2022-03-05T22:27:27Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:27Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:27Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:29Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:29Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:29Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:27:31Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:31Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:31Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:31Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:33Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:33Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:33Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:33Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:35Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:35Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:35Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:35Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:37Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:27:37Z: UwUBroJulian has made a new part.
+2022-03-05T22:27:37Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:37Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:37Z: Alexboymepoop has rotated 1 parts.
+2022-03-05T22:27:37Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:27:37Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:37Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:27:37Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:39Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:39Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:39Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:39Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:27:39Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:27:41Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:41Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:41Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:27:41Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:41Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:43Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:43Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:43Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:43Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:43Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:45Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:45Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:45Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:45Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:45Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:45Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:47Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:27:47Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:47Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:47Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:47Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:27:47Z: Alexboymepoop has rotated 1 parts.
+2022-03-05T22:27:49Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:27:49Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:49Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:49Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:49Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:49Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:50Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:50Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:50Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:50Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:51Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:51Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:51Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:27:52Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:27:52Z: UwUBroJulian has made a new part.
+2022-03-05T22:27:52Z: Alexboymepoop has made a new part.
+2022-03-05T22:27:52Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:53Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:53Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:53Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:53Z: PLAYER CHATTED [ 2682998688] UwUBroJulian         (  179.3,   194.7,  -604.4)
+  Bro how
+2022-03-05T22:27:54Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:54Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:54Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:27:54Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:55Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:55Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:27:55Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:27:56Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:27:56Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:27:56Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:56Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:57Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:27:57Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:27:57Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:27:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:27:58Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:27:58Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:27:58Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:27:58Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:59Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:27:59Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:27:59Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:27:59Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:28:00Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:00Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:00Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:28:00Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:01Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:01Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:01Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:28:01Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:02Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:02Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:02Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:28:03Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:03Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:03Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:03Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:04Z: Alexboymepoop has made a new part.
+2022-03-05T22:28:04Z: Alexboymepoop has rotated 1 parts.
+2022-03-05T22:28:04Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:28:04Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:28:05Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:28:05Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:05Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:05Z: thomastrain673 has made a new part.
+2022-03-05T22:28:05Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:06Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:28:06Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:06Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:06Z: PLAYER CHATTED [ 2682998688] UwUBroJulian         (  171.0,   194.7,  -596.1)
+  How did you make this
+2022-03-05T22:28:06Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:06Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:28:06Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:06Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:28:07Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:28:07Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:07Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:07Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:07Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:28:08Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:08Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:08Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:28:08Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:09Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:09Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:09Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:09Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:09Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:10Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:28:10Z: thomastrain673 has rotated 1 parts.
+2022-03-05T22:28:10Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:10Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:11Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:11Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:11Z: UwUBroJulian has made a new part.
+2022-03-05T22:28:11Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:11Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:12Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:28:12Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:12Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:12Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:12Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:13Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:13Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:13Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:13Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:13Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:28:13Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:13Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:28:13Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:14Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:14Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:14Z: peter6monthsold has cloned 1 parts.
+2022-03-05T22:28:14Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:14Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:15Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  195.6,   195.2,  -594.2)
+  on the mesh id
+2022-03-05T22:28:15Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:28:15Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:15Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:28:15Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:28:15Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:16Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:28:16Z: thomastrain673 has made a new part.
+2022-03-05T22:28:16Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:16Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:16Z: UwUBroJulian has made a new part.
+2022-03-05T22:28:17Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:17Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:17Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:28:17Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:17Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:18Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:18Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:18Z: thomastrain673 has changed the mesh settings of 1 parts.
+2022-03-05T22:28:18Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:18Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:19Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:19Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:19Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:28:19Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:19Z: UwUBroJulian has moved 1 parts.
+2022-03-05T22:28:19Z: UwUBroJulian has resized 1 parts.
+2022-03-05T22:28:20Z: peter6monthsold has moved 1 parts.
+2022-03-05T22:28:20Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:28:20Z: Alexboymepoop has rotated 1 parts.
+2022-03-05T22:28:20Z: Alexboymepoop has resized 1 parts.
+2022-03-05T22:28:20Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:20Z: UwUBroJulian has tried to oversize 1 objects.
+2022-03-05T22:28:23Z: Mrguyguy5 has painted 1 parts.
+2022-03-05T22:28:23Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:28:23Z: Alexboymepoop has made a new part.
+2022-03-05T22:28:23Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:28:23Z: Alexboymepoop has resized 1 parts.

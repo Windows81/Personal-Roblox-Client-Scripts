@@ -1,0 +1,1171 @@
+[ 5008344562 - 089a388f-19f2-4111-bf95-dc37f0613deb] cart ride into james charles lol 
+2022-03-21T02:23:18Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-21T02:23:19Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 2720968772] Lebryea450
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 1116180430] katylolbio
+2022-03-21T02:23:19Z: PLAYER ADDED   [  507725639] salvatore_kyliee
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 3083854358] Ziggy_powell
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 3348335187] Danielis175
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 2211273448] sayreinaqueen
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 3179279161] PrincessCitlali14
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 3172161833] Reverse_ones
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 2831310265] TAGBADBOO
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 1795746696] chris_dafriendlyblis
+2022-03-21T02:23:19Z: PLAYER ADDED   [ 2667615399] C0m3Drink3r
+2022-03-21T02:23:22Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -75.5,    48.9,     7.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:23:23Z: PLAYER REMOVED [ 2211273448] sayreinaqueen
+2022-03-21T02:23:27Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  -88.5,    62.9,    12.7)
+2022-03-21T02:23:31Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   28.0,    51.2,  -353.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:23:33Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   28.0,    51.2,  -353.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:23:45Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  -94.5,    62.8,    12.7)
+2022-03-21T02:23:48Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   64.3,    51.8,  -314.3)
+  /e ;name sal BALLS OF STEEL 
+2022-03-21T02:23:51Z: CHRCTER ADDED  [  507725639] salvatore_kyliee     (  -94.5,    63.6,     6.7)
+2022-03-21T02:23:51Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   57.6,    51.3,  -310.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:23:57Z: CHRCTER ADDED  [ 3083854358] Ziggy_powell         (  -82.5,    63.0,    18.7)
+2022-03-21T02:23:58Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.5,    49.0,   -11.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:23:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  162.1,   306.8,   208.5)
+  Here you go.
+2022-03-21T02:24:01Z: PLAYER CHATTED [ 3348335187] Danielis175          ( -116.9,    40.1,    18.0)
+  Who wants to fly
+2022-03-21T02:24:01Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.4,    49.0,   -11.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:24:02Z: PLAYER CHATTED [  507725639] salvatore_kyliee     (  -98.0,    46.0,    -9.0)
+  ;unfly
+2022-03-21T02:24:04Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.4,    49.0,   -11.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:24:10Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.4,    48.9,   -11.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:24:15Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.4,    49.0,   -11.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:24:23Z: PLAYER REMOVED [ 1116180430] katylolbio
+2022-03-21T02:24:26Z: PLAYER ADDED   [ 3154155823] ron_shiro123
+2022-03-21T02:24:29Z: PLAYER CHATTED [ 3348335187] Danielis175          ( -107.9,    40.1,    10.2)
+  Balls of steel
+2022-03-21T02:24:42Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -80.0,    40.1,    -8.2)
+  Want to fly
+2022-03-21T02:24:43Z: PLAYER ADDED   [ 1489329901] Sona29293
+2022-03-21T02:24:50Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  118.6,    82.9,  -303.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:24:52Z: CHRCTER ADDED  [  507725639] salvatore_kyliee     (  -88.5,    63.6,    12.7)
+2022-03-21T02:24:57Z: PLAYER ADDED   [ 1538111201] unicornjay130
+2022-03-21T02:25:03Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -93.5,    40.1,    12.3)
+  Wanna fly
+2022-03-21T02:25:04Z: PLAYER CHATTED [ 1489329901] Sona29293            (  -95.7,    40.2,    33.8)
+  ;ff
+2022-03-21T02:25:12Z: PLAYER ADDED   [ 3096867940] Aniyahtafff
+2022-03-21T02:25:12Z: PLAYER CHATTED [ 1489329901] Sona29293            (  -94.6,    40.2,    39.1)
+   ;fly
+2022-03-21T02:25:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -91.8,    47.1,     4.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:17Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -95.3,    40.2,    37.5)
+  User
+2022-03-21T02:25:17Z: CHRCTER ADDED  [ 3154155823] ron_shiro123         (  -88.5,    62.8,    12.7)
+2022-03-21T02:25:18Z: PLAYER CHATTED [ 1489329901] Sona29293            ( -100.7,    40.1,    45.6)
+  ;fly
+2022-03-21T02:25:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -91.8,    47.1,     4.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:21Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -91.8,    47.1,     4.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:24Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -91.8,    47.1,     4.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:27Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -79.3,    48.0,   -11.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:31Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -79.2,    48.0,   -11.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:32Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -79.3,    48.0,   -11.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:34Z: PLAYER REMOVED [ 2667615399] C0m3Drink3r
+2022-03-21T02:25:35Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -79.3,    48.0,   -11.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:41Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -83.6,    40.2,    19.7)
+  Hey want to fly
+2022-03-21T02:25:42Z: PLAYER CHATTED [ 3172161833] Reverse_ones         ( -108.2,    52.6,    33.7)
+  ;spin
+2022-03-21T02:25:44Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -103.4,    40.3,  -245.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -34.2,    57.3,  -280.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:25:47Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  185.9,   306.7,   137.3)
+2022-03-21T02:25:49Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  194.9,   306.2,   140.9)
+2022-03-21T02:25:57Z: PLAYER ADDED   [  148813959] Elaine121112
+2022-03-21T02:25:59Z: CHRCTER ADDED  [ 3154155823] ron_shiro123         (  -94.5,    62.8,     6.7)
+2022-03-21T02:26:08Z: CHRCTER ADDED  [ 1538111201] unicornjay130        (  -82.5,    62.7,    12.7)
+2022-03-21T02:26:10Z: CHRCTER ADDED  [ 3348335187] Danielis175          (  184.9,   306.1,   132.6)
+2022-03-21T02:26:10Z: CHRCTER ADDED  [ 3096867940] Aniyahtafff          (  -94.5,    62.5,    12.7)
+2022-03-21T02:26:16Z: CHRCTER ADDED  [  507725639] salvatore_kyliee     (  -88.5,    63.6,    18.7)
+2022-03-21T02:26:20Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  198.9,   306.2,   134.9)
+2022-03-21T02:26:20Z: PLAYER REMOVED [ 3083854358] Ziggy_powell
+2022-03-21T02:26:20Z: PLAYER ADDED   [   99262875] AimeeRG
+2022-03-21T02:26:21Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  114.3,    57.6,  -297.4)
+  /e ;spin zig 100000000
+2022-03-21T02:26:23Z: PLAYER ADDED   [ 3197085646] lqadya
+2022-03-21T02:26:25Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -83.7,    34.3,  -237.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:26:26Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -95.6,    40.1,   -16.3)
+  Wanna fly
+2022-03-21T02:26:30Z: PLAYER ADDED   [ 1677350445] B114NC4S
+2022-03-21T02:26:31Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  192.4,   306.7,   131.0)
+2022-03-21T02:26:34Z: PLAYER CHATTED [   99262875] AimeeRG              (  -88.5,    40.1,     6.7)
+  ##########
+2022-03-21T02:26:35Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.7,    41.2,  -299.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:26:36Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  199.3,   306.2,   124.1)
+2022-03-21T02:26:40Z: PLAYER CHATTED [   99262875] AimeeRG              (  -88.3,    40.1,     6.7)
+  wanna
+2022-03-21T02:26:40Z: CHRCTER ADDED  [  148813959] Elaine121112         (  -82.5,    63.4,     6.7)
+2022-03-21T02:26:43Z: PLAYER CHATTED [   99262875] AimeeRG              (  -91.1,    40.2,    24.0)
+  d
+2022-03-21T02:26:44Z: PLAYER REMOVED [ 3154155823] ron_shiro123
+2022-03-21T02:26:46Z: PLAYER CHATTED [   99262875] AimeeRG              (  -91.1,    40.2,    24.0)
+  a
+2022-03-21T02:26:48Z: PLAYER CHATTED [   99262875] AimeeRG              (  -91.1,    40.2,    24.0)
+  t
+2022-03-21T02:26:50Z: PLAYER CHATTED [   99262875] AimeeRG              (  -91.1,    40.2,    24.0)
+  e
+2022-03-21T02:26:52Z: PLAYER ADDED   [  144942735] SmellyBananaPower
+2022-03-21T02:26:53Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -93.4,    40.1,    17.5)
+  /w AimeeRG  Me
+2022-03-21T02:26:53Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  196.6,   306.7,   133.5)
+2022-03-21T02:26:53Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.0,    41.2,  -299.3)
+  /e ;talk SONA REMEMBER ME FROM THAT OME SERVER😻
+2022-03-21T02:26:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -89.7,    41.3,    17.7)
+  Come take a seat.
+2022-03-21T02:26:55Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.0,    41.2,  -299.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:26:55Z: CHRCTER ADDED  [  507725639] salvatore_kyliee     (  -94.5,    63.6,    18.7)
+2022-03-21T02:26:56Z: CHRCTER ADDED  [  148813959] Elaine121112         (  -88.5,    63.4,     6.7)
+2022-03-21T02:26:56Z: PLAYER CHATTED [ 1489329901] Sona29293            (    0.9,    45.9,  -290.4)
+   I wanna be a duck
+2022-03-21T02:26:56Z: PLAYER CHATTED [  507725639] salvatore_kyliee     (  -94.5,    66.9,    19.0)
+  OML
+2022-03-21T02:26:57Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.0,    41.2,  -299.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:26:58Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  178.3,   306.2,   130.6)
+2022-03-21T02:26:59Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.0,    41.2,  -299.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:26:59Z: PLAYER ADDED   [ 3285951650] Bananabut1298
+2022-03-21T02:26:59Z: PLAYER CHATTED [   99262875] AimeeRG              (  -92.3,    40.1,    12.5)
+  /w Danielis175  yea
+2022-03-21T02:27:01Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -13.0,    41.2,  -299.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:01Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -93.8,    40.1,    12.0)
+  Ima girl
+2022-03-21T02:27:02Z: PLAYER CHATTED [  507725639] salvatore_kyliee     (  -93.4,    40.3,     8.6)
+  ;to aimee
+2022-03-21T02:27:02Z: CHRCTER ADDED  [ 1538111201] unicornjay130        (  -88.5,    62.7,    18.7)
+2022-03-21T02:27:05Z: PLAYER REMOVED [  148813959] Elaine121112
+2022-03-21T02:27:06Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -100.5,    39.9,     5.1)
+  ;fly
+2022-03-21T02:27:07Z: CHRCTER ADDED  [ 3096867940] Aniyahtafff          (  -82.5,    62.5,     6.7)
+2022-03-21T02:27:07Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -94.7,    48.8,    22.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:08Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -98.5,    40.4,    -7.4)
+  What
+2022-03-21T02:27:11Z: PLAYER CHATTED [   99262875] AimeeRG              (  -92.3,    40.1,    12.5)
+  i know
+2022-03-21T02:27:13Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  179.4,   306.2,   124.3)
+2022-03-21T02:27:16Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -94.5,    63.0,    12.7)
+2022-03-21T02:27:20Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -82.1,    41.7,    -8.3)
+  /e ;morph sona lord duck 
+2022-03-21T02:27:22Z: PLAYER CHATTED [  507725639] salvatore_kyliee    
+  AIMME CHILL
+2022-03-21T02:27:24Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -57.1,    61.0,   -43.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:24Z: CHRCTER ADDED  [ 2720968772] Lebryea450           (  189.8,   306.2,   133.1)
+2022-03-21T02:27:24Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  187.8,   306.7,   121.3)
+2022-03-21T02:27:25Z: PLAYER REMOVED [  507725639] salvatore_kyliee
+2022-03-21T02:27:27Z: PLAYER ADDED   [  483580121] 1K1w1
+2022-03-21T02:27:28Z: CHRCTER ADDED  [   99262875] AimeeRG              (  -94.5,    62.7,    18.7)
+2022-03-21T02:27:29Z: PLAYER CHATTED [ 1489329901] Sona29293            (  -99.4,   178.1,   141.7)
+  ;ff
+2022-03-21T02:27:30Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -57.1,    61.0,   -43.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:32Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -57.1,    61.0,   -43.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:34Z: PLAYER CHATTED [   99262875] AimeeRG              (  -94.5,    40.1,    18.7)
+  no
+2022-03-21T02:27:35Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  190.0,   310.0,   132.8)
+2022-03-21T02:27:39Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  191.3,   306.2,   136.7)
+2022-03-21T02:27:41Z: PLAYER CHATTED [   99262875] AimeeRG              (  -94.5,    40.1,    18.7)
+  don’t tell me to chill
+2022-03-21T02:27:45Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.1,    52.3,   -26.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:46Z: CHRCTER ADDED  [ 3348335187] Danielis175          (  186.4,   306.1,   129.1)
+2022-03-21T02:27:46Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.1,    52.3,   -26.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:48Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.1,    52.3,   -26.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:27:50Z: PLAYER REMOVED [  144942735] SmellyBananaPower
+2022-03-21T02:27:54Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -64.0,    39.9,    29.7)
+  ;sword
+2022-03-21T02:27:54Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  188.5,   306.7,   142.3)
+2022-03-21T02:27:56Z: PLAYER CHATTED [ 3172161833] Reverse_ones         (  -69.7,    55.1,    -2.6)
+  ;duck
+2022-03-21T02:27:58Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  186.8,   306.2,   132.6)
+2022-03-21T02:27:58Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -56.7,    39.9,    18.4)
+  ;give me all
+2022-03-21T02:27:58Z: PLAYER CHATTED [   99262875] AimeeRG              (  -94.5,    40.1,    18.7)
+  wanna or not
+2022-03-21T02:28:05Z: CHRCTER ADDED  [ 3285951650] Bananabut1298        (  182.6,   307.0,   120.5)
+2022-03-21T02:28:05Z: PLAYER CHATTED [  483580121] 1K1w1                (  -61.0,    41.4,    -0.3)
+  ;sparkles me
+2022-03-21T02:28:07Z: PLAYER REMOVED [ 2720968772] Lebryea450
+2022-03-21T02:28:09Z: CHRCTER ADDED  [ 3348335187] Danielis175          (  187.8,   306.1,   126.7)
+2022-03-21T02:28:09Z: PLAYER ADDED   [ 2297272345] Kathy03bb
+2022-03-21T02:28:10Z: PLAYER ADDED   [ 1909843725] HoodedStatues
+2022-03-21T02:28:16Z: PLAYER CHATTED [ 3172161833] Reverse_ones         (  -77.8,    46.9,    -1.3)
+  ;make me a duck;
+2022-03-21T02:28:18Z: PLAYER CHATTED [  483580121] 1K1w1                (  -74.8,    41.4,     8.0)
+  ;fly
+2022-03-21T02:28:26Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  144.1,   258.1,    35.6)
+  ;giant
+2022-03-21T02:28:26Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -106.0,   138.7,    19.5)
+  /e ;talk sona SONA REMEMBER ME FROM THAT ONE SERVER 😇
+2022-03-21T02:28:29Z: CHRCTER ADDED  [ 3285951650] Bananabut1298        (  187.7,   307.0,   134.7)
+2022-03-21T02:28:30Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  144.1,   258.0,    35.6)
+  ;invisible 
+2022-03-21T02:28:31Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -106.0,   137.2,    19.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:28:35Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  193.5,   306.2,   121.1)
+2022-03-21T02:28:35Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -96.4,    37.7,    -1.5)
+  Are you talking to me
+2022-03-21T02:28:38Z: CHRCTER ADDED  [ 3348335187] Danielis175          (  184.0,   306.1,   133.1)
+2022-03-21T02:28:38Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -106.0,    99.8,    19.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:28:39Z: PLAYER CHATTED [ 3096867940] Aniyahtafff          (  111.0,   113.9,  -339.0)
+  No pls
+2022-03-21T02:28:43Z: PLAYER CHATTED [  483580121] 1K1w1                (  105.6,   247.8,    12.5)
+  ;inv
+2022-03-21T02:28:47Z: PLAYER CHATTED [  483580121] 1K1w1                (  105.6,   247.8,    12.5)
+  ;invisible 
+2022-03-21T02:28:49Z: CHRCTER ADDED  [   99262875] AimeeRG              (  -82.5,    62.7,    18.7)
+2022-03-21T02:28:51Z: PLAYER REMOVED [ 3285951650] Bananabut1298
+2022-03-21T02:28:54Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,     6.7)
+2022-03-21T02:28:55Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  185.4,   306.2,   138.9)
+2022-03-21T02:29:01Z: CHRCTER ADDED  [   99262875] AimeeRG              (  -82.5,    62.7,    12.7)
+2022-03-21T02:29:05Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -69.1,    50.8,  -254.0)
+  /e ;talk sona IVE MET YOU INA DIFFERENT SERVER SONA
+2022-03-21T02:29:06Z: PLAYER CHATTED [ 3348335187] Danielis175          ( -100.8,    40.1,    18.8)
+  You talking to me if I #### ## #### ###
+2022-03-21T02:29:06Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -69.1,    50.8,  -254.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:29:12Z: CHRCTER ADDED  [ 1538111201] unicornjay130        (  -88.5,    62.7,    12.7)
+2022-03-21T02:29:13Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,    12.7)
+2022-03-21T02:29:15Z: PLAYER CHATTED [ 3172161833] Reverse_ones         (   50.9,   160.7,  -209.3)
+  ;invisible 
+2022-03-21T02:29:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -69.1,    50.8,  -254.0)
+  /e ;talk sona REMEMBER 
+2022-03-21T02:29:17Z: CHRCTER ADDED  [   99262875] AimeeRG              (  -88.5,    62.7,    12.7)
+2022-03-21T02:29:18Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -69.1,    50.8,  -254.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:29:20Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  112.8,    64.9,  -308.8)
+  no
+2022-03-21T02:29:22Z: PLAYER ADDED   [ 3126543540] ElliotKat1
+2022-03-21T02:29:23Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  112.8,    64.9,  -308.8)
+  >???
+2022-03-21T02:29:33Z: PLAYER CHATTED [ 1677350445] B114NC4S             (   13.5,   144.9,  -254.8)
+  ;morph me duck
+2022-03-21T02:29:36Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  182.1,   306.2,   142.3)
+2022-03-21T02:29:38Z: PLAYER CHATTED [  483580121] 1K1w1                (   -6.2,   197.8,   -47.9)
+  ;unsparkle
+2022-03-21T02:29:38Z: PLAYER REMOVED [   99262875] AimeeRG
+2022-03-21T02:29:38Z: CHRCTER ADDED  [ 3096867940] Aniyahtafff          (  -94.5,    62.5,    18.7)
+2022-03-21T02:29:38Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -11.8,   158.6,  -271.0)
+  ;visible
+2022-03-21T02:29:41Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  120.4,    63.4,  -292.5)
+  /e ;talk sona SONA 
+2022-03-21T02:29:42Z: PLAYER CHATTED [  483580121] 1K1w1                (   -6.2,   197.8,   -47.9)
+  ;re
+2022-03-21T02:29:42Z: CHRCTER ADDED  [  483580121] 1K1w1                (   -6.2,   197.8,   -47.9)
+2022-03-21T02:29:42Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  -94.5,    63.1,     6.7)
+2022-03-21T02:29:44Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -25.3,   171.1,  -293.9)
+  ;morph me duck
+2022-03-21T02:29:47Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -25.3,   171.1,  -293.9)
+  or don’t
+2022-03-21T02:29:48Z: PLAYER CHATTED [  483580121] 1K1w1                (  -25.6,   112.5,  -129.3)
+  ;invisible
+2022-03-21T02:29:52Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  183.2,   306.2,   136.5)
+2022-03-21T02:29:53Z: PLAYER ADDED   [ 1411053369] EmmaAmy234
+2022-03-21T02:29:53Z: PLAYER ADDED   [  166335669] CoolFlowerGirl007
+2022-03-21T02:29:55Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  197.1,   306.7,   133.0)
+2022-03-21T02:29:56Z: PLAYER CHATTED [  483580121] 1K1w1                (  -44.9,   170.2,  -296.3)
+  ;giant
+2022-03-21T02:29:57Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  112.8,    63.2,  -298.6)
+  stop this 
+2022-03-21T02:30:01Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -25.3,   171.1,  -293.9)
+  ;morph me chair
+2022-03-21T02:30:02Z: PLAYER CHATTED [ 3172161833] Reverse_ones         ( -100.2,    40.9,    -1.0)
+  ;unfly
+2022-03-21T02:30:04Z: CHRCTER ADDED  [ 1538111201] unicornjay130        (  -88.5,    62.7,    18.7)
+2022-03-21T02:30:04Z: PLAYER CHATTED [ 1677350445] B114NC4S             (   19.0,   163.0,  -280.7)
+  ;re
+2022-03-21T02:30:04Z: CHRCTER ADDED  [ 1677350445] B114NC4S             (   19.0,   165.4,  -279.9)
+2022-03-21T02:30:05Z: CHRCTER ADDED  [ 3096867940] Aniyahtafff          (  -88.5,    62.5,    12.7)
+2022-03-21T02:30:07Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,     6.7)
+2022-03-21T02:30:09Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   86.6,    91.9,  -243.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:10Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (   95.6,    77.7,  -255.3)
+  let me ride #### ##### chalres
+2022-03-21T02:30:10Z: PLAYER CHATTED [ 3172161833] Reverse_ones         ( -107.2,    46.5,    11.7)
+  ;unfly
+2022-03-21T02:30:10Z: PLAYER CHATTED [ 1677350445] B114NC4S             (   19.0,    62.6,  -280.1)
+  ;morph me duck
+2022-03-21T02:30:14Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   84.0,    80.3,  -290.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:15Z: PLAYER CHATTED [ 1677350445] B114NC4S             (   19.0,    62.6,  -280.1)
+  fine then don’t
+2022-03-21T02:30:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   84.0,    80.4,  -290.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:17Z: PLAYER REMOVED [ 1538111201] unicornjay130
+2022-03-21T02:30:19Z: PLAYER CHATTED [ 1677350445] B114NC4S             (   19.0,    62.6,  -280.1)
+  ;morph me chair
+2022-03-21T02:30:20Z: PLAYER REMOVED [ 3096867940] Aniyahtafff
+2022-03-21T02:30:20Z: PLAYER ADDED   [ 3179041812] Natelyod25
+2022-03-21T02:30:21Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -14.7,    60.6,  -280.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:23Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   46.9,    82.4,  -289.5)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:27Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   68.5,    93.8,  -320.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:33Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  112.0,   113.6,  -336.5)
+  pls
+2022-03-21T02:30:37Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  129.1,   112.9,  -310.0)
+  /e ;talk sona BALLS OF STEEL 
+2022-03-21T02:30:41Z: PLAYER CHATTED [ 1909843725] HoodedStatues       
+  i hate you
+2022-03-21T02:30:42Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  197.4,   306.2,   122.5)
+2022-03-21T02:30:42Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -93.6,    40.1,   -10.2)
+  BALLSOF STEEL
+2022-03-21T02:30:42Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  -94.5,    63.1,    12.7)
+2022-03-21T02:30:43Z: CHRCTER ADDED  [ 1909843725] HoodedStatues        (  -82.5,    62.7,    12.7)
+2022-03-21T02:30:44Z: CHRCTER ADDED  [ 3172161833] Reverse_ones         (  189.8,   307.1,   128.8)
+2022-03-21T02:30:50Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -94.3,    53.2,   -21.2)
+  /e ;talk dan BALLS OF STEEL 
+2022-03-21T02:30:53Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -88.7,    56.5,   -80.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:30:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  198.3,   307.3,   129.9)
+2022-03-21T02:30:57Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -93.3,    78.9,   -95.6)
+  Who did that
+2022-03-21T02:31:01Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  183.2,   306.2,   134.2)
+2022-03-21T02:31:14Z: PLAYER ADDED   [ 2870365050] Emlee93
+2022-03-21T02:31:18Z: PLAYER REMOVED [  166335669] CoolFlowerGirl007
+2022-03-21T02:31:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  176.6,   307.3,   126.1)
+2022-03-21T02:31:20Z: CHRCTER ADDED  [ 1411053369] EmmaAmy234           (  -88.5,    62.7,    18.7)
+2022-03-21T02:31:22Z: PLAYER CHATTED [ 3348335187] Danielis175          (  -81.3,    40.1,    -5.1)
+  Make me fly
+2022-03-21T02:31:22Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  191.6,   306.2,   127.3)
+2022-03-21T02:31:22Z: PLAYER REMOVED [ 3179041812] Natelyod25
+2022-03-21T02:31:29Z: PLAYER REMOVED [ 1411053369] EmmaAmy234
+2022-03-21T02:31:32Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  -88.5,    63.1,    18.7)
+2022-03-21T02:31:34Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -88.5,    63.0,     6.7)
+2022-03-21T02:31:36Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  175.2,    96.0,  -268.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:41Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.8,    48.6,   -16.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:44Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.8,    48.6,   -16.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:44Z: PLAYER CHATTED [  483580121] 1K1w1                (  -80.6,    42.3,     7.2)
+  ;re
+2022-03-21T02:31:44Z: CHRCTER ADDED  [  483580121] 1K1w1                (  -81.0,    44.5,     6.7)
+2022-03-21T02:31:45Z: CHRCTER ADDED  [ 3179279161] PrincessCitlali14    (  197.0,   306.7,   120.8)
+2022-03-21T02:31:46Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  187.6,   306.2,   119.0)
+2022-03-21T02:31:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.8,    48.6,   -16.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:49Z: PLAYER CHATTED [  483580121] 1K1w1                (  -81.0,    45.1,     6.8)
+  ;morph me chair
+2022-03-21T02:31:49Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.8,    48.6,   -16.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:51Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -86.8,    48.6,   -16.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:31:52Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -94.5,    63.0,     6.7)
+2022-03-21T02:31:53Z: CHRCTER ADDED  [ 3348335187] Danielis175          (  183.7,   306.1,   126.8)
+2022-03-21T02:31:54Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (   80.8,    70.5,  -306.1)
+  stop this
+2022-03-21T02:31:57Z: PLAYER ADDED   [ 1783747767] hweartly_Jx3
+2022-03-21T02:31:59Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -101.8,    39.9,    13.1)
+  ;giant
+2022-03-21T02:31:59Z: PLAYER REMOVED [ 3179279161] PrincessCitlali14
+2022-03-21T02:32:01Z: PLAYER CHATTED [  483580121] 1K1w1                ( -119.5,    42.6,     2.2)
+  ;giant
+2022-03-21T02:32:03Z: PLAYER ADDED   [ 1496781676] loving1t
+2022-03-21T02:32:03Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -88.5,    63.0,    18.7)
+2022-03-21T02:32:03Z: PLAYER CHATTED [ 1489329901] Sona29293            (  -84.9,    40.3,     2.3)
+  ;m remember the ducks
+2022-03-21T02:32:04Z: PLAYER REMOVED [ 2870365050] Emlee93
+2022-03-21T02:32:05Z: CHRCTER ADDED  [ 3172161833] Reverse_ones         (  175.9,   307.1,   121.0)
+2022-03-21T02:32:08Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -63.6,    40.3,    10.5)
+  /e ;talk hood BALLS OF STEEL 
+2022-03-21T02:32:10Z: PLAYER CHATTED [ 3348335187] Danielis175          (  183.7,   305.4,   126.8)
+  Yes
+2022-03-21T02:32:11Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -95.1,    48.8,   -11.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:32:20Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  102.0,   106.5,  -256.2)
+  who keeps making me say balls of steel
+2022-03-21T02:32:21Z: PLAYER CHATTED [ 3172161833] Reverse_ones         (  175.9,   309.7,   121.0)
+  ;m remember the ducks
+2022-03-21T02:32:24Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.4,    67.1,    -6.1)
+  /e ;talk random BALLS OF STEEL
+2022-03-21T02:32:26Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.4,    67.1,    -6.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:32:29Z: PLAYER REMOVED [ 3348335187] Danielis175
+2022-03-21T02:32:37Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.4,    67.1,    -6.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:32:37Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -82.5,    63.0,     6.7)
+2022-03-21T02:32:41Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.4,    67.1,    -6.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:33:12Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -137.4,    98.2,   -53.8)
+  /e ;talk random SMALL DICE WITH OUT THE E
+2022-03-21T02:33:22Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  194.6,   306.2,   137.3)
+2022-03-21T02:33:23Z: PLAYER CHATTED [ 3197085646] lqadya               (  112.4,    70.6,  -335.3)
+  #######
+2022-03-21T02:33:24Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   72.9,    76.0,  -256.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:33:28Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   83.5,    72.9,  -287.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:33:29Z: PLAYER CHATTED [ 1783747767] hweartly_Jx3        
+  BREH
+2022-03-21T02:33:30Z: CHRCTER ADDED  [ 1783747767] hweartly_Jx3         (  -88.5,    62.6,     6.7)
+2022-03-21T02:33:30Z: CHRCTER ADDED  [ 1496781676] loving1t             (  -94.5,    62.5,     6.7)
+2022-03-21T02:33:43Z: PLAYER ADDED   [ 1522349750] Prexshot15
+2022-03-21T02:33:45Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  190.2,   306.2,   139.8)
+2022-03-21T02:33:46Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -104.8,    59.6,  -113.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:33:51Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  178.0,   307.3,   119.7)
+2022-03-21T02:33:56Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -89.4,    50.3,   -21.1)
+  ;fly
+2022-03-21T02:33:57Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -95.8,    57.2,   -54.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:00Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -95.8,    57.2,   -54.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:01Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -95.8,    57.2,   -54.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:01Z: PLAYER ADDED   [ 1351007142] SamuelisMeanToMe
+2022-03-21T02:34:02Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  180.9,   306.2,   140.3)
+2022-03-21T02:34:03Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -87.5,    70.1,    -2.8)
+  ;logs
+2022-03-21T02:34:04Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -82.5,    63.0,    12.7)
+2022-03-21T02:34:07Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -100.3,    54.1,   -15.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:11Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  191.2,   355.0,   177.6)
+  ;to chris
+2022-03-21T02:34:13Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  166.1,   348.5,   159.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:15Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  166.1,   348.5,   159.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:17Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  159.6,   322.7,   157.2)
+  ;god
+2022-03-21T02:34:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  166.1,   348.5,   159.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:21Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  159.6,   322.7,   157.2)
+  ;visible chris
+2022-03-21T02:34:26Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  162.3,   345.1,   159.3)
+  ;to chris
+2022-03-21T02:34:31Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  140.3,   337.7,   157.1)
+  ;re chris
+2022-03-21T02:34:31Z: CHRCTER ADDED  [ 1795746696] chris_dafriendlyblis (  163.9,   348.9,   159.2)
+2022-03-21T02:34:34Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  164.4,   305.3,   155.5)
+  What do you need 🧍🏽
+2022-03-21T02:34:40Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  232.5,   329.8,   189.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:34:44Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  179.2,   306.2,   136.2)
+2022-03-21T02:34:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  232.5,   329.8,   189.3)
+  /e ;morph me lord duck 
+2022-03-21T02:34:54Z: PLAYER REMOVED [ 1522349750] Prexshot15
+2022-03-21T02:34:56Z: CHRCTER ADDED  [ 1783747767] hweartly_Jx3         (  -94.5,    62.6,    12.7)
+2022-03-21T02:34:56Z: CHRCTER ADDED  [ 1496781676] loving1t             (  -88.5,    62.5,     6.7)
+2022-03-21T02:34:59Z: PLAYER ADDED   [ 2242388810] lorealMM
+2022-03-21T02:35:00Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  181.5,   306.2,   138.2)
+2022-03-21T02:35:00Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -88.5,    63.0,    18.7)
+2022-03-21T02:35:01Z: PLAYER REMOVED [ 1783747767] hweartly_Jx3
+2022-03-21T02:35:04Z: PLAYER ADDED   [ 3213025150] AbbygonnaDabby
+2022-03-21T02:35:09Z: PLAYER ADDED   [ 3171420010] ThatGirlGigi929
+2022-03-21T02:35:12Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  239.2,   328.9,   192.5)
+  /e ;giant me 
+2022-03-21T02:35:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -78.6,    41.3,     7.1)
+  Come in!
+2022-03-21T02:35:18Z: PLAYER REMOVED [ 1496781676] loving1t
+2022-03-21T02:35:20Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -94.5,    63.0,    18.7)
+2022-03-21T02:35:25Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  239.2,   328.9,   192.5)
+  /e ####### me father duck 
+2022-03-21T02:35:29Z: CHRCTER ADDED  [ 1677350445] B114NC4S             (  -82.5,    62.5,    12.7)
+2022-03-21T02:35:29Z: CHRCTER ADDED  [  483580121] 1K1w1                (  -94.5,    64.0,    12.7)
+2022-03-21T02:35:31Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  233.8,   330.0,   186.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:35:36Z: PLAYER CHATTED [  483580121] 1K1w1                ( -120.6,    49.6,    18.0)
+  ;morph me chai
+2022-03-21T02:35:37Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  175.9,   306.2,   131.2)
+2022-03-21T02:35:39Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -107.4,    39.9,    18.0)
+  ;morph me chair
+2022-03-21T02:35:41Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   64.2,    68.4,  -288.6)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:35:43Z: PLAYER CHATTED [  483580121] 1K1w1                ( -120.6,    49.6,    18.0)
+  ;giant
+2022-03-21T02:35:43Z: PLAYER REMOVED [ 1351007142] SamuelisMeanToMe
+2022-03-21T02:35:45Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -107.4,    39.9,    18.0)
+  ;giant
+2022-03-21T02:35:46Z: PLAYER ADDED   [ 3408504143] qwasgy7zweshyawdsh
+2022-03-21T02:35:50Z: PLAYER CHATTED [ 1909843725] HoodedStatues        (  194.3,   268.8,  -375.7)
+  hi
+2022-03-21T02:35:51Z: PLAYER ADDED   [ 3229834412] Watussi_1
+2022-03-21T02:35:58Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  198.8,   306.2,   135.5)
+2022-03-21T02:36:07Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -94.5,    63.0,    18.7)
+2022-03-21T02:36:10Z: PLAYER ADDED   [  190317458] FriendlyPetey
+2022-03-21T02:36:17Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   62.7,   111.9,  -230.6)
+  /e ;giant lore 
+2022-03-21T02:36:18Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  195.6,   306.2,   140.7)
+2022-03-21T02:36:22Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   81.5,   149.8,  -289.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:36:25Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   81.5,   149.8,  -289.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:36:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -81.6,    41.3,     7.1)
+  Come fly with me!
+2022-03-21T02:36:30Z: PLAYER ADDED   [ 1522349750] Prexshot15
+2022-03-21T02:36:35Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -13.9,    42.0,  -288.0)
+  Hiii
+2022-03-21T02:36:35Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,     6.7)
+2022-03-21T02:36:36Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   81.5,   149.8,  -289.4)
+  /e ;talk lore BALLS OF STEEL 
+2022-03-21T02:36:38Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -86.9,    40.2,    -5.8)
+  hiiii
+2022-03-21T02:36:41Z: PLAYER CHATTED [ 3408504143] qwasgy7zweshyawdsh   (   82.8,    41.9,  -312.4)
+  bye
+2022-03-21T02:36:41Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  192.6,   306.2,   136.4)
+2022-03-21T02:36:42Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -89.5,    45.2,    33.1)
+  /w 1K1w1  ###
+2022-03-21T02:36:45Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -86.1,    40.2,     8.9)
+  ;fly
+2022-03-21T02:36:45Z: PLAYER REMOVED [ 3408504143] qwasgy7zweshyawdsh
+2022-03-21T02:36:48Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  191.5,   306.5,   142.0)
+2022-03-21T02:36:48Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -107.6,    65.4,    21.9)
+  ###############
+2022-03-21T02:36:51Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -88.5,    63.3,    18.7)
+2022-03-21T02:36:52Z: CHRCTER ADDED  [ 3171420010] ThatGirlGigi929      (  -82.5,    62.7,    12.7)
+2022-03-21T02:36:52Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -112.8,    38.2,   -20.4)
+  Ahhhh
+2022-03-21T02:36:54Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -86.1,    44.0,     8.9)
+  ;god
+2022-03-21T02:36:57Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   77.9,   113.0,  -240.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:36:59Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -82.5,    62.9,    12.7)
+2022-03-21T02:36:59Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -82.5,    59.8,    13.1)
+  ;god
+2022-03-21T02:36:59Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -96.4,   280.8,  -293.2)
+  amm
+2022-03-21T02:37:00Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  199.7,   306.2,   139.6)
+2022-03-21T02:37:01Z: CHRCTER ADDED  [ 2242388810] lorealMM             (  -82.5,    62.7,    12.7)
+2022-03-21T02:37:03Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -82.5,    44.0,    13.1)
+  ;tp chris
+2022-03-21T02:37:05Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -239.9,   206.2,  -180.2)
+  jump
+2022-03-21T02:37:06Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -239.0,   207.3,  -178.9)
+  Abby I'm a head
+2022-03-21T02:37:06Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  112.1,    83.3,  -301.8)
+  ;to chris
+2022-03-21T02:37:08Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  113.9,    80.2,  -298.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:37:09Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -88.6,    40.7,    -0.8)
+  Oh no it’s happening maddy
+2022-03-21T02:37:10Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -239.0,   207.2,  -178.8)
+  help
+2022-03-21T02:37:15Z: PLAYER CHATTED [  483580121] 1K1w1                ( -241.9,   204.2,  -183.2)
+  jump for #### #####
+2022-03-21T02:37:16Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  185.8,   306.2,   127.0)
+2022-03-21T02:37:19Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -162.6,    59.8,   -14.4)
+  I loom 
+2022-03-21T02:37:19Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  105.3,    81.7,  -290.8)
+  Keep your admins under control
+2022-03-21T02:37:19Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,    12.7)
+2022-03-21T02:37:21Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -94.5,    63.3,    18.7)
+2022-03-21T02:37:22Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  105.3,    81.7,  -290.8)
+  ;admins
+2022-03-21T02:37:23Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -83.6,     6.5,    44.2)
+  aaaaa
+2022-03-21T02:37:26Z: PLAYER CHATTED [ 1677350445] B114NC4S             ( -158.7,   -14.8,   -29.4)
+  robox
+2022-03-21T02:37:26Z: PLAYER CHATTED [  190317458] FriendlyPetey        ( -150.7,   -18.0,   -35.3)
+  Abby
+2022-03-21T02:37:29Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   43.9,   -25.0,   -30.0)
+  help
+2022-03-21T02:37:30Z: PLAYER CHATTED [ 1522349750] Prexshot15           (   83.5,    91.1,  -278.0)
+  ;admins
+2022-03-21T02:37:32Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  126.9,    43.6,  -298.3)
+  no
+2022-03-21T02:37:33Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  113.9,    80.2,  -298.2)
+  Alr 🧍🏽
+2022-03-21T02:37:34Z: PLAYER CHATTED [  483580121] 1K1w1                (  250.7,    42.9,  -321.3)
+  ;re
+2022-03-21T02:37:34Z: CHRCTER ADDED  [  483580121] 1K1w1                (  250.6,    45.1,  -321.9)
+2022-03-21T02:37:38Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  252.4,   -32.9,  -325.9)
+  ;to b1
+2022-03-21T02:37:38Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  306.6,   -35.9,  -306.3)
+  I look like a turd
+2022-03-21T02:37:41Z: PLAYER CHATTED [ 1489329901] Sona29293            (   -2.5,    99.5,    19.7)
+  ; m 
+2022-03-21T02:37:41Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  252.4,   -33.0,  -325.9)
+  ;re b1
+2022-03-21T02:37:41Z: CHRCTER ADDED  [ 1677350445] B114NC4S             (  274.0,   -57.3,  -340.5)
+2022-03-21T02:37:42Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  183.2,   306.2,   138.4)
+2022-03-21T02:37:44Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -73.8,    53.6,   -41.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:37:46Z: PLAYER CHATTED [ 1677350445] B114NC4S            
+  ew
+2022-03-21T02:37:46Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -73.8,    53.6,   -41.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:37:48Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  252.4,   -33.0,  -325.9)
+  ;apparate ## ###########
+2022-03-21T02:37:49Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       ( -100.2,    41.9,  -163.4)
+  Who r u
+2022-03-21T02:37:49Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -88.5,    62.8,    18.7)
+2022-03-21T02:37:49Z: CHRCTER ADDED  [ 1677350445] B114NC4S             (  -82.5,    62.5,    18.7)
+2022-03-21T02:37:50Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -82.5,    49.2,    18.7)
+  ;re Prix
+2022-03-21T02:37:51Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -72.6,    60.4,   -82.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:37:53Z: PLAYER CHATTED [  483580121] 1K1w1                (   74.9,    75.5,   -68.7)
+  ew
+2022-03-21T02:37:55Z: PLAYER CHATTED [ 1489329901] Sona29293            (   -2.5,    99.5,    19.8)
+  ## ### must be ducks
+2022-03-21T02:37:56Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -91.7,    40.2,    10.2)
+  I'm okay!
+2022-03-21T02:37:56Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -82.5,    39.9,    18.7)
+  ;re Pre
+2022-03-21T02:37:56Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  252.4,   -33.0,  -325.9)
+2022-03-21T02:37:57Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -308.2,   153.7,  -115.1)
+  /e ;ff 
+2022-03-21T02:37:59Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -308.2,   153.7,  -115.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:00Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  253.0,  -170.4,  -326.1)
+  /w chris_dafriendlyblis  Im going to use your priv to sto##the trolls
+2022-03-21T02:38:01Z: CHRCTER ADDED  [ 2831310265] TAGBADBOO            (  188.5,   306.2,   130.3)
+2022-03-21T02:38:02Z: PLAYER REMOVED [  483580121] 1K1w1
+2022-03-21T02:38:04Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   30.1,    41.9,  -377.7)
+  No not again
+2022-03-21T02:38:05Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  180.8,   306.5,   127.9)
+2022-03-21T02:38:07Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -99.7,    40.2,     0.7)
+  goo to start
+2022-03-21T02:38:08Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -79.5,    39.9,    -9.5)
+  ;morph me chair
+2022-03-21T02:38:10Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  229.7,  -119.1,  -310.5)
+  If you dont mind
+2022-03-21T02:38:10Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   82.8,    44.1,  -291.8)
+  I have ptsd
+2022-03-21T02:38:11Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -99.7,    40.2,     0.7)
+  go
+2022-03-21T02:38:13Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -308.2,   153.7,  -115.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -308.2,   153.7,  -115.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:18Z: PLAYER ADDED   [  483580121] 1K1w1
+2022-03-21T02:38:18Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  229.7,  -119.1,  -310.5)
+  ;invisible 
+2022-03-21T02:38:19Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -68.4,    38.1,     6.3)
+  HELP
+2022-03-21T02:38:19Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -68.5,    38.4,     6.3)
+  ;giant
+2022-03-21T02:38:21Z: PLAYER REMOVED [ 2831310265] TAGBADBOO
+2022-03-21T02:38:22Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis ( -175.3,   108.1,  -129.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:22Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  229.7,  -119.1,  -310.5)
+  ;smoke
+2022-03-21T02:38:27Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -82.9,    67.2,  -213.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:29Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -94.5,    63.3,    18.7)
+2022-03-21T02:38:29Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -96.8,    51.2,   -80.0)
+  Abby
+2022-03-21T02:38:30Z: PLAYER CHATTED [ 1522349750] Prexshot15           (   92.4,   -58.1,  -276.4)
+  ;apparate b1 99999999999999
+2022-03-21T02:38:33Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -82.9,    67.2,  -213.3)
+  Balls 
+2022-03-21T02:38:35Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -94.5,    40.7,    19.1)
+  Maddy meet at the beginning 
+2022-03-21T02:38:35Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -94.5,    62.8,    12.7)
+2022-03-21T02:38:36Z: CHRCTER ADDED  [ 1677350445] B114NC4S             (  -88.5,    62.5,    18.7)
+2022-03-21T02:38:36Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  181.7,   306.5,   129.4)
+2022-03-21T02:38:37Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -82.9,    67.2,  -213.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:38Z: CHRCTER ADDED  [ 2242388810] lorealMM             (  -94.5,    62.7,    12.7)
+2022-03-21T02:38:39Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -82.9,    67.2,  -213.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:38:40Z: PLAYER CHATTED [  483580121] 1K1w1                (  -82.5,    41.4,     6.7)
+  ;fly
+2022-03-21T02:38:42Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -99.5,    39.2,  -211.7)
+  ;admins
+2022-03-21T02:38:44Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -88.5,    43.7,    19.0)
+  ;re Prex 
+2022-03-21T02:38:44Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -99.5,    39.2,  -211.7)
+2022-03-21T02:38:47Z: PLAYER REMOVED [  483580121] 1K1w1
+2022-03-21T02:38:49Z: CHRCTER ADDED  [ 3171420010] ThatGirlGigi929      (  -94.5,    62.7,     6.7)
+2022-03-21T02:38:50Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -93.3,    40.2,    -3.6)
+  I dint say thT
+2022-03-21T02:38:52Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -99.5,    44.3,  -211.7)
+  ;logs
+2022-03-21T02:38:52Z: CHRCTER ADDED  [ 1489329901] Sona29293            (  179.9,   306.1,   119.0)
+2022-03-21T02:38:53Z: PLAYER CHATTED [ 1677350445] B114NC4S             (  -27.2,    92.3,  -191.7)
+  ;unfly Prex
+2022-03-21T02:38:56Z: PLAYER CHATTED [ 1489329901] Sona29293            (  179.9,   309.1,   119.0)
+  ;ff
+2022-03-21T02:38:57Z: CHRCTER ADDED  [ 3172161833] Reverse_ones         (  190.7,   307.1,   119.8)
+2022-03-21T02:38:57Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -88.5,    63.0,     6.7)
+2022-03-21T02:39:01Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -82.5,    63.3,    18.7)
+2022-03-21T02:39:04Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -96.4,    40.2,     1.8)
+  help
+2022-03-21T02:39:11Z: PLAYER REMOVED [ 1677350445] B114NC4S
+2022-03-21T02:39:15Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:17Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:18Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -94.9,    40.2,     4.3)
+  I dint say that
+2022-03-21T02:39:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:19Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -99.5,    40.6,  -211.7)
+  ;invisible 
+2022-03-21T02:39:20Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:22Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  181.0,   306.5,   119.2)
+2022-03-21T02:39:24Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -99.5,    41.2,  -213.1)
+  ;smoke
+2022-03-21T02:39:26Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:27Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -92.7,    42.0,  -284.3)
+  ;to b1
+2022-03-21T02:39:28Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:34Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -10.1,    41.9,  -333.5)
+  ;to b1
+2022-03-21T02:39:36Z: CHRCTER ADDED  [ 2242388810] lorealMM             (  -88.5,    62.7,    18.7)
+2022-03-21T02:39:36Z: CHRCTER ADDED  [ 3171420010] ThatGirlGigi929      (  -94.5,    62.7,    12.7)
+2022-03-21T02:39:38Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -75.0,    41.4,  -288.1)
+  ABBY
+2022-03-21T02:39:38Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:47Z: PLAYER CHATTED [ 1522349750] Prexshot15           (    9.7,    41.9,  -377.6)
+  ;spin ## ###########
+2022-03-21T02:39:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.3,    88.3,    17.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:39:48Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -94.5,    62.8,     6.7)
+2022-03-21T02:39:51Z: PLAYER ADDED   [ 1514243620] mcktoothless14
+2022-03-21T02:39:56Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  181.9,   306.5,   122.9)
+2022-03-21T02:40:07Z: CHRCTER ADDED  [ 3229834412] Watussi_1            (  -88.5,    63.0,     6.7)
+2022-03-21T02:40:09Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -11.0,  -276.1,  -368.2)
+  ;height me 4
+2022-03-21T02:40:12Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -97.3,    40.2,    -4.3)
+  Abby I'm atata4t
+2022-03-21T02:40:16Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -94.5,    62.9,    18.7)
+2022-03-21T02:40:17Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.4,    52.0,    18.7)
+  ;height me 4
+2022-03-21T02:40:17Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -97.3,    40.2,    -4.3)
+  at start
+2022-03-21T02:40:21Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -88.5,    63.3,    12.7)
+2022-03-21T02:40:23Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.4,    49.1,    18.7)
+  ;invisible 
+2022-03-21T02:40:25Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   81.0,    37.0,  -326.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:40:26Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -94.5,    63.0,     6.7)
+2022-03-21T02:40:26Z: PLAYER ADDED   [ 3165144932] rekyr0
+2022-03-21T02:40:29Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.4,    49.1,    18.7)
+  ;color me black
+2022-03-21T02:40:30Z: PLAYER REMOVED [ 1514243620] mcktoothless14
+2022-03-21T02:40:38Z: CHRCTER ADDED  [ 1489329901] Sona29293            (  177.7,   702.6,   123.2)
+2022-03-21T02:40:42Z: PLAYER ADDED   [  534487916] si3unuu
+2022-03-21T02:40:43Z: CHRCTER ADDED  [ 1909843725] HoodedStatues        (  179.7,   920.5,   135.9)
+2022-03-21T02:40:43Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  191.8,   921.7,   121.3)
+2022-03-21T02:40:43Z: CHRCTER ADDED  [ 2297272345] Kathy03bb            (  181.4,   727.5,   129.1)
+2022-03-21T02:40:44Z: CHRCTER ADDED  [ 3172161833] Reverse_ones         (  194.5,   307.1,   120.8)
+2022-03-21T02:40:44Z: CHRCTER ADDED  [ 3229834412] Watussi_1            (  -88.5,    63.0,    12.7)
+2022-03-21T02:40:44Z: PLAYER CHATTED [  190317458] FriendlyPetey       
+  I didn't say balls of steel
+2022-03-21T02:40:44Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -94.5,    62.9,     6.7)
+2022-03-21T02:40:44Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -94.5,    63.0,    18.7)
+2022-03-21T02:40:45Z: CHRCTER ADDED  [ 2242388810] lorealMM             (  -88.5,    62.7,     6.7)
+2022-03-21T02:40:45Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -82.5,    63.3,    12.7)
+2022-03-21T02:40:45Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -94.5,    62.8,    12.7)
+2022-03-21T02:40:45Z: CHRCTER ADDED  [ 1489329901] Sona29293            (  179.9,   306.1,   122.4)
+2022-03-21T02:40:45Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -88.5,    63.0,    12.7)
+2022-03-21T02:40:46Z: CHRCTER ADDED  [ 3171420010] ThatGirlGigi929      (  -82.5,    62.7,    18.7)
+2022-03-21T02:40:47Z: PLAYER REMOVED [ 2242388810] lorealMM
+2022-03-21T02:40:47Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -94.5,    62.9,    18.7)
+2022-03-21T02:40:48Z: CHRCTER ADDED  [ 1909843725] HoodedStatues        (  190.9,   306.1,   131.0)
+2022-03-21T02:40:49Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  181.5,   307.3,   118.8)
+2022-03-21T02:40:50Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.5,    40.2,    18.7)
+  ;invisible 
+2022-03-21T02:40:51Z: CHRCTER ADDED  [  534487916] si3unuu              (  -82.5,    62.8,    12.7)
+2022-03-21T02:40:51Z: PLAYER ADDED   [ 1630645075] Kevin_king387
+2022-03-21T02:40:53Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.5,    40.2,    18.7)
+  ;shine
+2022-03-21T02:40:58Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.5,    40.2,    18.7)
+  ;color me black
+2022-03-21T02:41:00Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (-2610.9,    48.1,  -936.0)
+  /e ;talk friendly BALLS OF STEEL 
+2022-03-21T02:41:00Z: PLAYER ADDED   [ 1557957292] missyxsmin
+2022-03-21T02:41:00Z: PLAYER REMOVED [ 3171420010] ThatGirlGigi929
+2022-03-21T02:41:03Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -94.5,    40.2,    18.7)
+  ;height me 4
+2022-03-21T02:41:07Z: PLAYER REMOVED [ 2297272345] Kathy03bb
+2022-03-21T02:41:09Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -78.2,    41.8,   -72.5)
+  ###
+2022-03-21T02:41:10Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -82.5,    62.9,    18.7)
+2022-03-21T02:41:12Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -45.5,    59.2,   -90.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:41:13Z: PLAYER CHATTED [ 1489329901] Sona29293            (  176.2,   349.1,   440.1)
+  ;ff
+2022-03-21T02:41:14Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -89.7,    49.1,     2.0)
+  ;smoke
+2022-03-21T02:41:16Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -78.2,    41.8,  -243.4)
+  ABBY
+2022-03-21T02:41:16Z: CHRCTER ADDED  [ 3229834412] Watussi_1            (  -82.5,    63.0,     6.7)
+2022-03-21T02:41:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.8,    61.1,   -34.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:41:21Z: CHRCTER ADDED  [ 1909843725] HoodedStatues        (  189.1,   306.1,   121.7)
+2022-03-21T02:41:21Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.8,    61.1,   -34.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:41:23Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -78.8,    61.1,   -34.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:41:25Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -82.5,    63.3,     6.7)
+2022-03-21T02:41:26Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -88.5,    62.9,    18.7)
+2022-03-21T02:41:26Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -88.6,    63.5,    18.7)
+  ;god
+2022-03-21T02:41:27Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -88.5,    62.8,    12.7)
+2022-03-21T02:41:29Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -82.1,    37.8,    20.4)
+  ;invisible 
+2022-03-21T02:41:30Z: PLAYER ADDED   [ 1427380976] 13Ki_Ki13
+2022-03-21T02:41:34Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -82.0,    40.2,    19.8)
+  ;shine me
+2022-03-21T02:41:39Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -82.0,    40.2,    19.8)
+  ;color me black
+2022-03-21T02:41:39Z: PLAYER CHATTED [ 1489329901] Sona29293            (   20.5,    49.4,  -382.5)
+  Stop
+2022-03-21T02:41:43Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -83.0,    40.2,    17.1)
+  ;height me 4
+2022-03-21T02:41:45Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -82.5,    62.8,     6.7)
+2022-03-21T02:41:47Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -83.0,    49.1,    17.1)
+  ;fly
+2022-03-21T02:41:47Z: CHRCTER ADDED  [ 1909843725] HoodedStatues        (  186.0,   306.1,   131.3)
+2022-03-21T02:41:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -90.4,    43.1,   -17.6)
+  /e ;mr DICE WITH OUT E 😻
+2022-03-21T02:41:48Z: PLAYER REMOVED [ 1909843725] HoodedStatues
+2022-03-21T02:41:53Z: PLAYER CHATTED [ 1522349750] Prexshot15           (   73.6,    38.9,  -380.0)
+  ;to sona
+2022-03-21T02:41:53Z: CHRCTER ADDED  [ 1427380976] 13Ki_Ki13            (  -94.5,    62.9,     6.7)
+2022-03-21T02:41:53Z: PLAYER REMOVED [ 1557957292] missyxsmin
+2022-03-21T02:41:54Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -90.3,    56.7,  -141.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:41:57Z: PLAYER CHATTED [ 1489329901] Sona29293            (   74.7,    41.2,  -378.0)
+  Stop
+2022-03-21T02:41:57Z: PLAYER CHATTED [ 3197085646] lqadya               (  112.8,    70.6,  -330.5)
+  LMNHGFA!
+2022-03-21T02:42:01Z: CHRCTER ADDED  [ 3229834412] Watussi_1            (  -88.5,    63.0,    18.7)
+2022-03-21T02:42:04Z: PLAYER CHATTED [ 1522349750] Prexshot15           (   59.9,    49.2,  -383.1)
+  ;logs
+2022-03-21T02:42:04Z: CHRCTER ADDED  [ 1427380976] 13Ki_Ki13            (  -88.5,    62.9,    12.7)
+2022-03-21T02:42:04Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  112.7,    85.0,  -289.7)
+  /e ;talk random BALLS OF STEEL
+2022-03-21T02:42:06Z: CHRCTER ADDED  [ 1630645075] Kevin_king387        (  -82.5,    63.5,     6.7)
+2022-03-21T02:42:06Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -78.2,    41.8,  -133.7)
+  heyy
+2022-03-21T02:42:07Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -82.5,    62.9,     6.7)
+2022-03-21T02:42:08Z: CHRCTER ADDED  [  534487916] si3unuu              (  -82.5,    62.8,    12.7)
+2022-03-21T02:42:11Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -80.2,    41.9,  -250.0)
+  If yur admin pls make me a rat
+2022-03-21T02:42:13Z: PLAYER CHATTED [  534487916] si3unuu              (  -82.5,    40.2,    11.7)
+  yah
+2022-03-21T02:42:15Z: PLAYER CHATTED [  534487916] si3unuu              (  -82.5,    40.2,    11.7)
+  i agree
+2022-03-21T02:42:16Z: PLAYER ADDED   [ 3372178345] Ever_benitez
+2022-03-21T02:42:21Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  107.8,    49.4,  -271.5)
+  ;mr rails
+2022-03-21T02:42:24Z: PLAYER ADDED   [ 1789993828] unircornrosalie7
+2022-03-21T02:42:25Z: PLAYER REMOVED [ 3229834412] Watussi_1
+2022-03-21T02:42:26Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   82.8,    45.2,  -287.7)
+  My mom says I already am one tho
+2022-03-21T02:42:27Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -88.5,    63.0,    12.7)
+2022-03-21T02:42:28Z: CHRCTER ADDED  [ 1795746696] chris_dafriendlyblis (  184.0,   308.2,   125.9)
+2022-03-21T02:42:33Z: PLAYER CHATTED [  534487916] si3unuu              (  -96.7,    42.1,  -276.9)
+  OKAPURRR
+2022-03-21T02:42:35Z: PLAYER ADDED   [ 3215800682] Abcdefu2022Alani
+2022-03-21T02:42:36Z: PLAYER REMOVED [ 1489329901] Sona29293
+2022-03-21T02:42:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  -90.8,    41.9,     8.0)
+  Come fly.
+2022-03-21T02:42:37Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.8,    60.3,  -285.0)
+  I promise I didn't say balls of steel
+2022-03-21T02:42:38Z: PLAYER ADDED   [ 2667854458] Prince4brown
+2022-03-21T02:42:39Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  101.3,    63.3,  -255.9)
+  omg
+2022-03-21T02:42:51Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   95.7,   315.4,   183.0)
+  /e ;talk friendly BALLS OF STEEL 
+2022-03-21T02:42:53Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -82.5,    62.9,    18.7)
+2022-03-21T02:42:54Z: CHRCTER ADDED  [ 1522349750] Prexshot15           (  -82.5,    62.9,    12.7)
+2022-03-21T02:42:56Z: PLAYER CHATTED [ 1427380976] 13Ki_Ki13            (   82.8,    56.1,  -330.6)
+  YES
+2022-03-21T02:42:56Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.8,    85.0,  -326.8)
+  NOOOOO
+2022-03-21T02:43:00Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   20.0,   255.8,    70.6)
+  /e ;morph me lord duck 
+2022-03-21T02:43:03Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  112.8,    92.4,  -303.7)
+  ABBY
+2022-03-21T02:43:05Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   20.0,   255.8,    70.6)
+  /e ;giant 
+2022-03-21T02:43:07Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -87.9,    47.1,    -0.5)
+  ;to vis
+2022-03-21T02:43:08Z: CHRCTER ADDED  [ 1630645075] Kevin_king387        (  -94.5,    63.5,     6.7)
+2022-03-21T02:43:08Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -88.5,    63.0,    12.7)
+2022-03-21T02:43:09Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   20.0,   255.8,    70.6)
+  /e ;ff 
+2022-03-21T02:43:09Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  104.9,    99.4,  -343.3)
+  Nooo
+2022-03-21T02:43:12Z: CHRCTER ADDED  [ 3372178345] Ever_benitez         (  -88.5,    63.6,    18.7)
+2022-03-21T02:43:13Z: PLAYER CHATTED [ 1522349750] Prexshot15           (  -87.9,    47.1,    -0.4)
+  ;to vis
+2022-03-21T02:43:16Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   86.0,    99.3,  -343.4)
+  mot slay
+2022-03-21T02:43:17Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   84.2,    99.4,  -338.3)
+  Do a flip
+2022-03-21T02:43:18Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -82.5,    62.9,    18.7)
+2022-03-21T02:43:19Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,    12.7)
+2022-03-21T02:43:22Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.9,    99.3,  -300.5)
+  ###
+2022-03-21T02:43:24Z: PLAYER REMOVED [ 1522349750] Prexshot15
+2022-03-21T02:43:25Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.9,    99.3,  -300.5)
+  gay
+2022-03-21T02:43:33Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   19.5,    91.0,    69.9)
+  /e ####### me father duck 
+2022-03-21T02:43:35Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   19.5,    91.0,    69.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:43:36Z: PLAYER REMOVED [ 1630645075] Kevin_king387
+2022-03-21T02:43:36Z: PLAYER CHATTED [  534487916] si3unuu              (   80.8,    99.6,  -302.9)
+  🏳️‍🌈🏳️‍🌈
+2022-03-21T02:43:36Z: CHRCTER ADDED  [ 2667854458] Prince4brown         (  -94.5,    62.8,    12.7)
+2022-03-21T02:43:39Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -55.6,    53.2,   -17.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:43:40Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -55.6,    53.2,   -17.0)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:43:42Z: PLAYER CHATTED [  534487916] si3unuu              (   80.8,    99.6,  -302.4)
+  BE WHOO YOU AREEEE
+2022-03-21T02:43:48Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   82.2,   101.3,  -293.2)
+  ##‍♂️🫃🏼
+2022-03-21T02:43:49Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.6,   100.9,  -294.2)
+  #########
+2022-03-21T02:43:55Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.6,   101.1,  -293.5)
+  ########
+2022-03-21T02:43:58Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.6,   101.3,  -292.8)
+  Aa
+2022-03-21T02:44:01Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   82.2,   101.7,  -291.5)
+  I’m leaving 
+2022-03-21T02:44:02Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -82.5,    63.1,     6.7)
+2022-03-21T02:44:02Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -94.5,    62.7,    12.7)
+2022-03-21T02:44:03Z: PLAYER CHATTED [ 3372178345] Ever_benitez         (   83.5,    49.0,  -266.4)
+  Ey yo
+2022-03-21T02:44:07Z: PLAYER ADDED   [ 3332636275] Kingboxred
+2022-03-21T02:44:12Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -88.5,    63.3,     6.7)
+2022-03-21T02:44:12Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -82.5,    62.8,    12.7)
+2022-03-21T02:44:13Z: PLAYER CHATTED [ 3197085646] lqadya               (  -77.8,    41.9,  -278.8)
+  LMNHBA!
+2022-03-21T02:44:15Z: PLAYER ADDED   [ 1781414625] summerbigbrother
+2022-03-21T02:44:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   93.2,   109.9,  -274.0)
+  /e ;mr DICE WITHOUT THE E😻
+2022-03-21T02:44:18Z: PLAYER CHATTED [  534487916] si3unuu             
+  rude
+2022-03-21T02:44:20Z: CHRCTER ADDED  [ 1427380976] 13Ki_Ki13            (  -88.5,    62.9,    18.7)
+2022-03-21T02:44:20Z: CHRCTER ADDED  [  534487916] si3unuu              (  -88.5,    62.8,    12.7)
+2022-03-21T02:44:20Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   67.3,    82.9,  -290.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:44:21Z: PLAYER CHATTED [  534487916] si3unuu              (  -93.5,    38.7,    10.3)
+  literally
+2022-03-21T02:44:23Z: PLAYER REMOVED [ 1427380976] 13Ki_Ki13
+2022-03-21T02:44:24Z: PLAYER REMOVED [  534487916] si3unuu
+2022-03-21T02:44:26Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   67.3,    82.9,  -290.7)
+  /e ;mr # # #
+2022-03-21T02:44:29Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   67.3,    82.9,  -290.7)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:44:30Z: PLAYER CHATTED [ 3215800682] Abcdefu2022Alani     (  -11.3,    41.9,  -290.7)
+  Gooooo
+2022-03-21T02:44:39Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -78.2,    41.8,  -186.6)
+  this is scary
+2022-03-21T02:44:40Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   53.4,    96.4,  -291.2)
+  /e ;mr BALLS😻
+2022-03-21T02:44:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (   42.9,   190.2,  -383.0)
+  Deicek without the Es?
+2022-03-21T02:44:44Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   53.4,    96.4,  -291.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:44:51Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -82.5,    63.0,     6.7)
+2022-03-21T02:44:52Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   50.6,    41.7,  -375.7)
+  😂😂😂
+2022-03-21T02:44:52Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   53.4,    96.4,  -291.2)
+  ##
+2022-03-21T02:44:54Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -14.5,   122.0,  -296.1)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:44:56Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   82.8,    46.8,  -281.8)
+   No
+2022-03-21T02:44:58Z: PLAYER ADDED   [ 2707818408] 123brocenemogorlxXx
+2022-03-21T02:45:04Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -14.5,   122.0,  -296.1)
+  /e ;mr BALLS OF STEEL 
+2022-03-21T02:45:04Z: PLAYER ADDED   [ 1963629984] marleejaide
+2022-03-21T02:45:05Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -82.5,    63.1,    18.7)
+2022-03-21T02:45:05Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -88.5,    62.7,    12.7)
+2022-03-21T02:45:06Z: CHRCTER ADDED  [ 3332636275] Kingboxred           (  -94.5,    62.8,     6.7)
+2022-03-21T02:45:07Z: PLAYER REMOVED [ 3372178345] Ever_benitez
+2022-03-21T02:45:07Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -69.2,   125.8,  -368.2)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:45:08Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   89.5,    56.2,  -343.8)
+  I didn’t say that
+2022-03-21T02:45:12Z: PLAYER REMOVED [ 3332636275] Kingboxred
+2022-03-21T02:45:13Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   88.9,    56.1,  -345.5)
+  ik lol
+2022-03-21T02:45:14Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (   88.8,    56.2,  -343.4)
+  Or did I
+2022-03-21T02:45:15Z: CHRCTER ADDED  [ 3126543540] ElliotKat1           (  -88.5,    63.0,     6.7)
+2022-03-21T02:45:17Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -88.5,    66.8,     6.7)
+2022-03-21T02:45:18Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   87.9,    56.1,  -344.9)
+  o.0
+2022-03-21T02:45:18Z: PLAYER ADDED   [ 3332636275] Kingboxred
+2022-03-21T02:45:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   28.4,    55.0,  -286.8)
+  /e ;talk abby BALLS OF STEEL 
+2022-03-21T02:45:20Z: PLAYER CHATTED [ 1963629984] marleejaide          (  -78.7,    40.4,     2.5)
+  I quit
+2022-03-21T02:45:21Z: PLAYER CHATTED [ 1789993828] unircornrosalie7     (  -78.1,    42.0,  -236.9)
+  WTH
+2022-03-21T02:45:22Z: PLAYER REMOVED [ 1963629984] marleejaide
+2022-03-21T02:45:22Z: PLAYER CHATTED [ 2667854458] Prince4brown         (   80.8,   120.0,  -277.3)
+  Balls of steel
+2022-03-21T02:45:23Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (   83.0,    63.0,  -318.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:45:25Z: PLAYER CHATTED [  190317458] FriendlyPetey        (   80.6,    56.7,  -297.7)
+  omg
+2022-03-21T02:45:30Z: PLAYER CHATTED [ 1789993828] unircornrosalie7     (   78.7,     9.6,  -243.0)
+  Stop
+2022-03-21T02:45:32Z: CHRCTER ADDED  [ 2667854458] Prince4brown         (  -94.5,    62.8,    18.7)
+2022-03-21T02:45:36Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -82.5,    63.1,     6.7)
+2022-03-21T02:45:36Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -94.5,    62.7,    12.7)
+2022-03-21T02:45:47Z: CHRCTER ADDED  [  190317458] FriendlyPetey        (  -88.5,    62.8,     6.7)
+2022-03-21T02:45:48Z: CHRCTER ADDED  [ 3332636275] Kingboxred           (  -88.5,    62.8,     6.7)
+2022-03-21T02:45:56Z: CHRCTER ADDED  [ 3213025150] AbbygonnaDabby       (  -94.5,    63.3,    12.7)
+2022-03-21T02:46:00Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -94.5,    63.0,    12.7)
+2022-03-21T02:46:01Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -94.6,    40.7,    13.0)
+  Good g
+2022-03-21T02:46:02Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  178.2,   315.7,   161.4)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:46:05Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -94.3,    40.2,    -0.2)
+  BALLS OF STEEL
+2022-03-21T02:46:05Z: PLAYER CHATTED [ 3213025150] AbbygonnaDabby       (  -94.6,    40.7,    13.0)
+  Gtg
+2022-03-21T02:46:06Z: CHRCTER ADDED  [ 2667854458] Prince4brown         (  -82.5,    62.8,    12.7)
+2022-03-21T02:46:06Z: CHRCTER ADDED  [ 3332636275] Kingboxred           (  -82.5,    66.8,    12.7)
+2022-03-21T02:46:07Z: PLAYER ADDED   [  469937055] littlemancarterjay
+2022-03-21T02:46:09Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  161.8,   345.6,   191.6)
+  /e ;talk vis BALLS OF STEEL 
+2022-03-21T02:46:10Z: PLAYER REMOVED [ 3213025150] AbbygonnaDabby
+2022-03-21T02:46:12Z: PLAYER CHATTED [  190317458] FriendlyPetey        (  -93.7,    40.2,     6.5)
+  okay 
+2022-03-21T02:46:19Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  132.4,   326.3,   280.9)
+  /e ;talk friendly BALLS OF STEEL 
+2022-03-21T02:46:20Z: PLAYER ADDED   [ 2427772035] C0tt0nc4ndypink
+2022-03-21T02:46:23Z: PLAYER ADDED   [ 1895252150] paigeaubree2017
+2022-03-21T02:46:30Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.7,    52.0,     0.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:46:31Z: PLAYER REMOVED [ 3172161833] Reverse_ones
+2022-03-21T02:46:32Z: PLAYER REMOVED [  190317458] FriendlyPetey
+2022-03-21T02:46:33Z: PLAYER REMOVED [ 1781414625] summerbigbrother
+2022-03-21T02:46:35Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.7,    52.0,     0.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:46:37Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  -98.7,    52.0,     0.3)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:46:46Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -94.5,    62.7,    12.7)
+2022-03-21T02:46:50Z: CHRCTER ADDED  [ 2707818408] 123brocenemogorlxXx  (  -88.5,    62.9,    18.7)
+2022-03-21T02:47:08Z: PLAYER CHATTED [ 3215800682] Abcdefu2022Alani     (  -66.9,    43.7,  -285.9)
+  ### #
+2022-03-21T02:47:12Z: CHRCTER ADDED  [ 2427772035] C0tt0nc4ndypink      (  -94.5,    62.9,     6.7)
+2022-03-21T02:47:14Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  181.4,   307.3,   135.0)
+2022-03-21T02:47:14Z: CHRCTER ADDED  [ 1795746696] chris_dafriendlyblis (  198.6,   308.2,   120.6)
+2022-03-21T02:47:15Z: CHRCTER ADDED  [  469937055] littlemancarterjay   (  -94.5,    62.8,    12.7)
+2022-03-21T02:47:16Z: CHRCTER ADDED  [ 1895252150] paigeaubree2017      (  -88.5,    63.0,     6.7)
+2022-03-21T02:47:17Z: PLAYER CHATTED [ 3215800682] Abcdefu2022Alani     (   82.3,    50.5,  -275.3)
+  Balls of steel
+2022-03-21T02:47:23Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   306.6,   121.5)
+  /e ;morph me lord duck 
+2022-03-21T02:47:25Z: CHRCTER ADDED  [ 3165144932] rekyr0               (  -94.5,    62.9,    12.7)
+2022-03-21T02:47:26Z: PLAYER REMOVED [ 3165144932] rekyr0
+2022-03-21T02:47:30Z: CHRCTER ADDED  [    1630228] VisualPlugin         (  199.0,   307.3,   134.6)
+2022-03-21T02:47:30Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   306.6,   121.9)
+  /e ;chatlogs me 
+2022-03-21T02:47:31Z: PLAYER ADDED   [ 1715280535] carboy_TwT
+2022-03-21T02:47:35Z: PLAYER CHATTED [ 2667854458] Prince4brown         (  110.8,    78.7,  -306.2)
+  #####
+2022-03-21T02:47:37Z: PLAYER CHATTED [ 1789993828] unircornrosalie7     (  112.8,    83.8,  -323.9)
+  Balls of steal 
+2022-03-21T02:47:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   306.6,   121.9)
+  /e ;giant 
+2022-03-21T02:47:50Z: PLAYER CHATTED [ 1789993828] unircornrosalie7    
+  Steel
+2022-03-21T02:47:50Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   308.3,   121.9)
+  /e ;fr 
+2022-03-21T02:47:51Z: CHRCTER ADDED  [ 2427772035] C0tt0nc4ndypink      (  -88.5,    62.9,     6.7)
+2022-03-21T02:47:54Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   308.3,   121.9)
+  /e ;ff 
+2022-03-21T02:47:55Z: CHRCTER ADDED  [ 2667854458] Prince4brown         (  -82.5,    62.8,    12.7)
+2022-03-21T02:47:55Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -88.5,    62.7,    18.7)
+2022-03-21T02:47:56Z: PLAYER CHATTED [ 2667854458] Prince4brown         (  -82.5,    63.3,    13.2)
+  ####### ####
+2022-03-21T02:47:56Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -88.5,    63.1,    12.7)
+2022-03-21T02:48:01Z: CHRCTER ADDED  [ 3332636275] Kingboxred           (  -88.5,    62.8,    18.7)
+2022-03-21T02:48:03Z: PLAYER CHATTED [ 2667854458] Prince4brown         (  -84.4,    40.2,    -5.0)
+  ####
+2022-03-21T02:48:06Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -88.5,    63.1,    12.7)
+2022-03-21T02:48:07Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.6,   308.3,   121.9)
+  /e ####### me father duck 
+2022-03-21T02:48:10Z: CHRCTER ADDED  [ 1715280535] carboy_TwT           (  -94.5,    62.8,     6.7)
+2022-03-21T02:48:12Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  198.7,   312.1,   121.8)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:48:18Z: PLAYER CHATTED [ 2667854458] Prince4brown         (  -84.4,    40.2,    -5.0)
+  ##### ### ###
+2022-03-21T02:48:21Z: PLAYER CHATTED [ 3332636275] Kingboxred           (  -63.7,    42.1,  -284.7)
+  ####
+2022-03-21T02:48:27Z: PLAYER ADDED   [ 1748224217] Allisoninwndrland
+2022-03-21T02:48:38Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -94.5,    63.1,     6.7)
+2022-03-21T02:48:43Z: PLAYER ADDED   [ 3395037524] Peppedpepper5747
+2022-03-21T02:48:43Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -82.5,    62.7,    18.7)
+2022-03-21T02:48:47Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  ## ######### me 
+2022-03-21T02:48:54Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;name me father duck 
+2022-03-21T02:48:59Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:01Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:03Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:05Z: CHRCTER ADDED  [ 1789993828] unircornrosalie7     (  -88.5,    62.7,    18.7)
+2022-03-21T02:49:06Z: PLAYER ADDED   [ 2267199864] zy_lovepuppys
+2022-03-21T02:49:10Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:13Z: PLAYER REMOVED [ 1715280535] carboy_TwT
+2022-03-21T02:49:14Z: CHRCTER ADDED  [ 2667854458] Prince4brown         (  -82.5,    62.8,    18.7)
+2022-03-21T02:49:15Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -94.5,    63.1,    12.7)
+2022-03-21T02:49:16Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:18Z: PLAYER CHATTED [ 1795746696] chris_dafriendlyblis (  190.1,   351.7,    14.9)
+  /e ;talk random BALLS OF STEEL 
+2022-03-21T02:49:23Z: PLAYER REMOVED [ 2707818408] 123brocenemogorlxXx
+2022-03-21T02:49:24Z: PLAYER REMOVED [ 1795746696] chris_dafriendlyblis
+2022-03-21T02:49:26Z: CHRCTER ADDED  [ 2427772035] C0tt0nc4ndypink      (  -94.5,    62.9,    18.7)
+2022-03-21T02:49:30Z: PLAYER CHATTED [ 3395037524] Peppedpepper5747     (   80.9,    42.0,  -353.7)
+  Hey
+2022-03-21T02:49:35Z: CHRCTER ADDED  [ 2267199864] zy_lovepuppys        (  -82.5,    62.8,    18.7)
+2022-03-21T02:49:36Z: PLAYER CHATTED [ 1748224217] Allisoninwndrland    (   82.8,    41.7,  -337.8)
+  ya
+2022-03-21T02:49:49Z: PLAYER CHATTED [ 1748224217] Allisoninwndrland   
+  :0
+2022-03-21T02:49:52Z: CHRCTER ADDED  [ 1748224217] Allisoninwndrland    (  -94.5,    63.0,     6.7)
+2022-03-21T02:49:54Z: CHRCTER ADDED  [ 3395037524] Peppedpepper5747     (  -88.5,    62.8,    12.7)
+2022-03-21T02:50:08Z: PLAYER REMOVED [ 2427772035] C0tt0nc4ndypink
+2022-03-21T02:50:09Z: CHRCTER ADDED  [ 3395037524] Peppedpepper5747     (  -88.5,    62.8,    12.7)
+2022-03-21T02:50:10Z: PLAYER ADDED   [ 2283062949] X_FENDIJASMINE
+2022-03-21T02:50:19Z: CHRCTER ADDED  [ 1748224217] Allisoninwndrland    (  -82.5,    63.0,    12.7)
+2022-03-21T02:50:24Z: CHRCTER ADDED  [ 3215800682] Abcdefu2022Alani     (  -88.5,    63.1,     6.7)
+2022-03-21T02:50:26Z: CHRCTER ADDED  [ 3197085646] lqadya               (  -82.5,    63.0,     6.7)
+2022-03-21T02:50:26Z: CHRCTER ADDED  [  469937055] littlemancarterjay   (  -94.5,    62.8,     6.7)

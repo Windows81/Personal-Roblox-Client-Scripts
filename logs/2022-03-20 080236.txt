@@ -1,0 +1,168 @@
+[ 4794911592 - f80cc861-6f11-41b1-9111-3dd09aad7068] The Kubla Khan Las Vegas - Hotel Showcase, W.I.P
+2022-03-20T08:02:36Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-20T08:02:38Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-20T08:02:38Z: PLAYER ADDED   [  272668649] hes8663
+2022-03-20T08:03:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  137.1,    92.2,   140.0)
+  Come check out the lifts!
+2022-03-20T08:04:10Z: CHRCTER ADDED  [  272668649] hes8663              (   35.0,   103.6,    -2.8)
+2022-03-20T08:05:13Z: PLAYER CHATTED [  272668649] hes8663              (  133.9,    91.5,   127.2)
+  wow
+2022-03-20T08:05:16Z: PLAYER CHATTED [  272668649] hes8663              (  133.9,    91.5,   127.2)
+  elevator is detailed :O
+2022-03-20T08:05:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  132.4,   110.2,   135.4)
+  Yes it is.
+2022-03-20T08:05:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  132.4,   110.2,   135.4)
+  Did you press a button yet?
+2022-03-20T08:05:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  132.4,   110.2,   135.4)
+  Guess you did.
+2022-03-20T08:05:43Z: PLAYER CHATTED [  272668649] hes8663              (  132.6,   236.3,   126.5)
+  pressed now
+2022-03-20T08:05:46Z: PLAYER CHATTED [  272668649] hes8663              (  132.6,   244.4,   126.5)
+  wow
+2022-03-20T08:07:06Z: PLAYER CHATTED [  272668649] hes8663              (  111.6,   244.6,   113.8)
+  02.053..?
+2022-03-20T08:07:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.8,   245.2,   102.9)
+  Second floor.
+2022-03-20T08:07:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (   83.6,   245.2,   156.0)
+  Not here.
+2022-03-20T08:07:35Z: PLAYER CHATTED [  272668649] hes8663              (   46.9,   244.6,   154.9)
+  ohh
+2022-03-20T08:08:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  133.4,   161.7,   127.0)
+  We're now both welded!
+2022-03-20T08:08:15Z: PLAYER CHATTED [    1630228] VisualPlugin         (  133.4,    92.4,   127.0)
+  Relative to EACH of us.
+2022-03-20T08:09:51Z: PLAYER CHATTED [  272668649] hes8663              ( -215.5,   100.5,   120.6)
+  oh my room
+2022-03-20T08:10:08Z: PLAYER CHATTED [  272668649] hes8663              ( -253.7,   100.5,   124.2)
+  it's so vintage
+2022-03-20T08:10:28Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -242.8,   101.2,   121.8)
+  I was not born in the 80s for a reason.
+2022-03-20T08:10:41Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -226.4,   101.2,   117.3)
+  Or the 70s for the matter.
+2022-03-20T08:11:01Z: PLAYER CHATTED [  272668649] hes8663              ( -227.1,   100.5,   122.2)
+  looks like 70s
+2022-03-20T08:11:24Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -215.7,   101.2,   118.6)
+  Mine is 03 035.
+2022-03-20T08:12:00Z: PLAYER CHATTED [  272668649] hes8663              ( -173.9,   110.0,    12.4)
+  beautiful view
+2022-03-20T08:12:11Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -171.2,   110.2,    12.7)
+  Sòón™/
+2022-03-20T08:12:41Z: PLAYER CHATTED [  272668649] hes8663              ( -173.9,   109.5,    12.8)
+  when to update again
+2022-03-20T08:12:46Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -177.4,   110.2,    12.9)
+  No idea.
+2022-03-20T08:12:51Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -177.4,   110.2,    12.9)
+  Maybe this wèék.
+2022-03-20T08:12:55Z: PLAYER CHATTED [  272668649] hes8663              ( -173.1,   109.5,    13.6)
+  yeah
+2022-03-20T08:13:33Z: PLAYER CHATTED [  272668649] hes8663              ( -173.6,   109.5,    56.9)
+  I have a question, did you make this game yourself?
+2022-03-20T08:13:38Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -163.7,   110.2,    59.5)
+  I did.
+2022-03-20T08:13:41Z: PLAYER CHATTED [  272668649] hes8663              ( -151.2,   109.5,    58.3)
+  WOWOW
+2022-03-20T08:13:43Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -163.7,   110.2,    59.5)
+  Just not all in one time.
+2022-03-20T08:14:00Z: PLAYER CHATTED [  272668649] hes8663              ( -151.1,   109.5,    57.6)
+  Did someone help?
+2022-03-20T08:14:08Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -158.7,   110.2,    58.4)
+  Not at all.
+2022-03-20T08:14:27Z: PLAYER CHATTED [  272668649] hes8663              ( -179.6,   109.5,    57.1)
+  That is amazing
+2022-03-20T08:14:30Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -186.3,   110.2,    58.6)
+  Thank you!
+2022-03-20T08:14:36Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -184.6,   110.2,    58.7)
+  Do you build yourself?
+2022-03-20T08:14:54Z: PLAYER CHATTED [  272668649] hes8663              ( -160.9,   109.5,    58.1)
+  That's right but it's lame..
+2022-03-20T08:15:00Z: PLAYER CHATTED [  272668649] hes8663              ( -162.0,   109.5,    59.1)
+  XD
+2022-03-20T08:16:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  166.6,   182.2,   121.9)
+  Both sets.
+2022-03-20T08:17:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  148.7,   182.2,   126.5)
+  There are some unique floors here.
+2022-03-20T08:17:40Z: PLAYER CHATTED [  272668649] hes8663              (  167.3,   217.6,   118.5)
+  Ohhhh
+2022-03-20T08:17:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  164.6,   218.2,   110.8)
+  At first glance,
+2022-03-20T08:17:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  164.6,   218.2,   110.8)
+  It looks like a small sub-building.
+2022-03-20T08:18:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  168.6,   218.2,   109.8)
+  Not so once you come...
+2022-03-20T08:18:48Z: PLAYER CHATTED [  272668649] hes8663              (   78.3,   217.7,    95.9)
+  I will come again if you update
+2022-03-20T08:18:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (   86.5,   218.2,    94.1)
+  Check out 18!
+2022-03-20T08:19:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  144.3,   227.2,   117.0)
+  You're welcome to suggest changes.
+2022-03-20T08:19:56Z: PLAYER CHATTED [  272668649] hes8663              (  106.7,   226.7,   101.1)
+  the prettiest floor
+2022-03-20T08:20:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  107.3,   227.2,   114.6)
+  I like 17 just as much.
+2022-03-20T08:20:51Z: PLAYER CHATTED [  272668649] hes8663              (  162.5,   226.9,    98.8)
+  I think I saw a space like this in my dream
+2022-03-20T08:21:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  167.8,   227.2,    98.3)
+  I'll be back/
+2022-03-20T08:21:16Z: PLAYER CHATTED [  272668649] hes8663              (  161.7,   226.6,    98.1)
+  ok
+2022-03-20T08:22:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  167.8,   227.2,    98.3)
+  Back.
+2022-03-20T08:24:51Z: PLAYER CHATTED [  272668649] hes8663              (   94.4,   190.6,   130.1)
+  Now that I know, the wallpaper on each floor is different
+2022-03-20T08:25:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.9,   191.2,   126.6)
+  Floor texture is different.
+2022-03-20T08:25:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (   94.9,   191.2,   126.6)
+  Not necessarily wallpaper.
+2022-03-20T08:25:18Z: PLAYER CHATTED [  272668649] hes8663              (   96.4,   190.5,   130.7)
+  cool :O
+2022-03-20T08:26:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  108.3,   191.2,   127.5)
+  What should I add here?
+2022-03-20T08:26:40Z: PLAYER CHATTED [  272668649] hes8663              (  106.9,   190.5,   121.7)
+  hmm
+2022-03-20T08:27:13Z: PLAYER CHATTED [  272668649] hes8663              (   98.4,   190.5,   130.9)
+  Frames...?
+2022-03-20T08:27:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.0,   191.2,   122.6)
+  Of which sort?
+2022-03-20T08:27:45Z: PLAYER CHATTED [  272668649] hes8663              (  110.6,   190.5,   134.5)
+  18th century paintings
+2022-03-20T08:27:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  108.2,   191.2,   125.6)
+  The issue here is the way the corner is made.
+2022-03-20T08:28:27Z: PLAYER CHATTED [  272668649] hes8663              (  114.6,   190.5,   117.8)
+  it's complicated
+2022-03-20T08:28:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  102.8,   191.2,   132.4)
+  I'm thnking benches,
+2022-03-20T08:29:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  102.8,   191.2,   132.4)
+  But they would be too long.
+2022-03-20T08:29:11Z: PLAYER CHATTED [  272668649] hes8663              (  110.7,   190.5,   127.9)
+  oh
+2022-03-20T08:30:01Z: PLAYER CHATTED [  272668649] hes8663              (  112.1,   190.5,   124.4)
+  Or build a statue
+2022-03-20T08:30:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.4,   191.2,   130.3)
+  Where?
+2022-03-20T08:30:12Z: PLAYER CHATTED [  272668649] hes8663              (  111.0,   190.5,   124.9)
+  hmmmmmmmm
+2022-03-20T08:30:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.4,   191.2,   130.3)
+  In the middle where people peek out?
+2022-03-20T08:31:00Z: PLAYER CHATTED [  272668649] hes8663              (  113.4,   190.5,   124.7)
+  I just think a bench is better
+2022-03-20T08:31:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  112.3,   191.2,   137.7)
+  I agree.
+2022-03-20T08:31:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.8,   191.2,    95.1)
+  I'll leave now.
+2022-03-20T08:32:03Z: PLAYER CHATTED [  272668649] hes8663              (  109.6,   190.5,   107.0)
+  okay good bye
+2022-03-20T08:32:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.8,   191.2,    95.1)
+  I might have some updates out by 10:00 UTC.
+2022-03-20T08:32:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  109.8,   191.2,    95.1)
+  Maybe not.
+2022-03-20T08:32:12Z: PLAYER CHATTED [  272668649] hes8663              (  108.5,   190.5,   106.7)
+  :o
+2022-03-20T08:32:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.8,   191.2,    96.6)
+  Take care!
+2022-03-20T08:32:30Z: PLAYER CHATTED [  272668649] hes8663              (  110.5,   190.5,   107.4)
+  byee
+2022-03-20T08:32:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  111.8,   191.2,    96.6)
+  And look out for any small changes!
+2022-03-20T08:32:38Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-03-20T08:32:38Z: PLAYER REMOVED [  272668649] hes8663
+2022-03-20T08:32:38Z: CHAT STREAM SUCCESSFULLY ENDED

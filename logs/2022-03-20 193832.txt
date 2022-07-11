@@ -1,0 +1,1339 @@
+[ 6982988368 - 6b34a1a2-d8a7-4ec6-b2e1-c0f997323f30] Ultimate Build
+2022-03-20T19:38:32Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-20T19:38:32Z: PLAYER ADDED   [ 1371472416] DARIUS_RARES
+2022-03-20T19:38:47Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         ( -821.0,   -25.2,     7.0)
+  hi
+2022-03-20T19:38:54Z: PLAYER ADDED   [   72466452] Kanderion
+2022-03-20T19:39:12Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (  -36.3,     6.8,    42.8)
+  tex
+2022-03-20T19:39:20Z: PLAYER CHATTED [   72466452] Kanderion            (    6.5,     6.8,    36.2)
+  OH MY GOD
+2022-03-20T19:39:32Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   -3.1,     6.8,  -166.6)
+  is time to anchluss you
+2022-03-20T19:39:41Z: PLAYER CHATTED [   72466452] Kanderion            (    6.8,     6.8,    36.0)
+  ok
+2022-03-20T19:39:53Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   42.5,     6.8,  -278.1)
+  ima anchluss tex now
+2022-03-20T19:40:10Z: PLAYER CHATTED [   72466452] Kanderion            (    6.8,     6.8,    36.0)
+  ok?
+2022-03-20T19:40:15Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   53.1,     6.8,  -556.5)
+  re  ich invasion word
+2022-03-20T19:40:21Z: PLAYER CHATTED [   72466452] Kanderion            (    6.8,     6.8,    36.0)
+  wait what
+2022-03-20T19:41:16Z: PLAYER CHATTED [   72466452] Kanderion            (    8.1,     6.8,    39.9)
+  at your face
+2022-03-20T19:41:39Z: PLAYER CHATTED [   72466452] Kanderion            (    8.1,     6.8,    39.9)
+  it does
+2022-03-20T19:41:50Z: PLAYER CHATTED [   72466452] Kanderion            (    8.1,     6.8,    39.9)
+  ok
+2022-03-20T19:43:07Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   51.6,     6.8,  -571.8)
+  ######## tiem
+2022-03-20T19:43:11Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   48.2,     6.8,  -565.1)
+  anchluss time
+2022-03-20T19:43:45Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (  140.1,     6.8,  -157.2)
+  who wanna get  anchlussed
+2022-03-20T19:44:18Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   34.6,     6.8,    55.8)
+  is this the naz sign?!
+2022-03-20T19:44:50Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (   34.9,     6.8,    70.1)
+  ima anchluss someone
+2022-03-20T19:45:21Z: PLAYER CHATTED [ 1371472416] DARIUS_RARES         (  -71.3,     8.3,   -11.4)
+  ANCHLUSS TIME!
+2022-03-20T19:45:40Z: PLAYER REMOVED [ 1371472416] DARIUS_RARES
+2022-03-20T19:46:20Z: PLAYER REMOVED [ 1672930289] seattletrainexpert
+2022-03-20T19:46:24Z: PLAYER CHATTED [   72466452] Kanderion            (  100.0,     6.8,    55.0)
+  b r u h
+2022-03-20T19:46:47Z: PLAYER ADDED   [ 1693098016] enzogamer123vv
+2022-03-20T19:47:09Z: PLAYER REMOVED [  449582766] ChihuahuaBoy75
+2022-03-20T19:47:17Z: PLAYER REMOVED [ 1693098016] enzogamer123vv
+2022-03-20T19:47:21Z: PLAYER CHATTED [   72466452] Kanderion            (   94.9,     6.8,    38.2)
+  no
+2022-03-20T19:47:22Z: PLAYER CHATTED [   72466452] Kanderion            (   94.9,     6.8,    38.2)
+  floor
+2022-03-20T19:47:54Z: PLAYER ADDED   [  153683700] Thebenjiball
+2022-03-20T19:48:03Z: PLAYER CHATTED [   72466452] Kanderion            (   85.6,     6.8,    34.3)
+  i didn't
+2022-03-20T19:48:24Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -2.9,     6.8,    43.7)
+  Hi dan
+2022-03-20T19:48:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (    8.6,     6.8,    41.4)
+  yea
+2022-03-20T19:48:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (    1.0,     6.8,    35.6)
+  wait what
+2022-03-20T19:48:52Z: PLAYER CHATTED [  153683700] Thebenjiball         (    1.0,     6.8,    35.6)
+  the river is gone
+2022-03-20T19:49:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (   99.6,     6.8,    22.8)
+  k
+2022-03-20T19:49:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  101.5,     6.8,    17.7)
+  lol
+2022-03-20T19:49:31Z: PLAYER CHATTED [  153683700] Thebenjiball         (   99.3,     6.8,    38.5)
+  yes
+2022-03-20T19:49:36Z: PLAYER ADDED   [  286331841] MooKnightXIII
+2022-03-20T19:49:45Z: PLAYER ADDED   [ 1356501588] youngelton9
+2022-03-20T19:49:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (  294.2,     6.8,  2047.2)
+  ah
+2022-03-20T19:49:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  294.2,     6.8,  2047.2)
+  there's no sand
+2022-03-20T19:50:05Z: PLAYER CHATTED [  153683700] Thebenjiball         (  293.9,     6.8,  2048.7)
+  k
+2022-03-20T19:50:20Z: PLAYER CHATTED [  153683700] Thebenjiball         (  293.9,     6.8,  2048.7)
+  could the ground not be any longer?
+2022-03-20T19:50:38Z: PLAYER CHATTED [  286331841] MooKnightXIII        ( -406.2,     7.8,   -83.2)
+  hm
+2022-03-20T19:50:39Z: PLAYER CHATTED [  153683700] Thebenjiball         (  248.5,     6.8, -1997.5)
+  there's no unlocked ground here
+2022-03-20T19:51:09Z: PLAYER CHATTED [  286331841] MooKnightXIII        ( -406.2,     7.8,   -83.2)
+  idk
+2022-03-20T19:51:32Z: PLAYER CHATTED [  153683700] Thebenjiball         (  -58.8,     7.2,    50.4)
+  Spawn has a lot of spam. If I lock all things that are requested to keep would it be okay to clean?
+2022-03-20T19:51:46Z: PLAYER CHATTED [  153683700] Thebenjiball         (  -31.7,     6.8,    33.2)
+  Okay
+2022-03-20T19:51:55Z: PLAYER CHATTED [  153683700] Thebenjiball         (  -42.9,     6.8,    -7.2)
+  yeah
+2022-03-20T19:52:38Z: PLAYER REMOVED [  132006140] rtrrtrtrtrtrtr
+2022-03-20T19:52:40Z: PLAYER ADDED   [ 1672930289] seattletrainexpert
+2022-03-20T19:52:52Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -828.0,   -25.2,     0.0)
+  goh
+2022-03-20T19:52:55Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   51.8,    79.2,   221.2)
+  gohome
+2022-03-20T19:53:00Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   52.0,    79.2,   220.9)
+  YESSSSSSSS ITS STILL HERE
+2022-03-20T19:53:19Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -116.2,   110.0,   -34.0)
+  yeah
+2022-03-20T19:53:22Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -111.8,   117.8,   -36.1)
+  ik dan
+2022-03-20T19:53:28Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -111.8,   117.8,   -36.1)
+  ill lock those sand wedges
+2022-03-20T19:53:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  it's np
+2022-03-20T19:54:00Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  is there one at the other side
+2022-03-20T19:54:07Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  k
+2022-03-20T19:54:29Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  for the sick tunnel im about to build
+2022-03-20T19:54:44Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  sure
+2022-03-20T19:54:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  finish that sand wedge first
+2022-03-20T19:54:56Z: PLAYER CHATTED [  286331841] MooKnightXIII        (  308.0,    12.5, -4000.0)
+  viptele
+2022-03-20T19:55:01Z: PLAYER CHATTED [  153683700] Thebenjiball         (  493.7,     6.8, -2042.2)
+  undo the delete
+2022-03-20T19:55:09Z: PLAYER CHATTED [  153683700] Thebenjiball         (  533.2,     1.2, -2053.6)
+  XD
+2022-03-20T19:55:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  517.1,     6.8, -2047.5)
+  yea
+2022-03-20T19:55:40Z: PLAYER CHATTED [  153683700] Thebenjiball         (  514.8,     6.8, -2048.1)
+  almost
+2022-03-20T19:55:53Z: PLAYER CHATTED [ 1356501588] youngelton9          (  -35.0,    10.3,    70.7)
+  oops
+2022-03-20T19:55:58Z: PLAYER CHATTED [  153683700] Thebenjiball         (  512.0,     6.8, -2049.7)
+  ill make it perfect
+2022-03-20T19:56:05Z: PLAYER CHATTED [   72466452] Kanderion            (   86.6,     6.8,    69.9)
+  dude
+2022-03-20T19:56:10Z: PLAYER CHATTED [   72466452] Kanderion            (   86.6,     6.8,    69.9)
+  no
+2022-03-20T19:56:15Z: PLAYER CHATTED [  153683700] Thebenjiball         (  506.8,   -55.6, -2097.1)
+  freeze
+2022-03-20T19:56:20Z: PLAYER REMOVED [ 1356501588] youngelton9
+2022-03-20T19:56:20Z: PLAYER CHATTED [  153683700] Thebenjiball         (  506.8,   -55.6, -2097.1)
+  thaw
+2022-03-20T19:56:26Z: PLAYER CHATTED [  153683700] Thebenjiball         (  498.3,     6.8, -2048.8)
+  nice
+2022-03-20T19:56:36Z: PLAYER ADDED   [ 1802812233] Beanos2537
+2022-03-20T19:56:39Z: PLAYER CHATTED [   72466452] Kanderion            (   83.7,     6.8,    69.4)
+  sus
+2022-03-20T19:57:06Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -828.0,   -25.2,     0.0)
+  Hi seattle
+2022-03-20T19:57:14Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -828.0,   -25.2,     0.0)
+  I changed my name to dream
+2022-03-20T19:57:16Z: PLAYER CHATTED [ 1802812233] Beanos2537           (    5.0,    12.5,    -6.0)
+  ###
+2022-03-20T19:57:22Z: PLAYER CHATTED [  153683700] Thebenjiball         (  103.4,     6.8,  2049.7)
+  haha yea
+2022-03-20T19:57:37Z: PLAYER CHATTED [   72466452] Kanderion            (   86.0,     6.8,    47.6)
+  sniper rifle
+2022-03-20T19:57:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  105.8,     6.8,  2048.3)
+  aight
+2022-03-20T19:57:51Z: PLAYER CHATTED [   72466452] Kanderion            (   88.4,     6.8,    47.2)
+  don't
+2022-03-20T19:57:52Z: PLAYER CHATTED [   72466452] Kanderion            (   88.4,     6.8,    47.2)
+  u even
+2022-03-20T19:57:53Z: PLAYER CHATTED [   72466452] Kanderion            (   88.4,     6.8,    47.2)
+  dare
+2022-03-20T19:58:00Z: PLAYER CHATTED [  153683700] Thebenjiball         (  105.7,     6.8,  2046.9)
+  ima make an entrance for the tunnel
+2022-03-20T19:58:17Z: PLAYER CHATTED [   72466452] Kanderion            (  136.4,     6.8,    14.8)
+  dude
+2022-03-20T19:58:18Z: PLAYER CHATTED [   72466452] Kanderion            (  136.4,     6.8,    14.8)
+  go away
+2022-03-20T19:59:17Z: PLAYER CHATTED [  153683700] Thebenjiball         (  112.5,     7.8,   -26.9)
+  tunnel entrance
+2022-03-20T19:59:24Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   10.3,     6.8,    38.7)
+  HI
+2022-03-20T19:59:24Z: PLAYER CHATTED [  153683700] Thebenjiball         (  112.5,     7.8,   -26.9)
+  it's going to be stairs
+2022-03-20T19:59:28Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   10.3,     6.8,    38.8)
+  ITS ME AGAIN
+2022-03-20T19:59:31Z: PLAYER CHATTED [  153683700] Thebenjiball         (  110.3,     1.6,   -22.4)
+  a litteral tunnel
+2022-03-20T19:59:33Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   12.6,     6.8,    39.3)
+  BUT DREAM MODE
+2022-03-20T19:59:38Z: PLAYER CHATTED [  153683700] Thebenjiball         (  104.5,     7.8,   -19.8)
+  yeah
+2022-03-20T19:59:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (  104.5,     7.8,   -19.8)
+  ik
+2022-03-20T19:59:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  104.5,     7.8,   -19.8)
+  fill the tunnel with air while i build the structure
+2022-03-20T19:59:59Z: PLAYER CHATTED [ 1802812233] Beanos2537           (    7.2,     6.8,    37.4)
+  im really bald now
+2022-03-20T20:00:07Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.3,     7.0,   -19.1)
+  there
+2022-03-20T20:00:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.3,     7.0,   -19.1)
+  0.99 invisibility
+2022-03-20T20:00:22Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   17.1,    25.2,    54.1)
+  tinky winky
+2022-03-20T20:00:31Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.6,     6.8,   -16.8)
+  if i make it 100% then it will show the water
+2022-03-20T20:00:34Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.6,     6.8,   -16.8)
+  trust me i tried
+2022-03-20T20:00:49Z: PLAYER CHATTED [  153683700] Thebenjiball         (  109.1,     5.6,   -19.3)
+  just fill the tunnel with it
+2022-03-20T20:00:54Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -555.0,    19.8,   230.3)
+  NAH
+2022-03-20T20:00:56Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -555.0,    19.8,   230.3)
+  no thx
+2022-03-20T20:01:03Z: PLAYER CHATTED [  153683700] Thebenjiball         (  113.5,     3.6,   -18.2)
+  dan?
+2022-03-20T20:01:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -397.0,     7.8,  -151.8)
+  .-.
+2022-03-20T20:01:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -397.0,     7.8,  -147.7)
+  hi
+2022-03-20T20:01:22Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -397.0,     7.8,  -147.7)
+  Sure?
+2022-03-20T20:01:35Z: PLAYER CHATTED [  153683700] Thebenjiball         (  157.0,   -57.0,   -10.7)
+  dan
+2022-03-20T20:01:39Z: PLAYER CHATTED [   72466452] Kanderion            (   69.9,     6.8,    51.2)
+  yes
+2022-03-20T20:01:42Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -397.0,     7.8,  -147.7)
+  Im not very good at fight but ok
+2022-03-20T20:01:45Z: PLAYER CHATTED [  153683700] Thebenjiball         (  155.7,   -56.2,   -10.5)
+  go to that end of the tunnel and stretch this air block to it
+2022-03-20T20:01:46Z: PLAYER CHATTED [   72466452] Kanderion            (   66.9,     6.8,    52.9)
+  i also make guns
+2022-03-20T20:01:51Z: PLAYER CHATTED [   72466452] Kanderion            (   66.9,     6.8,    52.9)
+  ok
+2022-03-20T20:01:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  128.4,   -33.3,   -51.1)
+  pls
+2022-03-20T20:01:54Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -397.0,     7.8,  -147.7)
+  you?
+2022-03-20T20:02:33Z: PLAYER CHATTED [  153683700] Thebenjiball         (  137.9,   -32.1,   -21.6)
+  yeah
+2022-03-20T20:02:34Z: PLAYER CHATTED [  153683700] Thebenjiball         (  137.9,   -32.1,   -21.6)
+  ik
+2022-03-20T20:02:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -418.2,     7.3,  -259.7)
+  ok
+2022-03-20T20:02:38Z: PLAYER CHATTED [  153683700] Thebenjiball         (  137.9,   -32.1,   -21.6)
+  we only need like 1 or 2
+2022-03-20T20:03:03Z: PLAYER CHATTED [   72466452] Kanderion            (  135.1,    -7.4,   -12.6)
+  damnn
+2022-03-20T20:03:03Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -449.3,    15.8,  -193.6)
+  :,v
+2022-03-20T20:03:04Z: PLAYER CHATTED [  153683700] Thebenjiball         (  146.1,   -13.0,   -13.1)
+  hello
+2022-03-20T20:03:05Z: PLAYER CHATTED [   72466452] Kanderion            (  135.1,    -7.4,   -12.6)
+  what dis
+2022-03-20T20:03:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  148.6,   -14.2,   -11.8)
+  tunnel
+2022-03-20T20:03:13Z: PLAYER CHATTED [   72466452] Kanderion            (  143.7,   -11.6,    -9.2)
+  that's lit
+2022-03-20T20:03:16Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -382.5,    13.8,  -128.7)
+  oof
+2022-03-20T20:03:18Z: CHRCTER ADDED  [ 1802812233] Beanos2537           ( -821.0,   -25.8,    -7.0)
+2022-03-20T20:03:20Z: PLAYER CHATTED [  153683700] Thebenjiball         (  156.3,   -17.7,   -11.2)
+  daniel we're going to make the floor above the trash
+2022-03-20T20:03:21Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -821.0,   -25.2,    -7.0)
+  ok
+2022-03-20T20:03:23Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -2.0,    12.5,     3.0)
+  ###
+2022-03-20T20:03:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  138.7,     0.1,   -15.8)
+  BRUH
+2022-03-20T20:03:28Z: PLAYER CHATTED [  153683700] Thebenjiball         (  138.7,     1.3,   -15.8)
+  someone deleted the air
+2022-03-20T20:03:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -401.4,     7.8,  -137.5)
+  What gear?
+2022-03-20T20:03:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -401.4,     7.8,  -137.5)
+  Umm 
+2022-03-20T20:03:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -401.4,     7.8,  -137.5)
+  Boombox
+2022-03-20T20:03:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (  170.3,   -28.5,   -10.9)
+  daniel
+2022-03-20T20:03:44Z: PLAYER CHATTED [  153683700] Thebenjiball         (  170.8,   -19.7,    -9.9)
+  you deleted the air
+2022-03-20T20:03:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.6,   -59.5,    14.3)
+  ther
+2022-03-20T20:04:02Z: PLAYER CHATTED [  153683700] Thebenjiball         (  213.2,   -60.5,     9.2)
+  im gonna have to lock the air
+2022-03-20T20:04:06Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -401.4,     7.8,  -137.5)
+  ye
+2022-03-20T20:04:10Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -401.4,     7.8,  -137.5)
+  Thanks
+2022-03-20T20:04:24Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -602.1,    19.2,   214.5)
+  sethome
+2022-03-20T20:04:40Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (    1.6,    25.0,    53.9)
+  hi
+2022-03-20T20:04:45Z: PLAYER CHATTED [  153683700] Thebenjiball         (  150.8,   -15.2,   -14.6)
+  dan that's enough stairs
+2022-03-20T20:04:48Z: PLAYER CHATTED [  153683700] Thebenjiball         (  150.8,   -15.2,   -14.6)
+  im gonna do something
+2022-03-20T20:04:52Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   59.0,     6.8,    66.6)
+  GUN
+2022-03-20T20:04:55Z: PLAYER CHATTED [   72466452] Kanderion            (   64.2,     6.8,    73.1)
+  headshot
+2022-03-20T20:04:56Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   60.1,     6.9,    66.8)
+  AAAAAAAAAAAAAAAAAAAAAAAAAAA
+2022-03-20T20:05:01Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   58.7,     6.8,    68.4)
+  sit
+2022-03-20T20:05:04Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   58.7,     4.8,    68.4)
+  ouch
+2022-03-20T20:05:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           (    6.6,     6.8,    40.1)
+  enjoy music guys
+2022-03-20T20:05:16Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   57.7,     6.8,    60.7)
+  shoot him
+2022-03-20T20:05:19Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   57.7,     6.8,    60.7)
+  hehehe
+2022-03-20T20:05:21Z: PLAYER CHATTED [   72466452] Kanderion            (   63.6,     6.8,    45.8)
+  yes
+2022-03-20T20:05:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   61.7,     6.8,    51.2)
+  LOL
+2022-03-20T20:05:46Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  154.8,   -17.2,    -8.7)
+  benji
+2022-03-20T20:05:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  171.5,   -19.2,    -2.1)
+  yes
+2022-03-20T20:05:52Z: PLAYER CHATTED [   72466452] Kanderion            (   65.5,     6.4,    52.1)
+  i win
+2022-03-20T20:05:52Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  169.3,   -19.2,    -4.4)
+  hi
+2022-03-20T20:05:55Z: PLAYER CHATTED [   72466452] Kanderion            (   69.8,     5.7,    51.6)
+  ow
+2022-03-20T20:05:55Z: PLAYER CHATTED [  153683700] Thebenjiball         (  172.6,   -24.8,     7.5)
+  hi
+2022-03-20T20:05:59Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   65.4,     6.8,    42.0)
+  xd
+2022-03-20T20:06:06Z: PLAYER CHATTED [  153683700] Thebenjiball         (  167.4,   -19.2,   -17.8)
+  dan
+2022-03-20T20:06:12Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   56.2,     6.8,    38.0)
+  :v
+2022-03-20T20:06:13Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  169.3,   -19.2,    -4.4)
+  wanna see what i made
+2022-03-20T20:06:13Z: PLAYER CHATTED [   72466452] Kanderion            (   64.5,     6.8,    44.8)
+  wait
+2022-03-20T20:06:16Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  162.8,   -19.2,   -17.6)
+  rq
+2022-03-20T20:06:23Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  153.5,   -16.6,   -13.4)
+  come
+2022-03-20T20:06:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  167.4,   -19.2,   -17.8)
+  stretch these layers so they make stairs on both sides of this platform plesae
+2022-03-20T20:06:27Z: PLAYER CHATTED [  286331841] MooKnightXIII        (   47.6,     6.8,    31.4)
+  tee
+2022-03-20T20:06:29Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  146.7,   -13.2,   -17.3)
+  guys
+2022-03-20T20:06:33Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  146.7,   -13.2,   -17.3)
+  check out what  i made
+2022-03-20T20:06:35Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  146.7,   -13.2,   -17.3)
+  follow me
+2022-03-20T20:06:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   57.3,     6.8,    35.6)
+  there?
+2022-03-20T20:06:43Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  137.9,    -8.8,   -14.7)
+  cone
+2022-03-20T20:06:44Z: PLAYER CHATTED [  286331841] MooKnightXIII        (   52.3,     7.2,    34.2)
+  please shoot the guy playing fnf
+2022-03-20T20:06:45Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  136.1,    -7.8,   -14.6)
+  come
+2022-03-20T20:06:46Z: PLAYER CHATTED [  153683700] Thebenjiball         (  171.3,   -33.0,    15.6)
+  seattle ill see after im done
+2022-03-20T20:06:49Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  138.2,    -9.2,   -12.2)
+  ok
+2022-03-20T20:07:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   70.5,     6.8,    24.5)
+  im lagging
+2022-03-20T20:07:13Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -409.8,    16.4,  -157.1)
+  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+2022-03-20T20:07:14Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -409.8,    16.4,  -157.1)
+  hi
+2022-03-20T20:07:18Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -409.8,    16.5,  -157.3)
+  good
+2022-03-20T20:07:21Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -409.8,    16.5,  -157.3)
+  come see what i made
+2022-03-20T20:07:28Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -437.3,     7.8,  -133.9)
+  come
+2022-03-20T20:07:37Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -433.6,     7.8,  -132.9)
+  follow me
+2022-03-20T20:07:43Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -449.2,     7.8,  -120.1)
+  pls
+2022-03-20T20:07:45Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -449.2,     7.8,  -120.1)
+  quickly
+2022-03-20T20:07:50Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -444.2,     7.8,  -121.0)
+  it's for a few seconds
+2022-03-20T20:07:53Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -433.4,     7.8,  -129.5)
+  plsssssss
+2022-03-20T20:08:06Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -460.3,     7.8,  -117.6)
+  it will be a few seconds
+2022-03-20T20:08:15Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -467.8,     6.8,   -23.0)
+  train bridge
+2022-03-20T20:08:17Z: PLAYER CHATTED [  153683700] Thebenjiball         (  177.5,   -57.2,   -21.3)
+  yes
+2022-03-20T20:08:20Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.1,   -57.2,   -32.1)
+  why
+2022-03-20T20:08:25Z: PLAYER CHATTED [  153683700] Thebenjiball         (  197.5,   -57.2,     7.0)
+  k
+2022-03-20T20:08:26Z: PLAYER CHATTED [  153683700] Thebenjiball         (  197.5,   -57.2,     7.0)
+  go ahead
+2022-03-20T20:08:29Z: PLAYER CHATTED [  153683700] Thebenjiball         (  193.4,   -57.2,    -6.4)
+  ooohh
+2022-03-20T20:08:30Z: PLAYER CHATTED [  153683700] Thebenjiball         (  193.4,   -57.2,    -6.4)
+  nice
+2022-03-20T20:08:31Z: PLAYER CHATTED [  153683700] Thebenjiball         (  193.0,   -57.2,    -3.7)
+  :D
+2022-03-20T20:08:38Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -418.9,    34.0,   215.0)
+  thx
+2022-03-20T20:08:40Z: PLAYER REMOVED [  286331841] MooKnightXIII
+2022-03-20T20:08:42Z: PLAYER ADDED   [  109045036] MagmarAlbu
+2022-03-20T20:09:22Z: PLAYER CHATTED [ 1802812233] Beanos2537           (-1699.4,   221.9, -2311.9)
+  AAAAAAAAAAA
+2022-03-20T20:09:23Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -536.1,     6.8,   -82.0)
+  oh
+2022-03-20T20:09:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (-26471.4, 128773.0, 22627.8)
+  NOOO MY BOOMBOX
+2022-03-20T20:09:36Z: PLAYER CHATTED [ 1802812233] Beanos2537           (-15959.8, 257373.0, 251511.3)
+  bruh 
+2022-03-20T20:09:39Z: CHRCTER ADDED  [ 1802812233] Beanos2537           ( -828.0,   -25.8,    -0.0)
+2022-03-20T20:09:39Z: PLAYER CHATTED [   72466452] Kanderion            (   33.8,     6.9,    50.8)
+  zomi
+2022-03-20T20:09:40Z: PLAYER CHATTED [   72466452] Kanderion            (   33.8,     6.9,    50.8)
+  zombi
+2022-03-20T20:09:43Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -828.0,   -25.2,     0.0)
+  i lost my boombox now :(
+2022-03-20T20:09:52Z: PLAYER CHATTED [   72466452] Kanderion            (   14.6,     6.8,    45.6)
+  waaaa
+2022-03-20T20:10:07Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -90.6,     6.8,   -72.1)
+  thanks dave :D
+2022-03-20T20:10:23Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   29.4,     6.8,    17.7)
+  ok
+2022-03-20T20:10:47Z: PLAYER CHATTED [ 1802812233] Beanos2537           (    5.8,     9.5,    13.8)
+  welp
+2022-03-20T20:10:52Z: PLAYER CHATTED [  153683700] Thebenjiball         (  147.0,   -13.2,   -11.3)
+  ty dan
+2022-03-20T20:10:58Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -14.3,     6.1,    14.5)
+  this rocket making me crazy
+2022-03-20T20:11:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  113.6,     3.4,   -14.7)
+  a tunnel for large vehicles and aircrafts
+2022-03-20T20:11:18Z: PLAYER CHATTED [  153683700] Thebenjiball         (  128.5,    -4.0,   -14.5)
+  even spaceships
+2022-03-20T20:11:19Z: PLAYER CHATTED [  153683700] Thebenjiball         (  133.7,    -6.6,   -15.8)
+  idk XD
+2022-03-20T20:11:26Z: PLAYER CHATTED [  153683700] Thebenjiball         (  171.3,   -19.2,   -12.8)
+  k
+2022-03-20T20:11:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -413.2,     5.3,  -105.8)
+  ouch
+2022-03-20T20:11:41Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -897.2,    19.6,   227.9)
+  jello
+2022-03-20T20:11:43Z: PLAYER CHATTED [   72466452] Kanderion            ( -697.6,    15.3,   201.7)
+  nice track
+2022-03-20T20:11:46Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  161.6,   -19.2,   -12.0)
+  what happened here?
+2022-03-20T20:11:46Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -864.0,    19.2,   229.3)
+  thx
+2022-03-20T20:11:50Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -867.0,    19.2,   231.2)
+  afk
+2022-03-20T20:12:05Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  165.0,   -49.8,    32.3)
+  ok
+2022-03-20T20:12:11Z: PLAYER REMOVED [ 1411931827] JL6NAME6LJ
+2022-03-20T20:12:15Z: PLAYER ADDED   [  152914564] miasilly_again
+2022-03-20T20:12:15Z: PLAYER CHATTED [  153683700] Thebenjiball         (  292.1,   -55.0,  1233.9)
+  uh
+2022-03-20T20:12:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  292.6,   -50.2,  1233.3)
+  dan
+2022-03-20T20:12:30Z: PLAYER CHATTED [  153683700] Thebenjiball         (  409.1,   -57.2,   473.2)
+  The air doesn't reach the end of the tunnel
+2022-03-20T20:13:13Z: CHRCTER ADDED  [   72466452] Kanderion            ( -828.0,   -25.8,    -0.0)
+2022-03-20T20:13:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -7.4,   342.1,     5.1)
+  AAAAAAAAAAAA
+2022-03-20T20:13:52Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.7,   -57.2,   546.5)
+  i had to copy and paste it since it couldn't be extended anymore
+2022-03-20T20:14:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -453.6,     7.8,  -243.3)
+  i want a gravity coil
+2022-03-20T20:15:02Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( 1959.6,     6.8,  1391.3)
+  i wanna fling x3 times
+2022-03-20T20:15:45Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -867.8,    19.2,   218.8)
+  wow
+2022-03-20T20:15:52Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -867.1,    19.2,   231.2)
+  back
+2022-03-20T20:15:56Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -874.2,    19.3,   231.2)
+  oh hi
+2022-03-20T20:16:01Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -944.0,    19.9,   272.2)
+  hi friend
+2022-03-20T20:16:04Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -965.0,     7.8,   555.2)
+  AAAAAAAAA
+2022-03-20T20:16:11Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -913.9,     6.8,   391.0)
+  sure
+2022-03-20T20:16:26Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -69.1,   301.7,   409.2)
+  omg
+2022-03-20T20:16:27Z: CHRCTER ADDED  [   72466452] Kanderion            ( -821.0,   -25.8,    -7.0)
+2022-03-20T20:16:30Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -542.7,  4906.0, -1225.1)
+  that like
+2022-03-20T20:16:34Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -69.9, 13077.4,  -126.8)
+  infinite stairs
+2022-03-20T20:16:56Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -14.8, 12230.0,  -129.9)
+  omg
+2022-03-20T20:17:01Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -25.8, 12245.6,   -53.4)
+  the end of the water
+2022-03-20T20:18:57Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -459.9,     7.8,  -127.2)
+  im suprised becuase i #### # admins
+2022-03-20T20:18:59Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -466.5,     7.8,  -129.9)
+  me et
+2022-03-20T20:19:01Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -469.9,     7.8,  -131.4)
+   3
+2022-03-20T20:19:03Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -473.8,     7.8,  -133.1)
+  admins
+2022-03-20T20:19:40Z: PLAYER CHATTED [  153683700] Thebenjiball         (  383.5,   -57.2,    18.1)
+  yea
+2022-03-20T20:19:56Z: PLAYER CHATTED [  153683700] Thebenjiball         (  409.3,   -57.2,    47.6)
+  huh
+2022-03-20T20:19:58Z: PLAYER CHATTED [  153683700] Thebenjiball         (  397.0,   -57.2,    41.8)
+  which ones
+2022-03-20T20:20:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.2,     7.6,   -25.9)
+  oh
+2022-03-20T20:20:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.2,     7.6,   -25.9)
+  yeah
+2022-03-20T20:20:13Z: PLAYER CHATTED [  153683700] Thebenjiball         (  106.2,     7.6,   -25.9)
+  i can fix that
+2022-03-20T20:20:59Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( 4423.9,   997.2, -8129.2)
+  AAAAAAAAAAAAA
+2022-03-20T20:21:25Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -565.1,     6.8,  -144.7)
+  wow
+2022-03-20T20:21:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -565.1,     6.8,  -144.4)
+  i like the buildings you made
+2022-03-20T20:21:56Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -557.5,     6.8,  -108.4)
+  your welcom
+2022-03-20T20:22:02Z: PLAYER CHATTED [   72466452] Kanderion            (    1.7,     6.8,    41.3)
+  yeah
+2022-03-20T20:22:04Z: PLAYER CHATTED [   72466452] Kanderion            (    1.7,     6.8,    41.3)
+  i modeled the gun
+2022-03-20T20:22:20Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.7,   -57.2,   -65.6)
+  Hello
+2022-03-20T20:23:06Z: PLAYER CHATTED [   72466452] Kanderion            (   -2.9,     6.8,    35.7)
+  he didn't
+2022-03-20T20:23:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -412.5,    17.1,  -157.2)
+  sethome
+2022-03-20T20:23:44Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -383.9,     7.8,  -187.2)
+  what will happen if i use grey rocket
+2022-03-20T20:23:49Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -412.5,     7.8,  -209.3)
+  i will be like
+2022-03-20T20:23:54Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -420.7,     7.8,  -216.7)
+  10x times faster
+2022-03-20T20:24:07Z: PLAYER CHATTED [   72466452] Kanderion            (   -2.0,    12.5,     0.0)
+  this game sucks
+2022-03-20T20:24:11Z: PLAYER REMOVED [   72466452] Kanderion
+2022-03-20T20:24:53Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  321.2,   -57.2,   -11.1)
+  good place to fling in
+2022-03-20T20:25:22Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  307.8,   -57.2,   -11.5)
+  and a rea to fling in
+2022-03-20T20:25:26Z: PLAYER CHATTED [  153683700] Thebenjiball         (  391.5,   -57.2,    25.0)
+  it's for many things
+2022-03-20T20:25:27Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  328.7,   -57.2,   -12.1)
+  a area
+2022-03-20T20:25:35Z: PLAYER CHATTED [  153683700] Thebenjiball         (  391.5,   -57.2,    25.0)
+  mostly for testing out very very fast vehicles
+2022-03-20T20:25:39Z: PLAYER CHATTED [  153683700] Thebenjiball         (  393.2,   -57.2,    24.5)
+  or large ones
+2022-03-20T20:25:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  393.2,   -57.2,    24.5)
+  you could build a whole flying town down here and nobody would notice
+2022-03-20T20:25:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  393.2,   -57.2,    24.5)
+  sure
+2022-03-20T20:26:07Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  387.4,   -57.2,    27.6)
+  can i be your friend
+2022-03-20T20:26:13Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  402.1,   -57.2,    11.1)
+  talking to both
+2022-03-20T20:26:14Z: PLAYER CHATTED [  153683700] Thebenjiball         (  400.4,   -57.2,   -15.6)
+  yes
+2022-03-20T20:26:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  388.8,   -57.2,     1.9)
+  :O
+2022-03-20T20:26:33Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  395.2,   -57.2,     6.5)
+  want some music?
+2022-03-20T20:26:35Z: PLAYER CHATTED [  153683700] Thebenjiball         (  389.8,   -57.2,     2.1)
+  yes
+2022-03-20T20:26:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  392.9,   -57.2,     5.9)
+  ok
+2022-03-20T20:26:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (  390.6,   -57.2,     2.2)
+  get some mysterious music
+2022-03-20T20:26:46Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  392.9,   -57.2,     5.9)
+  a
+2022-03-20T20:26:46Z: PLAYER CHATTED [  153683700] Thebenjiball         (  389.2,   -57.2,     3.1)
+  bruh
+2022-03-20T20:26:47Z: PLAYER CHATTED [  153683700] Thebenjiball         (  389.2,   -57.2,     3.1)
+  XD
+2022-03-20T20:26:53Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  392.9,   -57.2,     5.9)
+  sure
+2022-03-20T20:27:01Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  394.3,   -57.2,     3.1)
+  WAIT SUPER IDOL?
+2022-03-20T20:27:09Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  393.2,   -57.2,     2.8)
+  im gonna put undertale music
+2022-03-20T20:27:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  397.8,   -57.2,     5.3)
+  mysterious music
+2022-03-20T20:27:39Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  398.9,   -57.2,     7.0)
+  there
+2022-03-20T20:27:52Z: PLAYER CHATTED [  153683700] Thebenjiball         (  386.3,   -57.2,     2.1)
+  nice
+2022-03-20T20:28:02Z: PLAYER CHATTED [  153683700] Thebenjiball         (  385.5,   -57.2,     2.3)
+  that music goes good with this tunnel
+2022-03-20T20:28:13Z: PLAYER CHATTED [  153683700] Thebenjiball         (  388.3,   -57.2,   -10.6)
+  i think it's the deltarune main menu theme
+2022-03-20T20:28:27Z: PLAYER CHATTED [  152914564] miasilly_again       ( -376.1,     7.8,   -94.0)
+  hi
+2022-03-20T20:28:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  391.2,   -57.2,   -11.2)
+  i think is deltarune another him
+2022-03-20T20:28:34Z: PLAYER CHATTED [  152914564] miasilly_again       ( -404.6,     7.8,  -100.4)
+  wut
+2022-03-20T20:28:38Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -392.1,     7.8,  -112.6)
+  oh wow
+2022-03-20T20:28:44Z: PLAYER CHATTED [  152914564] miasilly_again       ( -404.6,     7.8,  -100.4)
+  oh
+2022-03-20T20:28:52Z: PLAYER CHATTED [  152914564] miasilly_again       ( -415.3,     7.8,   -97.1)
+  yeah i figureed  thats what it was
+2022-03-20T20:28:52Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -394.0,     7.8,  -113.8)
+  this is pretty cool
+2022-03-20T20:28:53Z: PLAYER CHATTED [  152914564] miasilly_again       ( -415.3,     7.8,   -97.1)
+  good job so far
+2022-03-20T20:29:18Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -405.6,     7.8,  -101.0)
+  the walls need a little more shape to it
+2022-03-20T20:29:23Z: PLAYER CHATTED [  152914564] miasilly_again       ( -517.1,     6.8,  -137.6)
+  ooh
+2022-03-20T20:29:29Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -522.8,    17.4,  -150.2)
+  I like these
+2022-03-20T20:29:32Z: PLAYER CHATTED [  152914564] miasilly_again       ( -511.2,     6.8,  -141.3)
+  maybe stone pillars
+2022-03-20T20:29:46Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -510.3,     6.8,  -149.1)
+  *This tower is beautiful
+2022-03-20T20:30:02Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -505.2,     6.8,  -150.0)
+  it aint done yet XD
+2022-03-20T20:30:06Z: PLAYER CHATTED [  153683700] Thebenjiball         ( -505.6,     6.8,  -150.9)
+  ima finish it up
+2022-03-20T20:30:06Z: PLAYER CHATTED [  152914564] miasilly_again       ( -513.2,     6.8,  -160.8)
+  like this
+2022-03-20T20:30:27Z: PLAYER CHATTED [  153683700] Thebenjiball         (  334.6,   -57.2,    -3.0)
+  A
+2022-03-20T20:30:40Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  334.6,   -57.2,     1.5)
+  this song good
+2022-03-20T20:30:43Z: PLAYER CHATTED [  153683700] Thebenjiball         (  336.2,   -57.2,    -0.3)
+  yea
+2022-03-20T20:30:48Z: PLAYER CHATTED [  152914564] miasilly_again       ( -504.3,     6.8,  -163.7)
+  u can do this but like
+2022-03-20T20:30:49Z: PLAYER CHATTED [  152914564] miasilly_again       ( -504.3,     6.8,  -163.7)
+  a lot of em
+2022-03-20T20:30:51Z: PLAYER CHATTED [  152914564] miasilly_again       ( -504.3,     6.8,  -163.7)
+  and different
+2022-03-20T20:31:03Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (  -72.4,    69.3,   229.0)
+  what is that on my tracks
+2022-03-20T20:31:06Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  327.4,   -56.1,    -3.4)
+  im stuck
+2022-03-20T20:31:11Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   (   80.4,    60.0,   182.6)
+  move
+2022-03-20T20:31:16Z: PLAYER ADDED   [  569454510] vincentr49
+2022-03-20T20:31:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  291.2,   -56.2,    18.0)
+  alright
+2022-03-20T20:31:26Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -372.3,   323.3,   688.1)
+  ok
+2022-03-20T20:31:26Z: PLAYER CHATTED [  153683700] Thebenjiball         (  291.2,   -56.2,    18.0)
+  the tunnel is almost done
+2022-03-20T20:31:32Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  296.6,   -56.2,    20.2)
+  do i make my own car?
+2022-03-20T20:31:36Z: PLAYER CHATTED [ 1672930289] seattletrainexpert   ( -491.9,     7.8,  -161.3)
+  hi
+2022-03-20T20:31:36Z: PLAYER CHATTED [  153683700] Thebenjiball         (  249.0,   -56.2,    12.8)
+  sure
+2022-03-20T20:31:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  254.1,   -56.2,    18.4)
+  k
+2022-03-20T20:31:47Z: PLAYER CHATTED [  152914564] miasilly_again       ( -508.5,    21.8,  -182.0)
+  hi
+2022-03-20T20:32:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -461.5,     7.8,  -172.8)
+  umm, someone knows how to make a car?
+2022-03-20T20:32:15Z: PLAYER REMOVED [  569454510] vincentr49
+2022-03-20T20:32:16Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -470.4,     7.8,  -176.3)
+  a
+2022-03-20T20:32:26Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -470.4,     7.8,  -176.3)
+  my cars dont work
+2022-03-20T20:32:39Z: PLAYER CHATTED [  152914564] miasilly_again       ( -506.2,     6.8,  -183.3)
+  like this
+2022-03-20T20:32:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -470.4,     7.8,  -176.3)
+  my cars are trash can
+2022-03-20T20:32:47Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -466.4,     7.8,  -170.7)
+  :/
+2022-03-20T20:33:01Z: PLAYER REMOVED [ 1672930289] seattletrainexpert
+2022-03-20T20:33:04Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -466.4,     7.8,  -170.7)
+  smol
+2022-03-20T20:33:09Z: PLAYER ADDED   [   33368149] Bad_Drag0n
+2022-03-20T20:33:16Z: PLAYER CHATTED [  152914564] miasilly_again       ( -511.1,    22.8,  -182.9)
+  cylinders
+2022-03-20T20:33:21Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -466.2,     7.8,  -168.1)
+  Me want smol  car
+2022-03-20T20:33:35Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -467.5,     7.8,  -167.6)
+  small
+2022-03-20T20:33:54Z: PLAYER CHATTED [  153683700] Thebenjiball         (  171.9,   -57.2,   140.2)
+  now all the tunnel needs is lights
+2022-03-20T20:33:55Z: PLAYER CHATTED [  152914564] miasilly_again       ( -510.4,    21.8,  -175.8)
+  not really
+2022-03-20T20:33:56Z: PLAYER CHATTED [  153683700] Thebenjiball         (    5.0,    12.5,     5.0)
+  tee
+2022-03-20T20:34:02Z: PLAYER CHATTED [  152914564] miasilly_again       ( -510.4,    21.8,  -175.8)
+  see how long it takes to walk across it
+2022-03-20T20:34:03Z: PLAYER REMOVED [   33368149] Bad_Drag0n
+2022-03-20T20:34:04Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -83.3,     6.8,    97.6)
+  bro how to teleport
+2022-03-20T20:34:13Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -97.7,     6.8,    81.0)
+  oof
+2022-03-20T20:34:15Z: PLAYER CHATTED [  152914564] miasilly_again       ( -351.7,     7.8,  -174.6)
+  if you made it too big
+2022-03-20T20:34:18Z: PLAYER CHATTED [  152914564] miasilly_again       ( -351.7,     7.8,  -174.6)
+  it would become a game of tag
+2022-03-20T20:34:19Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -105.6,     6.8,    74.5)
+  :,v
+2022-03-20T20:34:48Z: PLAYER CHATTED [  152914564] miasilly_again       ( -357.8,     7.8,  -124.9)
+  BTW its uneven
+2022-03-20T20:34:56Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -100.5,     6.8,    79.1)
+  wow
+2022-03-20T20:35:06Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -102.2,     6.8,    84.1)
+  i did that but car did no work
+2022-03-20T20:35:14Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -98.6,     6.8,    91.4)
+  same with those right there
+2022-03-20T20:35:15Z: PLAYER CHATTED [  152914564] miasilly_again       ( -447.9,     7.8,   -86.9)
+  check it lol
+2022-03-20T20:35:18Z: PLAYER ADDED   [ 1425559626] jojozinh09
+2022-03-20T20:35:38Z: PLAYER CHATTED [  152914564] miasilly_again       ( -485.8,     7.8,   -80.1)
+  yeh this way
+2022-03-20T20:35:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -104.8,     6.8,    88.8)
+  ?
+2022-03-20T20:35:58Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -115.1,     6.8,    72.3)
+  k
+2022-03-20T20:35:59Z: PLAYER CHATTED [ 1425559626] jojozinh09           ( -116.7,    29.0,    55.3)
+  oh
+2022-03-20T20:36:02Z: PLAYER CHATTED [  152914564] miasilly_again       ( -507.9,     7.8,   -93.2)
+  epic
+2022-03-20T20:36:07Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -106.6,     6.8,    86.6)
+  i did not do that tip
+2022-03-20T20:36:07Z: PLAYER CHATTED [  152914564] miasilly_again       ( -480.0,     7.8,  -107.7)
+  yessir
+2022-03-20T20:36:13Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -106.7,     6.8,    88.9)
+  :/
+2022-03-20T20:36:20Z: PLAYER CHATTED [  152914564] miasilly_again       ( -425.9,    15.4,  -154.4)
+  lemme check
+2022-03-20T20:36:27Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   52.7,     6.8,    -9.3)
+  i feel there is something very wrong in this server
+2022-03-20T20:36:36Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  102.7,     7.8,   -12.2)
+  that i only noticed now
+2022-03-20T20:36:36Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.8,     6.8,    79.3)
+  sure
+2022-03-20T20:36:50Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.8,     6.8,    79.3)
+  it depends of your work
+2022-03-20T20:36:56Z: PLAYER CHATTED [  152914564] miasilly_again       ( -410.7,     7.8,  -136.4)
+  well u got pretty close
+2022-03-20T20:36:57Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -113.8,     6.8,    87.5)
+  i want u to do little work
+2022-03-20T20:37:07Z: PLAYER CHATTED [  152914564] miasilly_again       ( -418.6,     8.8,  -113.4)
+  2 studs off but its fixed now
+2022-03-20T20:37:21Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -99.8,     6.8,    80.2)
+  k
+2022-03-20T20:37:33Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -111.1,     6.8,    66.9)
+  I rlly want fast car
+2022-03-20T20:37:43Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   98.9,     6.8,    18.4)
+  oh
+2022-03-20T20:37:43Z: PLAYER CHATTED [  152914564] miasilly_again       ( -390.4,     7.8,  -140.4)
+  seems like everything is in order
+2022-03-20T20:37:46Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   98.9,     6.8,    18.4)
+  and also, a thing
+2022-03-20T20:37:47Z: PLAYER CHATTED [  152914564] miasilly_again       ( -392.1,     7.8,  -150.9)
+  im going to go look at stuff
+2022-03-20T20:37:50Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -106.5,     6.8,    67.2)
+  do i go for a car seat
+2022-03-20T20:37:54Z: PLAYER CHATTED [  152914564] miasilly_again       ( -380.2,     7.8,  -151.5)
+  np np
+2022-03-20T20:38:05Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   98.9,     6.8,    18.4)
+  the color of the grass used to cover the river is milimetrically wrong
+2022-03-20T20:38:10Z: PLAYER ADDED   [  423070127] FloofyBlu
+2022-03-20T20:38:15Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -109.0,     6.8,    63.9)
+  sure i guess
+2022-03-20T20:38:53Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -112.3,     6.8,    65.2)
+  epic music B-)
+2022-03-20T20:38:54Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   98.9,     6.8,    18.4)
+  the color of the false grass is 277f47, when the normal grass is 287f47
+2022-03-20T20:39:09Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.1,     6.8,    65.8)
+  i want my car green
+2022-03-20T20:39:10Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   83.6,     9.6,   127.4)
+  small thing. but it disturbs me
+2022-03-20T20:39:13Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.1,     6.8,    65.8)
+  cuz im dream
+2022-03-20T20:39:27Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -115.9,     6.8,    58.1)
+  k
+2022-03-20T20:39:36Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -117.0,     6.8,    60.0)
+  yes
+2022-03-20T20:39:43Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.4,     6.8,    60.6)
+  legs
+2022-03-20T20:39:45Z: PLAYER REMOVED [  423070127] FloofyBlu
+2022-03-20T20:39:50Z: PLAYER CHATTED [  152914564] miasilly_again       (  311.0,    12.5, -4008.0)
+  viptele
+2022-03-20T20:40:03Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -90.8,     6.8,    73.3)
+  oof
+2022-03-20T20:40:24Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  -17.9,     6.8,    58.5)
+  the grass of the river is 1-bit more greener than the grass of the islands
+2022-03-20T20:41:13Z: PLAYER ADDED   [ 2240412890] the_laptopman
+2022-03-20T20:41:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -86.6,     6.8,    99.3)
+  A
+2022-03-20T20:41:43Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  202.9,   -56.2,   139.3)
+  nice place
+2022-03-20T20:41:45Z: PLAYER CHATTED [ 1802812233] Beanos2537          
+  re
+2022-03-20T20:41:45Z: CHRCTER ADDED  [ 1802812233] Beanos2537           ( -821.0,   -25.8,     7.0)
+2022-03-20T20:41:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (  196.4,   -56.2,   130.2)
+  ty
+2022-03-20T20:41:54Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -86.6,     6.8,    95.1)
+  MISSED I HAVE BOOMBOX
+2022-03-20T20:42:00Z: PLAYER CHATTED [  153683700] Thebenjiball         (  193.2,   -56.2,   129.5)
+  i just finished adding the lighting
+2022-03-20T20:42:00Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -86.6,     6.8,    95.1)
+  NOOOOOOOO
+2022-03-20T20:42:12Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -89.4,     6.8,    99.1)
+  WHY DID I REGEN
+2022-03-20T20:42:26Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  102.9,     6.8,   -35.3)
+  hmm
+2022-03-20T20:42:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -87.9,     6.8,    99.1)
+  :(
+2022-03-20T20:42:30Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  107.8,     6.8,   -34.8)
+  this side is greener
+2022-03-20T20:42:34Z: PLAYER CHATTED [ 1425559626] jojozinh09           (   98.1,     6.8,   -35.7)
+  than this side
+2022-03-20T20:42:58Z: PLAYER CHATTED [  153683700] Thebenjiball         (  185.9,   -57.2,   136.4)
+  ima make a speedy hover car
+2022-03-20T20:43:08Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.6,   -56.2,   125.9)
+  sethome
+2022-03-20T20:43:09Z: PLAYER CHATTED [  153683700] Thebenjiball         (    5.0,    12.5,    -6.0)
+  tee
+2022-03-20T20:43:18Z: PLAYER CHATTED [  153683700] Thebenjiball         (  -92.9,     6.8,    76.1)
+  hey
+2022-03-20T20:43:27Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -103.2,     6.8,    88.0)
+  hey
+2022-03-20T20:43:37Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  190.7,   -56.2,   125.5)
+  hey
+2022-03-20T20:43:37Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -100.0,     6.8,    81.2)
+  me maked smallest car
+2022-03-20T20:43:41Z: PLAYER CHATTED [  153683700] Thebenjiball         (  -96.2,     6.8,    76.5)
+  when you're done with this there's a huge tunnel for you to test this in where the river used to be
+2022-03-20T20:43:48Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  192.2,   -56.2,   125.9)
+  can u notice the difference beetwen these two colors?
+2022-03-20T20:44:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -100.6,     6.8,    82.5)
+  sure
+2022-03-20T20:44:09Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -100.6,     6.8,    82.5)
+  roof
+2022-03-20T20:44:13Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  191.7,   -56.2,   133.1)
+  ye
+2022-03-20T20:44:14Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  well
+2022-03-20T20:44:25Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  these are colors copied from the grass of the island
+2022-03-20T20:44:34Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  and the grass used to delete the river
+2022-03-20T20:44:37Z: PLAYER CHATTED [  153683700] Thebenjiball         (  315.0,    12.5, -4006.0)
+  viptele
+2022-03-20T20:44:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -92.2,     7.8,    87.3)
+  bro why i cant drive
+2022-03-20T20:44:49Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  the island grass is brigher
+2022-03-20T20:44:52Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -92.2,     7.8,    87.3)
+  i did hard work for nothing
+2022-03-20T20:44:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.6,   -52.4,   125.9)
+  gohome
+2022-03-20T20:45:00Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  the normal grass is 277f47
+2022-03-20T20:45:03Z: PLAYER CHATTED [  153683700] Thebenjiball         (  189.1,   -56.6,   133.3)
+  ?
+2022-03-20T20:45:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  190.2,   -56.2,   134.5)
+  i can edit it
+2022-03-20T20:45:12Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.6,   -56.2,   131.3)
+  ### ##### is ######
+2022-03-20T20:45:15Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  195.5,   -56.2,   129.4)
+  a
+2022-03-20T20:45:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -95.3,     6.8,    93.1)
+  a
+2022-03-20T20:45:28Z: PLAYER CHATTED [  153683700] Thebenjiball         (  109.5,     6.8,   -58.0)
+  I don't see the difference but i will change it anyways
+2022-03-20T20:45:37Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  194.1,   -56.2,   128.2)
+  idk how i manage to see this
+2022-03-20T20:45:43Z: PLAYER CHATTED [  153683700] Thebenjiball         (  142.3,     7.8,   -28.2)
+  done
+2022-03-20T20:45:47Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  194.1,   -56.2,   128.2)
+  i only remember i zoomed very far away the camera
+2022-03-20T20:45:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (  190.6,   -56.2,   117.5)
+  the fake
+2022-03-20T20:45:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  191.0,   -56.2,   119.2)
+  the fake grass has been changed
+2022-03-20T20:45:56Z: PLAYER CHATTED [ 1425559626] jojozinh09           (  194.1,   -56.2,   128.2)
+  and the bluish fog mixed with the greens
+2022-03-20T20:46:07Z: PLAYER REMOVED [ 1425559626] jojozinh09
+2022-03-20T20:46:08Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -98.9,     6.8,    79.9)
+  tada
+2022-03-20T20:46:08Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.9,   -56.2,   123.2)
+  afk
+2022-03-20T20:46:23Z: PLAYER ADDED   [ 1077063205] yummyfortnite9
+2022-03-20T20:46:50Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -92.2,     7.8,    98.3)
+  bro why it no work
+2022-03-20T20:47:23Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -189.2,    65.2,   133.5)
+  AAAAAAAAAAA
+2022-03-20T20:47:40Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -240.9,    50.8,   434.6)
+  I GRET
+2022-03-20T20:47:43Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -212.6,   112.7,   412.3)
+  REGRET
+2022-03-20T20:48:15Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -71.5,     6.8,    86.0)
+  these where correct ones?
+2022-03-20T20:48:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -74.8,     6.8,    84.0)
+  were
+2022-03-20T20:48:35Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -114.5,     6.8,    78.8)
+  wow
+2022-03-20T20:48:38Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.9,   -56.2,   123.2)
+  back
+2022-03-20T20:48:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -1.0,    12.5,     0.0)
+  tee
+2022-03-20T20:48:53Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -110.3,     8.4,    77.5)
+  thanks :D
+2022-03-20T20:48:55Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.6,   -56.2,   125.9)
+  gohome
+2022-03-20T20:49:19Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -121.6,     6.8,    68.0)
+  wat
+2022-03-20T20:49:27Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -130.4,     6.8,    64.9)
+  magmar its you again?
+2022-03-20T20:49:29Z: PLAYER CHATTED [  153683700] Thebenjiball         (  171.3,   -56.2,   129.6)
+  same xd
+2022-03-20T20:49:37Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -126.7,     6.8,    71.3)
+  ok
+2022-03-20T20:49:40Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -120.8,     6.8,    72.8)
+  thanks
+2022-03-20T20:49:42Z: PLAYER CHATTED [ 1802812233] Beanos2537          
+  re
+2022-03-20T20:49:42Z: CHRCTER ADDED  [ 1802812233] Beanos2537           ( -821.0,   -25.8,    -0.0)
+2022-03-20T20:49:50Z: PLAYER CHATTED [  153683700] Thebenjiball         (  167.0,   -56.2,   129.2)
+  move pls
+2022-03-20T20:49:54Z: PLAYER CHATTED [  153683700] Thebenjiball         (  168.6,   -56.2,   128.4)
+  building hover car
+2022-03-20T20:49:58Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -111.4,     8.4,    68.8)
+  uhhh
+2022-03-20T20:50:05Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -1.0,    12.5,    -2.0)
+  tee
+2022-03-20T20:50:08Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -111.4,     8.4,    68.8)
+  cant move to left or right
+2022-03-20T20:50:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.6,   -56.2,   125.9)
+  gohome
+2022-03-20T20:50:18Z: PLAYER CHATTED [  153683700] Thebenjiball         (  178.5,   -56.2,   117.7)
+  huh
+2022-03-20T20:50:31Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -117.3,     8.4,    41.6)
+  car heavy
+2022-03-20T20:50:34Z: PLAYER CHATTED [  153683700] Thebenjiball         (  185.5,   -57.2,   102.0)
+  what switch
+2022-03-20T20:50:40Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.8,   -57.2,   101.8)
+  oh
+2022-03-20T20:50:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.8,   -57.2,   101.8)
+  OH
+2022-03-20T20:50:44Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.8,   -57.2,   101.8)
+  nah
+2022-03-20T20:50:50Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  187.5,   -57.2,    98.6)
+  sethome
+2022-03-20T20:50:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.8,   -57.2,   101.8)
+  my hover car cant be touching the ground anyways
+2022-03-20T20:50:56Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.8,   -57.2,   102.4)
+  since it's a hover car
+2022-03-20T20:51:05Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  177.3,   -57.2,   100.5)
+  this looks like the backrooms
+2022-03-20T20:51:09Z: PLAYER CHATTED [  153683700] Thebenjiball         (  187.6,   -56.6,   121.4)
+  bruh
+2022-03-20T20:51:17Z: PLAYER CHATTED [  153683700] Thebenjiball         (  184.4,   -56.2,   118.4)
+  the backrooms is yellow XD
+2022-03-20T20:51:21Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  197.5,   -56.2,   116.0)
+  no
+2022-03-20T20:51:24Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.0,   -56.2,   116.8)
+  yes
+2022-03-20T20:51:27Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  194.8,   -56.2,   117.4)
+  theres a stage that looks like this
+2022-03-20T20:51:28Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.0,   -56.2,   116.8)
+  oh yea
+2022-03-20T20:51:38Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  182.0,   -56.2,   119.1)
+  this is like level 3 i think
+2022-03-20T20:51:41Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  180.9,   -56.2,   126.5)
+  the vent
+2022-03-20T20:51:47Z: PLAYER CHATTED [  153683700] Thebenjiball         (  181.5,   -56.2,   110.6)
+  ######################################
+2022-03-20T20:51:53Z: PLAYER CHATTED [  153683700] Thebenjiball         (  184.1,   -56.2,   111.4)
+  #######################
+2022-03-20T20:51:55Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  191.5,   -56.2,   111.4)
+  ?
+2022-03-20T20:51:55Z: PLAYER CHATTED [  153683700] Thebenjiball         (  183.4,   -56.2,   113.2)
+  bruh
+2022-03-20T20:51:57Z: PLAYER REMOVED [ 1302749251] Easttimebrobee2
+2022-03-20T20:52:02Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.5,   -56.2,   111.7)
+  ##############
+2022-03-20T20:52:06Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.5,   -56.2,   111.7)
+  micheal
+2022-03-20T20:52:08Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.5,   -56.2,   111.7)
+  #######
+2022-03-20T20:52:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.5,   -56.2,   111.7)
+  tilt
+2022-03-20T20:52:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  182.5,   -56.2,   111.2)
+  XD
+2022-03-20T20:52:18Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -90.0,     9.8,   -68.3)
+  i cant move my car
+2022-03-20T20:52:27Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  191.1,   -56.2,   106.7)
+  what you lookin down at
+2022-03-20T20:52:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -36.0,     8.4,  -174.0)
+  nvm
+2022-03-20T20:52:36Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  184.5,   -57.2,    90.0)
+  its a ladybug
+2022-03-20T20:52:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  158.0,     8.4,   -67.4)
+  can u please not
+2022-03-20T20:52:44Z: PLAYER CHATTED [ 2240412890] the_laptopman        (  155.8,     8.6,   -83.6)
+  0K
+2022-03-20T20:52:48Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  190.7,     6.8,   -95.2)
+  BRUH
+2022-03-20T20:53:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -424.0,    55.7,  -194.2)
+  dave
+2022-03-20T20:53:43Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -423.7,    56.5,  -194.2)
+  someone stealed my car
+2022-03-20T20:53:44Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  192.8,   -56.2,   123.9)
+  lol
+2022-03-20T20:53:58Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -423.3,    57.7,  -194.3)
+  it was
+2022-03-20T20:53:58Z: PLAYER CHATTED [ 1077063205] yummyfortnite9       (  189.3,   -56.4,   119.2)
+  stables can be useful with a hinge
+2022-03-20T20:54:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -423.3,    57.7,  -194.3)
+  the laptop man
+2022-03-20T20:54:14Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -415.9,    53.9,  -188.8)
+  :(
+2022-03-20T20:54:14Z: PLAYER CHATTED [  153683700] Thebenjiball         (  170.0,   -52.9,   124.2)
+  yep
+2022-03-20T20:54:32Z: PLAYER REMOVED [ 1077063205] yummyfortnite9
+2022-03-20T20:54:33Z: CHRCTER ADDED  [ 2240412890] the_laptopman        ( -821.0,   -25.8,     7.0)
+2022-03-20T20:54:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -403.6,    46.7,  -189.4)
+  His name is ##########################
+2022-03-20T20:54:47Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -403.6,    46.7,  -189.4)
+  The_ laptop man
+2022-03-20T20:55:55Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -152.7,     6.8,   129.3)
+  yes
+2022-03-20T20:56:01Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  sethome
+2022-03-20T20:56:01Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -1.0,    12.5,    -2.0)
+  tee
+2022-03-20T20:56:08Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T20:56:10Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -147.0,     6.8,   124.6)
+  :(
+2022-03-20T20:56:25Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  no
+2022-03-20T20:56:33Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -144.3,     6.8,   124.1)
+  bro u where sitting in it
+2022-03-20T20:56:37Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  no
+2022-03-20T20:56:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -142.8,     6.8,   122.0)
+  ...
+2022-03-20T20:56:45Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -142.8,     6.8,   122.0)
+  liar :(
+2022-03-20T20:56:52Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -142.8,     6.8,   122.0)
+  my car is green 
+2022-03-20T20:56:55Z: PLAYER CHATTED [  152914564] miasilly_again       (  290.6,     6.8, -3954.6)
+  wut
+2022-03-20T20:56:59Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  idk
+2022-03-20T20:57:12Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -143.9,     6.8,   122.5)
+  maybe
+2022-03-20T20:57:21Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  ok I only stole a blue car
+2022-03-20T20:57:39Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  up there
+2022-03-20T20:57:45Z: PLAYER CHATTED [ 1802812233] Beanos2537           ( -143.9,     6.8,   122.5)
+  it taked me like more than half hour to build
+2022-03-20T20:57:51Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  in the sky
+2022-03-20T20:58:03Z: PLAYER CHATTED [ 2240412890] the_laptopman        ( -140.2,     6.8,   127.7)
+  ok come
+2022-03-20T20:58:13Z: PLAYER CHATTED [  152914564] miasilly_again       (  284.2,    11.3, -3929.3)
+  the issue is not the repeating pattern it is the wiring of motors
+2022-03-20T20:58:16Z: PLAYER CHATTED [  152914564] miasilly_again       (  293.5,     6.8, -3950.2)
+  shoo
+2022-03-20T20:58:59Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -4.0,    12.5,     5.0)
+  tee
+2022-03-20T20:59:04Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T20:59:35Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   17.3,     6.8,    20.8)
+  Dave i found my car
+2022-03-20T20:59:40Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   91.6,     6.8,     8.1)
+  but destroyed
+2022-03-20T20:59:53Z: PLAYER REMOVED [ 2240412890] the_laptopman
+2022-03-20T20:59:55Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   80.4,     6.8,    16.4)
+  bruh
+2022-03-20T21:00:22Z: PLAYER CHATTED [  153683700] Thebenjiball         (  177.9,   -56.2,   132.5)
+  yea
+2022-03-20T21:00:35Z: PLAYER CHATTED [  153683700] Thebenjiball         (  173.4,   -56.2,   131.8)
+  why not? xd
+2022-03-20T21:00:42Z: PLAYER CHATTED [  153683700] Thebenjiball         (  192.1,   -56.2,   158.4)
+  just press q on it
+2022-03-20T21:00:46Z: PLAYER CHATTED [  153683700] Thebenjiball         (  193.2,   -56.2,   161.8)
+  with the paint brush
+2022-03-20T21:00:54Z: PLAYER CHATTED [  153683700] Thebenjiball         (  183.8,   -56.2,   169.8)
+  yep
+2022-03-20T21:01:07Z: PLAYER CHATTED [  109045036] MagmarAlbu           (   46.6,     6.8,    38.0)
+  frog
+2022-03-20T21:01:12Z: PLAYER CHATTED [  153683700] Thebenjiball         (  190.7,   -56.2,   133.3)
+  bruh someone just sent a flying thing into here
+2022-03-20T21:01:14Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   49.4,     6.8,    41.3)
+  im sad
+2022-03-20T21:01:21Z: PLAYER CHATTED [  109045036] MagmarAlbu           (   46.2,     6.8,    38.5)
+  why?
+2022-03-20T21:01:26Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   49.4,     6.8,    41.3)
+  someone broke my car
+2022-03-20T21:01:40Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  112.2,     6.8,    12.6)
+  truly sad
+2022-03-20T21:01:46Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  118.6,     6.8,    14.4)
+  yeah :(
+2022-03-20T21:01:50Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  112.5,     6.8,    13.4)
+  want a frog?
+2022-03-20T21:01:52Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  118.6,     6.8,    14.4)
+  ok
+2022-03-20T21:02:06Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  117.4,     6.8,    12.3)
+  ok
+2022-03-20T21:02:47Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  131.0,     6.8,    37.6)
+  bro someone flinged me
+2022-03-20T21:03:05Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  111.1,     6.8,    37.9)
+  my past time is making frogs in this game
+2022-03-20T21:03:12Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  115.0,     6.8,    43.0)
+  o
+2022-03-20T21:03:26Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  114.8,     6.8,    40.1)
+  me got 2 frogs
+2022-03-20T21:03:33Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  111.1,     6.8,    38.2)
+  you gor a frog family
+2022-03-20T21:03:42Z: PLAYER REMOVED [   85593954] dave796101
+2022-03-20T21:03:57Z: PLAYER ADDED   [ 2457565994] PedrozinFriend
+2022-03-20T21:04:00Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  116.7,     6.8,    38.9)
+  im not stuck
+2022-03-20T21:04:03Z: PLAYER CHATTED [ 1802812233] Beanos2537          
+  re
+2022-03-20T21:04:03Z: CHRCTER ADDED  [ 1802812233] Beanos2537           ( -821.0,   -22.8,    -7.0)
+2022-03-20T21:04:28Z: PLAYER REMOVED [ 2457565994] PedrozinFriend
+2022-03-20T21:04:40Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  111.8,     6.8,    37.1)
+  i cant jump
+2022-03-20T21:04:42Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  106.7,     6.8,    45.5)
+  its inverted
+2022-03-20T21:04:48Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  108.7,     6.8,    38.3)
+  a
+2022-03-20T21:04:58Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  dan whatadya makin
+2022-03-20T21:05:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  195.2,   -56.2,   221.1)
+  is that a house? O_O
+2022-03-20T21:05:18Z: PLAYER CHATTED [  153683700] Thebenjiball         (  194.0,   -56.2,   226.5)
+  bruh this a vehicle testing area XD
+2022-03-20T21:05:24Z: PLAYER CHATTED [  153683700] Thebenjiball         (  196.6,   -56.2,   230.5)
+  WAIT
+2022-03-20T21:05:29Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  126.4,     6.8,    18.5)
+  ._.
+2022-03-20T21:05:30Z: PLAYER CHATTED [  153683700] Thebenjiball         (  196.6,   -56.2,   230.5)
+  you should make a mechanic shop
+2022-03-20T21:05:31Z: PLAYER CHATTED [  109045036] MagmarAlbu           (  119.7,     6.8,    13.5)
+  ima fly whit grab
+2022-03-20T21:05:33Z: PLAYER CHATTED [  153683700] Thebenjiball         (  196.6,   -56.2,   230.5)
+  for repairing cars
+2022-03-20T21:05:44Z: PLAYER CHATTED [  153683700] Thebenjiball         (  271.4,   -56.2,     0.9)
+  bruh XD
+2022-03-20T21:05:49Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  258.6,   -56.2,    -7.3)
+  hi
+2022-03-20T21:05:51Z: PLAYER CHATTED [  153683700] Thebenjiball         (  268.3,   -56.2,    -8.6)
+  hi
+2022-03-20T21:05:59Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  259.8,   -56.2,    -7.5)
+  this my car but got destroyed by a guy
+2022-03-20T21:06:02Z: PLAYER CHATTED [  153683700] Thebenjiball         (  269.7,   -56.2,    -8.9)
+  aw
+2022-03-20T21:06:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  269.7,   -56.2,    -8.9)
+  that's what this place helps with
+2022-03-20T21:06:13Z: PLAYER CHATTED [  153683700] Thebenjiball         (  269.7,   -56.2,    -8.9)
+  hidden
+2022-03-20T21:06:18Z: PLAYER ADDED   [   85593954] dave796101
+2022-03-20T21:06:28Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  200.6,   -56.2,    78.0)
+  wow, u make cars here?
+2022-03-20T21:06:32Z: PLAYER CHATTED [   85593954] dave796101           ( -837.6,   -26.4,   -38.5)
+  bean
+2022-03-20T21:06:35Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  i make 1 car here
+2022-03-20T21:06:36Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  my car
+2022-03-20T21:06:40Z: PLAYER CHATTED [   85593954] dave796101           (   -4.0,    12.6,    -4.0)
+  /to bean
+2022-03-20T21:06:51Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  ;w beanos2537 yo
+2022-03-20T21:06:54Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  so heres the eal
+2022-03-20T21:06:58Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  I am an exploiter as well
+2022-03-20T21:07:00Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  So right now
+2022-03-20T21:07:04Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  I have my other account
+2022-03-20T21:07:06Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  In his server
+2022-03-20T21:07:11Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -1.8,    12.8,     5.2)
+  wow rlly?
+2022-03-20T21:07:12Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  Im going to wait for him to build something big
+2022-03-20T21:07:15Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  and then delete it 
+2022-03-20T21:07:19Z: PLAYER CHATTED [   85593954] dave796101           (    1.1,    12.8,     3.4)
+  and then ban him
+2022-03-20T21:07:20Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -1.8,    12.8,     5.2)
+  ok
+2022-03-20T21:07:26Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -1.8,    12.8,     5.2)
+  thx
+2022-03-20T21:07:28Z: PLAYER CHATTED [   85593954] dave796101           (   47.1,     7.0,     3.4)
+  ill be afk here
+2022-03-20T21:07:30Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -1.8,    12.8,     5.2)
+  your nice
+2022-03-20T21:08:04Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  174.3,   -56.2,   130.0)
+  wow, nice car
+2022-03-20T21:08:07Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  ty
+2022-03-20T21:08:17Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  186.0,   -56.2,   127.6)
+  looks like reallistic
+2022-03-20T21:08:24Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  it's gonna be a hover car
+2022-03-20T21:08:28Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  171.5,   -56.2,   131.3)
+  Woah
+2022-03-20T21:08:30Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  172.1,   -56.2,   128.9)
+  cool
+2022-03-20T21:08:48Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  210.9,   -56.2,   208.4)
+  to the
+2022-03-20T21:09:00Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  211.0,   -56.2,   184.9)
+  i cant teleport to someone
+2022-03-20T21:09:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  yea only admins can do taht
+2022-03-20T21:09:13Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.0,   -53.8,   123.1)
+  that
+2022-03-20T21:09:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T21:09:17Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  216.0,   -56.2,   169.4)
+  ok
+2022-03-20T21:09:25Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  179.3,   -56.2,   136.9)
+  sethome
+2022-03-20T21:09:47Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  195.3,   -56.2,   237.4)
+  who wants a pistol
+2022-03-20T21:10:05Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  193.5,   -56.2,   231.1)
+  .-.
+2022-03-20T21:10:15Z: PLAYER CHATTED [  153683700] Thebenjiball         (  188.8,   -56.6,   112.2)
+  te
+2022-03-20T21:10:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -6.0,    12.5,     2.0)
+  tee
+2022-03-20T21:10:46Z: PLAYER CHATTED [  153683700] Thebenjiball         (   90.1,     6.8,   -33.7)
+  oops
+2022-03-20T21:10:56Z: PLAYER CHATTED [  153683700] Thebenjiball         (   14.1,   341.8,  -304.7)
+  what
+2022-03-20T21:11:00Z: PLAYER CHATTED [  153683700] Thebenjiball         (   25.1,     6.8,  -273.6)
+  gun?
+2022-03-20T21:11:01Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  177.1,   -56.2,   173.9)
+  ._.
+2022-03-20T21:11:12Z: PLAYER CHATTED [  153683700] Thebenjiball         (  200.8,   -56.2,   189.1)
+  oh
+2022-03-20T21:11:14Z: PLAYER CHATTED [  153683700] Thebenjiball         (  200.8,   -56.2,   189.1)
+  okay XD
+2022-03-20T21:11:18Z: PLAYER CHATTED [  153683700] Thebenjiball         (  201.6,   -56.2,   190.3)
+  done
+2022-03-20T21:12:14Z: PLAYER CHATTED [  153683700] Thebenjiball         (  168.9,   -56.2,   129.2)
+  A
+2022-03-20T21:12:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  168.9,   -56.2,   129.2)
+  >:(
+2022-03-20T21:12:31Z: PLAYER REMOVED [  109045036] MagmarAlbu
+2022-03-20T21:12:32Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.9,   -57.2,   140.4)
+  ninja
+2022-03-20T21:12:43Z: PLAYER CHATTED [  153683700] Thebenjiball         (    1.0,    12.5,     6.0)
+  tee
+2022-03-20T21:12:47Z: PLAYER CHATTED [  153683700] Thebenjiball         (    2.6,    12.8,     9.1)
+  gohoem
+2022-03-20T21:12:49Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T21:12:55Z: PLAYER CHATTED [  153683700] Thebenjiball         (    0.0,    12.5,    -2.0)
+  tee
+2022-03-20T21:12:59Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T21:13:01Z: PLAYER CHATTED [  153683700] Thebenjiball         (   -4.0,    12.8,     1.0)
+  tee
+2022-03-20T21:13:09Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -5.0,    12.5,    -5.0)
+  ###
+2022-03-20T21:13:10Z: PLAYER CHATTED [  153683700] Thebenjiball         (  176.1,   -56.2,   114.8)
+  gohome
+2022-03-20T21:15:38Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.1,   -53.8,   123.1)
+  ye
+2022-03-20T21:15:40Z: PLAYER CHATTED [  153683700] Thebenjiball         (  175.2,   -56.8,   139.9)
+  oh
+2022-03-20T21:16:02Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  -29.7,     6.8,    -3.2)
+  bruh
+2022-03-20T21:16:11Z: PLAYER CHATTED [  153683700] Thebenjiball         (  192.2,   -56.2,   222.7)
+  what's wrong with it
+2022-03-20T21:16:12Z: PLAYER CHATTED [  153683700] Thebenjiball         (  192.2,   -56.2,   222.7)
+  oh
+2022-03-20T21:16:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  192.2,   -56.2,   222.7)
+  em
+2022-03-20T21:16:23Z: PLAYER CHATTED [  153683700] Thebenjiball         (  196.1,   -56.0,   226.8)
+  it was upside down
+2022-03-20T21:16:52Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  173.5,   -45.5,    28.8)
+  GUYS
+2022-03-20T21:17:00Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  208.7,   -56.2,   145.6)
+  LOOK WHAT I MADE
+2022-03-20T21:17:00Z: PLAYER CHATTED [  153683700] Thebenjiball         (  190.5,   -56.2,   222.9)
+  bruh
+2022-03-20T21:17:12Z: PLAYER CHATTED [  153683700] Thebenjiball         (  204.1,   -56.2,   223.1)
+  unconstraint it and let it spin for a momen
+2022-03-20T21:17:16Z: PLAYER CHATTED [  153683700] Thebenjiball         (  204.2,   -56.2,   223.3)
+  woaw
+2022-03-20T21:17:21Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  206.6,   -56.2,   218.9)
+  want one?
+2022-03-20T21:17:28Z: PLAYER CHATTED [  153683700] Thebenjiball         (  204.2,   -56.2,   223.3)
+  you're the robot from inscryption
+2022-03-20T21:17:30Z: PLAYER CHATTED [  153683700] Thebenjiball         (  205.8,   -56.2,   217.8)
+  XD
+2022-03-20T21:17:34Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  201.4,   -56.2,   218.5)
+  # ###
+2022-03-20T21:17:36Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  200.9,   -56.2,   217.8)
+  a
+2022-03-20T21:17:38Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  200.9,   -56.2,   217.8)
+  ###
+2022-03-20T21:17:41Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  200.9,   -56.2,   217.8)
+  ##
+2022-03-20T21:17:48Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  200.9,   -56.2,   217.8)
+  me cant do face
+2022-03-20T21:17:54Z: PLAYER CHATTED [  153683700] Thebenjiball         (  214.9,   -56.2,   219.6)
+  a
+2022-03-20T21:17:56Z: PLAYER CHATTED [  153683700] Thebenjiball         (  215.3,   -56.2,   213.2)
+  i dont want one
+2022-03-20T21:17:57Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  210.9,   -56.2,   215.5)
+  no move
+2022-03-20T21:18:00Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  210.9,   -56.2,   215.5)
+  a
+2022-03-20T21:18:08Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  196.6,   -56.2,   276.7)
+  hey
+2022-03-20T21:18:10Z: PLAYER CHATTED [   85593954] dave796101           (  -21.8,     6.8,    35.5)
+  bean
+2022-03-20T21:18:10Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  191.7,   -56.2,   280.8)
+  no move
+2022-03-20T21:18:12Z: PLAYER CHATTED [   85593954] dave796101           (  -20.6,     6.8,    36.7)
+  Im about to drop a hammer
+2022-03-20T21:18:16Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  197.5,   -56.2,   265.8)
+  /w ####################### o
+2022-03-20T21:18:21Z: PLAYER CHATTED [ 1802812233] Beanos2537           (  197.5,   -56.2,   265.8)
+  oh
+2022-03-20T21:18:32Z: PLAYER CHATTED [ 1802812233] Beanos2537           (    5.0,    12.5,    -3.0)
+  ###
+2022-03-20T21:18:45Z: PLAYER CHATTED [ 1802812233] Beanos2537           (   -8.0,     6.8,    31.3)
+  he did no join?
+2022-03-20T21:19:00Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-03-20T21:19:00Z: PLAYER REMOVED [  191945884] thedanielkid54321
+2022-03-20T21:19:00Z: PLAYER REMOVED [  153683700] Thebenjiball
+2022-03-20T21:19:00Z: PLAYER REMOVED [ 1802812233] Beanos2537
+2022-03-20T21:19:00Z: PLAYER REMOVED [  152914564] miasilly_again
+2022-03-20T21:19:00Z: PLAYER REMOVED [   85593954] dave796101
+2022-03-20T21:19:00Z: CHAT STREAM SUCCESSFULLY ENDED

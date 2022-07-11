@@ -1,0 +1,531 @@
+[ 7632117821 - f0ff91ba-a9de-4609-a73c-7116016c8a20] The Open Space Hangout [VOICE CHAT] 
+2022-03-23T01:13:12Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-23T01:13:15Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-23T01:13:15Z: PLAYER ADDED   [  525400714] Dri_bb
+2022-03-23T01:13:15Z: PLAYER ADDED   [ 2330078552] BigGiantDinoCohc
+2022-03-23T01:13:15Z: PLAYER ADDED   [   96197775] cheeeezzzz
+2022-03-23T01:13:15Z: PLAYER ADDED   [ 3087109143] helo_saturn
+2022-03-23T01:13:15Z: PLAYER ADDED   [  350578423] MockyBlack
+2022-03-23T01:13:15Z: PLAYER ADDED   [   47914299] crispjose
+2022-03-23T01:13:15Z: PLAYER ADDED   [  101456243] RichardSchwaz
+2022-03-23T01:13:15Z: PLAYER ADDED   [ 3217817327] svetlanaARSON
+2022-03-23T01:13:15Z: PLAYER ADDED   [  377546990] lesslight
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 1303658462] Ven_Echo
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 1649213605] Expistic
+2022-03-23T01:13:16Z: PLAYER ADDED   [  984444936] JUKEDME
+2022-03-23T01:13:16Z: PLAYER ADDED   [  809990889] yaotzrie
+2022-03-23T01:13:16Z: PLAYER ADDED   [  205771414] mixpixi
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 2434418831] luvhydra
+2022-03-23T01:13:16Z: PLAYER ADDED   [  262449316] allie_beth1
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 2019497989] Missyisa78
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 1291221200] lanlar06
+2022-03-23T01:13:16Z: PLAYER ADDED   [  829569181] LUVVAABXBY_LUV
+2022-03-23T01:13:16Z: PLAYER ADDED   [   22303263] DrSpoips
+2022-03-23T01:13:16Z: PLAYER ADDED   [ 3304786756] Miriam_33144
+2022-03-23T01:13:16Z: PLAYER ADDED   [  173248825] eztheral
+2022-03-23T01:13:16Z: PLAYER ADDED   [  292284012] FilmTrack
+2022-03-23T01:13:16Z: PLAYER ADDED   [  237227192] psychoboy0666
+2022-03-23T01:13:16Z: PLAYER ADDED   [   63048794] mittii
+2022-03-23T01:13:20Z: CHRCTER ADDED  [ 3087109143] helo_saturn          (  251.7,    37.4,   103.7)
+2022-03-23T01:13:31Z: PLAYER CHATTED [  984444936] JUKEDME              (  253.8,    21.6,   112.9)
+  hello expistic
+2022-03-23T01:13:43Z: CHRCTER ADDED  [   22303263] DrSpoips             (  251.7,    37.4,   103.7)
+2022-03-23T01:13:44Z: PLAYER CHATTED [  984444936] JUKEDME              (  253.4,    21.6,   113.1)
+  :D
+2022-03-23T01:13:45Z: CHRCTER ADDED  [   63048794] mittii               (  251.7,    37.4,   103.7)
+2022-03-23T01:13:47Z: PLAYER CHATTED [  984444936] JUKEDME              (  253.6,    21.6,   111.7)
+  oh
+2022-03-23T01:13:54Z: PLAYER ADDED   [  572368165] kin0_g
+2022-03-23T01:14:09Z: PLAYER CHATTED [  984444936] JUKEDME              (  254.4,    21.7,   111.0)
+  :D
+2022-03-23T01:14:11Z: PLAYER CHATTED [  984444936] JUKEDME              (  254.4,    21.7,   111.0)
+  salmon nft
+2022-03-23T01:14:22Z: PLAYER REMOVED [   63048794] mittii
+2022-03-23T01:14:25Z: PLAYER REMOVED [  377546990] lesslight
+2022-03-23T01:14:26Z: CHRCTER ADDED  [ 2330078552] BigGiantDinoCohc     (  251.7,    37.4,   103.7)
+2022-03-23T01:14:27Z: PLAYER CHATTED [  984444936] JUKEDME              (  245.6,    21.6,   114.6)
+  NO
+2022-03-23T01:14:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.6,    22.0,  -109.6)
+  Hi.
+2022-03-23T01:14:50Z: CHRCTER ADDED  [ 2330078552] BigGiantDinoCohc     (  251.7,    37.4,   103.7)
+2022-03-23T01:14:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.6,    22.0,  -109.6)
+  Windows 11.
+2022-03-23T01:14:51Z: PLAYER CHATTED [  984444936] JUKEDME              (  338.7,    21.5,   -32.9)
+  admin abooz!!!
+2022-03-23T01:14:59Z: PLAYER CHATTED [  984444936] JUKEDME              (  334.6,    21.5,   -30.9)
+  LOL
+2022-03-23T01:15:11Z: PLAYER CHATTED [ 2330078552] BigGiantDinoCohc     (  332.1,    21.5,   -35.4)
+  !art
+2022-03-23T01:15:15Z: PLAYER ADDED   [  377546990] lesslight
+2022-03-23T01:15:17Z: PLAYER CHATTED [ 2330078552] BigGiantDinoCohc     (  332.1,    21.5,   -34.2)
+  ####
+2022-03-23T01:15:19Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.5,    22.0,  -114.5)
+  Would you be able to record some lines for my video by any chance?
+2022-03-23T01:15:21Z: CHRCTER ADDED  [ 2434418831] luvhydra             (  251.7,    37.4,   103.7)
+2022-03-23T01:15:26Z: PLAYER REMOVED [  829569181] LUVVAABXBY_LUV
+2022-03-23T01:15:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.1,    22.0,  -114.3)
+  Petrol prices.
+2022-03-23T01:15:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.1,    22.0,  -114.3)
+  And about me.
+2022-03-23T01:15:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  358.1,    22.0,  -114.3)
+  Yes there is.
+2022-03-23T01:15:44Z: PLAYER ADDED   [  268952533] JamietTheAppleJam
+2022-03-23T01:15:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  355.9,    25.2,  -115.0)
+  81 words for the first section.
+2022-03-23T01:15:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  327.2,    22.0,  -129.6)
+  Maybe here.
+2022-03-23T01:16:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  327.2,    22.0,  -129.6)
+  Just a sec.
+2022-03-23T01:16:00Z: PLAYER CHATTED [ 3304786756] Miriam_33144         (  330.9,    22.0,   -37.4)
+  IMAO
+2022-03-23T01:16:05Z: PLAYER CHATTED [  984444936] JUKEDME              (  112.7,    22.1,  -104.8)
+  plushie 
+2022-03-23T01:16:09Z: PLAYER REMOVED [ 2019497989] Missyisa78
+2022-03-23T01:16:21Z: PLAYER CHATTED [    1630228] VisualPlugin         (  327.2,    22.0,  -129.6)
+  Hold on.
+2022-03-23T01:16:35Z: CHRCTER ADDED  [  173248825] eztheral             (  112.2,    25.5,  -116.8)
+2022-03-23T01:16:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  329.9,    22.0,  -127.2)
+  How do I turn off the music?
+2022-03-23T01:16:51Z: PLAYER CHATTED [ 3217817327] svetlanaARSON        (  404.4,    30.1,    37.5)
+  Attention everyone- I will be having a free seminar on the rap battle stage. The topic is to be announced during the presentation. Im a Phd, and very educated in the subject matter.
+2022-03-23T01:16:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  329.8,    22.0,  -128.2)
+  Let's go.
+2022-03-23T01:16:59Z: PLAYER ADDED   [  471900428] plskeiko
+2022-03-23T01:17:05Z: PLAYER CHATTED [  984444936] JUKEDME              (  401.6,    21.5,     1.4)
+  :o
+2022-03-23T01:17:07Z: PLAYER CHATTED [ 3304786756] Miriam_33144         (  114.1,    22.6,  -108.7)
+  WHATA
+2022-03-23T01:17:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  296.6,    22.1,  -117.8)
+  Her eis good.
+2022-03-23T01:17:14Z: PLAYER ADDED   [ 3052540111] Bangurmaa
+2022-03-23T01:17:19Z: PLAYER CHATTED [  984444936] JUKEDME              (  410.3,    21.5,     2.1)
+  A
+2022-03-23T01:17:20Z: PLAYER CHATTED [  984444936] JUKEDME              (  410.3,    21.5,     2.1)
+  WAIT
+2022-03-23T01:17:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  I'm uing a script to filter out other people's voices.
+2022-03-23T01:17:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  So I can only hear yours.
+2022-03-23T01:17:29Z: PLAYER CHATTED [ 3304786756] Miriam_33144         (  113.2,    22.6,  -101.1)
+  BRUH
+2022-03-23T01:17:32Z: PLAYER CHATTED [ 3217817327] svetlanaARSON        (  404.4,    30.1,    37.5)
+  Attention everyone- I will be having a free seminar on the rap battle stage. The topic is to be announced during the presentation. Im a Phd, and very educated in the subject matter.
+2022-03-23T01:17:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Supreme Respected Leader VisualPlugin unravels a state-of-the-art gasoline motor-fuel generation and propagation system for all members of the interuniversal public.
+2022-03-23T01:17:49Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  352.9,    23.4,  -111.2)
+  /e damce
+2022-03-23T01:17:51Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  352.9,    23.4,  -111.2)
+  /e dance
+2022-03-23T01:17:54Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  352.7,    24.7,  -114.0)
+  /e dance
+2022-03-23T01:17:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Yes.
+2022-03-23T01:18:05Z: CHRCTER ADDED  [  173248825] eztheral             (  251.7,    37.4,   103.7)
+2022-03-23T01:18:17Z: PLAYER ADDED   [   14280808] Fusion_Swarly
+2022-03-23T01:18:22Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Pro-pa-gation.
+2022-03-23T01:18:23Z: CHRCTER ADDED  [  173248825] eztheral             (  153.3,    21.4,  -104.0)
+2022-03-23T01:18:31Z: PLAYER CHATTED [  984444936] JUKEDME              (  390.2,    21.5,   -70.2)
+  expistic
+2022-03-23T01:18:33Z: PLAYER REMOVED [ 3304786756] Miriam_33144
+2022-03-23T01:18:35Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  I can do audio cuts.
+2022-03-23T01:18:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+   In recent times, the Earthly and Democratic nations have been undergoing an unprecedented major financial predicament. 
+2022-03-23T01:18:38Z: PLAYER CHATTED [  984444936] JUKEDME              (  390.2,    21.5,   -70.2)
+  do you have kickwarn perms
+2022-03-23T01:18:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Un-
+2022-03-23T01:18:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Un-precedented.
+2022-03-23T01:18:54Z: PLAYER ADDED   [ 2835013330] alexapagarao
+2022-03-23T01:18:55Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  352.7,    24.7,  -114.0)
+  drib is doing unpayed voice acting
+2022-03-23T01:18:59Z: PLAYER CHATTED [  984444936] JUKEDME              (  390.4,    21.5,   -70.2)
+  o
+2022-03-23T01:19:02Z: PLAYER CHATTED [  984444936] JUKEDME              (  390.4,    21.5,   -70.2)
+  alr nc
+2022-03-23T01:19:05Z: PLAYER ADDED   [ 3115070053] MelodyMarkedTheSpot
+2022-03-23T01:19:08Z: PLAYER ADDED   [   70632193] hitagi_end
+2022-03-23T01:19:09Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  307.2,    21.6,  -119.0)
+  /e dance
+2022-03-23T01:19:11Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Just tht word and the next 5.
+2022-03-23T01:19:13Z: PLAYER CHATTED [ 3087109143] helo_saturn          (  308.6,    21.7,  -115.4)
+  /e dance
+2022-03-23T01:19:16Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  I can do audio cuts.
+2022-03-23T01:19:18Z: PLAYER CHATTED [  471900428] plskeiko             (  246.5,    21.4,    89.4)
+  lexa
+2022-03-23T01:19:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+   International politics and renewed warfare in Eastern Europe has been greatly to blame; uncertainty concerning gasoline supply is eminently consequent.  
+2022-03-23T01:19:33Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  245.6,    21.7,    91.3)
+  hi fusion <3
+2022-03-23T01:19:37Z: CHRCTER ADDED  [   47914299] crispjose            (  251.7,    37.4,   103.7)
+2022-03-23T01:19:41Z: PLAYER REMOVED [   22303263] DrSpoips
+2022-03-23T01:19:43Z: PLAYER CHATTED [   14280808] Fusion_Swarly        (  248.0,    21.5,    79.0)
+  I AM AFK I WILL BE BACK
+2022-03-23T01:19:46Z: PLAYER ADDED   [  597816307] 01ROBLOX_PLAYER10
+2022-03-23T01:19:48Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  The North American and Western European economic regions are particularly impacted, for such locales are to whose leaders our Nation holds to a high regard.
+2022-03-23T01:19:49Z: CHRCTER ADDED  [ 1291221200] lanlar06             (  251.7,    37.4,   103.7)
+2022-03-23T01:19:53Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  246.8,    22.1,    80.1)
+  yes
+2022-03-23T01:20:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Lo-cails.
+2022-03-23T01:20:02Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  246.8,    21.3,    80.1)
+  wha
+2022-03-23T01:20:04Z: CHRCTER ADDED  [ 1649213605] Expistic             (  310.5,    19.9,   -31.1)
+2022-03-23T01:20:07Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  265.6,    21.2,   -17.4)
+  /e dance
+2022-03-23T01:20:09Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Lo-cay-ls.
+2022-03-23T01:20:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Yes.
+2022-03-23T01:20:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Our brilliant Leader has leveraged the imaginative fertility and limitless physicochemical fabrication made possible by the constitution of the metaverse. 
+2022-03-23T01:20:28Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  247.9,    21.7,    91.9)
+  I sound like Kermit the frog
+2022-03-23T01:20:37Z: CHRCTER ADDED  [  237227192] psychoboy0666        (  251.7,    37.4,   103.7)
+2022-03-23T01:20:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Fi-si-oh.
+2022-03-23T01:20:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Chemical.
+2022-03-23T01:20:52Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  By the consti.
+2022-03-23T01:20:54Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  247.5,    21.7,    76.5)
+  only for fusion 
+2022-03-23T01:20:56Z: CHRCTER ADDED  [  984444936] JUKEDME              (  251.7,    37.4,   103.7)
+2022-03-23T01:21:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Do repeat that part.
+2022-03-23T01:21:16Z: PLAYER REMOVED [  101456243] RichardSchwaz
+2022-03-23T01:21:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Phy-see-oh.
+2022-03-23T01:21:34Z: PLAYER ADDED   [ 2492658611] Dz_xo
+2022-03-23T01:21:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Repeat that word and forwards.
+2022-03-23T01:21:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Yes.
+2022-03-23T01:21:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  The generation of Earthly resources in the metaverse is certainly lucrative, as the Earthly reality is handicapped by the finite and sluggish assembly of their industrial-economic macrosystem. 
+2022-03-23T01:21:52Z: CHRCTER ADDED  [  809990889] yaotzrie             (  251.7,    37.4,   103.7)
+2022-03-23T01:21:56Z: PLAYER CHATTED [  984444936] JUKEDME              (  336.8,    21.5,   -35.7)
+  salmon
+2022-03-23T01:21:57Z: PLAYER CHATTED [  292284012] FilmTrack            (  340.3,    21.5,   -35.3)
+  kizaru
+2022-03-23T01:22:00Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  265.6,    21.2,   -17.4)
+  i think drib has fallen for an NFT or Crypto thing
+2022-03-23T01:22:01Z: CHRCTER ADDED  [ 1649213605] Expistic             (  251.7,    37.4,   103.7)
+2022-03-23T01:22:02Z: CHRCTER ADDED  [  377546990] lesslight            (  318.3,    21.2,   -36.6)
+2022-03-23T01:22:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  The FINITE.
+2022-03-23T01:22:05Z: PLAYER CHATTED [  984444936] JUKEDME              (  336.5,    21.5,   -35.8)
+  salmon
+2022-03-23T01:22:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.7,    22.0,  -116.8)
+  Not infinite.
+2022-03-23T01:22:07Z: PLAYER CHATTED [  292284012] FilmTrack            (  340.3,    21.5,   -35.4)
+  no
+2022-03-23T01:22:10Z: CHRCTER ADDED  [ 2492658611] Dz_xo                (  412.5,    21.5,    13.7)
+2022-03-23T01:22:12Z: PLAYER CHATTED [   96197775] cheeeezzzz           (  265.6,    21.2,   -17.4)
+  they talking about the metaverse
+2022-03-23T01:22:13Z: PLAYER CHATTED [  292284012] FilmTrack            (  340.3,    21.5,   -35.4)
+  i refuse to believe that
+2022-03-23T01:22:15Z: PLAYER REMOVED [  173248825] eztheral
+2022-03-23T01:22:30Z: PLAYER CHATTED [  984444936] JUKEDME              (  336.5,    21.5,   -35.8)
+  silence peasant
+2022-03-23T01:22:32Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  247.8,    21.7,    74.1)
+  gtg bye
+2022-03-23T01:22:36Z: PLAYER CHATTED [  984444936] JUKEDME              (  336.5,    21.5,   -35.8)
+  344mins
+2022-03-23T01:22:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (  286.6,    22.3,  -126.1)
+  It's not.
+2022-03-23T01:22:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  294.5,    22.1,  -120.6)
+  GO to my YT channel.
+2022-03-23T01:22:53Z: PLAYER CHATTED [ 2492658611] Dz_xo                (  413.0,    21.5,    14.4)
+  LOL
+2022-03-23T01:22:59Z: PLAYER CHATTED [    1630228] VisualPlugin         (  295.3,    22.1,  -119.7)
+  Let's go somewhere else.
+2022-03-23T01:23:02Z: PLAYER ADDED   [  173248825] eztheral
+2022-03-23T01:23:08Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  402.7,    21.5,     3.4)
+  ###########
+2022-03-23T01:23:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  249.7,    22.2,  -127.4)
+  That's good.
+2022-03-23T01:23:13Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  402.7,    21.5,     3.4)
+  fusion
+2022-03-23T01:23:14Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.5)
+  The generation of Earthly resources in the metaverse is certainly lucrative, as the Earthly reality is handicapped by the finite and sluggish assembly of their industrial-economic macrosystem. 
+2022-03-23T01:23:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.5)
+  Not everything.
+2022-03-23T01:23:20Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  402.8,    21.5,     3.4)
+  papi
+2022-03-23T01:23:31Z: CHRCTER ADDED  [ 3087109143] helo_saturn          (  251.7,    37.4,   103.7)
+2022-03-23T01:23:32Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.4)
+  I might've already had that recorded.
+2022-03-23T01:23:32Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  408.4,    21.3,     8.2)
+  mwa
+2022-03-23T01:23:33Z: PLAYER REMOVED [ 3052540111] Bangurmaa
+2022-03-23T01:23:35Z: PLAYER CHATTED [ 3217817327] svetlanaARSON        (  192.6,    22.0,   -78.6)
+  Plugin pls let me say this omg 
+2022-03-23T01:23:36Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.1)
+  Good enough.
+2022-03-23T01:23:46Z: PLAYER CHATTED [  984444936] JUKEDME              (  202.2,    22.0,   -37.2)
+  WHAT
+2022-03-23T01:23:49Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+  As much as you want.
+2022-03-23T01:23:53Z: PLAYER CHATTED [  984444936] JUKEDME              (  202.2,    22.0,   -37.2)
+  wdym
+2022-03-23T01:23:53Z: CHRCTER ADDED  [  572368165] kin0_g               (  251.7,    37.4,   103.7)
+2022-03-23T01:23:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+   This magnanimous decision made on behalf of our thriving nation is a felicitous operation resulting from rising costs 
+2022-03-23T01:23:55Z: PLAYER ADDED   [ 1297105933] lielielielielielol
+2022-03-23T01:23:57Z: PLAYER CHATTED [  984444936] JUKEDME              (  202.2,    22.0,   -37.2)
+  no
+2022-03-23T01:23:58Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+  for nationals of Earthly and Democratic nations to industriously engage in private motor transport.
+2022-03-23T01:23:59Z: PLAYER CHATTED [  984444936] JUKEDME              (  202.2,    22.0,   -37.2)
+  lol
+2022-03-23T01:24:02Z: PLAYER CHATTED [  984444936] JUKEDME              (  205.5,    22.0,   -34.3)
+  yrs
+2022-03-23T01:24:03Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+  Second section now.
+2022-03-23T01:24:07Z: PLAYER REMOVED [ 2330078552] BigGiantDinoCohc
+2022-03-23T01:24:09Z: PLAYER CHATTED [  984444936] JUKEDME              (  205.5,    22.0,   -34.3)
+  ban ban?
+2022-03-23T01:24:17Z: PLAYER CHATTED [  984444936] JUKEDME              (  204.3,    22.0,   -34.8)
+  oh
+2022-03-23T01:24:21Z: PLAYER CHATTED [  984444936] JUKEDME              (  204.3,    22.0,   -34.8)
+  want the clip?
+2022-03-23T01:24:21Z: CHRCTER ADDED  [ 3217817327] svetlanaARSON        (  251.7,    37.4,   103.7)
+2022-03-23T01:24:24Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+  Yes.
+2022-03-23T01:24:32Z: PLAYER ADDED   [ 3123274093] daisyshau
+2022-03-23T01:24:33Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  352.6,    23.3,    -6.3)
+  already got nitro
+2022-03-23T01:24:36Z: PLAYER CHATTED [ 2492658611] Dz_xo                (  201.5,    22.0,   -32.7)
+  wait cant you make that one van appear?
+2022-03-23T01:24:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.4)
+  Feli-cit-itious.
+2022-03-23T01:24:42Z: PLAYER CHATTED [ 2492658611] Dz_xo                (  198.5,    22.0,   -33.2)
+  that takes you
+2022-03-23T01:24:44Z: PLAYER CHATTED [ 2492658611] Dz_xo                (  198.5,    22.0,   -33.2)
+  YES
+2022-03-23T01:25:09Z: CHRCTER ADDED  [ 2492658611] Dz_xo                (  251.7,    37.4,   103.7)
+2022-03-23T01:25:20Z: CHRCTER ADDED  [ 2492658611] Dz_xo                (  392.4,    21.5,    18.7)
+2022-03-23T01:25:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Feh-li-sit-itious
+2022-03-23T01:25:27Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Fe
+2022-03-23T01:25:28Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Li
+2022-03-23T01:25:28Z: PLAYER CHATTED [  984444936] JUKEDME              (  204.6,    22.0,   -35.2)
+  salmon
+2022-03-23T01:25:29Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Sit
+2022-03-23T01:25:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Ishous
+2022-03-23T01:25:36Z: PLAYER REMOVED [ 2492658611] Dz_xo
+2022-03-23T01:25:39Z: PLAYER ADDED   [ 1215461035] patinumoneX2
+2022-03-23T01:25:43Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Ask GOogle.
+2022-03-23T01:25:47Z: PLAYER CHATTED [  572368165] kin0_g               (  199.5,    22.0,   -30.5)
+  no cap'
+2022-03-23T01:25:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  You're good!
+2022-03-23T01:25:52Z: CHRCTER ADDED  [   47914299] crispjose            (  251.7,    37.4,   103.7)
+2022-03-23T01:25:52Z: CHRCTER ADDED  [  572368165] kin0_g               (  251.7,    42.0,   103.7)
+2022-03-23T01:26:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Good enough.
+2022-03-23T01:26:19Z: PLAYER CHATTED [ 1215461035] patinumoneX2         (  393.9,    22.0,    19.5)
+  ohayo  gozaimasu
+2022-03-23T01:26:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Just say 'fortunate'.
+2022-03-23T01:26:31Z: PLAYER CHATTED [  597816307] 01ROBLOX_PLAYER10    (  391.8,    21.4,    17.0)
+  ohayooo
+2022-03-23T01:26:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.1,    22.2,  -127.4)
+  Means the same thing.
+2022-03-23T01:26:44Z: PLAYER CHATTED [  984444936] JUKEDME              (  271.4,    21.7,  -122.6)
+  D:
+2022-03-23T01:26:46Z: PLAYER CHATTED [   14280808] Fusion_Swarly        (  398.5,    21.4,    14.7)
+  おはいよう
+2022-03-23T01:26:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.3,    22.9,  -127.2)
+  This magnanimous decision made on behalf of our thriving nation is a fortunate operation
+2022-03-23T01:26:52Z: PLAYER REMOVED [ 3115070053] MelodyMarkedTheSpot
+2022-03-23T01:26:54Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.3,    22.9,  -127.2)
+  resulting from rising costs for nationals of Earthly and Democratic nations to industriously engage in private motor transport. 
+2022-03-23T01:26:59Z: PLAYER ADDED   [ 3115070053] MelodyMarkedTheSpot
+2022-03-23T01:27:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.3,    22.9,  -127.2)
+  Just from 'fortunate'.
+2022-03-23T01:27:43Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  432.3,    21.5,    -5.1)
+  fusion ###
+2022-03-23T01:27:48Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  404.6,    21.5,    11.5)
+  mwa
+2022-03-23T01:27:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  259.1,    22.2,  -126.1)
+  It's a propaganda piece from my fictional nation.
+2022-03-23T01:28:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  248.4,    22.2,  -126.9)
+  Clears things a lot.
+2022-03-23T01:28:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  resulting from rising costs for nationals of Earthly and Democratic nations to industriously engage in private motor transport. 
+2022-03-23T01:28:23Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  You already said it.
+2022-03-23T01:28:23Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  337.4,    25.8,    -8.3)
+  fusion
+2022-03-23T01:28:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Whoops.
+2022-03-23T01:28:25Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  320.3,    23.3,   -15.3)
+  papi
+2022-03-23T01:28:41Z: PLAYER REMOVED [ 1297105933] lielielielielielol
+2022-03-23T01:28:44Z: CHRCTER ADDED  [  572368165] kin0_g               (  251.7,    37.4,   103.7)
+2022-03-23T01:28:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  The swiftness of our Nation, and of our Respected Leader VisualPlugin, to adapt to conflicts outside the metaverse
+2022-03-23T01:28:51Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  233.2,    21.4,   -89.4)
+  we look cute
+2022-03-23T01:28:54Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  233.2,    21.4,   -89.4)
+  fusion
+2022-03-23T01:28:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+   is indeed reflective of the undoubtable state of victory we revel in since the end of the antecedent War of Çıkış.
+2022-03-23T01:29:00Z: CHRCTER ADDED  [  809990889] yaotzrie             (  157.2,    22.1,   -94.0)
+2022-03-23T01:29:01Z: PLAYER CHATTED [  572368165] kin0_g               (  182.1,    22.4,     1.7)
+  bob'
+2022-03-23T01:29:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Chickish.
+2022-03-23T01:29:24Z: PLAYER REMOVED [   96197775] cheeeezzzz
+2022-03-23T01:29:24Z: CHRCTER ADDED  [  809990889] yaotzrie             (  136.8,    22.1,  -108.5)
+2022-03-23T01:29:36Z: PLAYER CHATTED [  572368165] kin0_g               (  122.8,    22.1,  -100.6)
+  dang
+2022-03-23T01:29:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Ante-see-dant.
+2022-03-23T01:29:38Z: PLAYER CHATTED [  572368165] kin0_g               (  122.8,    22.1,  -100.6)
+  ni
+2022-03-23T01:29:43Z: PLAYER ADDED   [  607526158] H1z1111x
+2022-03-23T01:29:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Go ahead.
+2022-03-23T01:30:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  There is more.
+2022-03-23T01:30:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Stringent measures have been taken to ensure the security of each country's interests.
+2022-03-23T01:30:29Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  248.9,    21.8,  -142.0)
+  fusion is mine
+2022-03-23T01:30:31Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Strin-jent.
+2022-03-23T01:30:40Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  251.2,    21.8,  -145.0)
+  i do
+2022-03-23T01:30:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.7,    22.2,  -127.6)
+  Visitors' activities are recorded for the duration they are in their respective sector to assure unusual activity of any motive is mitigated and sanctioned.
+2022-03-23T01:30:42Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  251.2,    21.8,  -145.0)
+  ill fight u
+2022-03-23T01:30:50Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  252.0,    21.8,  -144.9)
+  leave him alone
+2022-03-23T01:30:54Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  252.0,    21.8,  -144.9)
+  or ill #### #### ######
+2022-03-23T01:30:59Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  252.5,    21.8,  -145.8)
+  ####### ###
+2022-03-23T01:31:00Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.0)
+  Darn.
+2022-03-23T01:31:01Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  255.7,    25.0,  -140.7)
+  fewwewefewrf
+2022-03-23T01:31:02Z: PLAYER ADDED   [  327037296] halowarsiscool
+2022-03-23T01:31:04Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  254.3,    21.8,  -142.1)
+  wwerwewerwre
+2022-03-23T01:31:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  245.8,    22.2,  -128.0)
+  I can hear some other noise.
+2022-03-23T01:31:17Z: PLAYER CHATTED [    1630228] VisualPlugin         (  258.3,    22.2,  -127.9)
+  Go ahead.
+2022-03-23T01:31:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  306.3,    22.1,   -94.6)
+  Saturn can help too.
+2022-03-23T01:31:30Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  254.8,    21.8,  -142.7)
+  yes
+2022-03-23T01:31:35Z: PLAYER CHATTED [ 3087109143] helo_saturn          (  301.0,    21.7,   -89.8)
+  naur
+2022-03-23T01:31:36Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  254.9,    21.8,  -141.9)
+  im not
+2022-03-23T01:31:38Z: PLAYER REMOVED [   70632193] hitagi_end
+2022-03-23T01:31:41Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  254.9,    21.8,  -141.9)
+  im from canada
+2022-03-23T01:31:44Z: PLAYER CHATTED [    1630228] VisualPlugin         (  302.8,    22.1,   -93.8)
+  Here is good for now.
+2022-03-23T01:31:47Z: PLAYER ADDED   [ 1297105933] lielielielielielol
+2022-03-23T01:31:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  302.8,    22.1,   -93.8)
+  She has VC off.
+2022-03-23T01:31:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.2,    22.1,   -93.7)
+  To further satisfy the interests of national security and corporate energisation, the heralded office of Supreme Leader VisualPlugin will coherently monitor their geo-coordinates
+2022-03-23T01:31:56Z: PLAYER REMOVED [ 2835013330] alexapagarao
+2022-03-23T01:32:02Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  248.4,    21.8,  -146.1)
+  fusion
+2022-03-23T01:32:04Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  248.4,    21.8,  -146.1)
+  papi
+2022-03-23T01:32:20Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  163.0,    21.7,  -109.2)
+  gtg
+2022-03-23T01:32:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  and mental profiles for a subsequent thirteen months
+2022-03-23T01:32:21Z: PLAYER CHATTED [ 3115070053] MelodyMarkedTheSpot  (  163.0,    21.7,  -109.2)
+  bye
+2022-03-23T01:32:26Z: PLAYER REMOVED [ 3115070053] MelodyMarkedTheSpot
+2022-03-23T01:32:30Z: PLAYER CHATTED [  572368165] kin0_g               (  107.9,    22.1,  -103.4)
+  wow bruh
+2022-03-23T01:32:31Z: PLAYER ADDED   [   46396148] killerrrrath
+2022-03-23T01:32:33Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+   It is imperative that relevant parties be allowed to solicit this information, which is inclusive of high-ranking officers of select
+2022-03-23T01:32:38Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+   industrial conglomerates and preeminent ministers of our allied Earthly Nations
+2022-03-23T01:32:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Im-per-ative.
+2022-03-23T01:32:44Z: CHRCTER ADDED  [ 1291221200] lanlar06             (  251.7,    37.4,   103.7)
+2022-03-23T01:32:50Z: CHRCTER ADDED  [ 1291221200] lanlar06             (  344.9,    22.9,   -25.4)
+2022-03-23T01:32:52Z: PLAYER CHATTED [ 3087109143] helo_saturn          (  302.9,    21.7,   -89.0)
+  drib im gonna log off and like go eat dinner
+2022-03-23T01:32:53Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Yes.
+2022-03-23T01:33:00Z: PLAYER REMOVED [ 3087109143] helo_saturn
+2022-03-23T01:33:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  You can say 'imperative and 5 words after.
+2022-03-23T01:33:08Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Five ords.
+2022-03-23T01:33:10Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  5 w
+2022-03-23T01:33:13Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  ords
+2022-03-23T01:33:26Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Just say 'imprative'.
+2022-03-23T01:33:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  IMP?RATIVE
+2022-03-23T01:33:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  You said it.
+2022-03-23T01:33:45Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Good enough.
+2022-03-23T01:33:45Z: PLAYER CHATTED [  572368165] kin0_g               (  134.1,    22.1,  -106.9)
+  lol
+2022-03-23T01:33:51Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+    Indeed, the various indulgences of Supreme Leader VisualPlugin to the highest grade of humans rewards all allies and members of our Vecistani utopia.
+2022-03-23T01:33:55Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Final statement.
+2022-03-23T01:34:05Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Yes.
+2022-03-23T01:34:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Plural.
+2022-03-23T01:34:18Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Grade, not rate.
+2022-03-23T01:34:34Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Veggiestani.
+2022-03-23T01:34:42Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Yes.
+2022-03-23T01:34:46Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Read from 'members' on.
+2022-03-23T01:34:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Good eough.
+2022-03-23T01:35:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  One more thing.
+2022-03-23T01:35:05Z: PLAYER CHATTED [  984444936] JUKEDME              (  203.7,    22.0,   -14.0)
+  salmon
+2022-03-23T01:35:12Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  THe 'geo-coords' sentence.
+2022-03-23T01:35:14Z: CHRCTER ADDED  [  327037296] halowarsiscool       (  251.7,    37.4,   103.7)
+2022-03-23T01:35:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  Will need to be repeated
+2022-03-23T01:35:30Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  It was a whole sentence.
+2022-03-23T01:35:57Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  And mental...
+2022-03-23T01:36:01Z: PLAYER CHATTED [    1630228] VisualPlugin         (  301.1,    22.1,   -93.6)
+  It was one single sentence.
+2022-03-23T01:36:06Z: PLAYER CHATTED [    1630228] VisualPlugin         (  300.8,    22.1,   -91.2)
+  ¿?

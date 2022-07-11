@@ -1,0 +1,99 @@
+[    1630228] : [ 9169442387] North South Line: Phase 1 - dd12e4a2-193e-4fea-90b7-bac983e3c595
+2022-04-16T21:26:21Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-04-16T21:26:23Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-04-16T21:26:23Z: PLAYER ADDED   [ 2626765497] Its_justin44
+2022-04-16T21:26:52Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27723.0,   -30.3,  5307.3)
+2022-04-16T21:26:57Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   40.4,     5.7,  -859.7)
+2022-04-16T21:28:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27718.8,   -30.3,  5309.5)
+2022-04-16T21:28:38Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27725.3,   -30.3,  5298.9)
+2022-04-16T21:28:40Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   40.3,     5.7,  -851.6)
+2022-04-16T21:29:24Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   38.6,     5.7,  -862.8)
+2022-04-16T21:31:17Z: PLAYER ADDED   [ 3060900003] lgh0416
+2022-04-16T21:31:21Z: CHRCTER ADDED  [ 3060900003] lgh0416              (-27732.1,   -31.3,  5299.0)
+2022-04-16T21:32:08Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   38.1,     5.7,  -848.5)
+2022-04-16T21:32:42Z: PLAYER ADDED   [ 2862314818] raratheman000
+2022-04-16T21:33:19Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -572.6,    10.2,  3150.8)
+  What sation are you at?
+2022-04-16T21:33:22Z: PLAYER CHATTED [    1630228] VisualPlugin         ( -572.6,    10.2,  3150.8)
+  *Station
+2022-04-16T21:33:50Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27717.2,   -30.3,  5303.8)
+2022-04-16T21:33:56Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   39.5,     5.7,  -859.5)
+2022-04-16T21:34:14Z: CHRCTER ADDED  [ 2862314818] raratheman000        (    9.5,    28.7,   544.3)
+2022-04-16T21:34:27Z: PLAYER REMOVED [ 2626765497] Its_justin44
+2022-04-16T21:35:18Z: PLAYER ADDED   [ 3392133890] DeyMir16
+2022-04-16T21:35:19Z: PLAYER REMOVED [ 3392133890] DeyMir16
+2022-04-16T21:35:30Z: PLAYER ADDED   [ 3392133890] DeyMir16
+2022-04-16T21:35:31Z: PLAYER REMOVED [ 3392133890] DeyMir16
+2022-04-16T21:35:40Z: CHRCTER ADDED  [ 2862314818] raratheman000        (-9950.7,    27.9,  1435.5)
+2022-04-16T21:35:41Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   44.9,     5.7,  -867.2)
+2022-04-16T21:36:19Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27720.0,   -30.3,  5297.8)
+2022-04-16T21:36:39Z: CHRCTER ADDED  [    1630228] VisualPlugin         (   43.7,     5.7,  -859.3)
+2022-04-16T21:36:59Z: CHRCTER ADDED  [ 2862314818] raratheman000        (    9.5,    28.7,   544.3)
+2022-04-16T21:38:10Z: PLAYER CHATTED [ 2862314818] raratheman000        (-9508.0,     9.5,  1588.2)
+  hello
+2022-04-16T21:38:20Z: PLAYER CHATTED [    1630228] VisualPlugin         (-10488.5,    -1.7,  1143.2)
+  Hi!
+2022-04-16T21:38:54Z: PLAYER CHATTED [ 2862314818] raratheman000        (-11994.8,     9.4,   600.2)
+  when are u gonna upload
+2022-04-16T21:39:07Z: PLAYER CHATTED [    1630228] VisualPlugin         (-15993.8,    13.4,   166.1)
+  I don't have a schedule.
+2022-04-16T21:39:17Z: PLAYER CHATTED [ 2862314818] raratheman000        (-18090.5,     8.8,   209.1)
+  oh ok
+2022-04-16T21:40:10Z: PLAYER CHATTED [ 2862314818] raratheman000        (-24378.2,   -25.8,  2999.7)
+  what is this game abt?
+2022-04-16T21:40:30Z: CHRCTER ADDED  [ 2862314818] raratheman000        (-23456.2,   -27.2,  2454.2)
+2022-04-16T21:40:39Z: PLAYER CHATTED [    1630228] VisualPlugin         (-26914.3,   -25.7,  4776.4)
+  Basically the SIngapore metro.
+2022-04-16T21:40:45Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23467.5,   -26.9,  2450.8)
+  oh
+2022-04-16T21:40:50Z: PLAYER CHATTED [    1630228] VisualPlugin         (-26914.3,   -25.7,  4776.4)
+  You can ride the train or drive one.
+2022-04-16T21:41:04Z: PLAYER CHATTED [    1630228] VisualPlugin         (-26914.3,   -25.7,  4776.4)
+  Have a seat.
+2022-04-16T21:41:31Z: PLAYER CHATTED [ 2862314818] raratheman000        (-27876.7,   -25.5,  5455.8)
+  are u driving?
+2022-04-16T21:41:40Z: PLAYER CHATTED [    1630228] VisualPlugin         (-28183.5,   -25.2,  5664.8)
+  I'm the one driving.
+2022-04-16T21:42:10Z: CHRCTER ADDED  [ 2862314818] raratheman000        (    9.5,    28.7,   544.3)
+2022-04-16T21:42:38Z: PLAYER CHATTED [ 2862314818] raratheman000        (-25920.7,   -31.4,  4084.8)
+  can u stop thr bus rq
+2022-04-16T21:42:48Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23601.4,   -26.7,  2551.2)
+  ;fly
+2022-04-16T21:43:02Z: PLAYER CHATTED [    1630228] VisualPlugin         (-23692.0,   -25.7,  2596.8)
+  It's a train!
+2022-04-16T21:43:11Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23689.1,   -25.6,  2604.5)
+  ight
+2022-04-16T21:43:16Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23689.1,   -25.6,  2604.5)
+  U can dive
+2022-04-16T21:43:22Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23689.1,   -25.6,  2604.5)
+  drive*
+2022-04-16T21:43:25Z: PLAYER CHATTED [    1630228] VisualPlugin         (-23692.0,   -25.7,  2596.8)
+  I am!
+2022-04-16T21:43:26Z: PLAYER ADDED   [ 3237204110] 03blvd
+2022-04-16T21:43:27Z: PLAYER REMOVED [ 3237204110] 03blvd
+2022-04-16T21:44:17Z: PLAYER CHATTED [ 2862314818] raratheman000        (-18034.0,     9.5,   207.2)
+  remember roblox remove the limit of hairs
+2022-04-16T21:44:37Z: PLAYER CHATTED [ 2862314818] raratheman000        (-18034.0,     9.5,   207.2)
+  I have a app so I can put has.many hairs I want
+2022-04-16T21:44:37Z: PLAYER CHATTED [    1630228] VisualPlugin         (-18034.6,     9.4,   199.1)
+  They reversed the change?!
+2022-04-16T21:44:46Z: PLAYER CHATTED [ 2862314818] raratheman000        (-18034.0,     9.5,   207.2)
+  well website
+2022-04-16T21:44:56Z: PLAYER CHATTED [    1630228] VisualPlugin         (-18034.6,     9.4,   199.1)
+  If it's an app you'e using, I'll bet it'd not hard to do.
+2022-04-16T21:45:08Z: PLAYER CHATTED [ 2862314818] raratheman000        (-17420.4,     9.5,    89.6)
+  btr
+2022-04-16T21:45:14Z: PLAYER CHATTED [ 2862314818] raratheman000        (-16266.7,    11.0,   133.7)
+  bt roblox
+2022-04-16T21:45:47Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27720.2,   -30.3,  5302.0)
+2022-04-16T21:46:37Z: PLAYER CHATTED [ 2862314818] raratheman000        (-10257.7,  -317.5,  1166.8)
+  😭 this bring back memories
+2022-04-16T21:46:47Z: CHRCTER ADDED  [ 2862314818] raratheman000        (-23472.3,   -27.3,  2450.9)
+2022-04-16T21:46:58Z: PLAYER CHATTED [ 2862314818] raratheman000        (-23468.8,   -27.0,  2464.2)
+  I was in a rollor.cos:fly
+2022-04-16T21:49:05Z: CHRCTER ADDED  [ 2862314818] raratheman000        (-23472.3,   -27.3,  2450.9)
+2022-04-16T21:49:06Z: PLAYER REMOVED [ 2862314818] raratheman000
+2022-04-16T21:51:22Z: CHRCTER ADDED  [    1630228] VisualPlugin         (-27723.1,   -30.3,  5296.8)
+2022-04-16T21:51:25Z: PLAYER REMOVED [    1630228] VisualPlugin
+2022-04-16T21:51:25Z: PLAYER REMOVED [ 3060900003] lgh0416
+2022-04-16T21:51:25Z: CHAT STREAM SUCCESSFULLY ENDED

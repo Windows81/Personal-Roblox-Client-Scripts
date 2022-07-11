@@ -1,0 +1,115 @@
+[ 4893559188 - 0116a677-8e6d-4ba6-ae93-3e5c6e1b904f] F3X Building !
+2022-03-05T22:30:07Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-05T22:30:08Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 2750698288] Alexboymepoop
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 1016610101] BabyCharlesLo
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 2748023803] MayorofDreamcity
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 1231477761] peter6monthsold
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 1248786061] thomastrain673
+2022-03-05T22:30:08Z: PLAYER ADDED   [ 2392618215] Mrguyguy5
+2022-03-05T22:30:30Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  258.8,   199.2,  -616.3)
+  heres the show
+2022-03-05T22:30:47Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  259.0,   199.2,  -620.2)
+  we are all begin
+2022-03-05T22:30:51Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  259.0,   199.2,  -620.2)
+  with
+2022-03-05T22:30:54Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  259.0,   199.2,  -620.2)
+  tommy
+2022-03-05T22:31:20Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  263.1,   199.2,  -606.6)
+  I can’t do it
+2022-03-05T22:31:26Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  242.6,   194.7,  -604.8)
+  oh
+2022-03-05T22:31:28Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  251.6,   194.7,  -569.0)
+  Is it being so hard to me
+2022-03-05T22:31:38Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  263.2,   199.2,  -606.9)
+  k
+2022-03-05T22:31:42Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  262.6,   199.2,  -608.4)
+  here is tommy
+2022-03-05T22:32:04Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  257.9,   194.7,  -596.5)
+  hi guys im tommy the show train
+2022-03-05T22:32:17Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.2,   199.2,  -618.4)
+  see
+2022-03-05T22:32:42Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.8,   199.2,  -620.7)
+  in the show
+2022-03-05T22:32:50Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.8,   199.2,  -620.7)
+  you will see him tomorrow
+2022-03-05T22:32:58Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  257.9,   194.7,  -596.5)
+  bye guys
+2022-03-05T22:33:04Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  257.9,   194.7,  -596.5)
+  *train sounds*
+2022-03-05T22:33:14Z: PLAYER ADDED   [ 1169584962] redboyyan
+2022-03-05T22:33:21Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  268.3,   194.7,  -586.3)
+  I can’t do it I’m trying to do it
+2022-03-05T22:33:26Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  227.9,   194.7,  -598.0)
+  how
+2022-03-05T22:33:33Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  227.9,   194.7,  -598.0)
+  the id code
+2022-03-05T22:34:09Z: PLAYER ADDED   [ 3341088753] Nonyowo1238
+2022-03-05T22:34:22Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  256.9,   199.2,  -620.1)
+  yo stop
+2022-03-05T22:34:24Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  200.4,   194.7,  -591.1)
+  #########################
+2022-03-05T22:34:30Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  230.6,   194.7,  -588.0)
+  we made a show
+2022-03-05T22:34:38Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  263.9,   199.2,  -617.6)
+  redboy
+2022-03-05T22:34:40Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  263.4,   199.2,  -606.2)
+  did it
+2022-03-05T22:34:45Z: PLAYER ADDED   [  405704433] migordo12
+2022-03-05T22:34:48Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  250.4,   194.7,  -597.0)
+  yeah we did it
+2022-03-05T22:34:51Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  255.3,   194.7,  -598.1)
+  he put fire
+2022-03-05T22:34:56Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  264.8,   195.9,  -599.7)
+  Welp I can’t do anything
+2022-03-05T22:35:00Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  256.0,   194.7,  -598.3)
+  it was redboy
+2022-03-05T22:35:06Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  258.9,   199.2,  -614.9)
+  RED BOY
+2022-03-05T22:35:15Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  248.9,   194.8,  -595.3)
+  where is he
+2022-03-05T22:35:21Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  240.9,   194.7,  -597.8)
+  by the train
+2022-03-05T22:35:42Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  161.2,   194.7,  -588.3)
+  there he is
+2022-03-05T22:35:46Z: PLAYER REMOVED [ 3341088753] Nonyowo1238
+2022-03-05T22:35:55Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (   69.8,   194.7,  -645.9)
+  we got him
+2022-03-05T22:36:11Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  143.7,   194.7,  -602.2)
+  yep
+2022-03-05T22:36:53Z: PLAYER ADDED   [   86551179] up3up4
+2022-03-05T22:37:00Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  263.4,   199.2,  -622.4)
+  reset
+2022-03-05T22:37:06Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  260.9,   199.2,  -618.8)
+  now
+2022-03-05T22:37:14Z: CHRCTER ADDED  [ 1169584962] redboyyan            (  376.4,   195.7,  -592.7)
+2022-03-05T22:37:14Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  260.9,   199.2,  -618.8)
+  no
+2022-03-05T22:37:18Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  260.9,   199.2,  -618.8)
+  reset it
+2022-03-05T22:37:19Z: PLAYER CHATTED [ 2392618215] Mrguyguy5            (  296.2,   194.7,  -582.7)
+  EXPUNGE 
+2022-03-05T22:37:38Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.5,   199.2,  -614.7)
+  delete 
+2022-03-05T22:37:41Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.6,   199.2,  -611.1)
+  now
+2022-03-05T22:37:47Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  264.6,   199.2,  -611.1)
+  are no show
+2022-03-05T22:39:01Z: PLAYER REMOVED [ 1016610101] BabyCharlesLo
+2022-03-05T22:39:47Z: PLAYER CHATTED [    1630228] VisualPlugin         (  282.1,   194.7,  -554.5)
+  20
+2022-03-05T22:39:54Z: PLAYER CHATTED [  405704433] migordo12            (  322.2,   194.7,  -633.3)
+  what
+2022-03-05T22:39:58Z: PLAYER CHATTED [ 1169584962] redboyyan            (  320.0,   194.7,  -630.4)
+  i have headles
+2022-03-05T22:40:31Z: PLAYER CHATTED [  405704433] migordo12            (  345.0,   194.7,  -603.7)
+  headless is cringe to me
+2022-03-05T22:40:40Z: PLAYER CHATTED [ 1169584962] redboyyan            (  342.8,   194.7,  -607.7)
+  neh its not
+2022-03-05T22:40:43Z: PLAYER ADDED   [ 1794610486] 99kEmxx
+2022-03-05T22:40:50Z: CHRCTER ADDED  [  405704433] migordo12            (  370.1,   195.7,  -592.8)
+2022-03-05T22:40:54Z: PLAYER CHATTED [ 1169584962] redboyyan            (  380.7,   194.7,  -557.3)
+  i reedemed 25 cards robux.
+2022-03-05T22:41:24Z: PLAYER ADDED   [ 2555380984] xxx3million
+2022-03-05T22:41:26Z: PLAYER CHATTED [ 1169584962] redboyyan            (  379.5,   194.7,  -549.7)
+  dont remove my ########

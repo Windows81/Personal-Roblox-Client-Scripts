@@ -1,0 +1,289 @@
+[ 4893559188 - 0116a677-8e6d-4ba6-ae93-3e5c6e1b904f] F3X Building !
+2022-03-05T22:20:26Z: CHAT STREAM SUCCESSFULLY STARTED
+2022-03-05T22:20:27Z: PLAYER ADDED   [    1630228] VisualPlugin
+2022-03-05T22:20:27Z: PLAYER ADDED   [ 1248786061] thomastrain673
+2022-03-05T22:20:27Z: PLAYER ADDED   [ 2750698288] Alexboymepoop
+2022-03-05T22:20:27Z: PLAYER ADDED   [ 1483080392] god65177
+2022-03-05T22:20:27Z: PLAYER ADDED   [ 2392618215] Mrguyguy5
+2022-03-05T22:20:41Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  299.0,   195.2,  -545.8)
+  your back
+2022-03-05T22:20:49Z: PLAYER CHATTED [ 2392618215] Mrguyguy5            (  308.3,   194.7,  -566.7)
+  hi
+2022-03-05T22:20:52Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  303.5,   195.2,  -562.9)
+  hello
+2022-03-05T22:20:54Z: PLAYER ADDED   [ 1231477761] peter6monthsold
+2022-03-05T22:20:59Z: PLAYER REMOVED [ 1483080392] god65177
+2022-03-05T22:21:13Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  382.9,   194.7,  -577.4)
+  :ff
+2022-03-05T22:21:14Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  303.3,   195.2,  -563.0)
+  are you the guy who made a show
+2022-03-05T22:21:20Z: PLAYER CHATTED [ 2392618215] Mrguyguy5            (  308.3,   194.7,  -566.7)
+  yes
+2022-03-05T22:21:22Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  303.3,   195.2,  -563.0)
+  oh
+2022-03-05T22:21:23Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  362.5,   194.7,  -572.7)
+  ;ff
+2022-03-05T22:21:27Z: PLAYER CHATTED [ 2392618215] Mrguyguy5            (  308.3,   194.7,  -566.7)
+  hmm
+2022-03-05T22:21:29Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  303.3,   195.2,  -563.0)
+  lets make a show
+2022-03-05T22:21:38Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  329.6,   194.7,  -571.2)
+  ;fly
+2022-03-05T22:21:45Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  329.4,   194.7,  -565.5)
+  Hello
+2022-03-05T22:21:49Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  298.1,   194.7,  -577.9)
+  hello
+2022-03-05T22:21:57Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  317.7,   194.7,  -572.7)
+  I had to join back
+2022-03-05T22:21:58Z: PLAYER REMOVED [ 1231477761] peter6monthsold
+2022-03-05T22:22:00Z: PLAYER ADDED   [ 1231477761] peter6monthsold
+2022-03-05T22:22:01Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  283.6,   194.7,  -596.5)
+  ok
+2022-03-05T22:22:11Z: PLAYER CHATTED [ 1231477761] peter6monthsold      (  318.3,   194.7,  -594.3)
+  Me back
+2022-03-05T22:22:22Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  280.7,   194.7,  -593.2)
+  lets see how do we make a show
+2022-03-05T22:22:31Z: PLAYER ADDED   [ 2682998688] UwUBroJulian
+2022-03-05T22:22:38Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  280.5,   194.7,  -594.0)
+  show
+2022-03-05T22:22:52Z: PLAYER CHATTED [ 1248786061] thomastrain673       (  275.8,   194.7,  -599.0)
+  oh yeah
+2022-03-05T22:23:25Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:27Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:23:29Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:29Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:31Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:23:31Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:23:33Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:33Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:33Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:35Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:35Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:23:35Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:37Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:37Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:37Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:37Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:39Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:39Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:23:39Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:23:39Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:41Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:41Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:41Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:41Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:42Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:23:43Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:23:43Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:23:43Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:43Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:23:44Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:45Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:45Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:45Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:45Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:45Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:46Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:46Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:46Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:46Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:46Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:23:47Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:23:48Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:48Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:23:48Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:48Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:48Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:49Z: thomastrain673 has cloned 2 parts.
+2022-03-05T22:23:49Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:50Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:50Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:50Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:50Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:50Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:23:51Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:51Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:23:52Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:52Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:23:52Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:23:52Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:23:52Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:53Z: Mrguyguy5 has made a new part.
+2022-03-05T22:23:53Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:53Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:54Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:23:54Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:54Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:54Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:54Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:55Z: PLAYER REMOVED [ 1231477761] peter6monthsold
+2022-03-05T22:23:55Z: thomastrain673 has moved 2 parts.
+2022-03-05T22:23:55Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:55Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:23:55Z: thomastrain673 has cloned 2 parts.
+2022-03-05T22:23:56Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:56Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:56Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:56Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:23:56Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:56Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:56Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:56Z: PLAYER ADDED   [ 1231477761] peter6monthsold
+2022-03-05T22:23:57Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:23:57Z: PLAYER ADDED   [ 1016610101] BabyCharlesLo
+2022-03-05T22:23:58Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:58Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:23:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:58Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:23:58Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:23:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:58Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:23:59Z: peter6monthsold has joined the server.
+2022-03-05T22:24:00Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:00Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:24:00Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:00Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:00Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:24:00Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:24:00Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:00Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:01Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:01Z: peter6monthsold has left the server.
+2022-03-05T22:24:02Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:02Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:02Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:24:02Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:02Z: thomastrain673 has made a new part.
+2022-03-05T22:24:02Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:02Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:02Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:02Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:03Z: BabyCharlesLo has joined the server.
+2022-03-05T22:24:03Z: Mrguyguy5 has made a new part.
+2022-03-05T22:24:04Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:04Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:24:04Z: peter6monthsold has made a new part.
+2022-03-05T22:24:04Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:04Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:04Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:04Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:24:04Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:05Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:05Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:05Z: thomastrain673 has moved 2 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:06Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:06Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:06Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:07Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:07Z: peter6monthsold has joined the server.
+2022-03-05T22:24:07Z: thomastrain673 has cloned 2 parts.
+2022-03-05T22:24:08Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:24:08Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has changed the mesh settings of 1 parts.
+2022-03-05T22:24:08Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:08Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:08Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:08Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:09Z: thomastrain673 has cloned 4 parts.
+2022-03-05T22:24:09Z: BabyCharlesLo has joined the server.
+2022-03-05T22:24:09Z: peter6monthsold has left the server.
+2022-03-05T22:24:09Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:10Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:10Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:10Z: Alexboymepoop has moved 2 parts.
+2022-03-05T22:24:10Z: thomastrain673 has made a new part.
+2022-03-05T22:24:10Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:10Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:10Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:10Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:11Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:11Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:11Z: Mrguyguy5 has made a new part.
+2022-03-05T22:24:11Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:11Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  282.3,   194.7,  -560.6)
+  hey
+2022-03-05T22:24:12Z: thomastrain673 has moved 1 parts.
+2022-03-05T22:24:12Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:24:12Z: UwUBroJulian has joined the server.
+2022-03-05T22:24:12Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:12Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:12Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:12Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:12Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:13Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:13Z: thomastrain673 has moved 4 parts.
+2022-03-05T22:24:13Z: peter6monthsold has joined the server.
+2022-03-05T22:24:13Z: thomastrain673 has moved 2 parts.
+2022-03-05T22:24:13Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:14Z: thomastrain673 has cloned 2 parts.
+2022-03-05T22:24:14Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:14Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:14Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:14Z: Mrguyguy5 has made a new part.
+2022-03-05T22:24:14Z: peter6monthsold has made a new part.
+2022-03-05T22:24:14Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:14Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:14Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:24:14Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:15Z: BabyCharlesLo has joined the server.
+2022-03-05T22:24:15Z: Mrguyguy5 has changed the mesh settings of 1 parts.
+2022-03-05T22:24:15Z: peter6monthsold has left the server.
+2022-03-05T22:24:16Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:16Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:16Z: thomastrain673 has cloned 1 parts.
+2022-03-05T22:24:16Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:16Z: PLAYER CHATTED [ 1016610101] BabyCharlesLo        (  282.3,   194.7,  -560.6)
+  it's me cash
+2022-03-05T22:24:16Z: Mrguyguy5 has made a new part.
+2022-03-05T22:24:16Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:16Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:16Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:16Z: thomastrain673 has made a new part.
+2022-03-05T22:24:16Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:17Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:17Z: thomastrain673 has cloned 4 parts.
+2022-03-05T22:24:17Z: Mrguyguy5 has made a new part.
+2022-03-05T22:24:17Z: thomastrain673 has cloned 8 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:18Z: peter6monthsold has removed 1 parts.
+2022-03-05T22:24:18Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has changed the mesh settings of 1 parts.
+2022-03-05T22:24:18Z: thomastrain673 has changed the material settings of 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:18Z: Alexboymepoop has moved 2 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:18Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:22Z: peter6monthsold has joined the server.
+2022-03-05T22:24:22Z: thomastrain673 has painted 1 parts.
+2022-03-05T22:24:22Z: thomastrain673 has moved 2 parts.
+2022-03-05T22:24:22Z: thomastrain673 has moved 4 parts.
+2022-03-05T22:24:22Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:22Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:22Z: peter6monthsold has resized 1 parts.
+2022-03-05T22:24:22Z: thomastrain673 has resized 1 parts.
+2022-03-05T22:24:22Z: Mrguyguy5 has moved 1 parts.
+2022-03-05T22:24:22Z: UwUBroJulian has joined the server.
+2022-03-05T22:24:22Z: Alexboymepoop has moved 1 parts.
+2022-03-05T22:24:22Z: Mrguyguy5 has resized 1 parts.
+2022-03-05T22:24:22Z: peter6monthsold has made a new part.
+2022-03-05T22:24:22Z: thomastrain673 has painted 1 parts.
