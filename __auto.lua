@@ -1,4 +1,5 @@
-wait(5)
+-- Have a script in your 'autoexec' directory execute this one:
+-- loadfile'__auto.lua'()
 local function gsp(n, ...)
 	local fs
 	local l = n:lower()
@@ -45,7 +46,8 @@ local function e(n, ...)
 end
 
 getgenv().getscriptpath = gsp
-getgenv().exec = e
+getgenv().rsexec = e
+getgenv().E = e
 
 for _, n in next, {
 	-- 'input.lua',

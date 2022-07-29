@@ -1,1 +1,1 @@
-exec('fly', 420, true, 1e8, 1e8, 3e7, 0)
+rsexec('fly', 420, true, 1e8, 1e8, 3e7, 0)

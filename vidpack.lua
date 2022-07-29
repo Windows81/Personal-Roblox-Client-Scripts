@@ -1,3 +1,3 @@
-exec'fly'
-exec'freecam'
-exec('hide-all', true)
+rsexec'fly'
+rsexec'freecam'
+rsexec('hide-all', true)

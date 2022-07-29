@@ -9,7 +9,7 @@ function hex(c)
 	return string.format('#%02X%02X%02X', 255 * c.r, 255 * c.g, 255 * c.b)
 end
 
-exec(
+rsexec(
 	'time', '%H:%M:%S', function(_, ts)
 		local t = _G.pls_rmt
 		if t.booth then
@@ -40,6 +40,6 @@ metatable.__namecall = newcclosure(
 setreadonly(metatable, true)
 print('FUNCTIONS HÒÓKED UP')
 
-exec'fly'
-exec'freecam'
--- exec'hide-all'
+rsexec'fly'
+rsexec'freecam'
+-- rsexec'hide-all'

@@ -1,4 +1,4 @@
-exec(
+rsexec(
 	'fly-points', {
 		CFrame.new(-189, 194, 1020),
 		{CFrame.new(-1800, 4.5, -780), 13},
