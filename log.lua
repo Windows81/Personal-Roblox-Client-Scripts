@@ -6,13 +6,15 @@
 	If set to true or not passed in, writes to a file to path formatted as "./logs/%011(placeId) %Y-%m-%d %H%M%S.txt".
 ]==] --
 --
-local DEFAULT_WEBHOOK =
-	[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
+local DEFAULT_WEBHOOK = nil
+--[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
 
 local args = _G.EXEC_ARGS or {}
 local WEBHOOK = args[1]
 local FILEPATH = args[2]
 local APPENDS_INSTEAD_OF_WRITES = args[3]
+local WRITES_FILE_AT_ONCE = args[4]
+local TICK_DELAY = args[5]
 
 if WEBHOOK == nil then WEBHOOK = DEFAULT_WEBHOOK end
 if WEBHOOK then
@@ -21,11 +23,14 @@ if WEBHOOK then
 	end
 	WEBHOOK = 'https://discord.com/api/webhooks/' .. WEBHOOK
 end
+
 if APPENDS_INSTEAD_OF_WRITES == nil then APPENDS_INSTEAD_OF_WRITES = true end
+if WRITES_FILE_AT_ONCE == nil then WRITES_FILE_AT_ONCE = true end
+if TICK_DELAY == nil then TICK_DELAY = 11 end
 
 local pls_id = game.PlaceId
 local svr_id = #game.JobId > 0 and game.JobId or 'PLAYTEST'
-local usr_id = game.Players.LocalPlayer.UserId
+local lp_uid = game.Players.LocalPlayer.UserId
 local enabled = true
 
 local http_req_hook
@@ -41,11 +46,11 @@ end
 local pls_name = get_pls_name(pls_id)
 if not pls_name then
 	pls_name = ''
-	spawn(
+	task.spawn(
 		function()
 			local n
 			repeat
-				wait(3)
+				task.wait(3)
 				n = get_pls_name(pls_id)
 			until n
 			pls_name = n
@@ -53,9 +58,9 @@ if not pls_name then
 end
 
 local HEADER = string.format(
-	'[%11s] : [%11s] %s - %s', usr_id, pls_id, pls_name, svr_id)
-_G.wh_log_snip = HEADER
+	'[%11s] : [%11s] %s - %s', lp_uid, pls_id, pls_name, svr_id)
 _G.wh_log_long = HEADER
+_G.wh_log_snip = ''
 
 if type(FILEPATH) ~= 'string' and FILEPATH ~= false then
 	FILEPATH = string.format(
@@ -67,9 +72,9 @@ end
 function wh_send(txt)
 	if not WEBHOOK then return end
 	while not http_req_hook do
-		http_req_hook = request or syn.request
+		http_req_hook = syn and syn.request or request
 		if http_req_hook then break end
-		wait(1)
+		task.wait(TICK_DELAY)
 	end
 	return http_req_hook{
 		Url = WEBHOOK,
@@ -81,30 +86,41 @@ function wh_send(txt)
 	}
 end
 
-local last
+local last_tick
 function _G.wh_log(ln, frc, ts)
 	if not enabled then return end
 	ln = string.format('%s: %s', timestamp(ts), ln)
 	_G.wh_log_snip = _G.wh_log_snip .. '\n' .. ln
-	if APPENDS_INSTEAD_OF_WRITES then
-		if FILEPATH then appendfile(FILEPATH, '\n' .. ln) end
-	else
-		_G.wh_log_long = _G.wh_log_long .. '\n' .. ln
-		if FILEPATH then writefile(FILEPATH, _G.wh_log_long) end
+	if WRITES_FILE_AT_ONCE then
+		if APPENDS_INSTEAD_OF_WRITES then
+			if FILEPATH then appendfile(FILEPATH, '\n' .. ln) end
+		else
+			_G.wh_log_long = _G.wh_log_long .. '\n' .. ln
+			if FILEPATH then writefile(FILEPATH, _G.wh_log_long) end
+		end
 	end
-	local t = tick()
-	last = t
 
-	local log = true
+	local do_log = true
+	local curr_tick = tick()
+	last_tick = curr_tick
 	if not frc and #_G.wh_log_snip < 0x700 then
-		wait(2)
-		log = last == t
+		task.wait(2)
+		if last_tick ~= curr_tick then do_log = false end
 	end
 
+	-- '_G.wh_log_snip' is cleared and swapped with 'snip' first since 'wh_send' can block.
 	local snip = _G.wh_log_snip
-	if log and snip:find '\n' then
-		_G.wh_log_snip = HEADER
-		wh_send(snip)
+	if do_log and snip:find '\n' then
+		_G.wh_log_snip = ''
+		wh_send(HEADER .. snip)
+		if not WRITES_FILE_AT_ONCE then
+			if APPENDS_INSTEAD_OF_WRITES then
+				if FILEPATH then appendfile(FILEPATH, snip) end
+			else
+				_G.wh_log_long = _G.wh_log_long .. '\n' .. snip
+				if FILEPATH then writefile(FILEPATH, _G.wh_log_long) end
+			end
+		end
 	end
 end
 
@@ -113,6 +129,7 @@ function plr_chat(pl, msg)
 	local t = tick()
 	local uid = pl.UserId
 	local d = chat_dupes[uid]
+	if uid == lp_uid and t < d.t + 0.5 then return end
 	if d and d.m == msg and t < d.t + 1 then return end
 	chat_dupes[uid] = {m = msg, t = t}
 
@@ -143,7 +160,7 @@ end
 function plr_leave(pl)
 	_G.wh_log(
 		string.format('PLAYER REMOVED [%11s] %s', pl.UserId, pl.Name),
-			pl.UserId == usr_id)
+			pl.UserId == lp_uid)
 end
 
 function plr_spawn(pl, ch)
@@ -159,9 +176,8 @@ local tcs = game:GetService 'TextChatService'
 local function tcs_received(textChannel)
 	textChannel.MessageReceived:Connect(
 		function(packet)
-			local p_uid = packet.TextSource.UserId
-			if p_uid == usr_id then return end
-			local pl = plr_from_id_hook(game.Players, p_uid)
+			local uid = packet.TextSource.UserId
+			local pl = plr_from_id_hook(game.Players, uid)
 			local msg = packet.Text
 			plr_chat(pl, msg)
 		end)
@@ -174,9 +190,9 @@ _G.wh_log_evts = {
 	game.Players.PlayerRemoving:Connect(plr_leave),
 	dsce and dsce.OnMessageDoneFiltering.OnClientEvent:Connect(
 		function(packet)
-			local p_uid = packet.SpeakerUserId
-			if p_uid == usr_id then return end
-			local pl = plr_from_id_hook(game.Players, p_uid)
+			local uid = packet.SpeakerUserId
+			if uid == lp_uid then return end
+			local pl = plr_from_id_hook(game.Players, uid)
 			local msg = packet.Message
 			plr_chat(pl, msg)
 		end),
@@ -194,9 +210,7 @@ _G.wh_log_evts = {
 }
 
 _G.wh_log('CHAT STREAM SUCCESSFULLY STARTED', true)
-for _, player in pairs(game.Players:GetChildren()) do
-	spawn(function() plr_add(player) end)
-end
-for _, tc in pairs(tcs:GetDescendants()) do
+for _, pl in next, game.Players:children() do task.spawn(plr_add, pl) end
+for _, tc in next, tcs:GetDescendants() do
 	if tc:IsA 'TextChannel' then tcs_received(tc) end
 end

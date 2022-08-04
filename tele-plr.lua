@@ -31,5 +31,5 @@ for _, p in next, game.Players:children() do
 end
 
 if not to_pl then return end
-pl.Character:SetPrimaryPartCFrame(to_pl.Character:GetPrimaryPartCFrame())
+pl.Character:SetPrimaryPartCFrame(to_pl.Character.Torso.CFrame)
 print(string.format('TELEPORT TO %s', to_pl.Name))

@@ -23,7 +23,7 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 		end
 		local r = mouse.UnitRay
 		local orig = r.Origin
-		local dir = r.Direction * 5e3
+		local dir = r.Direction * DIST_PER_RAYCAST
 
 		for _ = 0, TOTAL_DIST, DIST_PER_RAYCAST do
 			rp.FilterDescendantsInstances = bl
@@ -32,7 +32,7 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 			if res then
 				local d
 				local n = res.Normal.Unit
-				if n.Y > .25 then
+				if n.Y > 0.25 then
 					local h = ch:FindFirstChildWhichIsA 'Humanoid'
 					d = h and h.HipHeight or 0
 					if d == 0 then d = 5 end

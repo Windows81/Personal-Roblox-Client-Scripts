@@ -3,7 +3,7 @@
 	The domain of objects to which you can teleport.
 
 [2] - number | nil
-	The number of seconds to wait before teleporting to the next object; defaults to wait until next click.
+	The number of seconds to task.wait before teleporting to the next object; defaults to task.wait until next click.
 ]==] --
 --
 local t = tick()
@@ -16,7 +16,7 @@ local l = #range
 
 local function w()
 	if args[2] then
-		wait(args[2])
+		task.wait(args[2])
 	else
 		m.Button1Up:Wait()
 	end

@@ -17,7 +17,7 @@ function slideshow_once()
 	cc.CameraType = 'Scriptable'
 	for _, g in next, _G.cfs do
 		cc.CFrame = g
-		wait(4.56)
+		task.wait(4.56)
 	end
 	cc.CameraType = 'Custom'
 end
@@ -30,7 +30,7 @@ function slideshow_loop()
 		while _G.looping do
 			for _, g in next, _G.cfs do
 				cc.CFrame = g
-				wait(4.56)
+				task.wait(4.56)
 			end
 		end
 		cc.CameraType = 'Custom'

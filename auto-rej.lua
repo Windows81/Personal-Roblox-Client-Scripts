@@ -27,7 +27,7 @@ gs.ErrorMessageChanged:connect(
 		if errorType == Enum.ConnectionError.DisconnectErrors and
 			not reconnectDisabledList[errorCode] then
 			print('Disconnect registered!')
-			while wait(5) do
+			while task.wait(5) do
 				game:GetService 'TeleportService':TeleportToPlaceInstance(
 					game.PlaceId, game.JobId)
 			end

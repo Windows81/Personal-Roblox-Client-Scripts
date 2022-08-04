@@ -13,13 +13,14 @@ Calculates the current velocity of the local character in studs per second.
 --
 local args = _G.EXEC_ARGS or {}
 local output = args[2] or print
+local stringify = args[3] or false
 
 local ch = game.Players.LocalPlayer.Character
 if not ch then return end
 local p = ch.PrimaryPart
 
 local p1 = p.Position
-local d = wait(args[1] or 0)
+local d = task.wait(args[1] or 0)
 local p2 = p.Position
 
 local v = (p2 - p1).Magnitude / d

@@ -20,7 +20,7 @@ pl:GetPropertyChangedSignal 'Team':Connect(
 		end
 	end)
 
-wait(3)
+task.wait(3)
 r.AuditionerRemotes.RequestSolo:FireServer(pl)
 
 -- r.HostRemotes.ChangeMap:FireServer('Piano', 'Kill Performers')
@@ -30,13 +30,13 @@ r.AuditionerRemotes.RequestSolo:FireServer(pl)
 local pl = game.Players.LocalPlayer
 local r = game.ReplicatedStorage.Remotes
 r.HostRemotes.ChangeMap:FireServer('Piano', 'Kill Performers')
-wait()
+task.wait()
 r.HostRemotes.OpenAuditionerDoor:FireServer()
 rsexec('chat',[[Greetings.  You are in the benignant prescense of Respected Leader VisualPlugin.]])
-wait(7)
+task.wait(7)
 rsexec('chat',[[Your appearance on this stage necessitates a public incantation to fortify the Blessings of Respected Leader VisualPlugin.]])
-wait(7)
+task.wait(7)
 rsexec('chat',[[You are to recite the following phrase; failure to do so will result in an immediate kill.]])
-wait(7)
+task.wait(7)
 rsexec('chat',[["I GRACEFULLY INVOKE THE BLESSING OF SUPREME RESPECTED LEADER VISUALPLUGIN, MOST ADEPT, FOR THE EXTENT OF HIS PRAGMATIC CLEVERNESS AND EXCELLENT ACUITY IS INNUMERABLE!"]])
 ]=]

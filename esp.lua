@@ -13,27 +13,37 @@ Replace "nil" with "true" to enable the setting, or "false" to disable the setti
 If you do not change "nil", the defaults will take place.
 ]] --
 --
+local args = _G.EXEC_ARGS or {}
+local function arg_sel(n, d)
+	local v = type(args[1]) == 'table' and args[1][n] or args[n]
+	return v == nil and d or v
+end
+
+local ENABLE = true
+if _G.ESP_Settings then ENABLE = not _G.ESP_Settings.Enabled end
+
 _G.ESP_Settings = {
-	Enabled = true,
+	Enabled = arg_sel(1, ENABLE),
 
-	ShowQuad = true,
-	ShowName = true,
-	ShowDistance = true,
-	ShowTracer = false,
+	ShowQuad = arg_sel(2, true),
+	ShowName = arg_sel(3, true),
+	ShowDistance = arg_sel(4, true),
+	ShowTracer = arg_sel(5, false),
 
-	BoxShift = CFrame.new(0, -1.5, 0),
-	BoxSize = Vector3.new(4, 6, 0),
-	FaceCamera = false,
-	Thickness = 2,
-	AllowUpdates = true,
-	AttachShift = 1,
-	ShowYourColour = true,
-	Players = true,
-	GetColour = function(box)
-		local p = box.Player
-		if p and p.Team then return p.Team.TeamColor.Color end
-		return Color3.fromRGB(255, 170, 0)
-	end,
+	BoxShift = arg_sel(6, CFrame.new(0, -1.5, 0)),
+	BoxSize = arg_sel(7, Vector3.new(4, 6, 0)),
+	FaceCamera = arg_sel(8, false),
+	Thickness = arg_sel(9, 2),
+	AllowUpdates = arg_sel(10, true),
+	AttachShift = arg_sel(11, 1),
+	ShowYourColour = arg_sel(12, true),
+	Players = arg_sel(13, true),
+	GetColour = arg_sel(
+		14, function(box)
+			local p = box.Player
+			if p and p.Team then return p.Team.TeamColor.Color end
+			return Color3.fromRGB(255, 170, 0)
+		end),
 }
 
 function sel(a, b) return a == nil and b or a end
@@ -277,7 +287,7 @@ function plr_add(p)
 		end
 	end
 	table.insert(_G.ESP_Events, p.CharacterAdded:Connect(chr_add))
-	if p.Character then spawn(function() chr_add(p.Character) end) end
+	if p.Character then task.spawn(function() chr_add(p.Character) end) end
 end
 
 local currEnabled = _G.ESP_Settings.Enabled

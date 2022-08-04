@@ -1,5 +1,33 @@
 {
 	"robloxLsp.diagnostics.globals": [
-		"exec"
+		"exec",
+		"appendfile",
+		"writefile",
+		"getgenv",
+		"getrenv",
+		"loadfile",
+		"isfile",
+		"rconsoleinput",
+		"request",
+		"setreadonly",
+		"getrawmetatable",
+		"getconnections",
+		"rsexec",
+		"getsenv",
+		"readfile",
+		"mouse1click",
+		"mousemoveabs",
+		"newcclosure",
+		"getnamecallmethod",
+		"getscriptpath",
+		"syn",
+		"makefolder",
+		"delfile",
+		"Drawing",
+		"rconsoleprint",
+		"getinstances",
+		"original_function",
+		"setclipboard",
+		"hookfunction"
 	]
 }

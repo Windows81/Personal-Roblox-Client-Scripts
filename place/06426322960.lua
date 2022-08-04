@@ -123,6 +123,6 @@ while _G.pnt_l do
 				['frame'] = 'Tree',
 			})
 	end
-	wait(1)
+	task.wait(1)
 end
 e:Disconnect()

@@ -8,7 +8,7 @@ CONTINUE = false
 
 if _G.h then
 	_G.h = nil
-	wait(2)
+	task.wait(2)
 end
 
 url =
@@ -20,7 +20,7 @@ _G.h = {
 	['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
 	['x-youtube-client-name'] = '1',
 	['x-youtube-client-version'] = '2.20210128.02.00',
-	['Referer'] = 'https://www.youtube.com/live_chat?is_popout=1&v=' .. VIDEO_ID
+	['Referer'] = 'https://www.youtube.com/live_chat?is_popout=1&v=' .. VIDEO_ID,
 }
 _G.d = CONTINUE and _G.d or {
 	context = {
@@ -30,20 +30,20 @@ _G.d = CONTINUE and _G.d or {
 			clientVersion = '1.20211101.00.00',
 			originalUrl = 'https://www.youtube.com/live_chat?is_popout=1&v=' .. VIDEO_ID,
 			mainAppWebInfo = {
-				graftUrl = 'https://www.youtube.com/live_chat?is_popout=1&v=' .. VIDEO_ID
-			}
-		}
+				graftUrl = 'https://www.youtube.com/live_chat?is_popout=1&v=' .. VIDEO_ID,
+			},
+		},
 	},
-	continuation = CONTINUATION
+	continuation = CONTINUATION,
 }
 
 local C = 0
 while _G.h do
-	_G.r = request {
+	_G.r = request{
 		Url = url,
 		Headers = _G.h,
 		Method = 'POST',
-		Body = game.HttpService:JSONEncode(_G.d)
+		Body = game.HttpService:JSONEncode(_G.d),
 	}
 	_G.b = game.HttpService:JSONDecode(_G.r.Body)
 	local c = _G.b.continuationContents.liveChatContinuation.continuations[1]
@@ -64,5 +64,5 @@ while _G.h do
 			end
 		end
 	end
-	if C > 2 then wait(4.56) end
+	if C > 2 then task.wait(4.56) end
 end

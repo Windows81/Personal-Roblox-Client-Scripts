@@ -1,5 +1,5 @@
 -- https://codegolf.stackexchange.com/a/74685
-local env = getgenv()
+local env = getrenv()
 env.chat = function(input)
 	local msg = ''
 	for x in input:gmatch('%w+') do

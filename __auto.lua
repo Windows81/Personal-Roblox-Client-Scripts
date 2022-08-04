@@ -1,4 +1,4 @@
--- Have a script in your 'autoexec' directory execute this one:
+-- Have another script in your 'autoexec' directory execute this:
 -- loadfile'__auto.lua'()
 local function gsp(n, ...)
 	local fs
@@ -33,9 +33,9 @@ local function gsp(n, ...)
 	for _, f in next, fs do if f and isfile(f) then return f end end
 end
 
-local function e(n, ...)
+local function exc(n, ...)
 	local f = gsp(n, ...)
-	if not f then warn(string.format('SCRIPT AT PATH "%s" DOES NOT EXISTS', n)) end
+	if not f then warn(string.format('SCRIPT AT PATH "%s" DOES NOT EXIST', n)) end
 	_G.EXEC_ARGS = {...}
 	local s, e = pcall(loadfile(f))
 	if not s then warn(e) end
@@ -45,9 +45,10 @@ local function e(n, ...)
 	return unpack(r)
 end
 
-getgenv().getscriptpath = gsp
-getgenv().rsexec = e
-getgenv().E = e
+local env = getrenv()
+env.getscriptpath = gsp
+env.rsexec = exc
+env.E = exc
 
 for _, n in next, {
 	-- 'input.lua',
@@ -57,10 +58,10 @@ for _, n in next, {
 	'click-dist.lua',
 	'tele-key.lua',
 	-- 'auto-rej.lua',
-	'log.lua',
+	-- 'log.lua',
 	-- 'mute.lua',
 	-- 'rspy.lua',
-} do spawn(function() loadfile(n)() end) end
+} do task.spawn(function() loadfile(n)() end) end
 
 local n = ('_%011d.lua'):format(game.PlaceId)
 if isfile(n) then print('LOADFILE FOR PLACE:', pcall(loadfile(n))) end

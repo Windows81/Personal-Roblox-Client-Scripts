@@ -25,4 +25,3 @@ k:Play()
 k:AdjustSpeed(ANIM_SPEED)
 
 _G.EXEC_RETURN = {true}
-end

@@ -1,19 +1,19 @@
 --[[
 	Lua U Remote Spy written by chaserks, refactored by VisualPlugin.
-	Exploits supported: Synapse X, ProtoSmasher, JJSploit (Sirhurt?, Elysian?).
+	Execution environments supported: Synapse X, ProtoSmasher, WeAreDevs (Sirhurt?, Elysian?).
 	Remote calls are printed to the dev console by default (F9 window).
 	To use Synapse's console, change Settings.Output to rconsoleprint.
 ]] --
 local args = _G.EXEC_ARGS or {}
-local function sel(n, d)
+local function arg_sel(n, d)
 	local v = type(args[1]) == 'table' and args[1][n] or args[n]
 	return v == nil and d or v
 end
 
 _G.RSpy_Settings = {
-	ToClientEnabled = sel(2, false), -- Events to the client are logged.
-	ToServerEnabled = sel(1, true), -- Events to the server are logged.
-	Blacklist = sel(
+	ToClientEnabled = arg_sel(2, false), -- Events to the client are logged.
+	ToServerEnabled = arg_sel(1, true), -- Events to the server are logged.
+	Blacklist = arg_sel(
 		8, { -- Ignore remote calls made with these remotes.
 			['.DefaultChatSystemChatEvents.OnMessageDoneFiltering'] = true,
 			['.DefaultChatSystemChatEvents.OnNewSystemMessage'] = true,
@@ -25,13 +25,13 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
 			['.ReplicatedStorage.updstatus'] = true, -- 4628761410
 		}),
-	LineBreak = sel(9, '\n'),
-	BlockBreak = sel(10, '\n\n'),
-	ShowScript = sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
-	ShowReturns = sel(7, true), -- Display what the remote calls return.
-	Output = sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
-	ProtectFunction = sel(4, true), -- Set to false in case RSpy crashes for you with certain server events.
-	NullifyBrokenMethods = sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
+	LineBreak = arg_sel(9, '\n'),
+	BlockBreak = arg_sel(10, '\n\n'),
+	ShowScript = arg_sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
+	ShowReturns = arg_sel(7, true), -- Display what the remote calls return.
+	Output = arg_sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
+	ProtectFunction = arg_sel(4, true), -- Set to false in case RSpy crashes for you with certain server events.
+	NullifyBrokenMethods = arg_sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
 }
 
 local metatable = getrawmetatable(game)

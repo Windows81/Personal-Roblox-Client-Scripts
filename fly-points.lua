@@ -22,18 +22,18 @@ local shuttle = args[6]
 function r_step(rp, p, v)
 	if typeof(v) == 'table' then
 		p.CFrame = v[1]
-		r_wait(rp, p)
+		r_task(rp, p)
 		rp:Abort()
-		wait(v[2])
+		task.wait(v[2])
 		rp:Fire()
 	elseif typeof(v) == 'CFrame' then
 		p.CFrame = v
-		r_wait(rp, p)
+		r_task(rp, p)
 	end
 end
 
-function r_wait(rp, p)
-	delay(.25, function() rp.TargetRadius = tick() % .5 + dist end)
+function r_task(rp, p)
+	task.delay(.25, function() rp.TargetRadius = tick() % .5 + dist end)
 	rp.ReachedTarget:Wait()
 end
 
@@ -78,5 +78,5 @@ _G.rp.ThrustP = 1e6
 _G.rp.TurnP = 5e3
 _G.rp.TurnD = 2e3
 _G.rp.Target = _G.tr
-wait()
+task.wait()
 r_loop(_G.rp, _G.tr)

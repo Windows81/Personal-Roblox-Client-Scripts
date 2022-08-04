@@ -1,4 +1,4 @@
-wait(2)
+task.wait(2)
 local h = {}
 for _, g in next, game.workspace.ShootingTargets:children() do
 	local p = g:findFirstChild 'PrimaryPart'
@@ -24,7 +24,7 @@ while next(h) and _G.aa_loop == t do
 				mousemoveabs(x, y)
 				rs.Heartbeat:Wait()
 				mouse1click()
-				wait(.3)
+				task.wait(.3)
 				h[p] = nil
 				break
 			end

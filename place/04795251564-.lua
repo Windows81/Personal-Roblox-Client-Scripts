@@ -9,7 +9,7 @@ function BLOCK_EXISTS(o) return o and o.Parent end
 
 function CLEAR_BLOCKS() return false end
 
-function WAIT_FOR_BLOCK()
+function task.wait_FOR_BLOCK()
 	local o = game.Workspace['created_blocks'].ChildAdded:Wait()
 	return o:WaitForChild 'Part'.CFrame, o
 end
@@ -47,7 +47,7 @@ function make(cfs, ...)
 	while true do
 		b = true
 		n = n + 1
-		local ocf, o = WAIT_FOR_BLOCK()
+		local ocf, o = task.wait_FOR_BLOCK()
 		local min, mcf
 		for cf in next, cfh do
 			local d = ocf * cf:inverse()
@@ -94,7 +94,7 @@ function reset()
 	end
 	if b then
 		_G.build_last_cleared = nil
-		wait(1)
+		task.wait(1)
 		_G.build_last_cleared = tick()
 	end
 	return b
@@ -281,7 +281,7 @@ function tower(MAT1, MAT2, BASE, FLOORS, SIZE)
 end
 
 clear()
-wait(2)
+task.wait(2)
 
 for a = 0, math.pi * 2 - 1e-2, 2 * math.pi / 7 do
 	tower(

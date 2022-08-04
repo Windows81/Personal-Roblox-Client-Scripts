@@ -1,28 +1,30 @@
 -- Modified from https://pastebin.com/3wrbwSz4
 -- Tested with JJSploit and should work with Synapse X, Protosmasher, etc. (not tested).
 local args = _G.EXEC_ARGS or {}
-local MOVE_KEYS = {
-	[Enum.KeyCode.D] = Vector3.new(01, 0, 0),
-	[Enum.KeyCode.A] = Vector3.new(-1, 0, 0),
-	[Enum.KeyCode.S] = Vector3.new(0, 0, 01),
-	[Enum.KeyCode.W] = Vector3.new(0, 0, -1),
-	[Enum.KeyCode.E] = Vector3.new(0, 1, 0),
-	[Enum.KeyCode.Q] = Vector3.new(0, -1, 0),
-
-	[Enum.KeyCode.Right] = Vector3.new(1, 0, 0),
-	[Enum.KeyCode.Left] = Vector3.new(-1, 0, 0),
-	[Enum.KeyCode.Down] = Vector3.new(0, 0, 1),
-	[Enum.KeyCode.Up] = Vector3.new(0, 0, -1),
-	[Enum.KeyCode.PageUp] = Vector3.new(0, 1, 0),
-	[Enum.KeyCode.PageDown] = Vector3.new(0, -1, 0),
-}
-
-local NORMAL_SPEED = args[1] or 30
-local SPRINT_SPEED = args[2] or 90
+local NORMAL_SPEED = args[1] or 31
+local SPRINT_SPEED = args[2] or 211
 local TOGGLE_KEY = Enum.KeyCode.Comma
 local SPRINT_KEY = Enum.KeyCode.LeftBracket
 local FOV_KEY = Enum.KeyCode.RightBracket
 local SENSITIVITY = Vector2.new(1 / 128, 1 / 128)
+local WASD_MULT = 2
+local ARROW_MULT = 1
+
+local MOVE_KEYS = {
+	[Enum.KeyCode.D] = Vector3.new(WASD_MULT, 0, 0),
+	[Enum.KeyCode.A] = Vector3.new(-WASD_MULT, 0, 0),
+	[Enum.KeyCode.S] = Vector3.new(0, 0, WASD_MULT),
+	[Enum.KeyCode.W] = Vector3.new(0, 0, -WASD_MULT),
+	[Enum.KeyCode.E] = Vector3.new(0, WASD_MULT, 0),
+	[Enum.KeyCode.Q] = Vector3.new(0, -WASD_MULT, 0),
+
+	[Enum.KeyCode.Right] = Vector3.new(ARROW_MULT, 0, 0),
+	[Enum.KeyCode.Left] = Vector3.new(-ARROW_MULT, 0, 0),
+	[Enum.KeyCode.Down] = Vector3.new(0, 0, ARROW_MULT),
+	[Enum.KeyCode.Up] = Vector3.new(0, 0, -ARROW_MULT),
+	[Enum.KeyCode.PageUp] = Vector3.new(0, ARROW_MULT, 0),
+	[Enum.KeyCode.PageDown] = Vector3.new(0, -ARROW_MULT, 0),
+}
 
 local uis = game:GetService 'UserInputService'
 local pl = game.Players.LocalPlayer

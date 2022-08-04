@@ -1,4 +1,4 @@
-wait(2)
+task.wait(2)
 local h = {}
 local pls = game.Players:children()
 for _, p in next, pls do
@@ -6,7 +6,7 @@ for _, p in next, pls do
 		h[p] = p.Character:GetPrimaryPartCFrame()
 	end
 end
-wait()
+task.wait()
 local m, pl = math.huge
 for p in next, h do
 	if p.Character then

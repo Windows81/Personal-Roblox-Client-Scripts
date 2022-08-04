@@ -120,7 +120,7 @@ end
 
 function CLEAR_BLOCKS()
 	game.ReplicatedStorage.Sockets.World.LoadTemplate:FireServer('Scratch')
-	wait(5)
+	task.wait(5)
 	return true
 end
 

@@ -2,7 +2,7 @@
 [1] - {BasePart | CFrame | Vector3 | false} | number
 	The domain of points to which the camera can interpolate.
 	If argument is set to a positive integer, the number of keyframes that are captured by clicking the screen.
-	If entry in table is set to 'false' or 'nil', wait for user click to retrieve current camera CFrame.
+	If entry in table is set to 'false' or 'nil', task.wait for user click to retrieve current camera CFrame.
 
 [2] - number | nil
 	The total duration for the interpolation process.

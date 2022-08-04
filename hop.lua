@@ -18,7 +18,7 @@ local WAIT_ERRORS = {
 
 -- Return nil/false to stop processing, anything else to save as stat and skip to next server.
 local function get_stat()
-	wait(69)
+	task.wait(69)
 	local f = game.CoreGui.RobloxGui.SettingsShield. --
 	SettingsShield.MenuContainer.PageViewClipper.PageView. --
 	PageViewInnerFrame:findFirstChild 'Players'
@@ -105,13 +105,13 @@ local function process_lines(lines)
 			end
 
 			if WAIT_ERRORS[r] then
-				wait(13)
+				task.wait(13)
 			elseif SKIP_ERRORS[r] then
 				table.remove(lines, i)
 				table.remove(lines, i)
 				i = i - 2
 				lines[1] = i
-				wait(2)
+				task.wait(2)
 			end
 		end
 	else

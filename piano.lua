@@ -193,9 +193,12 @@ if SPEED > 0 then
 				if mi <= #mn then keep = true end
 				while mi <= #mn and cdelta[i] >= mn[mi][1] do
 					cdelta[i] = cdelta[i] - mn[mi][1]
-					if not pcall(PLAY_NOTE, mn[mi][2] - 35 + TRANSPOSE) then
-						_G.midi_conn:Disconnect()
-					end
+					task.spawn(
+						function()
+							if not pcall(PLAY_NOTE, mn[mi][2] - 35 + TRANSPOSE) then
+								_G.midi_conn:Disconnect()
+							end
+						end)
 					mi = mi + 1
 				end
 				_G.midi_index[i] = mi

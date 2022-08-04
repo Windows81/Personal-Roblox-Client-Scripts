@@ -1,6 +1,6 @@
 --[==[HELP]==
 [1] - number | nil
-	The number of seconds to wait before the object path is printed; defaults to wait until next click.
+	The number of seconds to task.wait before the object path is printed; defaults to task.wait until next click.
 
 [2] - (s:string|Instance)->() | nil
 	An output function with the full path of the object passed in; default is 'print'.
@@ -32,7 +32,7 @@ local function get_full(o)
 end
 
 local m = game.Players.LocalPlayer:GetMouse()
-local _ = args[1] and wait(args[1]) or m.Button1Up:Wait()
+local _ = args[1] and task.wait(args[1]) or m.Button1Up:Wait()
 
 local o = m.Target
 local p = get_full(o)

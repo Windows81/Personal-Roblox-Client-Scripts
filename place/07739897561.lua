@@ -47,7 +47,7 @@ while R >= 0 do
 				if not h then return end
 
 				local hrp = ch.HumanoidRootPart.Position
-				wait(1.5)
+				task.wait(1.5)
 				local hrd = ch.HumanoidRootPart.Position - hrp
 				local hl = h.Health > 0
 				local mg = hrd.Magnitude < 28

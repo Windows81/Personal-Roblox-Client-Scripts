@@ -41,7 +41,7 @@ end
 
 if TWEEN_INFO.Time <= 0 then
 	if TWEEN_INFO.DelayTime > 0 then --
-		wait(TWEEN_INFO.DelayTime)
+		task.wait(TWEEN_INFO.DelayTime)
 	end
 	for _, o in next, OBJECTS do
 		for i, p in next, PROPS do o[i] = p end --

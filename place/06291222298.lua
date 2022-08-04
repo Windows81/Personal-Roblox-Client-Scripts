@@ -133,7 +133,7 @@ function make(cat, itm, cfs)
 		if _G.build_cache[s] == nil then
 			_G.build_cache[s] = false
 			c = c + 1
-			delay(
+			task.delay(
 				.2, function()
 					game.ReplicatedStorage.BuildingSystemModel.Remotes.Place:InvokeServer(
 						itm, CFrame.new(cf.Position), cf.Rotation, cat)
@@ -184,7 +184,7 @@ function clear()
 	_G.build_cleared = true
 	for _ = 1, 10 do
 		local t = Instance.new('Folder', game.workspace.Bases[pl.Name].Items)
-		wait()
+		task.wait()
 		t:Destroy()
 	end
 	_G.build_cleared = false
@@ -343,7 +343,7 @@ function tower(MAT1, MAT2, BASE, FLOORS, SIZE)
 end
 
 clear()
-wait(2)
+task.wait(2)
 
 for a = 0, math.pi * 2 - 1e-2, 2 * math.pi / 7 do
 	tower(

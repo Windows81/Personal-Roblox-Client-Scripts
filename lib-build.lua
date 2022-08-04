@@ -6,7 +6,7 @@ local function load(i, s, d) FUNCS[s] = args[s] or env[s] or args[i] or d end
 load(1, 'ADD_BLOCK')
 load(2, 'BLOCK_EXISTS')
 load(3, 'CLEAR_BLOCKS')
-load(4, 'WAIT_FOR_BLOCK')
+load(4, 'task.wait_FOR_BLOCK')
 load(5, 'REMOVE_BLOCK')
 load(6, 'BLOCK_CHUNK_SIZE', -1)
 load(7, 'BLOCK_CHUNK_PERIOD', 0)
@@ -24,7 +24,7 @@ local count = 0
 local grace = 0
 local tickmark = tick()
 _G.build_loop = tickmark
-spawn(
+task.spawn(
 	function()
 		local queue = _G.build_queue
 		while _G.build_loop == tickmark do
@@ -34,7 +34,7 @@ spawn(
 				count = 0
 			end
 			if grace > 0 then
-				wait(grace)
+				task.wait(grace)
 				grace = 0
 			end
 
@@ -44,13 +44,13 @@ spawn(
 				_G.build_cache[cf] = true
 				queue[#queue] = nil
 				count = count + 1
-				spawn(
+				task.spawn(
 					function()
 						local s, o = pcall(FUNCS.ADD_BLOCK, unpack(queue_args))
 						if not s then o = nil end
 						_G.build_cache[cf] = nil
 						if o then
-							if not FUNCS.WAIT_FOR_BLOCK then
+							if not FUNCS.task.wait_FOR_BLOCK then
 								local k = cache_key(cf)
 								_G.build_store[k] = o
 							end
@@ -58,16 +58,16 @@ spawn(
 						_G.build_evt:Fire(cf, o)
 					end)
 			else
-				wait()
+				task.wait()
 			end
 		end
 	end)
 
-if FUNCS.WAIT_FOR_BLOCK then
-	spawn(
+if FUNCS.task.wait_FOR_BLOCK then
+	task.spawn(
 		function()
 			while _G.build_loop == tickmark do
-				local obj_cf, obj = FUNCS.WAIT_FOR_BLOCK()
+				local obj_cf, obj = FUNCS.task.wait_FOR_BLOCK()
 				local near, near_cf
 
 				for cf in next, _G.build_cache do
@@ -95,7 +95,7 @@ local function make(cfs, ...)
 	local queue = _G.build_queue
 
 	-- The delay is to give time for the event connection to be made.
-	delay(
+	task.delay(
 		1 / 8, function()
 			-- Shifts later elements up the queue.
 			for i = #queue, 1, -1 do queue[i + #cfs] = queue[i] end
@@ -127,7 +127,7 @@ local function make(cfs, ...)
 			c = c - 1
 		end)
 
-	while c > 0 do wait() end
+	while c > 0 do task.wait() end
 	con:Disconnect()
 	return b
 end
@@ -177,7 +177,7 @@ local function reset()
 	-- Toggles clear state and resets the slate.
 	if b then
 		_G.build_last_cleared = nil
-		wait(1)
+		task.wait(1)
 		_G.build_last_cleared = tick()
 	end
 	return b

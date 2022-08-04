@@ -18,7 +18,7 @@ if args[1] == 'clone' then
 	for i = 1, args[3] do
 		for _, p in next, _G.pt do
 			clone(p, i)
-			wait(args[4] or .15)
+			task.wait(args[4] or .15)
 		end
 	end
 
@@ -28,6 +28,6 @@ elseif args[1] == 'test' then
 elseif args[1] == 'halt' then
 	local d = game.ReplicatedStorage.ClientBridge.DragControlIer
 	d.Name = '666'
-	wait(args[4] or 1)
+	task.wait(args[4] or 1)
 	d.Name = 'DragControlIer'
 end

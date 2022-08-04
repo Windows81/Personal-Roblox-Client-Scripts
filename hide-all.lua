@@ -7,23 +7,66 @@ local args = _G.EXEC_ARGS or {}
 local MODE = args[1]
 local uis = game:GetService 'UserInputService'
 local rns = game:GetService 'RunService'
-if _G.hiddenGuis then
-	if MODE == true then return end
-	for g, e in next, _G.hiddenGuis do
-		if typeof(g) == 'Instance' then g.Enabled = e end
+
+local function should_hide(o)
+	if o.ClassName == 'BillboardGui' then
+		local parent = o
+		while parent do
+			if parent:findFirstChild 'Humanoid' then return true end
+			if parent == game.Workspace then break end
+			parent = parent.Parent
+		end
+		if not parent then return false end
+		local size = o.AbsoluteSize
+		return size.X >= 127 or size.Y >= 127
+
+	elseif o.ClassName == 'ScreenGui' then
+		return true
 	end
-	uis.MouseIconEnabled = _G.hiddenGuis.icon
-	_G.hiddenGuis = nil
-else
-	if MODE == false then return end
-	local t = {icon = uis.MouseIconEnabled}
+	return false
+end
+
+local function hide()
+	local t
+	if _G.hgui_cache then
+		t = _G.hgui_cache
+	else
+		t = {icon = uis.MouseIconEnabled}
+	end
 	uis.MouseIconEnabled = false
 	for _, g in next, game:GetDescendants() do
-		if typeof(g) == 'Instance' and (g.ClassName == 'ScreenGui') then
+		if typeof(g) == 'Instance' and not t[g] and should_hide(g) then
 			t[g] = g.Enabled
 			g.Enabled = false
 		end
 	end
 	rns:SetRobloxGuiFocused(false)
-	_G.hiddenGuis = t
+	_G.hgui_cache = t
 end
+
+local function unhide()
+	if not _G.hgui_cache then return end
+	for g, e in next, _G.hgui_cache do
+		if typeof(g) == 'Instance' then g.Enabled = e end
+	end
+	uis.MouseIconEnabled = _G.hgui_cache.icon
+	_G.hgui_cache = nil
+end
+
+local function decide(m)
+	if m == true then
+		hide()
+		return
+	elseif m == false then
+		unhide()
+		return
+	end
+	if _G.hgui_cache then
+		unhide()
+		return
+	else
+		hide()
+		return
+	end
+end
+decide(MODE)
