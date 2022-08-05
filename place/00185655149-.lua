@@ -66,7 +66,7 @@ while tik == _G.blx_hair do
 	task.wait()
 
 	for _, station in next, workstations:GetChildren() do
-		local frame = station.Mirror.HairdresserGUI.Frame
+		local frame = station.Mirror:WaitForChild 'HairdresserGUI'.Frame
 		if station.InUse.Value == client then
 			local customer = station.Occupied.Value
 			if customer then

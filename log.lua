@@ -25,8 +25,8 @@ if WEBHOOK then
 end
 
 if APPENDS_INSTEAD_OF_WRITES == nil then APPENDS_INSTEAD_OF_WRITES = true end
-if WRITES_FILE_AT_ONCE == nil then WRITES_FILE_AT_ONCE = true end
-if TICK_DELAY == nil then TICK_DELAY = 11 end
+if WRITES_FILE_AT_ONCE == nil then WRITES_FILE_AT_ONCE = false end
+if TICK_DELAY == nil then TICK_DELAY = 7 end
 
 local pls_id = game.PlaceId
 local svr_id = #game.JobId > 0 and game.JobId or 'PLAYTEST'

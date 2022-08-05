@@ -28,6 +28,7 @@
 		"getinstances",
 		"original_function",
 		"setclipboard",
-		"hookfunction"
+		"hookfunction",
+		"getnilinstances"
 	]
 }

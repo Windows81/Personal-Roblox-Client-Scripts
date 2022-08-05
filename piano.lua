@@ -23,8 +23,9 @@ local SPEED = args[3] or 1
 local PLAY_NOTE = args[4]
 
 if not PLAY_NOTE then
-	PLAY_NOTE =
+	local play_hook =
 		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient
+	PLAY_NOTE = function(n) play_hook(n - 35) end
 end
 
 if _G.midi_conn then _G.midi_conn:Disconnect() end
@@ -184,7 +185,7 @@ while head < string.len(midi) do
 end
 
 if SPEED > 0 then
-	_G.midi_conn = game:GetService 'RunService'.Heartbeat:Connect(
+	_G.midi_conn = game:GetService 'RunService'.RenderStepped:Connect(
 		function(d)
 			local keep = false
 			for i, mn in next, _G.midi_notes do
@@ -195,7 +196,7 @@ if SPEED > 0 then
 					cdelta[i] = cdelta[i] - mn[mi][1]
 					task.spawn(
 						function()
-							if not pcall(PLAY_NOTE, mn[mi][2] - 35 + TRANSPOSE) then
+							if not pcall(PLAY_NOTE, mn[mi][2] + TRANSPOSE) then
 								_G.midi_conn:Disconnect()
 							end
 						end)

@@ -58,7 +58,7 @@ for _, n in next, {
 	'click-dist.lua',
 	'tele-key.lua',
 	-- 'auto-rej.lua',
-	-- 'log.lua',
+	'log.lua',
 	-- 'mute.lua',
 	-- 'rspy.lua',
 } do task.spawn(function() loadfile(n)() end) end

@@ -1,5 +1,5 @@
 --[==[HELP]==
-[1] - {BasePart | Model}
+[1] - {BasePart | Model} | BasePart | Model
 	The domain of objects to which you can teleport.
 
 [2] - number | nil
@@ -11,6 +11,7 @@ _G.tpo_ts = t
 local args = _G.EXEC_ARGS or {}
 local pl = game.Players.LocalPlayer
 local range = args[1] or game.Players.Workspace:GetDescendants()
+if typeof(range) == 'Instance' then range = {range} end
 local m = pl:GetMouse()
 local l = #range
 
