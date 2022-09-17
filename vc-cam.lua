@@ -1,5 +1,5 @@
 local args = _G.EXEC_ARGS or {}
-local cc = game.workspace.CurrentCamera
+local cc = game.Workspace.CurrentCamera
 if _G.vc_cam then
 	_G.vc_cam:Disconnect()
 	cc.CameraType = 'Custom'

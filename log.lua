@@ -129,7 +129,7 @@ function plr_chat(pl, msg)
 	local t = tick()
 	local uid = pl.UserId
 	local d = chat_dupes[uid]
-	if uid == lp_uid and t < d.t + 0.5 then return end
+	if uid == lp_uid and t and t < d.t + 0.5 then return end
 	if d and d.m == msg and t < d.t + 1 then return end
 	chat_dupes[uid] = {m = msg, t = t}
 

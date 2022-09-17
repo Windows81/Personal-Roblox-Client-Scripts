@@ -21,6 +21,6 @@ if _G.cdec_cache then
 	_G.cdec_evt:Disconnect()
 else
 	_G.cdec_cache = {}
-	for _, g in next, game.workspace:GetDescendants() do extend(g) end
-	_G.cdec_evt = game.workspace.DescendantAdded:Connect(extend)
+	for _, g in next, game.Workspace:GetDescendants() do extend(g) end
+	_G.cdec_evt = game.Workspace.DescendantAdded:Connect(extend)
 end

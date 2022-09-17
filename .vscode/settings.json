@@ -29,6 +29,7 @@
 		"original_function",
 		"setclipboard",
 		"hookfunction",
-		"getnilinstances"
+		"getnilinstances",
+		"E"
 	]
 }

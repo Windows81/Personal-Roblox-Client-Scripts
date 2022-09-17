@@ -60,7 +60,7 @@ if stats.Job.Value ~= 'StylezHairdresser' then
 end
 
 while tik == _G.blx_hair do
-	local locations = game.workspace.Environment.Locations
+	local locations = game.Workspace.Environment.Locations
 	local studio = locations:WaitForChild 'StylezHairStudio'
 	local workstations = studio:WaitForChild 'HairdresserWorkstations'
 	task.wait()

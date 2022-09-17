@@ -14,22 +14,118 @@
 [4] - (number)->() | nil
 	The function that receives MIDI-on codes; default is
 		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient.
+
+[5] - { (12x) number }
+	Pitch-shift values for each note in cents, starting from C.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local FILEPATH = args[1] or [[boo.mid]]
+local FILEPATH = args[1]
 local TRANSPOSE = args[2] or 0
 local SPEED = args[3] or 1
 local PLAY_NOTE = args[4]
+local PITCH_SHIFTS = args[5] or table.create(12, 0)
+local OTHER_ARGS = {unpack(args, 6)}
+
+local function shift(midi_n)
+	local i = math.round(midi_n) % 12 + 1
+	return midi_n + PITCH_SHIFTS[i] / 100 + TRANSPOSE
+end
 
 if not PLAY_NOTE then
-	local play_hook =
-		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient
-	PLAY_NOTE = function(n) play_hook(n - 35) end
+	local play_hooks = {
+		function()
+			local senv = getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main)
+			local hook = senv.PlayNoteClient
+			return function(n) hook(math.round(n - 35)) end
+		end,
+		function()
+			local log_mod = game.Workspace:findFirstChild('PianoLogic', true)
+			local sft_mod = log_mod.Parent.Parent.Dependencies.Soundfonts
+			local sft = require(sft_mod)[OTHER_ARGS[1] or 1]
+			local hook = require(log_mod).PlayNote
+			return function(midi_note)
+				local h = game.Players.LocalPlayer.Character.Humanoid
+				if not h then error'No humanoid found.' end
+				local s = h.SeatPart
+				if not s then error'Character is not sat.' end
+
+				local arg_note = midi_note - 35
+				local arg_offset = sft.Offset
+				local ids = sft.AssetIds
+				if arg_note >= 1 and arg_note <= 61 then
+					local int_note = math.floor(midi_note - 35)
+					local note_per_oct = (int_note - 1) % 12 + 1
+					local id_i = math.ceil(note_per_oct / 2)
+					ids = table.create(6, ids[id_i])
+
+					local octave = math.ceil(int_note / 12)
+					arg_note = 61 + midi_note % 1
+					local offset = 8 * (2 * (octave - 1) + (1 - int_note % 2))
+					arg_offset = sft.Offset + offset - 80
+				end
+				local tag = game:GetService 'CollectionService':GetTags(s.Parent)[1]
+				local hook_args = {
+					tag,
+					arg_note,
+					nil,
+					ids,
+					arg_offset,
+					sft.MaxLifetime,
+					sft.Fadeout,
+					0,
+					false,
+					100,
+					100,
+					sft.VolumeModifier,
+					false,
+					0,
+				}
+				hook(unpack(hook_args))
+			end
+		end,
+	}
+	local s
+	for _, f in next, play_hooks do
+		s, PLAY_NOTE = pcall(f)
+		if s then break end
+	end
+	if not s then warn'Unable to find an appropriate piano hook.' end
 end
 
 if _G.midi_conn then _G.midi_conn:Disconnect() end
-if #FILEPATH == 0 then return end
+if FILEPATH == nil then FILEPATH = [[boo.mid]] end
+if not FILEPATH or #PITCH_SHIFTS ~= 12 then return end
+
+--[[
+local d = 12 / 11
+for i = 0, 24, d do
+	PLAY_NOTE(33 + i)
+	PLAY_NOTE(33 + i + (1 * i + 1) * d)
+	PLAY_NOTE(33 + i + (2 * i + 1) * d)
+	task.wait(1)
+end
+error'666'
+]]
+
+--[[
+for i = 0, 10, 0.125 do
+	PLAY_NOTE(33 + i)
+	task.wait(.5)
+end
+error'666'
+]]
+
+--[[
+for i = 2, 8, 0.125 do
+	local p = math.floor(13 * math.sin(i * math.pi) + 15)
+	local b = 33 + 12 * math.log(50 / 55, 2)
+	PLAY_NOTE(b + 12 * math.log(p / 8, 2))
+	PLAY_NOTE(b)
+	task.wait(.5)
+end
+error'666'
+]]
 
 local midi = readfile(FILEPATH)
 local function byte_array(s, l)
@@ -196,8 +292,11 @@ if SPEED > 0 then
 					cdelta[i] = cdelta[i] - mn[mi][1]
 					task.spawn(
 						function()
-							if not pcall(PLAY_NOTE, mn[mi][2] + TRANSPOSE) then
+							local n = shift(mn[mi][2])
+							local s, e = pcall(PLAY_NOTE, n)
+							if not s then
 								_G.midi_conn:Disconnect()
+								error(e)
 							end
 						end)
 					mi = mi + 1

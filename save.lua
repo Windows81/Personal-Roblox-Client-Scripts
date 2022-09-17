@@ -1,3 +1,11 @@
+--[==[HELP]==
+[1] - string | boolean | nil
+	The relative file path to save to.
+
+[2] - any
+	The object to parse and save to a file.
+]==] --
+--
 local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 
 local args = _G.EXEC_ARGS
@@ -12,12 +20,12 @@ local function get_name(o) -- Returns proper string wrapping for instances
 end
 
 local lp = game.Players.LocalPlayer
-local function get_full(o)
+function get_full(o)
 	if not o then return nil end
-	local r = get_name(o)
+	local r = parse(get_name(o)):sub(2, -2)
 	local p = o.Parent
 	while p do
-		r = get_name(p) .. r
+		r = parse(get_name(p)):sub(2, -2) .. r
 		p = p.Parent
 		if p == game then
 			return 'game' .. r
@@ -28,10 +36,34 @@ local function get_full(o)
 	return 'NIL' .. r
 end
 
-local function parse(obj, lvl) -- Convert the types into strings
+local PARAM_REPR_TYPES = {
+	CFrame = true,
+	Vector3 = true,
+	Vector2 = true,
+	UDim2 = true,
+	Vector3int16 = true,
+	Vector2int16 = true,
+}
+local SEQ_REPR_TYPES = { --
+	ColorSequence = true,
+	NumberSequence = true,
+}
+local SEQ_KEYP_TYPES = { --
+	ColorSequenceKeypoint = true,
+	NumberSequenceKeypoint = true,
+}
+
+function parse(obj, lvl) -- Convert the types into strings
 	local t = typeof(obj)
 	if t == 'string' then
-		return ('"%s"'):format(obj)
+		return ('"%s"'):format(
+			obj:gsub(
+				'.', { --
+					['\n'] = '\\n',
+					['\t'] = '\\t',
+					['\0'] = '\\0',
+					['\1'] = '\\1',
+				}))
 
 	elseif t == 'Instance' then -- Instance:GetFullName() except it's not handicapped
 		return get_full(obj)
@@ -60,13 +92,21 @@ local function parse(obj, lvl) -- Convert the types into strings
 		local ipair_str = table.concat(ipair_vals, '')
 		return ('{%s%s\n%s}'):format(ipair_str, alpha_str, string.rep(tab, lvl))
 
-	elseif t == 'CFrame' or t == 'Vector3' or t == 'Vector2' or t == 'UDim2' or t ==
-		'Vector3int16' then
+	elseif PARAM_REPR_TYPES[t] then
 		return ('%s.new(%s)'):format(t, tostring(obj))
+
+	elseif SEQ_REPR_TYPES[t] then
+		return ('%s.new %s'):format(t, parse(obj.Keypoints, lvl))
+
+	elseif SEQ_KEYP_TYPES[t] then
+		return ('%s.new(%s, %s)'):format(t, tostring(obj.Time), parse(obj.Value, lvl))
 
 	elseif t == 'Color3' then
 		return ('%s.fromRGB(%d, %d, %d)'):format(
 			t, obj.R * 255, obj.G * 255, obj.B * 255)
+
+	elseif t == 'NumberRange' then
+		return ('%s.new(%s, %s)'):format(t, tostring(obj.Min), tostring(obj.Max))
 
 	elseif t == 'userdata' then -- Remove __tostring fields to counter traps
 		local res

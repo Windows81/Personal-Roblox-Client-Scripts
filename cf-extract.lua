@@ -13,7 +13,7 @@ function printcf()
 end
 
 function slideshow_once()
-	local cc = game.workspace.CurrentCamera
+	local cc = game.Workspace.CurrentCamera
 	cc.CameraType = 'Scriptable'
 	for _, g in next, _G.cfs do
 		cc.CFrame = g
@@ -25,7 +25,7 @@ end
 function slideshow_loop()
 	_G.looping = not _G.looping
 	if _G.looping then
-		local cc = game.workspace.CurrentCamera
+		local cc = game.Workspace.CurrentCamera
 		cc.CameraType = 'Scriptable'
 		while _G.looping do
 			for _, g in next, _G.cfs do
@@ -40,7 +40,7 @@ end
 _G.chat = pl.Chatted:Connect(
 	function(m)
 		if m == 'cfa' then
-			local cf = game.workspace.CurrentCamera.CFrame
+			local cf = game.Workspace.CurrentCamera.CFrame
 			_G.cfs[#_G.cfs + 1] = cf
 		elseif m == 'cfr' then
 			_G.cfs[#_G.cfs] = nil

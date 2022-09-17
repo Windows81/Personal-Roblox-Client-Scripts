@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _G.fp_EXEC_ARGS or {}
 local ch = game.Players.LocalPlayer.Character
 
 -- Array of CFrames, or {CFrame, number}, where second element is the delay.
@@ -52,7 +52,7 @@ function r_loop(rp, p)
 	rp:Abort()
 end
 
-if _G.rp then
+if _G.fp_rp then
 	for _, p in next, ch.HumanoidRootPart:GetChildren() do
 		if p.ClassName == 'RocketPropulsion' or p.ClassName == 'BodyGyro' then
 			p:Destroy()
@@ -60,23 +60,23 @@ if _G.rp then
 	end
 	pcall(
 		function()
-			_G.rp:destroy()
-			_G.bp:destroy()
+			_G.fp_rp:destroy()
+			_G.fp_bp:destroy()
 		end)
 end
 
-_G.rp = Instance.new('RocketPropulsion', ch.HumanoidRootPart)
-_G.bg = Instance.new('BodyGyro', ch.HumanoidRootPart)
-_G.rp.MaxTorque = Vector3.new(1e9, 1e9, 1e9)
-_G.tr = Instance.new('Part', _G.rp)
-_G.tr.Anchored = true
-_G.tr.CanCollide = false
-_G.rp.CartoonFactor = 1
-_G.rp.MaxSpeed = speed
-_G.rp.MaxThrust = 1e5
-_G.rp.ThrustP = 1e6
-_G.rp.TurnP = 5e3
-_G.rp.TurnD = 2e3
-_G.rp.Target = _G.tr
+_G.fp_rp = Instance.new('RocketPropulsion', ch.HumanoidRootPart)
+_G.fp_bg = Instance.new('BodyGyro', ch.HumanoidRootPart)
+_G.fp_rp.MaxTorque = Vector3.new(1e9, 1e9, 1e9)
+_G.fp_tr = Instance.new('Part', _G.fp_rp)
+_G.fp_tr.Anchored = true
+_G.fp_tr.CanCollide = false
+_G.fp_rp.CartoonFactor = 1
+_G.fp_rp.MaxSpeed = speed
+_G.fp_rp.MaxThrust = 1e5
+_G.fp_rp.ThrustP = 1e6
+_G.fp_rp.TurnP = 5e3
+_G.fp_rp.TurnD = 2e3
+_G.fp_rp.Target = _G.fp_tr
 task.wait()
-r_loop(_G.rp, _G.tr)
+r_loop(_G.fp_rp, _G.fp_tr)

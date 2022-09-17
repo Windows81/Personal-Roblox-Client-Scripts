@@ -1,10 +1,20 @@
 --[==[HELP]==
-[1] - (s:string)->() | false | nil
-	The output function; default is 'print'.  If false, suppress output.
+[1] - (s:string)->() | bool | nil
+	The output function; default is 'print'.  If false, suppress output.  if true, save to file.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local output = args[1] == nil and print or args[1] or function() end
+local output = args[1]
+local SAVE_TO_FILE = false
+if output == nil then
+	output = print
+elseif output == true then
+	-- output = print
+	output = function() end
+	SAVE_TO_FILE = true
+elseif output == false then
+	output = function() end
+end
 
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name
@@ -41,78 +51,123 @@ end
 
 local result = {}
 local cache = {}
-local function process_prop(obj, cls, prop)
+local function process_prop(obj, cls, val)
 	if is_in_char(obj) then return end
+	if typeof(val) ~= 'table' then val = {val} end
 
-	local val = obj[prop]
-	local d = select(3, val:find '(%d%d%d%d%d+)%s*$')
-	if d then val = string.format('rbxassetid://%011d', d) end
-	local s = string.format('[ %13s ] %25s - %s', cls, val, get_full(obj))
-	if cache[s] then return end
+	for prop, ent in val do
+		local ent_s = tostring(ent)
+		local d = select(3, ent_s:find '(%d%d%d%d%d+)%s*$')
+		if d then ent = string.format('rbxassetid://%011d', d) end
+		local s = string.format(
+			'[ %13s ] [ %17s ] %25s - %s', cls, prop, ent_s, get_full(obj))
+		if cache[s] then return end
+		if output then output(s) end
+		cache[s] = true
+	end
 
-	if output then output(s) end
 	result[cls] = result[cls] or {}
 	result[cls][obj] = val
-	cache[s] = true
 end
 
 function process_obj(o)
 	if o:isA 'MeshPart' then
-		process_prop(o, 'mesh_obj', 'MeshId')
-		process_prop(o, 'mesh_tex', 'TextureID')
+		process_prop(o, 'mesh_obj', o.MeshId)
+		process_prop(o, 'mesh_tex', o.TextureID)
 	elseif o:isA 'SpecialMesh' then
-		process_prop(o, 'mesh_obj', 'MeshId')
-		process_prop(o, 'mesh_tex', 'TextureId')
+		process_prop(o, 'mesh_obj', o.MeshId)
+		process_prop(o, 'mesh_tex', o.TextureId)
 	elseif o:isA 'Texture' then
-		process_prop(o, 'part_tex', 'Texture')
+		process_prop(o, 'part_tex', o.Texture)
 	elseif o:isA 'Decal' then
-		process_prop(o, 'part_img', 'Texture')
+		process_prop(o, 'part_img', o.Texture)
 	elseif o:isA 'Sound' then
-		process_prop(o, 'sounds', 'SoundId')
+		process_prop(o, 'sounds', o.SoundId)
 	elseif o:isA 'VideoFrame' then
-		process_prop(o, 'videos', 'Video')
+		process_prop(o, 'videos', o.Video)
 	elseif o:isA 'Animation' then
-		process_prop(o, 'anims', 'AnimationId')
+		process_prop(o, 'anims', o.AnimationId)
 	elseif o:isA 'ImageButton' then
-		process_prop(o, 'gui_img', 'Image')
+		process_prop(o, 'gui_img', o.Image)
 	elseif o:isA 'ImageLabel' then
-		process_prop(o, 'gui_img', 'Image')
+		process_prop(o, 'gui_img', o.Image)
 	elseif o:isA 'MaterialVariant' then
-		process_prop(o, 'mtl_color', 'ColorMap')
-		process_prop(o, 'mtl_metal', 'MetalnessMap')
-		process_prop(o, 'mtl_norml', 'NormalMap')
-		process_prop(o, 'mtl_rough', 'RoughnessMap')
+		process_prop(
+			o, 'mtl', {
+				ColorMap = o.ColorMap,
+				MetalnessMap = o.MetalnessMap,
+				NormalMap = o.NormalMap,
+				RoughnessMap = o.RoughnessMap,
+			})
 	elseif o:isA 'SurfaceAppearance' then
-		process_prop(o, 'mtl_color', 'ColorMap')
-		process_prop(o, 'mtl_metal', 'MetalnessMap')
-		process_prop(o, 'mtl_norml', 'NormalMap')
-		process_prop(o, 'mtl_rough', 'RoughnessMap')
-		process_prop(o, 'mtl_tex', 'TexturePack')
+		process_prop(
+			o, 'mtl', {
+				ColorMap = o.ColorMap,
+				MetalnessMap = o.MetalnessMap,
+				NormalMap = o.NormalMap,
+				RoughnessMap = o.RoughnessMap,
+				TexturePack = o.TexturePack,
+			})
 	elseif o:isA 'TerrainDetail' then
-		process_prop(o, 'mtl_color', 'ColorMap')
-		process_prop(o, 'mtl_metal', 'MetalnessMap')
-		process_prop(o, 'mtl_norml', 'NormalMap')
-		process_prop(o, 'mtl_rough', 'RoughnessMap')
+		process_prop(o, 'mtl_color', o.ColorMap)
+		process_prop(o, 'mtl_metal', o.MetalnessMap)
+		process_prop(o, 'mtl_norml', o.NormalMap)
+		process_prop(o, 'mtl_rough', o.RoughnessMap)
 	elseif o:isA 'Sky' then
-		process_prop(o, 'sky_moon', 'MoonTextureId')
-		process_prop(o, 'sky_sun', 'SunTextureId')
-		process_prop(o, 'sky_bk', 'SkyboxBk')
-		process_prop(o, 'sky_dn', 'SkyboxDn')
-		process_prop(o, 'sky_ft', 'SkyboxFt')
-		process_prop(o, 'sky_ff', 'SkyboxLf')
-		process_prop(o, 'sky_rt', 'SkyboxRt')
-		process_prop(o, 'sky_up', 'SkyboxUp')
+		process_prop(
+			o, 'sky', {
+				MoonTextureId = o.MoonTextureId,
+				SunTextureId = o.SunTextureId,
+				SkyboxBk = o.SkyboxBk,
+				SkyboxDn = o.SkyboxDn,
+				SkyboxFt = o.SkyboxFt,
+				SkyboxLf = o.SkyboxLf,
+				SkyboxRt = o.SkyboxRt,
+				SkyboxUp = o.SkyboxUp,
+			})
 	elseif o:isA 'Beam' then
-		process_prop(o, 'beam_tex', 'Texture')
+		process_prop(o, 'beam_tex', o.Texture)
 	elseif o:isA 'FloorWire' then
-		process_prop(o, 'wire_tex', 'Texture')
+		process_prop(o, 'wire_tex', o.Texture)
 	elseif o:isA 'FloorWire' then
-		process_prop(o, 'wrap_mesh', 'ReferenceMeshId')
+		process_prop(o, 'wrap_mesh', o.ReferenceMeshId)
+	elseif o:isA 'ParticleEmitter' then
+		process_prop(
+			o, 'particle_tbl', {
+				Acceleration = o.Acceleration,
+				Brightness = o.Brightness,
+				Color = o.Color,
+				Drag = o.Drag,
+				EmissionDirection = o.EmissionDirection,
+				Lifetime = o.Lifetime,
+				LightEmission = o.LightEmission,
+				LightInfluence = o.LightInfluence,
+				LockedToPart = o.LockedToPart,
+				Orientation = o.Orientation,
+				Rate = o.Rate,
+				RotSpeed = o.RotSpeed,
+				Rotation = o.Rotation,
+				Shape = o.Shape,
+				ShapeInOut = o.ShapeInOut,
+				ShapePartial = o.ShapePartial,
+				ShapeStyle = o.ShapeStyle,
+				Size = o.Size,
+				Speed = o.Speed,
+				SpreadAngle = o.SpreadAngle,
+				Squash = o.Squash,
+				Texture = o.Texture,
+				Transparency = o.Transparency,
+				VelocityInheritance = o.VelocityInheritance,
+			})
 	end
 end
 
 for _, s in next, game:children() do
-	for _, o in next, s:GetDescendants() do pcall(process_obj, o) end
+	for _, o in next, s:GetDescendants() do process_obj(o) end
+end
+
+if SAVE_TO_FILE and E then
+	E('save', string.format('place/%011d-assets.txt', game.PlaceId), result)
 end
 
 _G.EXEC_RETURN = {result}

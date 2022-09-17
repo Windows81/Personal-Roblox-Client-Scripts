@@ -56,7 +56,7 @@ for _, n in next, {
 	'aafk.lua',
 	'zoom-dist.lua',
 	'click-dist.lua',
-	'tele-key.lua',
+	'click-tele.lua',
 	-- 'auto-rej.lua',
 	'log.lua',
 	-- 'mute.lua',

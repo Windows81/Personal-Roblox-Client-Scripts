@@ -2,15 +2,15 @@
 [1] - number | nil
 	The number of seconds to task.wait before the object path is printed; defaults to task.wait until next click.
 
-[2] - (s:string|Instance)->() | nil
-	An output function with the full path of the object passed in; default is 'print'.
+[2] - (s:string|Instance)->() | false | nil
+	An output function with the full path of the object passed in; default is 'print'.  If false, suppress output.
 
 [3] - boolean | nil
 	If true or nil, passes the name of the instance into output(), otherwise the object itself.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local output = args[2] or print
+local output = args[2] == nil and print or args[2] or function() end
 local stringify = args[3] ~= false
 
 local function get_name(o) -- Returns proper string wrapping for instances

@@ -28,7 +28,7 @@ local MOVE_KEYS = {
 
 local uis = game:GetService 'UserInputService'
 local pl = game.Players.LocalPlayer
-local cam = game.workspace.CurrentCamera
+local cam = game.Workspace.CurrentCamera
 local mouse = pl:GetMouse()
 local enabled = false
 

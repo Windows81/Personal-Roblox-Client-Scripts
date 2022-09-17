@@ -144,7 +144,7 @@ function make(cat, itm, cfs)
 	while true do
 		i = i + 1
 		b = true
-		local o = game.workspace.Bases[pl.Name].Items.ChildAdded:Wait()
+		local o = game.Workspace.Bases[pl.Name].Items.ChildAdded:Wait()
 		if _G.build_cleared then return false end
 		_G.build_cache[cache_key(cfs[i])] = o
 		r[#r + 1] = o
@@ -183,7 +183,7 @@ function clear()
 	game.ReplicatedStorage.Events.ResetBase:FireServer()
 	_G.build_cleared = true
 	for _ = 1, 10 do
-		local t = Instance.new('Folder', game.workspace.Bases[pl.Name].Items)
+		local t = Instance.new('Folder', game.Workspace.Bases[pl.Name].Items)
 		task.wait()
 		t:Destroy()
 	end

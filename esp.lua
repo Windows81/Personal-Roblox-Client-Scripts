@@ -154,7 +154,7 @@ function add(obj, options)
 end
 
 local pl = game.Players.LocalPlayer
-local cam = game.workspace.CurrentCamera
+local cam = game.Workspace.CurrentCamera
 function get(obj) return _G.ESP_Objects[obj] end
 function upd(obj)
 	local box = get(obj)

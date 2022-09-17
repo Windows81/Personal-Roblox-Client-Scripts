@@ -29,6 +29,7 @@ local max_torque_bg = args[6] or 3e4
 local thrust_d = args[7] or math.huge
 local turn_p = args[8] or 1e5
 local turn_d = args[9] or 2e2
+local base_p = args[10]
 
 local keys_dn = {}
 local flying = false
@@ -42,8 +43,13 @@ if _G.fly_bg then _G.fly_bg:Destroy() end
 if _G.fly_evts then for _, e in next, _G.fly_evts do e:Disconnect() end end
 
 local function init()
-	local ch = lp.Character
-	local hrp = ch:WaitForChild 'HumanoidRootPart'
+	local hrp
+	if base_p then
+		hrp = base_p
+	else
+		local ch = lp.Character
+		hrp = ch:WaitForChild 'HumanoidRootPart'
+	end
 	_G.fly_bg = Instance.new('BodyGyro', hrp)
 	_G.fly_rp = Instance.new('RocketPropulsion', hrp)
 	local md = Instance.new('Model', _G.fly_pt)
@@ -69,7 +75,7 @@ local function fly_dir()
 	if rel_to_char then
 		front = _G.fly_rp.Parent.CFrame.LookVector
 	else
-		front = game.workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y).Direction
+		front = game.Workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y).Direction
 	end
 	return CFrame.new(Vector3.new(), front) * move_dir
 end

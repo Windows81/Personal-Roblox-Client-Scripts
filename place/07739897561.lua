@@ -2,7 +2,7 @@ local COLS = 2
 
 local cache = {}
 function get(r, c)
-	local o = game.workspace.Guess:findFirstChild(tostring(r))
+	local o = game.Workspace.Guess:findFirstChild(tostring(r))
 	if not o then return end
 	cache[r] = cache[r] or {}
 	if cache[r][c] then return cache[r][c] end

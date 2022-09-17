@@ -1,11 +1,11 @@
 task.wait(2)
 local h = {}
-for _, g in next, game.workspace.ShootingTargets:children() do
+for _, g in next, game.Workspace.ShootingTargets:children() do
 	local p = g:findFirstChild 'PrimaryPart'
 	if p then h[p] = true end
 end
 
-local cc = game.workspace.CurrentCamera
+local cc = game.Workspace.CurrentCamera
 local pl = game.Players.LocalPlayer
 
 _G.aa_loop = tick()

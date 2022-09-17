@@ -1,5 +1,5 @@
 function e(n, i)
-	local d = game.workspace.Doors.Normal:findFirstChild(tostring(n))
+	local d = game.Workspace.Doors.Normal:findFirstChild(tostring(n))
 	if not d then return end
 	local s = d.Door:findFirstChild(tostring(i))
 	if not s then return end

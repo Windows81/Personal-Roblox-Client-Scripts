@@ -4,15 +4,15 @@ Calculates the current velocity of the local character in studs per second.
 [1] - number | nil
 	The number of seconds between polls; defaults to ~1/30.
 
-[2] - (s:string|number)->() | nil
-	An output function with the speed passed in; default is 'print'.
+[2] - (s:string|number)->() | false | nil
+	An output function with the speed passed in; default is 'print'.  If false, suppress output.
 
 [3] - boolean | nil
 	If true or nil, passes a string containing the speed into output(), otherwise the numerical value itself.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local output = args[2] or print
+local output = args[2] == nil and print or args[2] or function() end
 local stringify = args[3] or false
 
 local ch = game.Players.LocalPlayer.Character

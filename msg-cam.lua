@@ -1,5 +1,5 @@
-_G.cc = game.workspace.CurrentCamera
-_G.cc.CameraType = 'Scriptable'
+_G.msg_cc = game.Workspace.CurrentCamera
+_G.msg_cc.CameraType = 'Scriptable'
 _G.msg = function(m)
 	print(m)
 	local s = m:split(' ')
@@ -10,5 +10,5 @@ _G.msg = function(m)
 		s[i] = n
 	end
 	local v1, v2, v3, v4, v5, v6 = unpack(s)
-	_G.cc.CFrame = CFrame.new(Vector3.new(v1, v2, v3), Vector3.new(v4, v5, v6))
+	_G.msg_cc.CFrame = CFrame.new(Vector3.new(v1, v2, v3), Vector3.new(v4, v5, v6))
 end

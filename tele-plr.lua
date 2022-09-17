@@ -30,6 +30,10 @@ for _, p in next, game.Players:children() do
 	end
 end
 
-if not to_pl then return end
-pl.Character:SetPrimaryPartCFrame(to_pl.Character.Torso.CFrame)
+if not to_pl or not to_pl.Character then return end
+local hrp = to_pl.Character:findFirstChild 'HumanoidRootPart'
+local trs = to_pl.Character:findFirstChild 'Torso'
+local to_part = hrp or trs
+
+pl.Character:SetPrimaryPartCFrame(to_part.CFrame)
 print(string.format('TELEPORT TO %s', to_pl.Name))
