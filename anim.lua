@@ -1,9 +1,9 @@
 --[==[HELP]==
-[1] - number
-	The animation (or emote) ID to play.
-
-[2] - Instance | nil
+[1] - Instance | nil
 	The character on which to play the animation; defualts to LocalPlayer's current character.
+
+[2] - number
+	The animation (or emote) ID to play.
 
 [3] - boolean | nil
 	If true or nil, clears all playing animations first.
@@ -12,16 +12,20 @@
 	If true or nil, forcefully loops the playing animation.
 
 [5] - number | nil
+	The offset from which to play the animation; defaults to 0.
+
+[6] - number | nil
 	The speed at which to play the animation; defaults to 1.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local ANIM_ID = args[1]
-local CHARACTER = args[2] or game.Players.LocalPlayer.Character
+local CHARACTER = args[1] or game.Players.LocalPlayer.Character
+local ANIM_ID = args[2]
 if not CHARACTER then return end
 local STOP_ALL = args[3] ~= false
 local FORCE_LOOP = args[4] ~= false
-local ANIM_SPEED = args[5] or 1
+local ANIM_OFFSET = args[5] or 0
+local ANIM_SPEED = args[6] or 1
 _G.EXEC_RETURN = {nil, nil}
 
 local humanoid = CHARACTER:FindFirstChildOfClass 'Humanoid'
@@ -41,6 +45,7 @@ if ANIM_ID then
 	loaded:Play()
 
 	if FORCE_LOOP then loaded.Looped = true end
+	loaded.TimePosition = ANIM_OFFSET % loaded.Length
 	loaded:AdjustSpeed(ANIM_SPEED)
 
 	_G.EXEC_RETURN = {animation, loaded}

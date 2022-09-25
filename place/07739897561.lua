@@ -46,9 +46,9 @@ while R >= 0 do
 				local h = ch:findFirstChild 'Humanoid'
 				if not h then return end
 
-				local hrp = ch.HumanoidRootPart.Position
+				local hrp = ch.Humanoid.RootPart.Position
 				task.wait(1.5)
-				local hrd = ch.HumanoidRootPart.Position - hrp
+				local hrd = ch.Humanoid.RootPart.Position - hrp
 				local hl = h.Health > 0
 				local mg = hrd.Magnitude < 28
 				local mr = (chrs[ch] or -1) >= r

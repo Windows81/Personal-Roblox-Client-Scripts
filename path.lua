@@ -1,56 +1,80 @@
 --[==[HELP]==
-[1] - Vector3 | CFrame | nil
-	The position your character should strive to reach; default to receive input for Mouse.Hit.
+[1] - Vector3 | CFrame | {Vector3 | CFrame} | number | nil
+	If CFrame or Vector3, the position your character should strive to reach.
+	If integer, receive input that many times from Mouse.Hit.
+	If nil, receive pathfind destination from Mouse.Hit.
 ]==] --
 --
-local path = game:service 'PathfindingService':CreatePath()
-if _G.path_block then
-	_G.path_block:Disconnect()
-	_G.path_seat:Disconnect()
-end
+if _G.path_block then _G.path_block:Disconnect() end
+if _G.path_seat then _G.path_seat:Disconnect() end
 
 local args = _G.EXEC_ARGS or {}
-local POSITION = args[1]
-
-if typeof(POSITION) == 'CFrame' then
-	POSITION = POSITION.Position
-elseif not POSITION then
-	local m = game.Players.LocalPlayer:GetMouse()
-	m.Button1Up:Wait()
-	POSITION = m.Hit.Position
-end
+local ARGUMENT = args[1]
 
 local pl = game.Players.LocalPlayer
 local ch = pl.Character
 local h = ch.Humanoid
-local waypoints
+local waypoints = {}
 local index = 1
 
-local function compute(i)
-	path:ComputeAsync(ch.PrimaryPart.Position, POSITION)
-	if path.Status ~= Enum.PathStatus.Success then return false end
-	waypoints = path:GetWaypoints()
-	index = i
-	return true
+local USE_PATHFIND = false
+if typeof(ARGUMENT) == 'table' then
+	for i, arg in next, ARGUMENT do
+		if typeof(arg) == 'CFrame' then
+			arg = {Position = arg.Position, Action = Enum.PathWaypointAction.Walk}
+		elseif typeof(arg) == 'Vector3' then
+			arg = {Position = arg, Action = Enum.PathWaypointAction.Walk}
+		end
+		waypoints[i] = arg
+	end
+
+elseif typeof(ARGUMENT) == 'number' then
+	local m = game.Players.LocalPlayer:GetMouse()
+	for i = 1, ARGUMENT do
+		m.Button1Up:Wait()
+		waypoints[i] = {
+			Position = m.Hit.Position,
+			Action = Enum.PathWaypointAction.Walk,
+		}
+	end
+
+elseif typeof(ARGUMENT) == 'CFrame' then
+	ARGUMENT = ARGUMENT.Position
+	USE_PATHFIND = true
+
+elseif not ARGUMENT then
+	local m = game.Players.LocalPlayer:GetMouse()
+	m.Button1Up:Wait()
+	ARGUMENT = m.Hit.Position
+	USE_PATHFIND = true
 end
 
-if not compute(2) then
-	warn('PATH WAS NOT CALCULABLE!')
-	_G.EXEC_RETURN = {false}
-	return
+if USE_PATHFIND then
+	local path = game:GetService 'PathfindingService':CreatePath()
+	local function compute(i)
+		path:ComputeAsync(ch.PrimaryPart.Position, ARGUMENT)
+		if path.Status ~= Enum.PathStatus.Success then return false end
+		waypoints = path:GetWaypoints()
+		index = i
+		return true
+	end
+
+	if not compute(2) then
+		warn('PATH WAS NOT CALCULABLE!')
+		_G.EXEC_RETURN = {false}
+		return
+	end
+	_G.path_block = path.Blocked:Connect(compute)
 end
-_G.path_block = path.Blocked:Connect(compute)
 _G.path_seat = h.Seated:Connect(function(a) if a then h.Jump = true end end)
 -- if h.WalkSpeed == 0 then h.WalkSpeed = 16 end
 
 local r = true
-print(#waypoints)
 local b = _G.path_block
 while index <= #waypoints do
 	if b ~= _G.path_block then return end
 	local w = waypoints[index]
 	h:MoveTo(w.Position)
-	print(w.Position)
 	h.Jump = w.Action == Enum.PathWaypointAction.Jump
 	if not h.MoveToFinished:Wait() then
 		r = false
@@ -59,7 +83,14 @@ while index <= #waypoints do
 	index = index + 1
 end
 
-_G.path_block:Disconnect()
-_G.path_seat:Disconnect()
-_G.path_block = nil
+if _G.path_seat then
+	_G.path_seat:Disconnect()
+	_G.path_seat = nil
+end
+
+if _G.path_block then
+	_G.path_block:Disconnect()
+	_G.path_block = nil
+end
+
 _G.EXEC_RETURN = {r}

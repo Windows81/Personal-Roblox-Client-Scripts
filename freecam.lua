@@ -1,5 +1,18 @@
--- Modified from https://pastebin.com/3wrbwSz4
--- Tested with JJSploit and should work with Synapse X, Protosmasher, etc. (not tested).
+--[==[HELP]==
+Modified from https://pastebin.com/3wrbwSz4
+Tested with JJSploit and should work with Synapse X, Protosmasher, etc. (not tested).
+
+Type ',' to toggle freecam mode.
+Hold '[' to sprint.
+Hold ']' to reduce field of view.
+
+[1] - number | nil
+	The base speed at which to pan; defaults to 31.
+
+[2] - number | nil
+	The speed at which to pan when '[' is held; defaults to 211.
+]==] --
+--
 local args = _G.EXEC_ARGS or {}
 local NORMAL_SPEED = args[1] or 31
 local SPRINT_SPEED = args[2] or 211

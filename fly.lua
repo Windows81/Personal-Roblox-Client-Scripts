@@ -20,17 +20,34 @@ local MVKS = {
 	[Enum.KeyCode.PageDown] = Vector3.new(0, -1, 0),
 }
 
-local speed = args[1] or 127
-local rel_to_char = args[2] or false
-local max_torque_rp = args[3] or 1e4
-local thrust_p = args[4] or 1e7
-local max_thrust = args[5] or 5e5
-local max_torque_bg = args[6] or 3e4
-local thrust_d = args[7] or math.huge
-local turn_p = args[8] or 1e5
-local turn_d = args[9] or 2e2
-local base_p = args[10]
+local SPEED = args[1]
+if SPEED == nil then SPEED = 127 end
 
+local REL_TO_CHAR = args[2]
+if REL_TO_CHAR == nil then REL_TO_CHAR = false end
+
+local MAX_TORQUE_RP = args[3]
+if MAX_TORQUE_RP == nil then MAX_TORQUE_RP = 1e4 end
+
+local THRUST_P = args[4]
+if THRUST_P == nil then THRUST_P = 1e7 end
+
+local MAX_THRUST = args[5]
+if MAX_THRUST == nil then MAX_THRUST = 5e5 end
+
+local MAX_TORQUE_BG = args[6]
+if MAX_TORQUE_BG == nil then MAX_TORQUE_BG = 3e4 end
+
+local THRUST_D = args[7]
+if THRUST_D == nil then THRUST_D = math.huge end
+
+local THRUST_P = args[8]
+if THRUST_P == nil then THRUST_P = 1e5 end
+
+local TURN_D = args[9]
+if TURN_D == nil then TURN_D = 2e2 end
+
+local PARENT = args[10]
 local keys_dn = {}
 local flying = false
 local enabled = false
@@ -38,42 +55,46 @@ local move_dir = Vector3.new()
 local uis = game:GetService 'UserInputService'
 local lp = game.Players.LocalPlayer
 local ms = lp:GetMouse()
+
+if _G.fly_evts then for _, e in next, _G.fly_evts do e:Disconnect() end end
 if _G.fly_rp then _G.fly_rp:Destroy() end
 if _G.fly_bg then _G.fly_bg:Destroy() end
-if _G.fly_evts then for _, e in next, _G.fly_evts do e:Disconnect() end end
+if args[1] == false then return end
 
 local function init()
-	local hrp
-	if base_p then
-		hrp = base_p
-	else
+	if not PARENT then
 		local ch = lp.Character
-		hrp = ch:WaitForChild 'HumanoidRootPart'
+		PARENT = ch:WaitForChild 'HumanoidRootPart'
 	end
-	_G.fly_bg = Instance.new('BodyGyro', hrp)
-	_G.fly_rp = Instance.new('RocketPropulsion', hrp)
+
+	if _G.fly_rp then _G.fly_rp:Destroy() end
+	if _G.fly_bg then _G.fly_bg:Destroy() end
+
+	local rp_h = MAX_TORQUE_RP
+	_G.fly_bg = Instance.new('BodyGyro', PARENT)
+	_G.fly_rp = Instance.new('RocketPropulsion', PARENT)
 	local md = Instance.new('Model', _G.fly_pt)
 	_G.fly_pt = Instance.new('Part', md)
-	_G.fly_rp.MaxTorque = Vector3.new(max_torque_rp, max_torque_rp, max_torque_rp)
+	_G.fly_rp.MaxTorque = Vector3.new(rp_h, rp_h, rp_h)
 	_G.fly_bg.MaxTorque = Vector3.new()
 	md.PrimaryPart = _G.fly_pt
 	_G.fly_pt.Anchored = true
 	_G.fly_pt.CanCollide = false
 	_G.fly_rp.CartoonFactor = 1
 	_G.fly_rp.Target = _G.fly_pt
-	_G.fly_rp.MaxSpeed = math.abs(speed)
-	_G.fly_rp.MaxThrust = max_thrust
-	_G.fly_rp.ThrustP = thrust_p
-	_G.fly_rp.ThrustD = thrust_d
-	_G.fly_rp.TurnP = turn_p
-	_G.fly_rp.TurnD = turn_d
+	_G.fly_rp.MaxSpeed = SPEED
+	_G.fly_rp.MaxThrust = MAX_THRUST
+	_G.fly_rp.ThrustP = THRUST_P
+	_G.fly_rp.ThrustD = THRUST_D
+	_G.fly_rp.TurnP = THRUST_P
+	_G.fly_rp.TurnD = TURN_D
 	_G.fly_bg.P = 3e4
 	enabled = false
 end
 
 local function fly_dir()
-	if rel_to_char then
-		front = _G.fly_rp.Parent.CFrame.LookVector
+	if REL_TO_CHAR then
+		front = PARENT.CFrame.LookVector
 	else
 		front = game.Workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y).Direction
 	end
@@ -89,24 +110,33 @@ _G.fly_evts = {
 			elseif i.KeyCode == FLYK then
 				enabled = not enabled
 				if enabled then
-					if _G.fly_bg then
-						local bg_h = max_torque_bg
+					if _G.fly_bg then --
+						local bg_h = MAX_TORQUE_BG
 						_G.fly_bg.MaxTorque = Vector3.new(bg_h, 0, bg_h)
 					end
+					if _G.fly_rp then --
+						local rp_h = MAX_TORQUE_RP
+						_G.fly_rp.MaxTorque = Vector3.new(rp_h, rp_h, rp_h)
+					end
 				else
-					if _G.fly_bg then _G.fly_bg.MaxTorque = Vector3.new() end
+					if _G.fly_bg then --
+						_G.fly_bg.MaxTorque = Vector3.new()
+					end
+					if _G.fly_rp then --
+						_G.fly_rp.MaxTorque = Vector3.new()
+					end
 				end
 
 			elseif i.KeyCode == ANCK then
-				_G.fly_rp.Parent.Anchored = not _G.fly_rp.Parent.Anchored
+				PARENT.Anchored = not PARENT.Anchored
 
 			elseif i.KeyCode == FSTK then
-				speed = speed * (3 / 2)
-				_G.fly_rp.MaxSpeed = speed
+				SPEED = SPEED * (3 / 2)
+				_G.fly_rp.MaxSpeed = SPEED
 
 			elseif i.KeyCode == SLWK then
-				speed = speed / (3 / 2)
-				_G.fly_rp.MaxSpeed = speed
+				SPEED = SPEED / (3 / 2)
+				_G.fly_rp.MaxSpeed = SPEED
 
 			elseif MVKS[i.KeyCode] and not keys_dn[i.KeyCode] then
 				move_dir = move_dir + MVKS[i.KeyCode]
@@ -124,18 +154,18 @@ _G.fly_evts = {
 		end),
 	game:GetService 'RunService'.RenderStepped:Connect(
 		function()
-			if not _G.fly_rp or not _G.fly_rp.Parent then return end
+			if not _G.fly_rp or not PARENT then return end
 			local do_fly = enabled and move_dir.Magnitude > 0
 			if flying ~= do_fly then
 				flying = do_fly
-				if do_fly then
-					_G.fly_rp:Fire()
-				else
+				if not do_fly then
+					PARENT.Velocity = Vector3.new()
 					_G.fly_rp:Abort()
 					return
 				end
+				_G.fly_rp:Fire()
 			end
-			_G.fly_pt.Position = _G.fly_rp.Parent.Position + 0x40 * fly_dir()
+			_G.fly_pt.Position = PARENT.Position + 0x40 * fly_dir()
 		end),
 }
 init()
