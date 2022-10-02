@@ -4,7 +4,7 @@ local function get_servers(limit, order)
 	local order = order and 'Asc' or 'Desc'
 	local c = ''
 	local t = {}
-	local l = 1
+	local l = 0
 	repeat
 		local r = game:HttpGet(
 			string.format(
@@ -28,8 +28,12 @@ elseif typeof(args[1]) == 'number' then
 	if args[1] < 1818 then
 		local sId = get_servers(unpack(args))[args[1]]
 		game:GetService 'TeleportService':TeleportToPlaceInstance(game.PlaceId, sId)
-	elseif args[2] then
+	elseif typeof(args[2]) == 'string' then
 		game:GetService 'TeleportService':TeleportToPlaceInstance(args[1], args[2])
+	elseif typeof(args[2]) == 'number' then
+		local sId = get_servers(args[2], args[3])[args[2]]
+		print(args[2], sId)
+		game:GetService 'TeleportService':TeleportToPlaceInstance(args[1], sId)
 	else
 		game:GetService 'TeleportService':Teleport(args[1])
 	end

@@ -19,15 +19,15 @@ local function gsp(n, ...)
 		}
 	elseif l ~= n then
 		fs = { --
-			n,
-			l,
 			string.format('%s.lua', n),
 			string.format('%s.lua', l),
+			n,
+			l,
 		}
 	else
 		fs = { --
-			n,
 			string.format('%s.lua', n),
+			n,
 		}
 	end
 	for _, f in next, fs do if f and isfile(f) then return f end end
@@ -58,7 +58,7 @@ for _, n in next, {
 	'click-dist.lua',
 	'click-tele.lua',
 	-- 'auto-rej.lua',
-	'log.lua',
+	'event-log.lua',
 	-- 'mute.lua',
 	-- 'rspy.lua',
 } do task.spawn(function() loadfile(n)() end) end

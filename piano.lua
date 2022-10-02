@@ -93,9 +93,16 @@ if not PLAY_NOTE then
 	if not s then warn'Unable to find an appropriate piano hook.' end
 end
 
+_G.EXEC_RETURN = {PLAY_NOTE}
 if _G.midi_conn then _G.midi_conn:Disconnect() end
-if FILEPATH == nil then FILEPATH = [[boo.mid]] end
-if not FILEPATH or #PITCH_SHIFTS ~= 12 then return end
+if FILEPATH == nil then
+	FILEPATH = [[boo.mid]]
+elseif not FILEPATH then
+	return
+elseif #PITCH_SHIFTS ~= 12 then
+	warn'The PITCH_SHIFTS table does not have twelve elements.'
+	return
+end
 
 --[[
 local d = 12 / 11

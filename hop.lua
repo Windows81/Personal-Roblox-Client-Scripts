@@ -41,7 +41,7 @@ if isfile(sFn) then get_stat = loadfile(sFn)() end
 local function get_servers(limit)
 	local c = ''
 	local t = {0}
-	local l = 1
+	local l = 0
 	repeat
 		local r = game:HttpGet(
 			string.format(

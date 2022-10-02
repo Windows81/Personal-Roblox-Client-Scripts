@@ -47,7 +47,7 @@ if THRUST_P == nil then THRUST_P = 1e5 end
 local TURN_D = args[9]
 if TURN_D == nil then TURN_D = 2e2 end
 
-local PARENT = args[10]
+local ROOT_PART = args[10]
 local keys_dn = {}
 local flying = false
 local enabled = false
@@ -55,6 +55,8 @@ local move_dir = Vector3.new()
 local uis = game:GetService 'UserInputService'
 local lp = game.Players.LocalPlayer
 local ms = lp:GetMouse()
+local humanoid
+local parent
 
 if _G.fly_evts then for _, e in next, _G.fly_evts do e:Disconnect() end end
 if _G.fly_rp then _G.fly_rp:Destroy() end
@@ -62,17 +64,22 @@ if _G.fly_bg then _G.fly_bg:Destroy() end
 if args[1] == false then return end
 
 local function init()
-	if not PARENT then
+	if ROOT_PART then
+		parent = ROOT_PART
+		local model = parent:FindFirstAncestorWhichIsA 'Model'
+		if model then humanoid = model:FindFirstAncestorWhichIsA 'Humanoid' end
+	else
 		local ch = lp.Character
-		PARENT = ch:WaitForChild 'HumanoidRootPart'
+		humanoid = ch:WaitForChild 'Humanoid'
+		parent = humanoid.RootPart
 	end
 
 	if _G.fly_rp then _G.fly_rp:Destroy() end
 	if _G.fly_bg then _G.fly_bg:Destroy() end
 
 	local rp_h = MAX_TORQUE_RP
-	_G.fly_bg = Instance.new('BodyGyro', PARENT)
-	_G.fly_rp = Instance.new('RocketPropulsion', PARENT)
+	_G.fly_bg = Instance.new('BodyGyro', parent)
+	_G.fly_rp = Instance.new('RocketPropulsion', parent)
 	local md = Instance.new('Model', _G.fly_pt)
 	_G.fly_pt = Instance.new('Part', md)
 	_G.fly_rp.MaxTorque = Vector3.new(rp_h, rp_h, rp_h)
@@ -94,8 +101,11 @@ end
 
 local function fly_dir()
 	if REL_TO_CHAR then
-		front = PARENT.CFrame.LookVector
+		front = parent.CFrame.LookVector
 	else
+		-- local rx = .5 - ms.Y / ms.ViewSizeY
+		-- local ry = .5 - ms.X / ms.ViewSizeX
+		-- front = (game.Workspace.CurrentCamera.CFrame * CFrame.fromEulerAnglesYXZ(rx, ry, 0)).LookVector
 		front = game.Workspace.CurrentCamera:ScreenPointToRay(ms.X, ms.Y).Direction
 	end
 	return CFrame.new(Vector3.new(), front) * move_dir
@@ -128,7 +138,7 @@ _G.fly_evts = {
 				end
 
 			elseif i.KeyCode == ANCK then
-				PARENT.Anchored = not PARENT.Anchored
+				parent.Anchored = not parent.Anchored
 
 			elseif i.KeyCode == FSTK then
 				SPEED = SPEED * (3 / 2)
@@ -154,18 +164,19 @@ _G.fly_evts = {
 		end),
 	game:GetService 'RunService'.RenderStepped:Connect(
 		function()
-			if not _G.fly_rp or not PARENT then return end
+			if not _G.fly_rp or not parent then return end
 			local do_fly = enabled and move_dir.Magnitude > 0
 			if flying ~= do_fly then
 				flying = do_fly
+				if humanoid then humanoid.AutoRotate = not do_fly end
 				if not do_fly then
-					PARENT.Velocity = Vector3.new()
+					parent.Velocity = Vector3.new()
 					_G.fly_rp:Abort()
 					return
 				end
 				_G.fly_rp:Fire()
 			end
-			_G.fly_pt.Position = PARENT.Position + 0x40 * fly_dir()
+			_G.fly_pt.Position = parent.Position + 0x1000 * fly_dir()
 		end),
 }
 init()

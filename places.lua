@@ -10,7 +10,7 @@ local lines = {}
 
 while true do
 	for _, place in pairs(pages:GetCurrentPage()) do
-		result[place.PlaceId] = place.Name
+		table.insert(result, {name = place.Name, id = place.PlaceId})
 
 		table.insert(lines, string.format('    Name: %s', place.Name))
 		table.insert(lines, string.format('Place ID: %11d', place.PlaceId))
