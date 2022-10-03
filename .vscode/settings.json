@@ -30,6 +30,7 @@
 		"setclipboard",
 		"hookfunction",
 		"getnilinstances",
-		"E"
+		"E",
+		"hookmetamethod"
 	]
 }

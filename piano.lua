@@ -39,6 +39,8 @@ if not PLAY_NOTE then
 			local hook = senv.PlayNoteClient
 			return function(n) hook(math.round(n - 35)) end
 		end,
+
+		-- Ro-Xolotl player (microtones are supported).
 		function()
 			local log_mod = game.Workspace:findFirstChild('PianoLogic', true)
 			local sft_mod = log_mod.Parent.Parent.Dependencies.Soundfonts

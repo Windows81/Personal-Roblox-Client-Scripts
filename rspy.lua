@@ -11,8 +11,8 @@ local function arg_sel(n, d)
 end
 
 _G.RSpy_Settings = {
-	ToClientEnabled = arg_sel(2, false), -- Events to the client are logged.
 	ToServerEnabled = arg_sel(1, true), -- Events to the server are logged.
+	ToClientEnabled = arg_sel(2, true), -- Events to the client are logged.
 	Blacklist = arg_sel(
 		8, { -- Ignore remote calls made with these remotes.
 			['.DefaultChatSystemChatEvents.OnMessageDoneFiltering'] = true,
@@ -24,6 +24,7 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
 			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
 			['.ReplicatedStorage.updstatus'] = true, -- 4628761410
+			['.ReplicatedStorage.BuildingEvents.CheckOtherPlayerPlatinum'] = true, -- 02546155523
 		}),
 	LineBreak = arg_sel(9, '\n'),
 	BlockBreak = arg_sel(10, '\n\n'),
@@ -148,12 +149,43 @@ local function Write(Remote, MethodName, Arguments, Script, Returns)
 					_G.RSpy_Settings.LineBreak, Parse(Script)))
 		end
 	end
-	if _G.RSpy_Settings.ShowReturns and Returns ~= nil and #Returns > 0 then
+	if _G.RSpy_Settings.ShowReturns and Returns and #Returns > 0 then
 		_G.RSpy_Settings.Output(
 			('%sReturned: %s'):format(
 				_G.RSpy_Settings.LineBreak, Parse(Returns):sub(2, -2)))
 	end
 	_G.RSpy_Settings.Output(_G.RSpy_Settings.BlockBreak)
+end
+
+local function HookServer(self, Method, Func, ...)
+	if _G.RSpy_Settings.NullifyBrokenMethods and ErrorMethodDict[Method] then
+		return Func(self, ...)
+	elseif not _G.RSpy_Settings.ToServerEnabled then
+		return Func(self, ...)
+	elseif typeof(self) ~= 'Instance' then
+		return Func(self, ...)
+	elseif typeof(Method) ~= 'string' then
+		return Func(self, ...)
+	elseif Methods[self.ClassName] ~= Method then
+		return Func(self, ...)
+	elseif IsInBlacklist(self) then
+		return Func(self, ...)
+	end
+
+	-- ProtoSmasher HATES getfenv(3); detour_function breaks!
+	local EnvSuccess, Environment = pcall(getfenv, 3)
+	local ShowScript = _G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED
+	local EnvScript = ShowScript and rawget(Environment, 'script') or nil
+
+	local Arguments = {...}
+	if not _G.RSpy_Settings.ShowReturns then
+		Write(self, Method, Arguments, EnvScript)
+		return Func(self, ...)
+	end
+
+	local Returns = {Func(self, ...)}
+	if EnvSuccess then Write(self, Method, Arguments, EnvScript, Returns) end
+	return unpack(Returns)
 end
 
 -- Anti-detection for tostring; tostring(FireServer, InvokeServer)
@@ -181,17 +213,8 @@ for Class, Method in next, Methods do
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(self, ...)
-			local Returns = {(CURR or original_function)(self, ...)}
-			if _G.RSpy_Settings.ToServerEnabled and typeof(self) == 'Instance' and
-				Methods[self.ClassName] == Method and not IsInBlacklist(self) then
-
-				-- ProtoSmasher HATES getfenv(3); detour_function breaks!
-				Write(
-					self, Method, {...},
-						(_G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED) and
-							rawget(getfenv(3), 'script') or nil, Returns)
-			end
-			return unpack(Returns)
+			local Func = CURR or original_function
+			return HookServer(self, Method, Func, ...)
 		end)
 	_G.RSpy_Original[CURR] = nil
 	_G.RSpy_Original[NEWF] = ORIG
@@ -205,42 +228,17 @@ do
 	local NEWF = protect_function(
 		function(self, ...)
 			local Method = get_namecall_method(self)
-			if _G.RSpy_Settings.NullifyBrokenMethods and ErrorMethodDict[Method] then
-				return
-			end
-			local Arguments = {...}
-			local Returns = {(CURR or original_function)(self, ...)}
-			--[[
-			if not Success then
-				warn(('Method not called successfully: %s [%s]'):format(Method, Returns))
-				if type(Returns) == 'string' then
-					ErrorMethodDict[Method] = Returns or 'undefined error'
-				end
-				return
-			end
-			]]
-			if _G.RSpy_Settings.ToServerEnabled and typeof(Method) == 'string' and
-				Methods[self.ClassName] == Method and not IsInBlacklist(self) then
-
-				-- ProtoSmasher HATES getfenv(3); detour_function breaks!
-				local EnvSuccess, Environment = pcall(getfenv, 3)
-				if EnvSuccess then
-					Write(
-						self, Method, Arguments,
-							(_G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED) and
-								rawget(Environment, 'script') or nil, Returns)
-				end
-			end
-			return unpack(Returns)
+			local Func = CURR or original_function
+			return HookServer(self, Method, Func, ...)
 		end)
 	_G.RSpy_Original[CURR] = nil
 	_G.RSpy_Original[NEWF] = ORIG
-	CURR = hookmetamethod(game, '__namecall', NEWF)
 	--[[
-		make_writeable(metatable, false)
+	CURR = hookmetamethod(game, '__namecall', NEWF)
+	]]
+	make_writeable(metatable, false)
 	metatable.__namecall = NEWF
 	make_writeable(metatable, true)
-	]]
 end
 
 -- Connect to remotes; Remote:FireClient(...)

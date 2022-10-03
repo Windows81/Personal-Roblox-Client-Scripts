@@ -124,5 +124,6 @@ end
 
 local concat = {}
 for _, o in args do table.insert(concat, parse(o)) end
-output(table.concat(concat, ' '))
-_G.EXEC_RETURN = args
+local result = table.concat(concat, ' ')
+_G.EXEC_RETURN = {result, unpack(args)}
+output(result)
