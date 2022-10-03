@@ -30,7 +30,7 @@ _G.RSpy_Settings = {
 	ShowScript = arg_sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
 	ShowReturns = arg_sel(7, true), -- Display what the remote calls return.
 	Output = arg_sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
-	ProtectFunction = arg_sel(4, true), -- Set to false in case RSpy crashes for you with certain server events.
+	ProtectFunction = arg_sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
 	NullifyBrokenMethods = arg_sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
 }
 
@@ -181,7 +181,7 @@ for Class, Method in next, Methods do
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(self, ...)
-			local Returns = {(ORIG or original_function)(self, ...)}
+			local Returns = {(CURR or original_function)(self, ...)}
 			if _G.RSpy_Settings.ToServerEnabled and typeof(self) == 'Instance' and
 				Methods[self.ClassName] == Method and not IsInBlacklist(self) then
 
@@ -209,8 +209,8 @@ do
 				return
 			end
 			local Arguments = {...}
-			local Success, Returns = pcall(
-				function() return {(ORIG or original_function)(self, unpack(Arguments))} end)
+			local Returns = {(CURR or original_function)(self, ...)}
+			--[[
 			if not Success then
 				warn(('Method not called successfully: %s [%s]'):format(Method, Returns))
 				if type(Returns) == 'string' then
@@ -218,6 +218,7 @@ do
 				end
 				return
 			end
+			]]
 			if _G.RSpy_Settings.ToServerEnabled and typeof(Method) == 'string' and
 				Methods[self.ClassName] == Method and not IsInBlacklist(self) then
 
@@ -234,9 +235,12 @@ do
 		end)
 	_G.RSpy_Original[CURR] = nil
 	_G.RSpy_Original[NEWF] = ORIG
-	make_writeable(metatable, false)
+	CURR = hookmetamethod(game, '__namecall', NEWF)
+	--[[
+		make_writeable(metatable, false)
 	metatable.__namecall = NEWF
 	make_writeable(metatable, true)
+	]]
 end
 
 -- Connect to remotes; Remote:FireClient(...)
