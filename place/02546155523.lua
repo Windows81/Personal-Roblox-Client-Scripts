@@ -6,6 +6,7 @@ if isfile(fn) then
 end
 
 local list = game.ReplicatedStorage.CS.GetPartyList:InvokeServer()
+print('PARTY LIST IS SAVED')
 local ts = os.date('%Y-%m-%dT%H:%M:%SZ')
 for _, d in next, list do
 	local id = d.psid

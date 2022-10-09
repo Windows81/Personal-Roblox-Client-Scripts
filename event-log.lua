@@ -164,7 +164,7 @@ function plr_leave(pl)
 end
 
 function plr_spawn(pl, ch)
-	local hrp = ch:WaitForChild 'HumanoidRootPart'
+	local hrp = ch:WaitForChild 'Humanoid'.RootPart
 	local pos = string.format(
 		' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
 	_G.wh_log(

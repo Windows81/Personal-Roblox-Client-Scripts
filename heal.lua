@@ -13,6 +13,6 @@ if args[1] ~= false then
 	end
 
 	local pl = game.Players.LocalPlayer
-	if pl.Character then ch_add(pl.Character) end
 	_G.heal = {pl.CharacterAdded:Connect(ch_add)}
+	if pl.Character then ch_add(pl.Character) end
 end

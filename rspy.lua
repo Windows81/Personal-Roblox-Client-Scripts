@@ -25,6 +25,12 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
 			['.ReplicatedStorage.updstatus'] = true, -- 4628761410
 			['.ReplicatedStorage.BuildingEvents.CheckOtherPlayerPlatinum'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.GetInstaVilleFeed'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.StreamArea'] = true, -- 02546155523
+			['.ReplicatedStorage.BuildingEvents.GetPropertyValue'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.GiveFoodDiner'] = true, -- 02546155523
+			['.ReplicatedStorage.VisualRemotes.ChangeNeckWeld'] = true, -- 9664467600
+			['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
 		}),
 	LineBreak = arg_sel(9, '\n'),
 	BlockBreak = arg_sel(10, '\n\n'),
@@ -172,8 +178,8 @@ local function HookServer(self, Method, Func, ...)
 		return Func(self, ...)
 	end
 
-	-- ProtoSmasher HATES getfenv(3); detour_function breaks!
-	local EnvSuccess, Environment = pcall(getfenv, 3)
+	-- ProtoSmasher HATES getfenv(4); detour_function breaks!
+	local EnvSuccess, Environment = pcall(getfenv, 4)
 	local ShowScript = _G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED
 	local EnvScript = ShowScript and rawget(Environment, 'script') or nil
 

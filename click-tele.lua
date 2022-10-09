@@ -42,8 +42,14 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 				local n = res.Normal.Unit
 				if n.Y > 0.25 then
 					local h = ch:FindFirstChildWhichIsA 'Humanoid'
-					d = h and h.HipHeight or 0
-					if d == 0 then d = 5 end
+					if not h then
+						d = 5
+					elseif h.RigType == Enum.HumanoidRigType.R6 then
+						d = 6
+					else
+						d = h.HipHeight
+						if d < 1 then d = 5 end
+					end
 				else
 					local rp2 = RaycastParams.new()
 					rp2.FilterType = Enum.RaycastFilterType.Whitelist
@@ -62,7 +68,8 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 
 				local lv
 				if ROTATE_BY_CAM then
-					lv = game.Workspace.CurrentCamera.CFrame.LookVector * Vector3.new(1, 0, 1)
+					local clv = game.Workspace.CurrentCamera.CFrame.LookVector
+					lv = (clv * Vector3.new(1, 0, 1)).Unit
 				else
 					lv = ch:GetPrimaryPartCFrame().LookVector
 				end

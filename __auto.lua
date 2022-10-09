@@ -84,6 +84,7 @@ env.getscriptpath = gsp
 env.rsexec = exc
 env.E = exc
 
+_G.EXEC_ARGS = {}
 for _, n in next, SCRIPTS do task.spawn(function() loadfile(n)() end) end
-local n = ('_%011d.lua'):format(game.PlaceId)
+local n = ('place/%011d.lua'):format(game.PlaceId)
 if isfile(n) then print('LOADFILE FOR PLACE:', pcall(loadfile(n))) end

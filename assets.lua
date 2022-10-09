@@ -167,7 +167,7 @@ for _, s in next, game:children() do
 end
 
 if SAVE_TO_FILE and E then
-	E('save', string.format('place/%011d-assets.txt', game.PlaceId), result)
+	rsexec('save', string.format('place/%011d-assets.txt', game.PlaceId), result)
 end
 
 _G.EXEC_RETURN = {result}

@@ -16,7 +16,6 @@ set(pl, 'CameraMode', Enum.CameraMode.Classic)
 set(pl, 'DevComputerCameraMode', Enum.DevComputerCameraMovementMode.UserChoice)
 
 local function do_char(ch)
-	print(ch)
 	if not ch then return end
 	local h = ch:WaitForChild('Humanoid', 7)
 	if not h then return end

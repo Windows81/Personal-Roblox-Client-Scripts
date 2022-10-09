@@ -1,5 +1,5 @@
 --[==[HELP]==
-[1] - {CFrame | Vector3 | {CFrame | Vector3, number}}
+[1] - {CFrame | Vector3 | BasePart | Model | {CFrame | Vector3 | BasePart | Model, number}}
 	Array of locations or two-element sub-arrays, where second element is the delay.
 
 [2] - number | nil
@@ -33,6 +33,12 @@ local shuttle = args[6]
 function r_move_part(array, rp, p, v)
 	if typeof(v) == 'Vector3' then
 		p.CFrame = CFrame.new(v)
+	elseif typeof(v) == 'Instance' then
+		if v:isA 'BasePart' then
+			p.CFrame = v.CFrame
+		elseif v:isA 'Model' then
+			p.CFrame = v:GetPivot()
+		end
 	elseif typeof(v) == 'CFrame' then
 		p.CFrame = v
 	end
