@@ -1,3 +1,3 @@
 rsexec'fly'
 rsexec'freecam'
-rsexec('hide-all', true)
+_E('hide-all', true)

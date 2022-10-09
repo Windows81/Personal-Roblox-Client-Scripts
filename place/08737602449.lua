@@ -9,7 +9,7 @@ function hex(c)
 	return string.format('#%02X%02X%02X', 255 * c.r, 255 * c.g, 255 * c.b)
 end
 
-rsexec(
+_E(
 	'time', '%H:%M:%S', function(_, ts)
 		local t = _G.pls_rmt
 		if t.booth then

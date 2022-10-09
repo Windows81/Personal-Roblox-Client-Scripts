@@ -3,13 +3,24 @@ local COMMAND = args[1]:lower()
 
 if COMMAND == 'party' then
 	game.ReplicatedStorage.CS.JoinParty:FireServer(unpack(args, 2))
+elseif COMMAND == 'autobring' then
+	if _G.rov_br then
+		_G.rov_br:Disconnect()
+		_G.rov_br = nil
+		return
+	end
+	_G.rov_br = game.Players.PlayerAdded:Connect(
+		function(p)
+			p.CharacterAdded:Wait()
+			game.ReplicatedStorage.CS.PartyAdmin:FireServer('bring', p)
+		end)
 elseif COMMAND == 'rename' then
 	game.ReplicatedStorage.CS.ChangeN:FireServer(unpack(args, 2))
 elseif COMMAND == 'carry' then
-	local plr = rsexec('get-plr', unpack(args, 2))
+	local plr = _E('get-plr', unpack(args, 2))
 	game.ReplicatedStorage.CS.CarryPlr:FireServer(plr)
 elseif COMMAND == 'bring' then
-	local plr = rsexec('get-plr', unpack(args, 2))
+	local plr = _E('get-plr', unpack(args, 2))
 	game.ReplicatedStorage.CS.PartyAdmin:FireServer('bring', plr)
 elseif COMMAND == 'farm' then
 	local area = game.Workspace.OfficeArea
