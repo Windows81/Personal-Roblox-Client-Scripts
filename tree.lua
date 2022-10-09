@@ -6,9 +6,6 @@ Traverses through a list of objects, with the full path and number of layers fro
 
 [2] - (Instance)->bool | nil
 	Query function that, when returns true, proceeds with output; defaults to always-true.
-
-[3] - (s:string)->() | false | nil
-	The output function; default is 'print'.  If false, suppress output.
 ]==] --
 --
 local lines = {}
@@ -17,7 +14,6 @@ local range = args[1] or game
 if typeof(range) == 'Instance' then range = range:GetDescendants() end
 local query = args[2] or function(o) return true end
 
-local output = args[3] == nil and print or args[3] or function() end
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name
 	local f = '.%s'
@@ -48,9 +44,5 @@ for _, g in next, range do
 end
 
 -- Printing line-by-line is necessary since the dev console truncates large outputs.
-if output == print then
-	for _, l in next, lines do output(l) end
-else
-	output(table.concat(lines, '\n'))
-end
+_G.EXEC_OUTPUT = {table.concat(lines, '\n')}
 _G.EXEC_RETURN = {t}

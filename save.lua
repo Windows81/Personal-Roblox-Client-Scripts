@@ -4,34 +4,44 @@
 
 [2] - any
 	The object to parse and save to a file.
+
+[3] - boolean | nil
+	If true, append the file instead of overwriting.
 ]==] --
 --
 local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 
 local args = _G.EXEC_ARGS
-local file = args[1] or 'temp.txt'
-local val = args[2]
+local FILE = args[1] or 'temp.txt'
+local VALUE = args[2]
+local APPEND = args[3]
 
 local function get_name(o) -- Returns proper string wrapping for instances
-	local n = o.Name
+	local n = o.Name:gsub('"', '\\"')
 	local f = '.%s'
-	if #n == 0 or n:match('[^%w]+') or n:sub(1, 1):match('[^%a]') then f = '["%s"]' end
+	if #n == 0 then
+		f = '["%s"]'
+	elseif n:match('[^%w]+') then
+		f = '["%s"]'
+	elseif n:sub(1, 1):match('[^%a]') then
+		f = '["%s"]'
+	end
 	return f:format(n)
 end
 
 local lp = game.Players.LocalPlayer
 function get_full(o)
 	if not o then return nil end
-	local r = parse(get_name(o)):sub(2, -2)
+	local r = parse(get_name(o))
 	local p = o.Parent
 	while p do
-		r = parse(get_name(p)):sub(2, -2) .. r
-		p = p.Parent
 		if p == game then
 			return 'game' .. r
 		elseif p == lp then
 			return 'game.Players.LocalPlayer' .. r
 		end
+		r = parse(get_name(p)) .. r
+		p = p.Parent
 	end
 	return 'NIL' .. r
 end
@@ -55,7 +65,9 @@ local SEQ_KEYP_TYPES = { --
 
 function parse(obj, lvl) -- Convert the types into strings
 	local t = typeof(obj)
+	local lvl = lvl or 0
 	if t == 'string' then
+		if lvl == 0 then return obj end
 		return ('"%s"'):format(
 			obj:gsub(
 				'.', { --
@@ -73,7 +85,6 @@ function parse(obj, lvl) -- Convert the types into strings
 		local ipair_vals = {}
 		local c = 0
 		local tab = '  '
-		local lvl = lvl or 0
 		if lvl > 666 then return 'DEEP_TABLE' end
 
 		for i, o in next, obj do
@@ -127,4 +138,9 @@ function parse(obj, lvl) -- Convert the types into strings
 	end
 end
 
-writefile(file, parse(val))
+local p = parse(VALUE)
+if APPEND then
+	appendfile(FILE, p)
+else
+	writefile(FILE, p)
+end

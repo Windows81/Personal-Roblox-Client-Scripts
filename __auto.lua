@@ -71,17 +71,23 @@ local function exc(n, ...)
 	local path = gsp(n, ...)
 	if not path then warn(string.format('QUERY "%s" DID NOT YIELD ANY RESULTS', n)) end
 	_G.EXEC_ARGS = {...}
+	_G.EXEC_RETURN = nil
+	_G.EXEC_OUTPUT = nil
 	local success, err_msg = pcall(loadfile(path))
 	if not success then warn(err_msg) end
 	local result = _G.EXEC_RETURN or {}
-	_G.EXEC_RETURN = nil
-	_G.EXEC_ARGS = nil
 	return unpack(result)
+end
+
+local function output(o)
+	loadfile('save.lua')(_G.EXEC_OUT_PATH, o, true)
+	return o
 end
 
 local env = getrenv()
 env.getscriptpath = gsp
 env.rsexec = exc
+env.O = output
 env.E = exc
 
 _G.EXEC_ARGS = {}

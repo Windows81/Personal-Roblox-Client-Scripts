@@ -4,14 +4,9 @@
 
 [2] - boolean | nil
 	Sort in ascending player-count order if true; descending otherwise.
-
-[3] - (s:string)->() | false | nil
-	The output function; default is 'print'.  If false, suppress output.
 ]==] --
 --
 local args = _G.EXEC_ARGS or {}
-local output = args[3] == nil and print or args[3] or function() end
-
 local function get_servers(place, limit, order)
 	local place = place or game.PlaceId
 	local order = order and 'Asc' or 'Desc'
@@ -25,7 +20,6 @@ local function get_servers(place, limit, order)
 					place, order, c))
 		for m in string.gmatch(r, '"id":"(........%-....%-....%-....%-............)"') do
 			l = l + 1
-			output(m)
 			table.insert(t, m)
 			if l == limit then return t end
 		end
@@ -34,5 +28,4 @@ local function get_servers(place, limit, order)
 	return t
 end
 
-local result = get_servers(unpack(args))
-_G.EXEC_RETURN = {result}
+_G.EXEC_RETURN = {get_servers(unpack(args))}

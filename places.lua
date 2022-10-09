@@ -1,9 +1,6 @@
 --[==[HELP]==
-[1] - (s:string)->() | false | nil
-	The output function; default is 'print'.  If false, suppress output.
+Returns a list of place IDs and names for the current universe.
 ]==] --
-local args = _G.EXEC_ARGS or {}
-local output = args[1] == nil and print or args[1] or function() end
 local pages = game:GetService 'AssetService':GetGamePlacesAsync()
 local result = {}
 local lines = {}
@@ -19,5 +16,5 @@ while true do
 	pages:AdvanceToNextPageAsync()
 end
 
-output(table.concat(lines, '\n'))
+_G.EXEC_OUTPUT = {table.concat(lines, '\n')}
 _G.EXEC_RETURN = {result}

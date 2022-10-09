@@ -1,21 +1,7 @@
 --[==[HELP]==
-[1] - (s:string)->() | bool | nil
-	The output function; default is 'print'.  If false, suppress output.  if true, save to file.
+Returns a collection of asset IDs and their respective paths.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
-local output = args[1]
-local SAVE_TO_FILE = false
-if output == nil then
-	output = print
-elseif output == true then
-	-- output = print
-	output = function() end
-	SAVE_TO_FILE = true
-elseif output == false then
-	output = function() end
-end
-
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name
 	local f = '.%s'
@@ -51,6 +37,7 @@ end
 
 local result = {}
 local cache = {}
+local output = {}
 local function process_prop(obj, cls, val)
 	if is_in_char(obj) then return end
 	if typeof(val) ~= 'table' then val = {val} end
@@ -62,7 +49,7 @@ local function process_prop(obj, cls, val)
 		local s = string.format(
 			'[ %13s ] [ %17s ] %25s - %s', cls, prop, ent_s, get_full(obj))
 		if cache[s] then return end
-		if output then output(s) end
+		table.insert(output, s)
 		cache[s] = true
 	end
 
@@ -162,12 +149,9 @@ function process_obj(o)
 	end
 end
 
-for _, s in next, game:children() do
+for _, s in next, game:GetChildren() do
 	for _, o in next, s:GetDescendants() do process_obj(o) end
 end
 
-if SAVE_TO_FILE and E then
-	rsexec('save', string.format('place/%011d-assets.txt', game.PlaceId), result)
-end
-
 _G.EXEC_RETURN = {result}
+_G.EXEC_OUTPUT = {output}

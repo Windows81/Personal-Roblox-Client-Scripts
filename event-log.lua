@@ -124,6 +124,17 @@ function _G.wh_log(ln, frc, ts)
 	end
 end
 
+function hrp_pos_str(ch)
+	if ch then
+		local hrp = ch:findFirstChild 'HumanoidRootPart'
+		if hrp then
+			return string.format(
+				' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
+		end
+	end
+	return ''
+end
+
 local chat_dupes = {}
 function plr_chat(pl, msg)
 	local t = tick()
@@ -134,15 +145,7 @@ function plr_chat(pl, msg)
 	chat_dupes[uid] = {m = msg, t = t}
 
 	local ch = pl.Character
-	local pos = ''
-	if ch then
-		local hrp = ch:findFirstChild 'HumanoidRootPart'
-		if hrp then
-			pos = string.format(
-				' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
-		end
-	end
-
+	local pos = hrp_pos_str(ch)
 	local line = string.format(
 		'PLAYER CHATTED [%11s] %-20s%s\n  %s', uid, pl.Name, pos, msg)
 	_G.wh_log(line)
@@ -164,9 +167,7 @@ function plr_leave(pl)
 end
 
 function plr_spawn(pl, ch)
-	local hrp = ch:WaitForChild 'Humanoid'.RootPart
-	local pos = string.format(
-		' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
+	local pos = hrp_pos_str(ch)
 	_G.wh_log(
 		string.format(
 			'CHRCTER ADDED  [%11s] %-20s%s', pl.UserId, pl.Name, pos))
