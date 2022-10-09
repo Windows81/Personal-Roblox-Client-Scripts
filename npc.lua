@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local DESCRIPTION = args[1]
 
 local CFRAME = args[2]
@@ -38,4 +38,4 @@ if char then
 	char.Parent = game.Workspace
 end
 
-_G.EXEC_RETURN = {char}
+_E.RETURN = {char}

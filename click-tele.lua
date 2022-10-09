@@ -1,6 +1,6 @@
 local pl = game.Players.LocalPlayer
 local mouse = pl:GetMouse()
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 
 local KEY = args[1]
 if not KEY then KEY = Enum.KeyCode.T end

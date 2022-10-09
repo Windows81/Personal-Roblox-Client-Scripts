@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local instances = getinstances()
 local index = args[1] or 1
 if _G.vgui then

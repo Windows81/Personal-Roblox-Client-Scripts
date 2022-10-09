@@ -3,7 +3,7 @@
 	If boolean, whether to hide or show all GUI elements; defaults to toggle.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local MODE = args[1]
 local uis = game:GetService 'UserInputService'
 local rns = game:GetService 'RunService'

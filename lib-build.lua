@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local env = getfenv()
 
 local FUNCS = {}

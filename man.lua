@@ -3,7 +3,7 @@
 	A script alias to pull the help page from.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local p = getscriptpath(args[1])
 if not p then
 	warn(string.format('SCRIPT "%s" DOES NOT EXIST', p))

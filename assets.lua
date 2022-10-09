@@ -153,5 +153,5 @@ for _, s in next, game:GetChildren() do
 	for _, o in next, s:GetDescendants() do process_obj(o) end
 end
 
-_G.EXEC_RETURN = {result}
-_G.EXEC_OUTPUT = {output}
+_E.RETURN = {result}
+_E.OUTPUT = {output}

@@ -12,4 +12,4 @@ rsexec(
 		-092.3,
 		0019.0,
 		0062.4,
-	}, unpack(_G.EXEC_ARGS))
+	}, unpack(_E.ARGS))

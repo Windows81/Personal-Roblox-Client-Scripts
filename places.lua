@@ -16,5 +16,5 @@ while true do
 	pages:AdvanceToNextPageAsync()
 end
 
-_G.EXEC_OUTPUT = {table.concat(lines, '\n')}
-_G.EXEC_RETURN = {result}
+_E.OUTPUT = {table.concat(lines, '\n')}
+_E.RETURN = {result}

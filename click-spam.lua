@@ -9,7 +9,7 @@
 	The number of seconds to wait between clicks; defaults to RenderStepped:Wait().
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 if args[2] then
 	task.wait(args[2])
 else

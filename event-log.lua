@@ -9,7 +9,7 @@
 local DEFAULT_WEBHOOK = nil
 --[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
 
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local WEBHOOK = args[1]
 local FILEPATH = args[2]
 local APPENDS_INSTEAD_OF_WRITES = args[3]

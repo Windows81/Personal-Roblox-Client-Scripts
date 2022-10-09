@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 _G.tmch_t = _G.tmch_t or {}
 
 if #args == 1 and args[1] == false then

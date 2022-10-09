@@ -8,7 +8,7 @@
 	The total duration for the interpolation process.
 ]==] --
 --
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local VALUES = args[1] or {}
 if type(VALUES) == 'number' then VALUES = table.create(VALUES, false) end
 local DURATION = args[2] or (#VALUES - 1) * 5

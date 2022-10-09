@@ -8,7 +8,7 @@ Traverses through a list of objects, with the full path and number of layers fro
 	Number of day/night cycles to take place; defaults to 1
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local duration = args[1] or 7
 local cycles = args[2] or 1
 local rs = game:GetService 'RunService'

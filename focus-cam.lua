@@ -1,6 +1,6 @@
 local rs = game:GetService 'RunService'
 
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local BASE = args[1]
 local FOCUS = args[2]
 

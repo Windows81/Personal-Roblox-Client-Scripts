@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 print'Ensure the copy tool is being used!'
 
 local function clone(p, i)

@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local FLYK = Enum.KeyCode.H
 local ANCK = Enum.KeyCode.G
 local FSTK = Enum.KeyCode.L

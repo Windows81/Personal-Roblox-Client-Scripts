@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local PROP_NAME = args[1]
 local FILTER_FUNC = args[2]
 local MAKE_BIGGER = args[3]

@@ -8,7 +8,7 @@
 --
 local t = tick()
 _G.tpo_ts = t
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local pl = game.Players.LocalPlayer
 local range = args[1] or game.Players.Workspace:GetDescendants()
 if typeof(range) == 'Instance' then range = {range} end

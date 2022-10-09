@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local pl = game.Players.LocalPlayer
 local to_name = args[1]
 

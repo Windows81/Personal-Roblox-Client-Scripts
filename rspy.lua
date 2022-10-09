@@ -4,7 +4,7 @@
 	Remote calls are printed to the dev console by default (F9 window).
 	To use Synapse's console, change Settings.Output to rconsoleprint.
 ]] --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local function arg_sel(n, d)
 	local v = type(args[1]) == 'table' and args[1][n] or args[n]
 	return v == nil and d or v

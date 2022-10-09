@@ -18,7 +18,7 @@
 	The speed at which to play the animation; defaults to 1.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local CHARACTER = args[1] or game.Players.LocalPlayer.Character
 local ANIM_ID = args[2]
 if not CHARACTER then return end
@@ -26,7 +26,7 @@ local STOP_ALL = args[3] ~= false
 local FORCE_LOOP = args[4] ~= false
 local ANIM_OFFSET = args[5] or 0
 local ANIM_SPEED = args[6] or 1
-_G.EXEC_RETURN = {nil, nil}
+_E.RETURN = {nil, nil}
 
 local humanoid = CHARACTER:FindFirstChildOfClass 'Humanoid'
 if not humanoid then return end
@@ -48,7 +48,7 @@ if ANIM_ID then
 	loaded.TimePosition = ANIM_OFFSET % loaded.Length
 	loaded:AdjustSpeed(ANIM_SPEED)
 
-	_G.EXEC_RETURN = {animation, loaded}
+	_E.RETURN = {animation, loaded}
 else
 	stop_all()
 end

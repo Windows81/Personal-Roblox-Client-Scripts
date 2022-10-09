@@ -1,2 +1,2 @@
-print(unpack(_G.EXEC_ARGS))
-_G.EXEC_RETURN = _G.EXEC_ARGS
+print(unpack(_E.ARGS))
+_E.RETURN = _E.ARGS

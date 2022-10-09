@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local COMMAND = args[1]:lower()
 
 if COMMAND == 'party' then

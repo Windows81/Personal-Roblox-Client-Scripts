@@ -20,7 +20,7 @@
 	If true, iterates the array of locations in reverse after sequence is finished.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local ch = game.Players.LocalPlayer.Character
 
 local array = args[1]

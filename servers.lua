@@ -6,7 +6,7 @@
 	Sort in ascending player-count order if true; descending otherwise.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local function get_servers(place, limit, order)
 	local place = place or game.PlaceId
 	local order = order and 'Asc' or 'Desc'
@@ -28,4 +28,4 @@ local function get_servers(place, limit, order)
 	return t
 end
 
-_G.EXEC_RETURN = {get_servers(unpack(args))}
+_E.RETURN = {get_servers(unpack(args))}

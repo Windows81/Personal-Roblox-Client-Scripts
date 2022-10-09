@@ -11,7 +11,7 @@
 	If a number is passed in, perform a linear tween with the specified duration.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local ts = game:GetService 'TweenService'
 local ev = Instance.new'BindableEvent'
 local tk = tick()
@@ -63,4 +63,4 @@ for _, o in next, OBJECTS do
 end
 
 local d = ev.Event:Wait()
-_G.EXEC_RETURN = {d}
+_E.RETURN = {d}

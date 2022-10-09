@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local pl = game.Players.LocalPlayer
 local to_name = args[1]
 
@@ -30,4 +30,4 @@ for _, p in next, game.Players:children() do
 	end
 end
 
-_G.EXEC_RETURN = {to_pl}
+_E.RETURN = {to_pl}

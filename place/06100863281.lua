@@ -1,1 +1,1 @@
-_G.EXEC_RETURN = rsexec('02546155523', unpack(_G.EXEC_ARGS))
+_E.RETURN = rsexec('02546155523', unpack(_E.ARGS))

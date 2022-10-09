@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 if _G.heal then for _, e in next, _G.heal do e:Disconnect() end end
 
 -- Optional boolean that if false, will remove healing.

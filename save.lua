@@ -11,7 +11,7 @@
 --
 local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 
-local args = _G.EXEC_ARGS
+local args = _E.ARGS
 local FILE = args[1] or 'temp.txt'
 local VALUE = args[2]
 local APPEND = args[3]

@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 
 local function get_servers(limit, order)
 	local order = order and 'Asc' or 'Desc'

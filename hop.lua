@@ -122,7 +122,7 @@ end
 local lines
 if isfile(tFn) then
 	lines = readfile(tFn):split('\n')
-elseif _G.EXEC_ARGS then
+elseif _E.ARGS then
 	lines = get_servers()
 end
 process_lines(lines)

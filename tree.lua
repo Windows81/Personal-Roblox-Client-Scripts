@@ -9,7 +9,7 @@ Traverses through a list of objects, with the full path and number of layers fro
 ]==] --
 --
 local lines = {}
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local range = args[1] or game
 if typeof(range) == 'Instance' then range = range:GetDescendants() end
 local query = args[2] or function(o) return true end
@@ -44,5 +44,5 @@ for _, g in next, range do
 end
 
 -- Printing line-by-line is necessary since the dev console truncates large outputs.
-_G.EXEC_OUTPUT = {table.concat(lines, '\n')}
-_G.EXEC_RETURN = {t}
+_E.OUTPUT = {table.concat(lines, '\n')}
+_E.RETURN = {t}

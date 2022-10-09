@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local cc = game.Workspace.CurrentCamera
 if _G.vc_cam then
 	_G.vc_cam:Disconnect()

@@ -8,7 +8,7 @@
 if _G.path_block then _G.path_block:Disconnect() end
 if _G.path_seat then _G.path_seat:Disconnect() end
 
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local ARGUMENT = args[1]
 
 local pl = game.Players.LocalPlayer
@@ -61,7 +61,7 @@ if USE_PATHFIND then
 
 	if not compute(2) then
 		warn('PATH WAS NOT CALCULABLE!')
-		_G.EXEC_RETURN = {false}
+		_E.RETURN = {false}
 		return
 	end
 	_G.path_block = path.Blocked:Connect(compute)
@@ -93,4 +93,4 @@ if _G.path_block then
 	_G.path_block = nil
 end
 
-_G.EXEC_RETURN = {r}
+_E.RETURN = {r}

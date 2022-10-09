@@ -13,7 +13,7 @@ Hold ']' to reduce field of view.
 	The speed at which to pan when '[' is held; defaults to 211.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local NORMAL_SPEED = args[1] or 31
 local SPRINT_SPEED = args[2] or 211
 local TOGGLE_KEY = Enum.KeyCode.Comma

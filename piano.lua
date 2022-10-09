@@ -19,7 +19,7 @@
 	Pitch-shift values for each note in cents, starting from C.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local FILEPATH = args[1]
 local TRANSPOSE = args[2] or 0
 local SPEED = args[3] or 1
@@ -95,7 +95,7 @@ if not PLAY_NOTE then
 	if not s then warn'Unable to find an appropriate piano hook.' end
 end
 
-_G.EXEC_RETURN = {PLAY_NOTE}
+_E.RETURN = {PLAY_NOTE}
 if _G.midi_conn then _G.midi_conn:Disconnect() end
 if FILEPATH == nil then
 	FILEPATH = [[boo.mid]]

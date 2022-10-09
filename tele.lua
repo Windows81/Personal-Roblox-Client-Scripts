@@ -3,7 +3,7 @@
 	The location th teleport the player.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local CFRAME = args[1]
 if typeof(CFRAME) == 'Vector3' then
 	local ccp = game.Workspace.CurrentCamera.CFrame.Position

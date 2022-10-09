@@ -4,7 +4,7 @@
 ]] --
 --
 -- Script paths that are automatically loaded once injected.
-local SCRIPTS = {
+local SCRIPTS = { --
 	-- 'input.lua',
 	-- 'hop.lua',
 	'aafk.lua',
@@ -70,27 +70,47 @@ end
 local function exc(n, ...)
 	local path = gsp(n, ...)
 	if not path then warn(string.format('QUERY "%s" DID NOT YIELD ANY RESULTS', n)) end
-	_G.EXEC_ARGS = {...}
-	_G.EXEC_RETURN = nil
-	_G.EXEC_OUTPUT = nil
+	_E.ARGS = {...}
+	_E.RETURN = nil
+	_E.OUTPUT = nil
 	local success, err_msg = pcall(loadfile(path))
 	if not success then warn(err_msg) end
-	local result = _G.EXEC_RETURN or {}
+	local result = _E.RETURN or {}
 	return unpack(result)
 end
 
 local function output(o)
-	loadfile('save.lua')(_G.EXEC_OUT_PATH, o, true)
+	loadfile('save.lua')(_E.OUT_PATH, o, true)
 	return o
 end
 
 local env = getrenv()
-env.getscriptpath = gsp
-env.rsexec = exc
-env.O = output
-env.E = exc
+local BASE = { --
+	rsexec = exc,
+	getscriptpath = gsp,
+	output = output,
+}
+local ALIASES = { --
+	['E'] = 'RSEXEC',
+	['GSP'] = 'GETSCRIPTPATH',
+	['EXEC'] = 'RSEXEC',
+	['A'] = 'ARGS',
+	['R'] = 'RETURN',
+	['O'] = 'OUTPUT',
+}
 
-_G.EXEC_ARGS = {}
+local function get_meta_key(k)
+	local l = k:upper()
+	return ALIASES[l] or l
+end
+
+env._E = setmetatable(
+	BASE, {
+		__index = function(self, k) return rawget(self, get_meta_key(k)) end,
+		__newindex = function(self, k, v) return rawset(self, get_meta_key(k), v) end,
+		__call = function(self, ...) return exc(...) end,
+	})
+
 for _, n in next, SCRIPTS do task.spawn(function() loadfile(n)() end) end
 local n = ('place/%011d.lua'):format(game.PlaceId)
 if isfile(n) then print('LOADFILE FOR PLACE:', pcall(loadfile(n))) end

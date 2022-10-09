@@ -3,7 +3,7 @@
 	Enabled noclipping if true; disables if false; toggles if nil.
 ]==] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 _G.nc_cache = _G.nc_cache or {}
 
 local TOGGLE = args[1]

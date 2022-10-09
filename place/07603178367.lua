@@ -1,4 +1,4 @@
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local d = args[1] or 3
 local t = tick()
 local c = 0

@@ -11,7 +11,7 @@ local function teleport(id, instance)
 	end
 end
 
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local value = args[1]
 if value < 1818 then
 	local pages = game:GetService 'AssetService':GetGamePlacesAsync()

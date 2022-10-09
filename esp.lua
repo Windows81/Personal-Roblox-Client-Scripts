@@ -13,7 +13,7 @@ Replace "nil" with "true" to enable the setting, or "false" to disable the setti
 If you do not change "nil", the defaults will take place.
 ]] --
 --
-local args = _G.EXEC_ARGS or {}
+local args = _E and _E.ARGS or {}
 local function arg_sel(n, d)
 	local v = type(args[1]) == 'table' and args[1][n] or args[n]
 	return v == nil and d or v
