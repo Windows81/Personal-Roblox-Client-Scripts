@@ -10,11 +10,11 @@ local SCRIPTS = { --
 	'aafk.lua',
 	'zoom-dist.lua',
 	'click-dist.lua',
-	'click-tele.lua',
+	'tele-key.lua',
 	-- 'auto-rej.lua',
 	'event-log.lua',
 	-- 'mute.lua',
-	-- 'rspy.lua',
+	'rspy.lua',
 }
 
 -- Returns a list of paths to search given the command query.
@@ -67,15 +67,17 @@ local function gsp(n, ...)
 	for _, f in next, gsps(n, ...) do if f and isfile(f) then return f end end
 end
 
+local NOT_FOUND_STRING = 'QUERY "%s" DID NOT YIELD ANY RESULTS'
 local function exc(n, ...)
 	local path = gsp(n, ...)
-	if not path then warn(string.format('QUERY "%s" DID NOT YIELD ANY RESULTS', n)) end
+	if not path then error(string.format(NOT_FOUND_STRING, n)) end
 	_E.ARGS = {...}
 	_E.RETURN = nil
 	_E.OUTPUT = nil
-	local success, err_msg = pcall(loadfile(path))
-	if not success then warn(err_msg) end
+	loadfile(path)()
 	local result = _E.RETURN or {}
+	_E.ARGS = nil
+	_E.RETURN = nil
 	return unpack(result)
 end
 

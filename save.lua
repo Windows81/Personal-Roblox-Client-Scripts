@@ -5,7 +5,10 @@
 [2] - any
 	The object to parse and save to a file.
 
-[3] - boolean | nil
+[3] - string | nil
+	The suffix to add to the string.
+
+[4] - boolean | nil
 	If true, append the file instead of overwriting.
 ]==] --
 --
@@ -14,7 +17,8 @@ local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 local args = _E.ARGS
 local FILE = args[1] or 'temp.txt'
 local VALUE = args[2]
-local APPEND = args[3]
+local SUFFIX = args[3] or ''
+local APPEND = args[4]
 
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name:gsub('"', '\\"')
@@ -138,7 +142,7 @@ function parse(obj, lvl) -- Convert the types into strings
 	end
 end
 
-local p = parse(VALUE)
+local p = parse(VALUE) .. SUFFIX
 if APPEND then
 	appendfile(FILE, p)
 else

@@ -38,7 +38,8 @@ for _, g in next, range do
 	local s, b = pcall(query, g)
 	if s and b then
 		local n, c = get_full(g)
-		table.insert(lines, ('[%02d] %s {%s}'):format(c, n, g.ClassName))
+		table.insert(
+			lines, ('\x1b[92m[%02d] \x1b[00m%s \x1b[90m{%s}'):format(c, n, g.ClassName))
 		table.insert(t, g)
 	end
 end

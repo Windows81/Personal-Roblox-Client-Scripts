@@ -16,4 +16,4 @@ if not m then
 	return
 end
 
-print(m)
+_E.RETURN = {m}

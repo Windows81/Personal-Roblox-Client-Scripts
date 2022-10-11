@@ -195,7 +195,7 @@ _G.wh_log_evts = {
 			if uid == lp_uid then return end
 			local pl = plr_from_id_hook(game.Players, uid)
 			local msg = packet.Message
-			plr_chat(pl, msg)
+			if pl then plr_chat(pl, msg) end
 		end),
 	tcs.DescendantAdded:Connect(
 		function(descendant)

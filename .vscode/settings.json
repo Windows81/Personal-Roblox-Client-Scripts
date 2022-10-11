@@ -30,9 +30,10 @@
 		"setclipboard",
 		"hookfunction",
 		"getnilinstances",
-		"E",
 		"hookmetamethod",
 		"gethiddenproperty",
-		"_E"
+		"_E",
+		"_E.RETURN",
+		"_E.ARGS"
 	]
 }

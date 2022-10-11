@@ -10,7 +10,14 @@ local function arg_sel(n, d)
 	return v == nil and d or v
 end
 
-_G.RSpy_Settings = {
+local output_f = arg_sel(3)
+if not output_f then
+	local path = '_rspy.dat'
+	output_f = function(l) appendfile(path, l) end
+	writefile(path, '')
+end
+
+local SETTINGS = {
 	ToServerEnabled = arg_sel(1, true), -- Events to the server are logged.
 	ToClientEnabled = arg_sel(2, true), -- Events to the client are logged.
 	Blacklist = arg_sel(
@@ -31,83 +38,95 @@ _G.RSpy_Settings = {
 			['.ReplicatedStorage.CS.GiveFoodDiner'] = true, -- 02546155523
 			['.ReplicatedStorage.VisualRemotes.ChangeNeckWeld'] = true, -- 9664467600
 			['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
+			['.ReplicatedStorage.Phone.GetMissionsData'] = true, -- 735030788
 		}),
 	LineBreak = arg_sel(9, '\n'),
 	BlockBreak = arg_sel(10, '\n\n'),
 	ShowScript = arg_sel(6, true), -- Print out the script that made the remote call (nonfunctional with ProtoSmasher).
 	ShowReturns = arg_sel(7, true), -- Display what the remote calls return.
-	Output = arg_sel(3, rconsoleprint), -- Function used to output remote calls (rconsoleprint uses Synapse's console).
+	Output = output_f, -- Function used to output remote calls (rconsoleprint uses Synapse's console).
 	ProtectFunction = arg_sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
-	NullifyBrokenMethods = arg_sel(5, false), -- Filter out method calls that break when Remote Spy is used (DESTRUCTIVE).
 }
 
-local metatable = getrawmetatable(game)
-local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
-local _, detour_function = next{detour_function, replace_closure, hookfunction}
-local _, setclipboard = next{setclipboard, set_clipboard, writeclipboard}
+if _G.RSpy_Settings then return end
+_G.RSpy_Settings = SETTINGS
 
-local _, get_namecall_method = next{
+local metatable = getrawmetatable(game)
+local _, make_writeable = next{ --
+	make_writeable,
+	setreadonly,
+	set_readonly,
+}
+
+local _, detour_function = next{ --
+	detour_function,
+	replace_closure,
+	hookfunction,
+}
+
+local _, get_namecall_method = next{ --
 	get_namecall_method,
 	getnamecallmethod,
 	function(o) return typeof(o) == 'Instance' and Methods[o.ClassName] or nil end,
 }
 
-local _, protect_function = next{
-	_G.RSpy_Settings.ProtectFunction and protect_function or nil,
-	_G.RSpy_Settings.ProtectFunction and newcclosure or nil,
+local _, protect_function = next{ --
+	SETTINGS.ProtectFunction and protect_function or nil,
+	SETTINGS.ProtectFunction and newcclosure or nil,
 	function(...) return ... end,
 }
 
-local _, get_instances = next{
+local _, get_instances = next{ --
 	getinstances,
 	function() return game:GetDescendants() end,
 }
 
 _G.RSpy_Original = {}
-local Methods = {RemoteEvent = 'FireServer', RemoteFunction = 'InvokeServer'}
-local ErrorMethodDict = {}
+local methods = {RemoteEvent = 'FireServer', RemoteFunction = 'InvokeServer'}
 
-local function GetInstanceName(Object) -- Returns proper string wrapping for instances
+local function obj_name(Object) -- Returns proper string wrapping for instances
 	local Name = Object.Name
 	return
 		((#Name == 0 or Name:match('[^%w]+') or Name:sub(1, 1):match('[^%a]')) and
 			'["%s"]' or '.%s'):format(Name)
 end
 
-local function IsInBlacklist(Object)
-	local Path = GetInstanceName(Object)
-	if _G.RSpy_Settings.Blacklist[Path:sub(2)] then return true end
-	local Parent = metatable.__index(Object, 'Parent')
-	while Parent and Parent ~= game do
-		Path = GetInstanceName(Parent) .. Path
-		if _G.RSpy_Settings.Blacklist[Path] then return true end
-		Parent = metatable.__index(Parent, 'Parent')
+local function in_blacklist(Object)
+	local path = obj_name(Object)
+	if SETTINGS.Blacklist[path:sub(2)] then return true end
+	local parent = metatable.__index(Object, 'Parent')
+	while parent and parent ~= game do
+		path = obj_name(parent) .. path
+		if SETTINGS.Blacklist[path] then return true end
+		parent = metatable.__index(parent, 'Parent')
 	end
 	return false
 end
 
-local function Parse(Object) -- Convert the types into strings
-	local Type = typeof(Object)
-	if Type == 'string' then
-		return ('"%s"'):format(Object)
+-- Convert the types into strings.
+local function parse(obj)
+	local t = typeof(obj)
+	if t == 'string' then
+		return ('"%s"'):format(obj)
 
-	elseif Type == 'Instance' then -- Instance:GetFullName() except it's not handicapped
-		local Path = GetInstanceName(Object)
-		local Parent = metatable.__index(Object, 'Parent')
+		-- Instance:GetFullName(), except it's not handicapped.
+	elseif t == 'Instance' then
+		local Path = obj_name(obj)
+		local Parent = metatable.__index(obj, 'Parent')
 		while Parent and Parent ~= game do
-			Path = GetInstanceName(Parent) .. Path
+			Path = obj_name(Parent) .. Path
 			Parent = metatable.__index(Parent, 'Parent')
 		end
-		return (Object:IsDescendantOf(game) and 'game' or 'NIL') .. Path
+		return (obj:IsDescendantOf(game) and 'game' or 'NIL') .. Path
 
-	elseif Type == 'table' then
+	elseif t == 'table' then
 		local Str = ''
 		local Counter = 0
-		for Idx, Obj in next, Object do
+		for Idx, Obj in next, obj do
 			Counter = Counter + 1
-			local Obj = Obj ~= Object and Parse(Obj) or 'THIS_TABLE'
+			local Obj = Obj ~= obj and parse(Obj) or 'THIS_TABLE'
 			if Counter ~= Idx then
-				local IdxStr = Idx ~= Object and Parse(Idx) or 'THIS_TABLE'
+				local IdxStr = Idx ~= obj and parse(Idx) or 'THIS_TABLE'
 				Str = Str .. ('[%s] = %s, '):format(IdxStr, Obj) -- maybe
 			else
 				Str = Str .. ('%s, '):format(Obj)
@@ -115,83 +134,78 @@ local function Parse(Object) -- Convert the types into strings
 		end
 		return ('{%s}'):format(Str:sub(1, -3))
 
-	elseif Type == 'CFrame' or Type == 'Vector3' or Type == 'Vector2' or Type ==
-		'UDim2' or Type == 'Vector3int16' then
-		return ('%s.new(%s)'):format(Type, tostring(Object))
+	elseif t == 'CFrame' or t == 'Vector3' or t == 'Vector2' or t == 'UDim2' or t ==
+		'Vector3int16' then
+		return ('%s.new(%s)'):format(t, tostring(obj))
 
-	elseif Type == 'Color3' then
+	elseif t == 'Color3' then
 		return ('%s.fromRGB(%d, %d, %d)'):format(
-			Type, Object.R * 255, Object.G * 255, Object.B * 255)
+			t, obj.R * 255, obj.G * 255, obj.B * 255)
 
-	elseif Type == 'userdata' then -- Remove __tostring fields to counter traps
-		local Result
-		local Metatable = getrawmetatable(Object)
-		local __tostring = Metatable and Metatable.__tostring
+	elseif t == 'userdata' then -- Remove __tostring fields to counter traps
+		local res
+		local meta = getrawmetatable(obj)
+		local __tostring = meta and meta.__tostring
 		if __tostring then
-			make_writeable(Metatable, false)
-			Metatable.__tostring = nil
-			Result = tostring(Object)
-			rawset(Metatable, '__tostring', __tostring)
-			make_writeable(Metatable, rawget(Metatable, '__metatable') ~= nil)
+			make_writeable(meta, false)
+			meta.__tostring = nil
+			res = tostring(obj)
+			rawset(meta, '__tostring', __tostring)
+			make_writeable(meta, rawget(meta, '__metatable') ~= nil)
 		else
-			Result = tostring(Object)
+			res = tostring(obj)
 		end
-		return Result
+		return res
 	else
-		return tostring(Object)
+		return tostring(obj)
 	end
 end
 
--- Remote (Instance), Arguments (Table), Returns (Table)
-local function Write(Remote, MethodName, Arguments, Script, Returns)
-	_G.RSpy_Settings.Output(
-		('%s:%s(%s)'):format(
-			Parse(Remote), MethodName, Parse(Arguments):sub(2, -2)))
+local function write(remote, format, arguments, script, returns)
+	local line = format:format(parse(remote), parse(arguments):sub(2, -2))
+	SETTINGS.Output(line)
 
-	if _G.RSpy_Settings.ShowScript and Script then
-		if typeof(Script) == 'Instance' then
-			_G.RSpy_Settings.Output(
-				('%sScript: %s'):format(
-					_G.RSpy_Settings.LineBreak, Parse(Script)))
+	if SETTINGS.ShowScript and script then
+		if typeof(script) == 'Instance' then
+			SETTINGS.Output(('%sScript: %s'):format(SETTINGS.LineBreak, parse(script)))
 		end
 	end
-	if _G.RSpy_Settings.ShowReturns and Returns and #Returns > 0 then
-		_G.RSpy_Settings.Output(
+	if SETTINGS.ShowReturns and returns and #returns > 0 then
+		SETTINGS.Output(
 			('%sReturned: %s'):format(
-				_G.RSpy_Settings.LineBreak, Parse(Returns):sub(2, -2)))
+				SETTINGS.LineBreak, parse(returns):sub(2, -2)))
 	end
-	_G.RSpy_Settings.Output(_G.RSpy_Settings.BlockBreak)
+	SETTINGS.Output(SETTINGS.BlockBreak)
 end
 
-local function HookServer(self, Method, Func, ...)
-	if _G.RSpy_Settings.NullifyBrokenMethods and ErrorMethodDict[Method] then
-		return Func(self, ...)
-	elseif not _G.RSpy_Settings.ToServerEnabled then
-		return Func(self, ...)
+local function hook_server(self, method_n, f, ...)
+	if not SETTINGS.ToServerEnabled then
+		return f(self, ...)
 	elseif typeof(self) ~= 'Instance' then
-		return Func(self, ...)
-	elseif typeof(Method) ~= 'string' then
-		return Func(self, ...)
-	elseif Methods[self.ClassName] ~= Method then
-		return Func(self, ...)
-	elseif IsInBlacklist(self) then
-		return Func(self, ...)
+		return f(self, ...)
+	elseif typeof(method_n) ~= 'string' then
+		return f(self, ...)
+	elseif methods[self.ClassName] ~= method_n then
+		return f(self, ...)
+	elseif in_blacklist(self) then
+		return f(self, ...)
 	end
 
 	-- ProtoSmasher HATES getfenv(4); detour_function breaks!
-	local EnvSuccess, Environment = pcall(getfenv, 4)
-	local ShowScript = _G.RSpy_Settings.ShowScript and not PROTOSMASHER_LOADED
-	local EnvScript = ShowScript and rawget(Environment, 'script') or nil
+	local env_s, env = pcall(getfenv, 4)
+	local show_s = SETTINGS.ShowScript and not PROTOSMASHER_LOADED
+	local env_sc = show_s and rawget(env, 'script') or nil
 
-	local Arguments = {...}
-	if not _G.RSpy_Settings.ShowReturns then
-		Write(self, Method, Arguments, EnvScript)
-		return Func(self, ...)
+	local arguments = {...}
+	local format = string.format('%%s:%s(%%s)', method_n)
+	if not SETTINGS.ShowReturns then
+		write(self, format, arguments, env_sc)
+		return f(self, ...)
 	end
 
-	local Returns = {Func(self, ...)}
-	if EnvSuccess then Write(self, Method, Arguments, EnvScript, Returns) end
-	return unpack(Returns)
+	local returns = {f(self, ...)}
+	if env_s then write(self, format, arguments, env_sc, returns) end
+	return unpack(returns)
 end
 
 -- Anti-detection for tostring; tostring(FireServer, InvokeServer)
@@ -200,12 +214,11 @@ do
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(obj)
-			local Success, Result = pcall(
-				CURR or original_function, _G.RSpy_Original[obj] or obj)
-			if Success then
-				return Result
+			local s, res = pcall(CURR or original_function, _G.RSpy_Original[obj] or obj)
+			if s then
+				return res
 			else
-				error(Result:gsub(script.Name .. ':%d+: ', ''))
+				error(res:gsub(script.Name .. ':%d+: ', ''))
 			end
 		end)
 	_G.RSpy_Original[CURR] = nil
@@ -214,13 +227,13 @@ do
 end
 
 -- FireServer and InvokeServer hooking; FireServer(Remote, ...)
-for Class, Method in next, Methods do
-	local CURR = Instance.new(Class)[Method]
+for class, method in next, methods do
+	local CURR = Instance.new(class)[method]
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(self, ...)
-			local Func = CURR or original_function
-			return HookServer(self, Method, Func, ...)
+			local f = CURR or original_function
+			return hook_server(self, method, f, ...)
 		end)
 	_G.RSpy_Original[CURR] = nil
 	_G.RSpy_Original[NEWF] = ORIG
@@ -233,9 +246,9 @@ do
 	local ORIG = _G.RSpy_Original[CURR] or CURR
 	local NEWF = protect_function(
 		function(self, ...)
-			local Method = get_namecall_method(self)
-			local Func = CURR or original_function
-			return HookServer(self, Method, Func, ...)
+			local mn = get_namecall_method(self)
+			local f = CURR or original_function
+			return hook_server(self, mn, f, ...)
 		end)
 	_G.RSpy_Original[CURR] = nil
 	_G.RSpy_Original[NEWF] = ORIG
@@ -249,20 +262,21 @@ end
 
 -- Connect to remotes; Remote:FireClient(...)
 do
-	local function HookEvent(Remote)
-		if Remote.ClassName == 'RemoteEvent' then
-			Remote.OnClientEvent:Connect(
+	local function hook_evt(remote)
+		if remote.ClassName == 'RemoteEvent' then
+			remote.OnClientEvent:Connect(
 				function(...)
-					if _G.RSpy_Settings.ToClientEnabled and not IsInBlacklist(Remote) then
-						Write(Remote, 'FireClient', {...}, nil, nil)
+					if SETTINGS.ToClientEnabled and not in_blacklist(remote) then
+						local Format = '%s.OnClientEvent » (%s)'
+						write(remote, Format, {...}, nil, nil)
 					end
 				end)
 		end
 	end
-	game.DescendantAdded:Connect(HookEvent)
-	for _, Object in next, get_instances() do HookEvent(Object) end
+	game.DescendantAdded:Connect(hook_evt)
+	for _, o in next, get_instances() do hook_evt(o) end
 end
 
 warn('Settings:')
-table.foreach(_G.RSpy_Settings, print)
+table.foreach(SETTINGS, print)
 warn('----------------')
