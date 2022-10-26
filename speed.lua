@@ -16,4 +16,4 @@ local p2 = p.Position
 
 local v = (p2 - p1).Magnitude / d
 _E.RETURN = {v}
-_E.OUTPUT = {p, string.format('%.1f studs per second', v)}
+_E.OUTPUT = {string.format('%.1f studs per second', v)}
