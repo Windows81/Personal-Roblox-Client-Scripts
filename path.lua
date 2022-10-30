@@ -13,7 +13,7 @@ local ARGUMENT = args[1]
 
 local pl = game.Players.LocalPlayer
 local ch = pl.Character
-local h = ch.Humanoid
+local h = ch:FindFirstChildWhichIsA 'Humanoid'
 local waypoints = {}
 local index = 1
 

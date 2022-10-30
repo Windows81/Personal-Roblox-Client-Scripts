@@ -34,7 +34,7 @@ elseif COMMAND == 'farm' then
 
 	local lp = game.Players.LocalPlayer
 	local ch = lp.Character
-	local ccf = ch.Humanoid.RootPart.CFrame
+	local ccf = ch:FindFirstChildWhichIsA 'Humanoid'.RootPart.CFrame
 
 	local EQUATION
 	local ANSWERPAD

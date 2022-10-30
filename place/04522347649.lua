@@ -1,6 +1,6 @@
 task.wait(2)
 local h = {}
-local pls = game.Players:children()
+local pls = game.Players:GetPlayers()
 for _, p in next, pls do
 	if p.Character and p ~= game.Players.LocalPlayer then
 		h[p] = p.Character:GetPrimaryPartCFrame()

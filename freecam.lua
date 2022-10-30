@@ -58,11 +58,11 @@ function set_enabled(b)
 	if enabled == b then return end
 	enabled = b
 	if enabled then
-		pl.Character.Humanoid.WalkSpeed = 0
+		pl.Character:FindFirstChildWhichIsA 'Humanoid'.WalkSpeed = 0
 		cam.CameraType = Enum.CameraType.Scriptable
 	else
-		pl.Character.Humanoid.WalkSpeed = 16
-		cam.CameraSubject = pl.Character.Humanoid
+		pl.Character:FindFirstChildWhichIsA 'Humanoid'.WalkSpeed = 16
+		cam.CameraSubject = pl.Character:FindFirstChildWhichIsA 'Humanoid'
 		cam.CameraType = Enum.CameraType.Custom
 	end
 end

@@ -13,7 +13,7 @@ end
 
 local to_pl
 local min = math.huge
-for _, p in next, game.Players:children() do
+for _, p in next, game.Players:GetPlayers() do
 	if p ~= pl then
 		local nv = math.huge
 		local un = p.Name

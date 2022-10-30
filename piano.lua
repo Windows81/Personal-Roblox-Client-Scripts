@@ -42,12 +42,13 @@ if not PLAY_NOTE then
 
 		-- Ro-Xolotl player (microtones are supported).
 		function()
-			local log_mod = game.Workspace:findFirstChild('PianoLogic', true)
+			local log_mod = game.Workspace:FindFirstChild('PianoLogic', true)
 			local sft_mod = log_mod.Parent.Parent.Dependencies.Soundfonts
 			local sft = require(sft_mod)[OTHER_ARGS[1] or 1]
 			local hook = require(log_mod).PlayNote
 			return function(midi_note)
-				local h = game.Players.LocalPlayer.Character.Humanoid
+				local h =
+					game.Players.LocalPlayer.Character:FindFirstChildWhichIsA 'Humanoid'
 				if not h then error'No humanoid found.' end
 				local s = h.SeatPart
 				if not s then error'Character is not sat.' end

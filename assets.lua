@@ -29,7 +29,7 @@ end
 local function is_in_char(obj)
 	local parent = obj
 	while parent do
-		if parent:findFirstChild 'Humanoid' then return true end
+		if parent:FindFirstChild 'Humanoid' then return true end
 		parent = parent.Parent
 	end
 	return false

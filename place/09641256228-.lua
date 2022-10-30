@@ -6,7 +6,7 @@ _G.gls_evts = {}
 function iter(pl)
 	local ch = pl.Character
 	if not ch then return end
-	local h = ch:findFirstChild 'Humanoid'
+	local h = ch:FindFirstChild 'Humanoid'
 	if not h then return end
 
 	local p = h.RootPart.Position
@@ -18,7 +18,7 @@ function iter(pl)
 	local mod = z % 1
 	if (x > 2 or x < -2) and y < 0.2 and (mod > .3 and mod < .7) then
 		local n = '' .. i .. '.' .. w
-		local o = m:findFirstChild(n)
+		local o = m:FindFirstChild(n)
 		task.wait(2)
 		if not o or not o.Parent then return end
 		o.Color = Color3.new(0, 0, 0)
@@ -27,9 +27,9 @@ function iter(pl)
 end
 table.insert(
 	_G.gls_evts, game:GetService 'RunService'.Heartbeat:Connect(
-		function() for _, pl in next, game.Players:children() do iter(pl) end end))
+		function() for _, pl in next, game.Players:GetPlayers() do iter(pl) end end))
 
-for _, g in next, m:children() do
+for _, g in next, m:GetChildren() do
 	local s = string.split(g.Name, '.')
 	local i, w = tonumber(s[1]), 3 - s[2]
 	local n = '' .. i .. '.' .. w;

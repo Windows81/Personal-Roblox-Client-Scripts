@@ -1,7 +1,7 @@
 local entries = {}
 local pnts_avail = 0
-for _, pl in next, game.Players:children() do
-	local l = pl:findFirstChild 'leaderstats'
+for _, pl in next, game.Players:GetPlayers() do
+	local l = pl:FindFirstChild 'leaderstats'
 	if l then
 		local val = l.Words.Value
 		local entry = {value = val, player = pl}

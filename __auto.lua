@@ -7,7 +7,8 @@
 local SCRIPTS = { --
 	-- 'input.lua',
 	-- 'hop.lua',
-	'aafk.lua',
+	'anti-afk.lua',
+	'anti-kick.lua',
 	'zoom-dist.lua',
 	'click-dist.lua',
 	'tele-key.lua',
@@ -88,9 +89,9 @@ end
 
 local env = getrenv()
 local BASE = { --
-	rsexec = exc,
-	getscriptpath = gsp,
-	output = output,
+	RSEXEC = exc,
+	GETSCRIPTPATH = gsp,
+	OUTPUT = output,
 }
 local ALIASES = { --
 	['E'] = 'RSEXEC',

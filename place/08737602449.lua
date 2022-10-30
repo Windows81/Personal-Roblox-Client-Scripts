@@ -42,4 +42,4 @@ print('FUNCTIONS HÒÓKED UP')
 
 rsexec'fly'
 rsexec'freecam'
--- rsexec'hide-all'
+-- rsexec'hide-gui'

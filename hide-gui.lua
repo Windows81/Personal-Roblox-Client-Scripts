@@ -12,7 +12,7 @@ local function should_hide(o)
 	if o.ClassName == 'BillboardGui' then
 		local parent = o
 		while parent do
-			if parent:findFirstChild 'Humanoid' then return true end
+			if parent:FindFirstChild 'Humanoid' then return true end
 			if parent == game.Workspace then break end
 			parent = parent.Parent
 		end

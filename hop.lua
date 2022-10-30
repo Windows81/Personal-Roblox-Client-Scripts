@@ -21,7 +21,7 @@ local function get_stat()
 	task.wait(69)
 	local f = game.CoreGui.RobloxGui.SettingsShield. --
 	SettingsShield.MenuContainer.PageViewClipper.PageView. --
-	PageViewInnerFrame:findFirstChild 'Players'
+	PageViewInnerFrame:FindFirstChild 'Players'
 	if not f then return false end
 	local c = 0
 	for _, g in next, f:GetDescendants() do

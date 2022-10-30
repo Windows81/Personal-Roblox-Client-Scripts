@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Humanoid.Health = 0
+game.Players.LocalPlayer.Character:FindFirstChildWhichIsA 'Humanoid'.Health = 0

@@ -95,8 +95,10 @@ end
 cleanup()
 
 if array then
-	_G.fp_rp = Instance.new('RocketPropulsion', ch.Humanoid.RootPart)
-	_G.fp_bg = Instance.new('BodyGyro', ch.Humanoid.RootPart)
+	_G.fp_rp = Instance.new(
+		'RocketPropulsion', ch:FindFirstChildWhichIsA 'Humanoid'.RootPart)
+	_G.fp_bg = Instance.new(
+		'BodyGyro', ch:FindFirstChildWhichIsA 'Humanoid'.RootPart)
 	_G.fp_rp.MaxTorque = Vector3.new(1e9, 1e9, 1e9)
 	_G.fp_tr = Instance.new('Part', _G.fp_rp)
 	_G.fp_tr.Transparency = 1

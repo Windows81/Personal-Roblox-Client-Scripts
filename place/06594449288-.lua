@@ -1,7 +1,7 @@
 task.wait(2)
 local h = {}
-for _, g in next, game.Workspace.ShootingTargets:children() do
-	local p = g:findFirstChild 'PrimaryPart'
+for _, g in next, game.Workspace.ShootingTargets:GetChildren() do
+	local p = g:FindFirstChild 'PrimaryPart'
 	if p then h[p] = true end
 end
 
@@ -12,7 +12,7 @@ _G.aa_loop = tick()
 local t = _G.aa_loop
 local rs = game:GetService 'RunService'
 while next(h) and _G.aa_loop == t do
-	local ch = pl.Character.Humanoid.RootPart.CFrame
+	local ch = pl.Character:FindFirstChildWhichIsA 'Humanoid'.RootPart.CFrame
 	for p in next, h do
 		local c = -ch:PointToObjectSpace(p.Position)
 		if c.Z > 0 and c.Z < 9 and math.abs(c.X) / c.Z < 1.5 then

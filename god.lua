@@ -23,7 +23,7 @@ task.wait()
 cam.CFrame = ccf
 
 h_cl.DisplayDistanceType = Enum.HumanoidDisplayDistanceType.None
-local a_scpt = ch:findFirstChild 'Animate'
+local a_scpt = ch:FindFirstChild 'Animate'
 if a_scpt then
 	a_scpt.Disabled = true
 	task.wait()

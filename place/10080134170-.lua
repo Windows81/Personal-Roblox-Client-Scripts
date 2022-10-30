@@ -14,9 +14,9 @@ local SIZES = {
 }
 
 local gui = game.Players.LocalPlayer.PlayerGui.MainGUI.ScreenGui
-for _, dd in next, gui:children() do
+for _, dd in next, gui:GetChildren() do
 	local t = {}
-	local options = dd:findFirstChild('Content', true)
+	local options = dd:FindFirstChild('Content', true)
 	if options then
 		local op_i = 1
 		for _, op in next, options:GetDescendants() do

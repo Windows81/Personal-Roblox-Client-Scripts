@@ -26,7 +26,7 @@ end
 
 game.Players.PlayerAdded:Connect(
 	function(p) p.CharacterAdded:Connect(do_char) end)
-for _, p in next, game.Players:GetChildren() do
+for _, p in next, game.Players:GetPlayers() do
 	p.CharacterAdded:Connect(do_char)
 	do_char(p.Character)
 end

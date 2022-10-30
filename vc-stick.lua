@@ -1,5 +1,6 @@
 local args = _E and _E.ARGS or {}
 local ss = game.SoundService
+local NAME = args[1]
 
 local function stop()
 	if not _G.vc_stk then return false end
@@ -14,7 +15,7 @@ local function start(pl)
 	if _G.vc_stk or not pl then return false end
 	local ch = pl.Character
 	if not ch then return false end
-	local hd = ch:findFirstChild 'Head'
+	local hd = ch:FindFirstChild 'Head'
 	if not hd then return false end
 
 	ss.DistanceFactor = ss.DistanceFactor / 666
@@ -25,9 +26,8 @@ local function start(pl)
 end
 
 if not stop() then
-	local name = args[1]
 	start(
-		typeof(name) == 'number' and game.Players:GetPlayerByUserId(name) or
-			typeof(name) == 'string' and game.Players:findFirstChild(name) or
+		typeof(NAME) == 'number' and game.Players:GetPlayerByUserId(NAME) or
+			typeof(NAME) == 'string' and game.Players:FindFirstChild(NAME) or
 			game.Players.LocalPlayer)
 end

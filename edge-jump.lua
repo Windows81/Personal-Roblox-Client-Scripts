@@ -4,21 +4,21 @@ local ENABLE = args[1]
 if ENABLE == nil then ENABLE = _G.ejp_evt == nil end
 
 local lp = game.Players.LocalPlayer
-local ch = lp.Character
-local h = ch and ch:FindFirstChildWhichIsA 'Humanoid'
 
 local state
 local laststate
 local lastcf
-local function edgejump()
+local HST = Enum.HumanoidStateType
+local function loop()
+	local ch = lp.Character
 	if not ch then return end
+	local h = ch and ch:FindFirstChildWhichIsA 'Humanoid'
 	if not h then return end
 
 	laststate = state
 	state = h:GetState()
 	local hrp = h.RootPart
-	if laststate ~= state and state == Enum.HumanoidStateType.Freefall and
-		laststate ~= Enum.HumanoidStateType.Jumping then
+	if laststate ~= state and state == HST.Freefall and laststate ~= HST.Jumping then
 		hrp.CFrame = lastcf
 		local pow = h.JumpPower or h.JumpHeight
 		local vel = hrp.AssemblyLinearVelocity
@@ -33,5 +33,5 @@ if _G.ejp_evt then
 end
 
 if ENABLE then
-	_G.ejp_evt = game:GetService 'RunService'.RenderStepped:Connect(edgejump)
+	_G.ejp_evt = game:GetService 'RunService'.RenderStepped:Connect(loop)
 end

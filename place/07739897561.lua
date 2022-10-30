@@ -2,12 +2,12 @@ local COLS = 2
 
 local cache = {}
 function get(r, c)
-	local o = game.Workspace.Guess:findFirstChild(tostring(r))
+	local o = game.Workspace.Guess:FindFirstChild(tostring(r))
 	if not o then return end
 	cache[r] = cache[r] or {}
 	if cache[r][c] then return cache[r][c] end
 	local p = '^' .. c
-	for i, g in next, o:children() do
+	for i, g in next, o:GetChildren() do
 		if g.ClassName == 'Part' and g.Position.Z == 18 - c * 12 then
 			cache[r][c] = g
 			return g
@@ -43,12 +43,12 @@ while R >= 0 do
 			function(p)
 
 				local ch = p.Parent
-				local h = ch:findFirstChild 'Humanoid'
+				local h = ch:FindFirstChild 'Humanoid'
 				if not h then return end
 
-				local hrp = ch.Humanoid.RootPart.Position
+				local hrp = ch:FindFirstChildWhichIsA 'Humanoid'.RootPart.Position
 				task.wait(1.5)
-				local hrd = ch.Humanoid.RootPart.Position - hrp
+				local hrd = ch:FindFirstChildWhichIsA 'Humanoid'.RootPart.Position - hrp
 				local hl = h.Health > 0
 				local mg = hrd.Magnitude < 28
 				local mr = (chrs[ch] or -1) >= r

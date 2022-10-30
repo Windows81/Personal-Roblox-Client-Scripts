@@ -9,7 +9,7 @@ else
 	function get_participants()
 		local mc = game.CoreGui.RobloxGui.SettingsShield.SettingsShield.MenuContainer
 		local f =
-			mc.PageViewClipper.PageView.PageViewInnerFrame:findFirstChild 'Players'
+			mc.PageViewClipper.PageView.PageViewInnerFrame:FindFirstChild 'Players'
 		if not f then return {} end
 		local t = {}
 		for _, g in next, f:GetDescendants() do

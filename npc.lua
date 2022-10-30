@@ -33,7 +33,8 @@ elseif not DESCRIPTION then
 end
 
 if char then
-	char.Humanoid.DisplayDistanceType = Enum.HumanoidDisplayDistanceType.None
+	char:FindFirstChildWhichIsA 'Humanoid'.DisplayDistanceType =
+		Enum.HumanoidDisplayDistanceType.None
 	char:SetPrimaryPartCFrame(CFRAME)
 	char.Parent = game.Workspace
 end

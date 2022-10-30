@@ -26,5 +26,5 @@ _G.cfs = { --[[COPY FROM HERE
 2021-10-08T17:52:23.830Z,889.830261,3a2c,6 [FLog::Output] COPY UNTIL HERE]]
 }
 
-local b = game.Workspace.Map.Tower:findFirstChild 'Blocker'
+local b = game.Workspace.Map.Tower:FindFirstChild 'Blocker'
 if b then b:destroy() end

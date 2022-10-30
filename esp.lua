@@ -283,7 +283,9 @@ function plr_add(p)
 				end)
 			table.insert(_G.ESP_Events, ev)
 		else
-			add(char, {Player = p, PrimaryPart = char.HumanoidRootPart})
+			add(
+				char,
+					{Player = p, PrimaryPart = char:FindFirstChildWhichIsA 'Humanoid'.RootPart})
 		end
 	end
 	table.insert(_G.ESP_Events, p.CharacterAdded:Connect(chr_add))

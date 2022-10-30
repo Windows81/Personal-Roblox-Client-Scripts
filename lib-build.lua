@@ -1,15 +1,56 @@
-local args = _E.ARGS
-local env = getfenv()
+--[==[HELP]==
+Loads the following functions into the current execution environment vía genrenv:
+{
+	make,
+	void,
+	delete,
+	reset,
+	box3,   -- Geneator that returns a box of CFrames of a 2D or 3D box.
+	sngl,   -- Generator that returns a single CFrame.
+	frme,   -- Geneator that returns CFrames arranged in a hollow 2D or 3D box.
+	invf,   -- Geneator that returns a box of CFrames of a 2D or 3D box minus the outer layer.
+	iter,   -- Generator that offsets an arbitrary parameter.
+	join,   -- Join of two or more generators.
+}
 
-local FUNCS = {}
-local function load(i, s, d) FUNCS[s] = args[s] or env[s] or args[i] or d end
-load(1, 'ADD_BLOCK')
-load(2, 'BLOCK_EXISTS')
-load(3, 'CLEAR_BLOCKS')
-load(4, 'task.wait_FOR_BLOCK')
-load(5, 'REMOVE_BLOCK')
-load(6, 'BLOCK_CHUNK_SIZE', -1)
-load(7, 'BLOCK_CHUNK_PERIOD', 0)
+[1] - function
+	Corresponds to the internal ADD_BLOCK function.
+
+[2] - function
+	Corresponds to the internal BLOCK_EXISTS function.
+
+[3] - function | nil
+	Corresponds to the internal CLEAR_BLOCKS function.
+
+[4] - function | nil
+	Corresponds to the internal WAIT_FOR_BLOCK function.
+
+[5] - function | nil
+	Corresponds to the internal REMOVE_BLOCK function.
+
+[6] - number | nil
+	Corresponds to the internal BLOCK_CHUNK_SIZE parameter.
+	If less than 0 or not passed in, insert all blocks at once.
+
+[7] - number | nil
+	Grace period between timed chunks in the same insertion action; defaults to 0.
+]==] --
+--
+local raw_args = _E.ARGS
+local env = getrenv()
+
+local ARGS = {}
+local function arg_load(i, s, d)
+	local _, v = next{raw_args[s], env[s], raw_args[i], d}
+	ARGS[s] = v
+end
+arg_load(1, 'ADD_BLOCK')
+arg_load(2, 'BLOCK_EXISTS')
+arg_load(3, 'CLEAR_BLOCKS')
+arg_load(4, 'WAIT_FOR_BLOCK')
+arg_load(5, 'REMOVE_BLOCK')
+arg_load(6, 'BLOCK_CHUNK_SIZE', -1)
+arg_load(7, 'BLOCK_CHUNK_PERIOD', 0)
 
 _G.build_last_cleared = _G.build_last_cleared or tick()
 _G.build_evt = _G.build_evt or Instance.new'BindableEvent'
@@ -29,8 +70,8 @@ task.spawn(
 		local queue = _G.build_queue
 		while _G.build_loop == tickmark do
 			-- Rate limiting.
-			if count == FUNCS.BLOCK_CHUNK_SIZE then
-				grace = FUNCS.BLOCK_CHUNK_PERIOD
+			if count == ARGS.BLOCK_CHUNK_SIZE then
+				grace = ARGS.BLOCK_CHUNK_PERIOD
 				count = 0
 			end
 			if grace > 0 then
@@ -46,11 +87,11 @@ task.spawn(
 				count = count + 1
 				task.spawn(
 					function()
-						local s, o = pcall(FUNCS.ADD_BLOCK, unpack(queue_args))
+						local s, o = pcall(ARGS.ADD_BLOCK, unpack(queue_args))
 						if not s then o = nil end
 						_G.build_cache[cf] = nil
 						if o then
-							if not FUNCS.task.wait_FOR_BLOCK then
+							if not ARGS.WAIT_FOR_BLOCK then
 								local k = cache_key(cf)
 								_G.build_store[k] = o
 							end
@@ -63,11 +104,11 @@ task.spawn(
 		end
 	end)
 
-if FUNCS.task.wait_FOR_BLOCK then
+if ARGS.WAIT_FOR_BLOCK then
 	task.spawn(
 		function()
 			while _G.build_loop == tickmark do
-				local obj_cf, obj = FUNCS.task.wait_FOR_BLOCK()
+				local obj_cf, obj = ARGS.WAIT_FOR_BLOCK()
 				local near, near_cf
 
 				for cf in next, _G.build_cache do
@@ -86,7 +127,7 @@ end
 local function make(cfs, ...)
 	if not _G.build_last_cleared then return false end
 	local last = _G.build_last_cleared
-	local c = #cfs
+	local clear_i = #cfs
 	local a = {...}
 	local b = true
 	local cf_list = {}
@@ -101,15 +142,15 @@ local function make(cfs, ...)
 			for i = #queue, 1, -1 do queue[i + #cfs] = queue[i] end
 
 			-- Adds new CFrames to the queue.
-			local c = 1
+			local queue_i = 1
 			for i = #cfs, 1, -1 do
 				local cf = cfs[i]
 				cf_list[i] = cf
 				local s = cache_key(cf)
 				if store[s] == nil then
-					queue[c] = {cf, unpack(a)}
+					queue[queue_i] = {cf, unpack(a)}
+					queue_i = queue_i + 1
 					store[s] = false
-					c = c + 1
 				end
 			end
 		end)
@@ -121,13 +162,13 @@ local function make(cfs, ...)
 			table.remove(cf_list, i)
 			if not obj then b = false end
 			if _G.build_last_cleared ~= last then
-				c = 0
+				clear_i = 0
 				return
 			end
-			c = c - 1
+			clear_i = clear_i - 1
 		end)
 
-	while c > 0 do task.wait() end
+	while clear_i > 0 do task.wait() end
 	con:Disconnect()
 	return b
 end
@@ -144,7 +185,7 @@ local function delete(cfs)
 	for _, cf in next, cfs do
 		local s = cache_key(cf)
 		local o = _G.build_store[s]
-		if o and o.Parent then b = b or FUNCS.REMOVE_BLOCK(o) end
+		if o and o.Parent then b = b or ARGS.REMOVE_BLOCK(o) end
 		_G.build_store[s] = nil
 	end
 	return b
@@ -155,10 +196,10 @@ local function reset()
 	table.clear(_G.build_queue)
 	while next(_G.build_cache) do _G.build_evt.Event:Wait() end
 	table.clear(_G.build_queue)
-	if FUNCS.CLEAR_BLOCKS then
-		FUNCS.CLEAR_BLOCKS()
+	if ARGS.CLEAR_BLOCKS then
+		ARGS.CLEAR_BLOCKS()
 		for s, o in next, _G.build_store do
-			if FUNCS.BLOCK_EXISTS(o) then
+			if ARGS.BLOCK_EXISTS(o) then
 				b = false
 			else
 				_G.build_store[s] = nil
@@ -166,7 +207,7 @@ local function reset()
 		end
 	else
 		for s, o in next, _G.build_store do
-			if o and o.Parent and not FUNCS.REMOVE_BLOCK(o) then
+			if o and o.Parent and not ARGS.REMOVE_BLOCK(o) then
 				b = false
 			else
 				_G.build_store[s] = nil
@@ -183,7 +224,7 @@ local function reset()
 	return b
 end
 
--- Geneator that returns o box of CFrames of a 2D or 3D box.
+-- Geneator that returns a box of CFrames of a 2D or 3D box.
 local function box3(cf, x, y, z, d)
 	local t = {}
 	local i = 0
@@ -221,7 +262,7 @@ local function frme(cf, x, y, z, d)
 	return t
 end
 
--- Geneator that returns o box of CFrames of a 2D or 3D box minus the outer layer.
+-- Geneator that returns a box of CFrames of a 2D or 3D box minus the outer layer.
 local function invf(cf, x, y, z, d)
 	local t = {}
 	local i = 0

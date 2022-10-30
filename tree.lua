@@ -14,7 +14,8 @@ local range = args[1] or game
 if typeof(range) == 'Instance' then range = range:GetDescendants() end
 local query = args[2] or function(o) return true end
 
-local function get_name(o) -- Returns proper string wrapping for instances
+-- Returns proper string wrapping for instances.
+local function get_name(o)
 	local n = o.Name
 	local f = '.%s'
 	if #n == 0 or n:match('[^%w]+') or n:sub(1, 1):match('[^%a]') then f = '["%s"]' end

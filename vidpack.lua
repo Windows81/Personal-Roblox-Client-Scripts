@@ -1,3 +1,3 @@
 rsexec'fly'
 rsexec'freecam'
-_E('hide-all', true)
+_E('hide-gui', true)

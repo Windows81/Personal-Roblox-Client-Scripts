@@ -1,4 +1,6 @@
 --[==[HELP]==
+Interpolates the current camera between an array of positions, over a duration of time.
+
 [1] - {BasePart | CFrame | Vector3 | false} | number
 	The domain of points to which the camera can interpolate.
 	If argument is set to a positive integer, the number of keyframes that are captured by clicking the screen.

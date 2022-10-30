@@ -1,7 +1,7 @@
 function e(n, i)
-	local d = game.Workspace.Doors.Normal:findFirstChild(tostring(n))
+	local d = game.Workspace.Doors.Normal:FindFirstChild(tostring(n))
 	if not d then return end
-	local s = d.Door:findFirstChild(tostring(i))
+	local s = d.Door:FindFirstChild(tostring(i))
 	if not s then return end
 	return s.SurfaceGui.Element
 end

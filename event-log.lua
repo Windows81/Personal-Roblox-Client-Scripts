@@ -126,7 +126,7 @@ end
 
 function hrp_pos_str(ch)
 	if ch then
-		local hrp = ch:findFirstChild 'HumanoidRootPart'
+		local hrp = ch:FindFirstChild 'HumanoidRootPart'
 		if hrp then
 			return string.format(
 				' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
@@ -184,7 +184,7 @@ local function tcs_received(textChannel)
 		end)
 end
 
-local dsce = game.ReplicatedStorage:findFirstChild 'DefaultChatSystemChatEvents'
+local dsce = game.ReplicatedStorage:FindFirstChild 'DefaultChatSystemChatEvents'
 if _G.wh_log_evts then for _, e in next, _G.wh_log_evts do e:Disconnect() end end
 _G.wh_log_evts = {
 	game.Players.PlayerAdded:Connect(plr_add),
@@ -211,7 +211,7 @@ _G.wh_log_evts = {
 }
 
 _G.wh_log('CHAT STREAM SUCCESSFULLY STARTED', true)
-for _, pl in next, game.Players:children() do task.spawn(plr_add, pl) end
+for _, pl in next, game.Players:GetPlayers() do task.spawn(plr_add, pl) end
 for _, tc in next, tcs:GetDescendants() do
 	if tc:IsA 'TextChannel' then tcs_received(tc) end
 end
