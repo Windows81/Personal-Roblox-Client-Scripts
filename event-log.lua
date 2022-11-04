@@ -6,8 +6,11 @@
 	If set to true or not passed in, writes to a file to path formatted as "./logs/%011(placeId) %Y-%m-%d %H%M%S.txt".
 ]==] --
 --
-local DEFAULT_WEBHOOK =
-	[[https://discord.com/api/webhooks/945200349516554270/P-_95qVjJ3tTQt7tjpgzGa32PpwCuaCD9ID2c-7o4styG1P_fWLp4TiwKAvoHrt7fHaX]]
+-- I am NOT sorry for revealling my webhook URL to the public.
+-- I am an ardent supporter for the hacker spirit.
+-- If that means having other people mess with my logs, so be it.
+local DEFAULT_WEBHOOK = nil
+--[[https://discord.com/api/webhooks/1036429230910738443/9CabVFH-m904S_n1cVP-2D5_qCa3ECXNt7Lkr0kIS0nLmK4jVBmDDn_T68y1lIIVArOT]]
 
 local args = _E and _E.ARGS or {}
 local WEBHOOK = args[1]
@@ -18,8 +21,10 @@ local TICK_DELAY = args[5]
 
 if WEBHOOK == nil then WEBHOOK = DEFAULT_WEBHOOK end
 if WEBHOOK then
-	if WEBHOOK:find '^https://discorda?p*%.com/api/webhooks/' then
-		WEBHOOK = WEBHOOK:sub(-87)
+	if WEBHOOK:find 'discorda?p*%.com/api/webhooks/' then
+		local split = WEBHOOK:split('/')
+		local len = #split
+		WEBHOOK = string.format('%s/%s', split[len - 1], split[len])
 	end
 	WEBHOOK = 'https://discord.com/api/webhooks/' .. WEBHOOK
 end

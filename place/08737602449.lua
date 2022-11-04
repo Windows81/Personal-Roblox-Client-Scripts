@@ -1,3 +1,4 @@
+if not _E then error'This routine is designed for Rsexec.' end
 local metatable = getrawmetatable(game)
 setreadonly(metatable, false)
 
@@ -9,7 +10,7 @@ function hex(c)
 	return string.format('#%02X%02X%02X', 255 * c.r, 255 * c.g, 255 * c.b)
 end
 
-_E(
+_E.EXEC(
 	'time', '%H:%M:%S', function(_, ts)
 		local t = _G.pls_rmt
 		if t.booth then
@@ -40,6 +41,6 @@ metatable.__namecall = newcclosure(
 setreadonly(metatable, true)
 print('FUNCTIONS HÒÓKED UP')
 
-rsexec'fly'
-rsexec'freecam'
--- rsexec'hide-gui'
+_E.EXEC'fly'
+_E.EXEC'freecam'
+-- _E.EXEC'hide-gui'

@@ -11,4 +11,4 @@ local _ = args[1] and task.wait(args[1]) or m.Button1Up:Wait()
 
 local v = game.Players.LocalPlayer.Character:FindFirstChildWhichIsA 'Humanoid'
 	          .RootPart.CFrame
-_E.RETURN = {v}
+return v

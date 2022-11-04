@@ -28,4 +28,4 @@ local function get_servers(place, limit, order)
 	return t
 end
 
-_E.RETURN = {get_servers(unpack(args))}
+return get_servers(unpack(args))

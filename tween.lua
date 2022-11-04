@@ -63,4 +63,4 @@ for _, o in next, OBJECTS do
 end
 
 local d = ev.Event:Wait()
-_E.RETURN = {d}
+return d

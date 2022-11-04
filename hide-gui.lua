@@ -56,17 +56,12 @@ end
 local function decide(m)
 	if m == true then
 		hide()
-		return
 	elseif m == false then
 		unhide()
-		return
-	end
-	if _G.hgui_cache then
+	elseif _G.hgui_cache then
 		unhide()
-		return
 	else
 		hide()
-		return
 	end
 end
 decide(MODE)

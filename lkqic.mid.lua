@@ -1,4 +1,4 @@
-_E(
+_E.EXEC(
 	'piano', 'lkqic.mid', 0, 6 / 7, nil, {
 		0030.3,
 		-069.7,

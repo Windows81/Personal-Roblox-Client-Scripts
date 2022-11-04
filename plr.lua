@@ -37,4 +37,4 @@ for _, p in next, game.Players:GetPlayers() do
 	end
 end
 
-_E.RETURN = {to_pl}
+return to_pl

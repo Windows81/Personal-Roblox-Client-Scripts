@@ -12,4 +12,4 @@ for _, g in next, game:GetDescendants() do
 	if g:isA 'GuiBase2d' then g.AutoLocalize = false end
 end
 
--- rsexec'PLACE'
+-- _E.EXEC'PLACE'

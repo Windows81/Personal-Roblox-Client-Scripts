@@ -47,4 +47,4 @@ end
 
 -- Printing line-by-line is necessary since the dev console truncates large outputs.
 _E.OUTPUT = {table.concat(lines, '\n')}
-_E.RETURN = {t}
+return t

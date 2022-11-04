@@ -15,5 +15,5 @@ local d = task.wait(args[1] or 0)
 local p2 = p.Position
 
 local VALUE = (p2 - p1).Magnitude / d
-_E.RETURN = {VALUE}
 _E.OUTPUT = {string.format('%.1f studs per second', VALUE)}
+return VALUE

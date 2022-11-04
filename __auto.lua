@@ -15,7 +15,7 @@ local SCRIPTS = { --
 	-- 'auto-rej.lua',
 	'event-log.lua',
 	-- 'mute.lua',
-	'rspy.lua',
+	'_rspy.lua',
 }
 
 -- Returns a list of paths to search given the command query.
@@ -69,16 +69,14 @@ local function gsp(n, ...)
 end
 
 local NOT_FOUND_STRING = 'QUERY "%s" DID NOT YIELD ANY RESULTS'
-local function exc(n, ...)
+local function exec(n, ...)
 	local path = gsp(n, ...)
 	if not path then error(string.format(NOT_FOUND_STRING, n)) end
 	_E.ARGS = {...}
-	_E.RETURN = nil
 	_E.OUTPUT = nil
-	loadfile(path)()
-	local result = _E.RETURN or {}
+	local result = {loadfile(path)()}
 	_E.ARGS = nil
-	_E.RETURN = nil
+	_E.RETURN = result
 	return unpack(result)
 end
 
@@ -89,16 +87,16 @@ end
 
 local env = getrenv()
 local BASE = { --
-	RSEXEC = exc,
+	RSEXEC = exec,
 	GETSCRIPTPATH = gsp,
 	OUTPUT = output,
 }
 local ALIASES = { --
+	['R'] = 'RETURN',
 	['E'] = 'RSEXEC',
 	['GSP'] = 'GETSCRIPTPATH',
 	['EXEC'] = 'RSEXEC',
 	['A'] = 'ARGS',
-	['R'] = 'RETURN',
 	['O'] = 'OUTPUT',
 }
 
@@ -111,7 +109,7 @@ env._E = setmetatable(
 	BASE, {
 		__index = function(self, k) return rawget(self, get_meta_key(k)) end,
 		__newindex = function(self, k, v) return rawset(self, get_meta_key(k), v) end,
-		__call = function(self, ...) return exc(...) end,
+		__call = function(self, ...) return exec(...) end,
 	})
 
 for _, n in next, SCRIPTS do task.spawn(function() loadfile(n)() end) end

@@ -1,1 +1,1 @@
-_E('fly', 420, true, 1e8, 1e8, 3e7, 0)
+_E.EXEC('fly', 420, true, 1e8, 1e8, 3e7, 0)

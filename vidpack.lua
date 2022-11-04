@@ -1,3 +1,3 @@
-rsexec'fly'
-rsexec'freecam'
-_E('hide-gui', true)
+_E.EXEC('fly')
+_E.EXEC('freecam')
+_E.EXEC('hide-gui', true)

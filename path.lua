@@ -61,7 +61,7 @@ if USE_PATHFIND then
 
 	if not compute(2) then
 		warn('PATH WAS NOT CALCULABLE!')
-		_E.RETURN = {false}
+		return false
 		return
 	end
 	_G.path_block = path.Blocked:Connect(compute)
@@ -93,4 +93,4 @@ if _G.path_block then
 	_G.path_block = nil
 end
 
-_E.RETURN = {r}
+return r

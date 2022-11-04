@@ -39,4 +39,4 @@ if char then
 	char.Parent = game.Workspace
 end
 
-_E.RETURN = {char}
+return char

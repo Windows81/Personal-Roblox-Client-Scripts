@@ -19,4 +19,4 @@ while true do
 end
 
 _E.OUTPUT = {table.concat(lines, '\n\n')}
-_E.RETURN = {result}
+return result

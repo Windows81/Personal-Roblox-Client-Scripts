@@ -96,7 +96,7 @@ if not PLAY_NOTE then
 	if not s then warn'Unable to find an appropriate piano hook.' end
 end
 
-_E.RETURN = {PLAY_NOTE}
+return PLAY_NOTE
 if _G.midi_conn then _G.midi_conn:Disconnect() end
 if FILEPATH == nil then
 	FILEPATH = [[boo.mid]]

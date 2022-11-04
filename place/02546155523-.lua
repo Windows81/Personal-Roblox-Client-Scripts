@@ -18,14 +18,14 @@ elseif COMMAND == 'autobring' then
 			end
 		end)
 elseif COMMAND == 'parties' then
-	_E.RETURN = {game.ReplicatedStorage.CS.GetPartyList:InvokeServer()}
+	return game.ReplicatedStorage.CS.GetPartyList:InvokeServer()
 elseif COMMAND == 'rename' then
 	game.ReplicatedStorage.CS.ChangeN:FireServer(unpack(args, 2))
 elseif COMMAND == 'carry' then
-	local plr = _E('plr', unpack(args, 2))
+	local plr = _E.EXEC('plr', unpack(args, 2))
 	game.ReplicatedStorage.CS.CarryPlr:FireServer(plr)
 elseif COMMAND == 'bring' then
-	local plr = _E('plr', unpack(args, 2))
+	local plr = _E.EXEC('plr', unpack(args, 2))
 	game.ReplicatedStorage.CS.PartyAdmin:FireServer('bring', plr)
 elseif COMMAND == 'farm' then
 	local area = game.Workspace.OfficeArea

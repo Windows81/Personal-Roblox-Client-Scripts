@@ -1,4 +1,6 @@
 ---@diagnostic disable: undefined-global
+if not _E then error'This routine is designed for Rsexec.' end
+
 -- #region
 local MATERIALS = {}
 local SHAPES = {}
@@ -137,7 +139,7 @@ BLOCK_CHUNK_PERIOD = 2
 -- Won't make much sense since CFrame position are shown 1/4 of what they really are.
 local function grid(x, y, z) return CFrame.new(x, y, z) end
 
-rsexec'lib-build'
+_E.EXEC'lib-build'
 -- #endregion
 
 -- game.ReplicatedStorage.Sockets.Edit.EditBlock:FireServer("motele", {game.Workspace.Blocks.Block, game.Workspace.Blocks.Block})

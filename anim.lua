@@ -26,7 +26,6 @@ local STOP_ALL = args[3] ~= false
 local FORCE_LOOP = args[4] ~= false
 local ANIM_OFFSET = args[5] or 0
 local ANIM_SPEED = args[6] or 1
-_E.RETURN = {nil, nil}
 
 local humanoid = CHARACTER:FindFirstChildOfClass 'Humanoid'
 if not humanoid then return end
@@ -47,8 +46,8 @@ if ANIM_ID then
 	if FORCE_LOOP then loaded.Looped = true end
 	loaded.TimePosition = ANIM_OFFSET % loaded.Length
 	loaded:AdjustSpeed(ANIM_SPEED)
-
-	_E.RETURN = {animation, loaded}
-else
-	stop_all()
+	return animation, loaded
 end
+
+stop_all()
+return nil, nil

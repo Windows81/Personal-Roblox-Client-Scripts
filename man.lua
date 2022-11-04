@@ -19,4 +19,4 @@ if not m then
 	return
 end
 
-_E.RETURN = {m}
+return m
