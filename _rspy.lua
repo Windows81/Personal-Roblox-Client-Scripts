@@ -14,7 +14,7 @@ local output_f = arg_sel(3)
 if not output_f then
 	local path = '_rspy.dat'
 	output_f = function(l) appendfile(path, l) end
-	writefile(path, '')
+	-- writefile(path, '')
 end
 
 local SETTINGS = {

@@ -33,7 +33,7 @@ if APPENDS_INSTEAD_OF_WRITES == nil then APPENDS_INSTEAD_OF_WRITES = true end
 if WRITES_FILE_AT_ONCE == nil then WRITES_FILE_AT_ONCE = false end
 if TICK_DELAY == nil then TICK_DELAY = 7 end
 
-local pls_id = game.PlaceId
+local place_id = game.PlaceId
 local svr_id = #game.JobId > 0 and game.JobId or 'PLAYTEST'
 local lp_uid = game.Players.LocalPlayer.UserId
 local enabled = true
@@ -42,36 +42,56 @@ local http_req_hook
 local plr_from_id_hook = game.Players.GetPlayerByUserId
 local function timestamp(t) return os.date('%Y-%m-%dT%H:%M:%SZ', t) end
 
-local function get_pls_name(pId)
+local function get_place_name(pId)
 	local s, r = pcall(
 		game.MarketplaceService.GetProductInfo, game.MarketplaceService, pId)
 	return (s and r) and r.Name or nil
 end
 
-local pls_name = get_pls_name(pls_id)
-if not pls_name then
-	pls_name = ''
+local place_name = get_place_name(place_id)
+if not place_name then
+	place_name = ''
 	task.spawn(
 		function()
 			local n
 			repeat
 				task.wait(3)
-				n = get_pls_name(pls_id)
+				n = get_place_name(place_id)
 			until n
-			pls_name = n
+			place_name = n
 		end)
 end
 
 local HEADER = string.format(
-	'[%11s] : [%11s] %s - %s', lp_uid, pls_id, pls_name, svr_id)
+	'[%11s] : [%11s] %s - %s', lp_uid, place_id, place_name, svr_id)
 _G.wh_log_long = HEADER
 _G.wh_log_snip = ''
 
 if type(FILEPATH) ~= 'string' and FILEPATH ~= false then
 	FILEPATH = string.format(
-		'logs/%011d %s.txt', pls_id, os.date('%Y-%m-%d %H%M%S'))
+		'logs/%011d %s.txt', place_id, os.date('%Y-%m-%d %H%M%S'))
 	makefolder('logs')
 	if FILEPATH then writefile(FILEPATH, HEADER) end
+end
+
+function hrp_pos_str(ch)
+	if ch then
+		local hrp = ch:FindFirstChild 'HumanoidRootPart'
+		if hrp then
+			return string.format(
+				' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
+		end
+	end
+	return ''
+end
+
+function plr_header(pl, disp)
+	local uid = pl.UserId
+	local unm = pl.Name
+	local dnm = pl.DisplayName
+	local head = string.format('[%11s] %-20s', uid, unm)
+	if disp and unm ~= dnm then head = head .. string.format(' a.k.a. %-20s', dnm) end
+	return head
 end
 
 function wh_send(txt)
@@ -92,15 +112,15 @@ function wh_send(txt)
 end
 
 local last_tick
-function _G.wh_log(ln, frc, ts)
+function _G.evt_log(line, hasten, ts)
 	if not enabled then return end
-	ln = string.format('%s: %s', timestamp(ts), ln)
-	_G.wh_log_snip = _G.wh_log_snip .. '\n' .. ln
+	line = string.format('%s: %s', timestamp(ts), line)
+	_G.wh_log_snip = _G.wh_log_snip .. '\n' .. line
 	if WRITES_FILE_AT_ONCE then
 		if APPENDS_INSTEAD_OF_WRITES then
-			if FILEPATH then appendfile(FILEPATH, '\n' .. ln) end
+			if FILEPATH then appendfile(FILEPATH, '\n' .. line) end
 		else
-			_G.wh_log_long = _G.wh_log_long .. '\n' .. ln
+			_G.wh_log_long = _G.wh_log_long .. '\n' .. line
 			if FILEPATH then writefile(FILEPATH, _G.wh_log_long) end
 		end
 	end
@@ -108,7 +128,7 @@ function _G.wh_log(ln, frc, ts)
 	local do_log = true
 	local curr_tick = tick()
 	last_tick = curr_tick
-	if not frc and #_G.wh_log_snip < 0x700 then
+	if not hasten and #_G.wh_log_snip < 0x700 then
 		task.wait(2)
 		if last_tick ~= curr_tick then do_log = false end
 	end
@@ -129,17 +149,6 @@ function _G.wh_log(ln, frc, ts)
 	end
 end
 
-function hrp_pos_str(ch)
-	if ch then
-		local hrp = ch:FindFirstChild 'HumanoidRootPart'
-		if hrp then
-			return string.format(
-				' (%7.1f, %7.1f, %7.1f)', hrp.Position.X, hrp.Position.Y, hrp.Position.Z)
-		end
-	end
-	return ''
-end
-
 local chat_dupes = {}
 function plr_chat(pl, msg)
 	local t = tick()
@@ -151,13 +160,14 @@ function plr_chat(pl, msg)
 
 	local ch = pl.Character
 	local pos = hrp_pos_str(ch)
-	local line = string.format(
-		'PLAYER CHATTED [%11s] %-20s%s\n  %s', uid, pl.Name, pos, msg)
-	_G.wh_log(line)
+	local plh = plr_header(pl, false)
+	local line = string.format('PLAYER CHATTED %s%s\n  %s', plh, pos, msg)
+	_G.evt_log(line)
 end
 
 function plr_add(pl)
-	_G.wh_log(string.format('PLAYER ADDED   [%11s] %s', pl.UserId, pl.Name))
+	local plh = plr_header(pl, true)
+	_G.evt_log(string.format('PLAYER ADDED   %s', plh))
 	table.insert(
 		_G.wh_log_evts, pl.Chatted:Connect(function(msg) plr_chat(pl, msg) end))
 	table.insert(
@@ -166,16 +176,16 @@ function plr_add(pl)
 end
 
 function plr_leave(pl)
-	_G.wh_log(
-		string.format('PLAYER REMOVED [%11s] %s', pl.UserId, pl.Name),
-			pl.UserId == lp_uid)
+	local plh = plr_header(pl, true)
+	local ln = string.format('PLAYER REMOVED %s', plh)
+	_G.evt_log(ln, pl.UserId == lp_uid)
 end
 
 function plr_spawn(pl, ch)
 	local pos = hrp_pos_str(ch)
-	_G.wh_log(
-		string.format(
-			'CHRCTER ADDED  [%11s] %-20s%s', pl.UserId, pl.Name, pos))
+	local plh = plr_header(pl, true)
+	local ln = string.format('CHRCTER ADDED  %s%s', plh, pos)
+	_G.evt_log(ln)
 end
 
 local tcs = game:GetService 'TextChatService'
@@ -215,7 +225,7 @@ _G.wh_log_evts = {
 		]]
 }
 
-_G.wh_log('CHAT STREAM SUCCESSFULLY STARTED', true)
+_G.evt_log('CHAT STREAM SUCCESSFULLY STARTED', true)
 for _, pl in next, game.Players:GetPlayers() do task.spawn(plr_add, pl) end
 for _, tc in next, tcs:GetDescendants() do
 	if tc:IsA 'TextChannel' then tcs_received(tc) end

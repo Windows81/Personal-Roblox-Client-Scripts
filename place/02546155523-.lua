@@ -1,4 +1,4 @@
-local args = _E.ARGS
+local args = _E and _E.ARGS or {}
 local COMMAND = args[1]:lower()
 
 if COMMAND == 'party' then

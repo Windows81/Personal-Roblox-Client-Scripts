@@ -5,7 +5,7 @@ Returns a player object given the prefix.
 	Prefix of that player's username (weight == 1.0) or display name (weight == 1.5).
 ]==] --
 --
-local args = _E.ARGS
+local args = _E and _E.ARGS or {}
 local pl = game.Players.LocalPlayer
 local PLAYER_REF = args[1]
 

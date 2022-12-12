@@ -6,7 +6,7 @@
 	The location th teleport the object.
 ]==] --
 --
-local args = _E.ARGS
+local args = _E and _E.ARGS or {}
 local OBJECT = args[1]
 local CFRAME = args[2]
 if typeof(CFRAME) == 'Vector3' then

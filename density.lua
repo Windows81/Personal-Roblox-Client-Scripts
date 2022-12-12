@@ -15,7 +15,7 @@ elseif DENSITY == false then
 	DENSITY = 0.7
 end
 
-local lp = game.Workspace.Players.LocalPlayer
+local lp = game.Players.LocalPlayer
 for _, p in next, lp.Character:GetDescendants() do
 	if p.ClassName == 'Part' then
 		p.CustomPhysicalProperties = PhysicalProperties.new(DENSITY, 0.3, 0.5)

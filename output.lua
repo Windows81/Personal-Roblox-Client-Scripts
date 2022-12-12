@@ -1,1 +1,1 @@
-return unpack(_E.EXEC('save', '_output.dat', _E.ARGS[1], nil, true))
+_E.RETURN=_E.EXEC('save','_output.dat',_E.ARGS[1],nil,true)

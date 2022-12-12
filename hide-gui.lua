@@ -10,6 +10,8 @@ local rns = game:GetService 'RunService'
 
 local function should_hide(o)
 	if o.ClassName == 'BillboardGui' then
+		return false
+		--[[
 		local parent = o
 		while parent do
 			if parent:FindFirstChild 'Humanoid' then return true end
@@ -19,6 +21,7 @@ local function should_hide(o)
 		if not parent then return false end
 		local size = o.AbsoluteSize
 		return size.X >= 127 or size.Y >= 127
+		]]
 
 	elseif o.ClassName == 'ScreenGui' then
 		return true

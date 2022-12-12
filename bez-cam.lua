@@ -10,7 +10,7 @@ Interpolates the current camera between an array of positions, over a duration o
 	The total duration for the interpolation process.
 ]==] --
 --
-local args = _E.ARGS
+local args = _E and _E.ARGS or {}
 local VALUES = args[1] or {}
 if type(VALUES) == 'number' then VALUES = table.create(VALUES, false) end
 local DURATION = args[2] or (#VALUES - 1) * 5

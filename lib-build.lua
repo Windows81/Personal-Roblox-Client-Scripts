@@ -37,7 +37,7 @@ Loads the following functions into the current execution environment vía genren
 	Grace period between timed chunks in the same insertion action; defaults to 0.
 ]==] --
 --
-local raw_args = _E.ARGS
+local raw_args = _E and _E.ARGS or {}
 local fenv = getfenv()
 local renv = getrenv()
 

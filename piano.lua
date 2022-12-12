@@ -96,7 +96,6 @@ if not PLAY_NOTE then
 	if not s then warn'Unable to find an appropriate piano hook.' end
 end
 
-return PLAY_NOTE
 if _G.midi_conn then _G.midi_conn:Disconnect() end
 if FILEPATH == nil then
 	FILEPATH = [[boo.mid]]
@@ -282,7 +281,7 @@ while head < string.len(midi) do
 				elseif metaType == 89 then -- Key signature.
 					head = head + 3
 
-				else -- comment
+				else
 					head = head + metaHead + metaLength
 				end
 			end
@@ -316,3 +315,5 @@ if SPEED > 0 then
 			if not keep then _G.midi_conn:Disconnect() end
 		end)
 end
+
+return PLAY_NOTE

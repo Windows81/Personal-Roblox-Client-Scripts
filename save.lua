@@ -14,7 +14,7 @@
 --
 local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 
-local args = _E.ARGS
+local args = _E and _E.ARGS or {}
 local FILE = args[1] or 'temp.txt'
 local VALUE = args[2]
 local SUFFIX = args[3] or ''
