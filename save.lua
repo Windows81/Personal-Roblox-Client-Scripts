@@ -50,13 +50,13 @@ function get_full(o)
 	return 'NIL' .. r
 end
 
-local PARAM_REPR_TYPES = {
+local PARAM_REPR_TYPES = { --
 	CFrame = true,
 	Vector3 = true,
 	Vector2 = true,
-	UDim2 = true,
 	Vector3int16 = true,
 	Vector2int16 = true,
+	UDim2 = true,
 }
 local SEQ_REPR_TYPES = { --
 	ColorSequence = true,
@@ -108,7 +108,7 @@ function parse(obj, lvl) -- Convert the types into strings
 		return ('{%s%s\n%s}'):format(ipair_str, alpha_str, string.rep(tab, lvl))
 
 	elseif PARAM_REPR_TYPES[t] then
-		return ('%s.new(%s)'):format(t, tostring(obj))
+		return ('%s.new(%s)'):format(t, tostring(obj):gsub('[{}]', ''))
 
 	elseif SEQ_REPR_TYPES[t] then
 		return ('%s.new %s'):format(t, parse(obj.Keypoints, lvl))

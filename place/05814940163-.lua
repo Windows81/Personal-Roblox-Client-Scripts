@@ -28,10 +28,8 @@ function REMOVE_BLOCK(o)
 	return true
 end
 
-function WAIT_FOR_BLOCK()
-	local o = game.Workspace.Builds.ChildAdded:Wait()
-	return o.CFrame, o
-end
+BLOCK_EVENT = game.Workspace.Builds.ChildAdded
+function CHECK_BLOCK(o) return o.CFrame end
 
 BLOCK_CHUNK_SIZE = 69
 BLOCK_CHUNK_PERIOD = 1

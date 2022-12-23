@@ -1,7 +1,8 @@
 -- #region Game-specific functions.
 local network = game.ReplicatedStorage.shared.network['network_contents']
 function ADD_BLOCK(cf, s)
-	network['place_build']:FireServer(s, cf.X, cf.Y, cf.Z, cf - cf.Position, 1, 1)
+	local r = cf - cf.Position
+	network['place_build']:FireServer(s, cf.X, cf.Y, cf.Z, r, 1, 1)
 	return true
 end
 
@@ -9,10 +10,8 @@ function BLOCK_EXISTS(o) return o and o.Parent end
 
 function CLEAR_BLOCKS() return false end
 
-function task.wait_FOR_BLOCK()
-	local o = game.Workspace['created_blocks'].ChildAdded:Wait()
-	return o:WaitForChild 'Part'.CFrame, o
-end
+BLOCK_EVENT = game.Workspace['created_blocks'].ChildAdded
+function CHECK_BLOCK(o) return o:WaitForChild 'Part'.CFrame end
 
 function REMOVE_BLOCK(o)
 	network['remove_build']:FireServer(o.Name)
@@ -47,7 +46,7 @@ function make(cfs, ...)
 	while true do
 		b = true
 		n = n + 1
-		local ocf, o = task.wait_FOR_BLOCK()
+		local ocf, o = task.BLOCK_EVENT()
 		local min, mcf
 		for cf in next, cfh do
 			local d = ocf * cf:inverse()

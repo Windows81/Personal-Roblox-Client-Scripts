@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.PlayerScripts.EmotesBarClient.Disabled=true
+game.Players.LocalPlayer.PlayerScripts.EmotesBarClient.Disabled = true

@@ -6,7 +6,7 @@ This script is designed exclusively for use with Rsexec.
 ]==] --
 --
 if not _E then return end
-local args = _E and _E.ARGS or  or {}
+local args = _E and _E.ARGS or {}
 local p = _E.GETSCRIPTPATH(args[1])
 if not p then
 	warn(string.format('SCRIPT "%s" DOES NOT EXIST', p))

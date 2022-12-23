@@ -1,8 +1,6 @@
 --[[
 	Lua U Remote Spy written by chaserks, refactored by VisualPlugin.
-	Execution environments supported: Synapse X, ProtoSmasher, WeAreDevs (Sirhurt?, Elysian?).
-	Remote calls are printed to the dev console by default (F9 window).
-	To use Synapse's console, change Settings.Output to rconsoleprint.
+	Execution environments supported: Synapse X, ProtoSmasher, WeAreDevs (Sirhurt?, Elysian?)
 ]] --
 local args = _E and _E.ARGS or {}
 local function arg_sel(n, d)
@@ -104,44 +102,109 @@ local function in_blacklist(Object)
 	return false
 end
 
--- Convert the types into strings.
-local function parse(obj)
-	local t = typeof(obj)
-	if t == 'string' then
-		return ('"%s"'):format(obj)
+-- #region Parse snippet.
+local function get_name(o) -- Returns proper string wrapping for instances
+	local n = o.Name:gsub('"', '\\"')
+	local f = '.%s'
+	if #n == 0 then
+		f = '["%s"]'
+	elseif n:match('[^%w]+') then
+		f = '["%s"]'
+	elseif n:sub(1, 1):match('[^%a]') then
+		f = '["%s"]'
+	end
+	return f:format(n)
+end
 
-		-- Instance:GetFullName(), except it's not handicapped.
-	elseif t == 'Instance' then
-		local Path = obj_name(obj)
-		local Parent = metatable.__index(obj, 'Parent')
-		while Parent and Parent ~= game do
-			Path = obj_name(Parent) .. Path
-			Parent = metatable.__index(Parent, 'Parent')
+local lp = game.Players.LocalPlayer
+function get_full(o)
+	if not o then return nil end
+	local r = parse(get_name(o))
+	local p = o.Parent
+	while p do
+		if p == game then
+			return 'game' .. r
+		elseif p == lp then
+			return 'game.Players.LocalPlayer' .. r
 		end
-		return (obj:IsDescendantOf(game) and 'game' or 'NIL') .. Path
+		r = parse(get_name(p)) .. r
+		p = p.Parent
+	end
+	return 'NIL' .. r
+end
+
+local PARAM_REPR_TYPES = { --
+	CFrame = true,
+	Vector3 = true,
+	Vector2 = true,
+	Vector3int16 = true,
+	Vector2int16 = true,
+	UDim2 = true,
+}
+local SEQ_REPR_TYPES = { --
+	ColorSequence = true,
+	NumberSequence = true,
+}
+local SEQ_KEYP_TYPES = { --
+	ColorSequenceKeypoint = true,
+	NumberSequenceKeypoint = true,
+}
+
+function parse(obj, lvl) -- Convert the types into strings
+	local t = typeof(obj)
+	local lvl = lvl or 0
+	if t == 'string' then
+		if lvl == 0 then return obj end
+		return ('"%s"'):format(
+			obj:gsub(
+				'.', { --
+					['\n'] = '\\n',
+					['\t'] = '\\t',
+					['\0'] = '\\0',
+					['\1'] = '\\1',
+				}))
+
+	elseif t == 'Instance' then -- Instance:GetFullName() except it's not handicapped
+		return get_full(obj)
 
 	elseif t == 'table' then
-		local Str = ''
-		local Counter = 0
-		for Idx, Obj in next, obj do
-			Counter = Counter + 1
-			local Obj = Obj ~= obj and parse(Obj) or 'THIS_TABLE'
-			if Counter ~= Idx then
-				local IdxStr = Idx ~= obj and parse(Idx) or 'THIS_TABLE'
-				Str = Str .. ('[%s] = %s, '):format(IdxStr, Obj) -- maybe
+		local alpha_vals = {}
+		local ipair_vals = {}
+		local c = 0
+		local tab = '  '
+		if lvl > 666 then return 'DEEP_TABLE' end
+
+		for i, o in next, obj do
+			c = c + 1
+			local o_str = o ~= obj and parse(o, lvl + 1) or 'THIS_TABLE'
+			local ws = string.format('\n%s', string.rep(tab, lvl + 1))
+			if c ~= i then
+				local i_str = i ~= obj and parse(i, lvl + 1) or 'THIS_TABLE'
+				table.insert(alpha_vals, ('%s[%s] = %s,'):format(ws, i_str, o_str))
 			else
-				Str = Str .. ('%s, '):format(Obj)
+				table.insert(ipair_vals, ('%s%s,'):format(ws, o_str))
 			end
 		end
-		return ('{%s}'):format(Str:sub(1, -3))
+		table.sort(alpha_vals)
+		local alpha_str = table.concat(alpha_vals, '')
+		local ipair_str = table.concat(ipair_vals, '')
+		return ('{%s%s\n%s}'):format(ipair_str, alpha_str, string.rep(tab, lvl))
 
-	elseif t == 'CFrame' or t == 'Vector3' or t == 'Vector2' or t == 'UDim2' or t ==
-		'Vector3int16' then
-		return ('%s.new(%s)'):format(t, tostring(obj))
+	elseif PARAM_REPR_TYPES[t] then
+		return ('%s.new(%s)'):format(t, tostring(obj):gsub('[{}]', ''))
+
+	elseif SEQ_REPR_TYPES[t] then
+		return ('%s.new %s'):format(t, parse(obj.Keypoints, lvl))
+
+	elseif SEQ_KEYP_TYPES[t] then
+		return ('%s.new(%s, %s)'):format(t, tostring(obj.Time), parse(obj.Value, lvl))
 
 	elseif t == 'Color3' then
 		return ('%s.fromRGB(%d, %d, %d)'):format(
 			t, obj.R * 255, obj.G * 255, obj.B * 255)
+
+	elseif t == 'NumberRange' then
+		return ('%s.new(%s, %s)'):format(t, tostring(obj.Min), tostring(obj.Max))
 
 	elseif t == 'userdata' then -- Remove __tostring fields to counter traps
 		local res
@@ -161,6 +224,7 @@ local function parse(obj)
 		return tostring(obj)
 	end
 end
+-- #endregion
 
 local function write(remote, format, arguments, script, returns)
 	local line = format:format(parse(remote), parse(arguments):sub(2, -2))
