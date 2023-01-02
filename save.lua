@@ -5,10 +5,13 @@
 [2] - any
 	The object to parse and save to a file.
 
-[3] - string | nil
+[3] - boolean | nil
+	If true or nil, prettify the result.
+
+[4] - string | nil
 	The suffix to add to the string.
 
-[4] - boolean | nil
+[5] - boolean | nil
 	If true, append the file instead of overwriting.
 ]==] --
 --
@@ -17,8 +20,19 @@ local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
 local args = _E and _E.ARGS or {}
 local FILE = args[1] or 'temp.txt'
 local VALUE = args[2]
-local SUFFIX = args[3] or ''
-local APPEND = args[4]
+local PRETTY = args[3]
+local SUFFIX = args[4]
+local APPEND = args[5]
+
+if PRETTY == nil then PRETTY = true end
+if SUFFIX == nil then SUFFIX = '' end
+
+-- #region patch parse_obj.lua
+local _, make_writeable = next{ --
+	make_writeable,
+	setreadonly,
+	set_readonly,
+}
 
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name:gsub('"', '\\"')
@@ -67,9 +81,11 @@ local SEQ_KEYP_TYPES = { --
 	NumberSequenceKeypoint = true,
 }
 
-function parse(obj, lvl) -- Convert the types into strings
+function parse(obj, nl, lvl) -- Convert the types into strings
 	local t = typeof(obj)
 	local lvl = lvl or 0
+	if nl == nil then nl = false end
+
 	if t == 'string' then
 		if lvl == 0 then return obj end
 		return ('"%s"'):format(
@@ -85,43 +101,64 @@ function parse(obj, lvl) -- Convert the types into strings
 		return get_full(obj)
 
 	elseif t == 'table' then
+		if lvl > 666 then return 'DEEP_TABLE' end
 		local alpha_vals = {}
 		local ipair_vals = {}
-		local c = 0
 		local tab = '  '
-		if lvl > 666 then return 'DEEP_TABLE' end
+		local c = 0
+
+		local ws_end = ''
+		if nl then ws_end = string.format('\n%s', string.rep(tab, lvl)) end
 
 		for i, o in next, obj do
 			c = c + 1
-			local o_str = o ~= obj and parse(o, lvl + 1) or 'THIS_TABLE'
-			local ws = string.format('\n%s', string.rep(tab, lvl + 1))
-			if c ~= i then
-				local i_str = i ~= obj and parse(i, lvl + 1) or 'THIS_TABLE'
-				table.insert(alpha_vals, ('%s[%s] = %s,'):format(ws, i_str, o_str))
+
+			local ws
+			if nl then
+				nl = string.format('\n%s', string.rep(tab, lvl + 1))
 			else
-				table.insert(ipair_vals, ('%s%s,'):format(ws, o_str))
+				ws = ' '
+			end
+
+			local o_str
+			if o ~= obj then
+				o_str = parse(o, nl, lvl + 1)
+			else
+				o_str = 'THIS_TABLE'
+			end
+
+			if c == i then
+				table.insert(ipair_vals, string.format('%s%s,', ws, o_str))
+			else
+				local i_str = i ~= obj and parse(i, nl, lvl + 1) or 'THIS_TABLE'
+				table.insert(alpha_vals, string.format('%s[%s] = %s,', ws, i_str, o_str))
 			end
 		end
+
 		table.sort(alpha_vals)
 		local alpha_str = table.concat(alpha_vals, '')
 		local ipair_str = table.concat(ipair_vals, '')
-		return ('{%s%s\n%s}'):format(ipair_str, alpha_str, string.rep(tab, lvl))
+
+		local all_str = string.format('%s%s', ipair_str, alpha_str)
+		if not nl and #all_str > 0 then all_str = string.gsub(all_str, '^%s+', '') end
+		return string.format('{%s%s}', all_str, ws_end)
 
 	elseif PARAM_REPR_TYPES[t] then
-		return ('%s.new(%s)'):format(t, tostring(obj):gsub('[{}]', ''))
+		return string.format('%s.new(%s)', t, tostring(obj):gsub('[{}]', ''))
 
 	elseif SEQ_REPR_TYPES[t] then
-		return ('%s.new %s'):format(t, parse(obj.Keypoints, lvl))
+		return string.format('%s.new %s', t, parse(obj.Keypoints, lvl))
 
 	elseif SEQ_KEYP_TYPES[t] then
-		return ('%s.new(%s, %s)'):format(t, tostring(obj.Time), parse(obj.Value, lvl))
+		return string.format('%s.new(%s, %s)', t, obj.Time, parse(obj.Value, lvl))
 
 	elseif t == 'Color3' then
 		return ('%s.fromRGB(%d, %d, %d)'):format(
 			t, obj.R * 255, obj.G * 255, obj.B * 255)
 
 	elseif t == 'NumberRange' then
-		return ('%s.new(%s, %s)'):format(t, tostring(obj.Min), tostring(obj.Max))
+		return string.format(
+			'%s.new(%s, %s)', t, tostring(obj.Min), tostring(obj.Max))
 
 	elseif t == 'userdata' then -- Remove __tostring fields to counter traps
 		local res
@@ -141,8 +178,9 @@ function parse(obj, lvl) -- Convert the types into strings
 		return tostring(obj)
 	end
 end
+-- #endregion patch
 
-local p = parse(VALUE) .. SUFFIX
+local p = parse(VALUE, PRETTY) .. SUFFIX
 if APPEND then
 	appendfile(FILE, p)
 else

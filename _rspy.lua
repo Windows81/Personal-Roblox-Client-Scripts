@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 --[[
 	Lua U Remote Spy written by chaserks, refactored by VisualPlugin.
 	Execution environments supported: Synapse X, ProtoSmasher, WeAreDevs (Sirhurt?, Elysian?)
@@ -102,7 +103,13 @@ local function in_blacklist(Object)
 	return false
 end
 
--- #region Parse snippet.
+-- #region patch parse_obj.lua
+local _, make_writeable = next{ --
+	make_writeable,
+	setreadonly,
+	set_readonly,
+}
+
 local function get_name(o) -- Returns proper string wrapping for instances
 	local n = o.Name:gsub('"', '\\"')
 	local f = '.%s'
@@ -150,9 +157,11 @@ local SEQ_KEYP_TYPES = { --
 	NumberSequenceKeypoint = true,
 }
 
-function parse(obj, lvl) -- Convert the types into strings
+function parse(obj, nl, lvl) -- Convert the types into strings
 	local t = typeof(obj)
 	local lvl = lvl or 0
+	if nl == nil then nl = false end
+
 	if t == 'string' then
 		if lvl == 0 then return obj end
 		return ('"%s"'):format(
@@ -168,43 +177,64 @@ function parse(obj, lvl) -- Convert the types into strings
 		return get_full(obj)
 
 	elseif t == 'table' then
+		if lvl > 666 then return 'DEEP_TABLE' end
 		local alpha_vals = {}
 		local ipair_vals = {}
-		local c = 0
 		local tab = '  '
-		if lvl > 666 then return 'DEEP_TABLE' end
+		local c = 0
+
+		local ws_end = ''
+		if nl then ws_end = string.format('\n%s', string.rep(tab, lvl)) end
 
 		for i, o in next, obj do
 			c = c + 1
-			local o_str = o ~= obj and parse(o, lvl + 1) or 'THIS_TABLE'
-			local ws = string.format('\n%s', string.rep(tab, lvl + 1))
-			if c ~= i then
-				local i_str = i ~= obj and parse(i, lvl + 1) or 'THIS_TABLE'
-				table.insert(alpha_vals, ('%s[%s] = %s,'):format(ws, i_str, o_str))
+
+			local ws
+			if nl then
+				nl = string.format('\n%s', string.rep(tab, lvl + 1))
 			else
-				table.insert(ipair_vals, ('%s%s,'):format(ws, o_str))
+				ws = ' '
+			end
+
+			local o_str
+			if o ~= obj then
+				o_str = parse(o, nl, lvl + 1)
+			else
+				o_str = 'THIS_TABLE'
+			end
+
+			if c == i then
+				table.insert(ipair_vals, string.format('%s%s,', ws, o_str))
+			else
+				local i_str = i ~= obj and parse(i, nl, lvl + 1) or 'THIS_TABLE'
+				table.insert(alpha_vals, string.format('%s[%s] = %s,', ws, i_str, o_str))
 			end
 		end
+
 		table.sort(alpha_vals)
 		local alpha_str = table.concat(alpha_vals, '')
 		local ipair_str = table.concat(ipair_vals, '')
-		return ('{%s%s\n%s}'):format(ipair_str, alpha_str, string.rep(tab, lvl))
+
+		local all_str = string.format('%s%s', ipair_str, alpha_str)
+		if not nl and #all_str > 0 then all_str = string.gsub(all_str, '^%s+', '') end
+		return string.format('{%s%s}', all_str, ws_end)
 
 	elseif PARAM_REPR_TYPES[t] then
-		return ('%s.new(%s)'):format(t, tostring(obj):gsub('[{}]', ''))
+		return string.format('%s.new(%s)', t, tostring(obj):gsub('[{}]', ''))
 
 	elseif SEQ_REPR_TYPES[t] then
-		return ('%s.new %s'):format(t, parse(obj.Keypoints, lvl))
+		return string.format('%s.new %s', t, parse(obj.Keypoints, lvl))
 
 	elseif SEQ_KEYP_TYPES[t] then
-		return ('%s.new(%s, %s)'):format(t, tostring(obj.Time), parse(obj.Value, lvl))
+		return string.format('%s.new(%s, %s)', t, obj.Time, parse(obj.Value, lvl))
 
 	elseif t == 'Color3' then
 		return ('%s.fromRGB(%d, %d, %d)'):format(
 			t, obj.R * 255, obj.G * 255, obj.B * 255)
 
 	elseif t == 'NumberRange' then
-		return ('%s.new(%s, %s)'):format(t, tostring(obj.Min), tostring(obj.Max))
+		return string.format(
+			'%s.new(%s, %s)', t, tostring(obj.Min), tostring(obj.Max))
 
 	elseif t == 'userdata' then -- Remove __tostring fields to counter traps
 		local res
@@ -224,21 +254,23 @@ function parse(obj, lvl) -- Convert the types into strings
 		return tostring(obj)
 	end
 end
--- #endregion
+-- #endregion patch
 
 local function write(remote, format, arguments, script, returns)
-	local line = format:format(parse(remote), parse(arguments):sub(2, -2))
+	local a_s = parse(arguments):sub(2, -3)
+	local line = string.format(format, parse(remote), a_s)
 	SETTINGS.Output(line)
 
 	if SETTINGS.ShowScript and script then
 		if typeof(script) == 'Instance' then
-			SETTINGS.Output(('%sScript: %s'):format(SETTINGS.LineBreak, parse(script)))
+			local s = string.format('%sScript: %s', SETTINGS.LineBreak, parse(script))
+			SETTINGS.Output(s)
 		end
 	end
 	if SETTINGS.ShowReturns and returns and #returns > 0 then
-		SETTINGS.Output(
-			('%sReturned: %s'):format(
-				SETTINGS.LineBreak, parse(returns):sub(2, -2)))
+		local r_s = parse(returns):sub(2, -3)
+		local s = string.format('%sReturned: %s', SETTINGS.LineBreak, r_s)
+		SETTINGS.Output(s)
 	end
 	SETTINGS.Output(SETTINGS.BlockBreak)
 end
@@ -262,7 +294,7 @@ local function hook_server(self, method_n, f, ...)
 	local env_sc = show_s and rawget(env, 'script') or nil
 
 	local arguments = {...}
-	local format = string.format('%%s:%s(%%s)', method_n)
+	local format = string.format('%%s:%s( %%s )', method_n)
 	if not SETTINGS.ShowReturns then
 		write(self, format, arguments, env_sc)
 		return f(self, ...)
@@ -342,6 +374,8 @@ do
 	for _, o in next, get_instances() do hook_evt(o) end
 end
 
+--[[
 warn('Settings:')
 table.foreach(SETTINGS, print)
 warn('----------------')
+]]
