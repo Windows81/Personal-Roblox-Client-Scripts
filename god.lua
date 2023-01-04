@@ -13,7 +13,7 @@ h_cl:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
 h_cl:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
 
 h_cl.BreakJointsOnDeath = true
-h_og:destroy()
+h_og:Destroy()
 h_og = nil
 
 lp.Character = ch

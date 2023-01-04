@@ -1,32 +1,3 @@
---[==[HELP]==
-[1] - string | boolean | nil
-	The relative file path to save to.
-
-[2] - any
-	The object to parse and save to a file.
-
-[3] - boolean | nil
-	If true or nil, prettify the result.
-
-[4] - string | nil
-	The suffix to add to the string.
-
-[5] - boolean | nil
-	If true, append the file instead of overwriting.
-]==] --
---
-local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
-
-local args = _E and _E.ARGS or {}
-local FILE = args[1] or 'temp.txt'
-local VALUE = args[2]
-local PRETTY = args[3]
-local SUFFIX = args[4]
-local APPEND = args[5]
-
-if PRETTY == nil then PRETTY = true end
-if SUFFIX == nil then SUFFIX = '' end
-
 -- #region patch parse_obj.lua
 local _, make_writeable = next{ --
 	make_writeable,
@@ -195,9 +166,15 @@ function parse(obj, nl, lvl) -- Convert the types into strings
 end
 -- #endregion patch
 
-local p = parse(VALUE, PRETTY) .. SUFFIX
-if APPEND then
-	appendfile(FILE, p)
-else
-	writefile(FILE, p)
-end
+local metatable = getrawmetatable(game)
+local CURR = metatable.__namecall
+local NEWF = newcclosure(
+	function(self, ...)
+		local mn = getnamecallmethod(self)
+		local s = parse({...}, false)
+		if s:find 'testingchat' then print(parse(self), mn, s) end
+		return CURR(self, ...)
+	end)
+setreadonly(metatable, false)
+metatable.__namecall = NEWF
+setreadonly(metatable, true)

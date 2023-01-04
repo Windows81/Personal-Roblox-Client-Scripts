@@ -1,3 +1,13 @@
+-- #region patch chat.lua
+function chat(msg, target)
+	game.Players:Chat(msg)
+	local rs = game:GetService 'ReplicatedStorage'
+	local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
+	local smr = dcse:WaitForChild 'SayMessageRequest'
+	smr:FireServer(msg, target or 'All')
+end
+-- #endregion patch
+
 -- https://codegolf.stackexchange.com/a/74685
 local env = getrenv()
 env.chat = function(input)
@@ -6,7 +16,6 @@ env.chat = function(input)
 		if msg == '' then msg = string.lower(x:sub(1, 1)) .. string.lower(x:sub(2)) end
 		msg = msg .. x:sub(1, 1):upper() .. string.lower(x:sub(2))
 	end
-	game:GetService 'ReplicatedStorage':WaitForChild 'DefaultChatSystemChatEvents'
-		:WaitForChild 'SayMessageRequest':FireServer(msg, 'All')
+	chat(msg)
 	return msg
 end

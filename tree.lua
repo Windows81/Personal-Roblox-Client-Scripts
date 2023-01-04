@@ -1,18 +1,19 @@
 --[==[HELP]==
-Traverses through a list of objects, with the full path and number of layers from the datamodel printed out.
+Traverses through a list of Instance objects, with the full path and number of layers from the datamodel printed out.
 
 [1] - {Instance} | Instance | nil
 	List of objects to be traversed.
+	If passed as a single instance, all its descendants are included in the range.
 
 [2] - (Instance)->bool | nil
-	Query function that, when returns true, proceeds with output; defaults to always-true.
+	Query function which, when returns true, adds the instance to the result table.
+	Defaults to always-true.
 ]==] --
 --
-local lines = {}
 local args = _E and _E.ARGS or {}
-local range = args[1] or game
-if typeof(range) == 'Instance' then range = range:GetDescendants() end
-local query = args[2] or function(o) return true end
+local RANGE = args[1] or game
+if typeof(RANGE) == 'Instance' then RANGE = RANGE:GetDescendants() end
+local QUERY = args[2] or function(o) return true end
 
 -- Returns proper string wrapping for instances.
 local function get_name(o)
@@ -35,8 +36,9 @@ local function get_full(o)
 end
 
 local t = {}
-for _, g in next, range do
-	local s, b = pcall(query, g)
+local lines = {}
+for _, g in next, RANGE do
+	local s, b = pcall(QUERY, g)
 	if s and b then
 		local n, c = get_full(g)
 		table.insert(

@@ -7,12 +7,18 @@ if #args == 1 and args[1] == false then
 	return
 end
 
-local format = args[1] ~= nil and args[1] or [[Happy %H:%M UTC!]]
-local write = args[2] or function(m, t)
-	game:GetService('ReplicatedStorage'):WaitForChild(
-		'DefaultChatSystemChatEvents'):WaitForChild('SayMessageRequest'):FireServer(
-		m, 'All')
+-- #region patch chat.lua
+function chat(msg, target)
+	game.Players:Chat(msg)
+	local rs = game:GetService 'ReplicatedStorage'
+	local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
+	local smr = dcse:WaitForChild 'SayMessageRequest'
+	smr:FireServer(msg, target or 'All')
 end
+-- #endregion patch
+
+local format = args[1] ~= nil and args[1] or [[Happy %H:%M UTC!]]
+local write = args[2] or function(m, t) chat(m) end
 
 local snap = args[3] or 5
 local clear = not args[1] and true or args[4]

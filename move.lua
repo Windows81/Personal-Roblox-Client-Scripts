@@ -13,6 +13,7 @@ if typeof(CFRAME) == 'Vector3' then
 	local ccf = game.Workspace.CurrentCamera.CFrame
 	CFRAME = CFrame.new(CFRAME, ccf.Position)
 end
+
 if not OBJECT then
 	game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(CFRAME)
 elseif OBJECT:isA 'BasePart' then

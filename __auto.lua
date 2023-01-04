@@ -10,7 +10,7 @@ local SCRIPTS = { --
 	'anti-afk.lua',
 	'anti-kick.lua',
 	'zoom-dist.lua',
-	'click-dist.lua',
+	'far-click.lua',
 	'tele-key.lua',
 	-- 'auto-rej.lua',
 	'event-log.lua',
