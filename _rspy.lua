@@ -26,19 +26,20 @@ local SETTINGS = {
 			['.DefaultChatSystemChatEvents.SayMessageRequest'] = true,
 			['.DefaultChatSystemChatEvents.OnNewMessage'] = true,
 			['.ReplicatedStorage.PerspectiveLookEvent'] = true,
-			-- ['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
-			-- ['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
-			-- ['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
-			-- ['.ReplicatedStorage.updstatus'] = true, -- 4628761410
-			-- ['.ReplicatedStorage.BuildingEvents.CheckOtherPlayerPlatinum'] = true, -- 02546155523
-			-- ['.ReplicatedStorage.CS.GetInstaVilleFeed'] = true, -- 02546155523
-			-- ['.ReplicatedStorage.CS.StreamArea'] = true, -- 02546155523
-			-- ['.ReplicatedStorage.BuildingEvents.GetPropertyValue'] = true, -- 02546155523
-			-- ['.ReplicatedStorage.CS.GiveFoodDiner'] = true, -- 02546155523
-			-- ['.ReplicatedStorage.VisualRemotes.ChangeNeckWeld'] = true, -- 9664467600
-			-- ['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
-			-- ['.ReplicatedStorage.Phone.GetMissionsData'] = true, -- 735030788
-			-- ['.ReplicatedStorage.SocialInteractions.UpdateBodyOrientation'] = true, -- 9194124128
+			['.ReplicatedStorage.Remotes.Look'] = true, -- 11469138644
+			['.ReplicatedStorage.raidRoleplay.Events.RecieveLogs'] = true, -- 4893559188
+			['.ReplicatedStorage.ClientBridge.MouseCursor'] = true, -- 6982988368
+			['.ReplicatedStorage.WeaponCommunication.CameraUpdated'] = true, -- 6594449288
+			['.ReplicatedStorage.updstatus'] = true, -- 4628761410
+			['.ReplicatedStorage.BuildingEvents.CheckOtherPlayerPlatinum'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.GetInstaVilleFeed'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.StreamArea'] = true, -- 02546155523
+			['.ReplicatedStorage.BuildingEvents.GetPropertyValue'] = true, -- 02546155523
+			['.ReplicatedStorage.CS.GiveFoodDiner'] = true, -- 02546155523
+			['.ReplicatedStorage.VisualRemotes.ChangeNeckWeld'] = true, -- 9664467600
+			['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
+			['.ReplicatedStorage.Phone.GetMissionsData'] = true, -- 735030788
+			['.ReplicatedStorage.SocialInteractions.UpdateBodyOrientation'] = true, -- 9194124128
 		}),
 	LineBreak = arg_sel(9, '\n'),
 	BlockBreak = arg_sel(10, '\n\n'),
@@ -84,33 +85,9 @@ local _, get_instances = next{ --
 _G.RSpy_Original = {}
 local methods = {RemoteEvent = 'FireServer', RemoteFunction = 'InvokeServer'}
 
-local function obj_name(Object) -- Returns proper string wrapping for instances
-	local Name = Object.Name
-	return
-		((#Name == 0 or Name:match('[^%w]+') or Name:sub(1, 1):match('[^%a]')) and
-			'["%s"]' or '.%s'):format(Name)
-end
-
-local function in_blacklist(Object)
-	local path = obj_name(Object)
-	if SETTINGS.Blacklist[path:sub(2)] then return true end
-	local parent = metatable.__index(Object, 'Parent')
-	while parent and parent ~= game do
-		path = obj_name(parent) .. path
-		if SETTINGS.Blacklist[path] then return true end
-		parent = metatable.__index(parent, 'Parent')
-	end
-	return false
-end
-
 -- #region patch parse_obj.lua
-local _, make_writeable = next{ --
-	make_writeable,
-	setreadonly,
-	set_readonly,
-}
-
-local function get_name(o) -- Returns proper string wrapping for instances
+-- Returns proper string wrapping for instances
+local function obj_name(o)
 	local n = o.Name:gsub('"', '\\"')
 	local f = '.%s'
 	if #n == 0 then
@@ -120,13 +97,13 @@ local function get_name(o) -- Returns proper string wrapping for instances
 	elseif n:sub(1, 1):match('[^%a]') then
 		f = '["%s"]'
 	end
-	return f:format(n)
+	return string.format(f, n)
 end
 
 local lp = game.Players.LocalPlayer
 function get_full(o)
 	if not o then return nil end
-	local r = parse(get_name(o))
+	local r = parse(obj_name(o))
 	local p = o.Parent
 	while p do
 		if p == game then
@@ -134,7 +111,7 @@ function get_full(o)
 		elseif p == lp then
 			return 'game.Players.LocalPlayer' .. r
 		end
-		r = parse(get_name(p)) .. r
+		r = parse(obj_name(p)) .. r
 		p = p.Parent
 	end
 	return 'NIL' .. r
@@ -178,24 +155,26 @@ local function escape_char(c)
 end
 
 function parse(obj, nl, lvl) -- Convert the types into strings
-	local t = typeof(obj)
+	local typ = typeof(obj)
 	local lvl = lvl or 0
 	if nl == nil then nl = false end
 
-	if t == 'string' then
+	if typ == 'string' then
 		if lvl == 0 then return obj end
 		return string.format('"%s"', obj:gsub('[\000-\031%\\"]', escape_char))
+	end
 
-	elseif t == 'Instance' then -- Instance:GetFullName() except it's not handicapped
-		return get_full(obj)
+	-- Instance:GetFullName() except it's not handicapped
+	if typ == 'Instance' then return get_full(obj) end
 
-	elseif t == 'table' then
+	if typ == 'table' then
 		if lvl > 666 then return 'DEEP_TABLE' end
 		local keyed_vals = {}
 		local ipair_vals = {}
 		local tab = '  '
 		local c = 0
 
+		local ws_zer = ' '
 		local ws_beg = ' '
 		local ws_cat = ' '
 		local ws_end = ' '
@@ -204,6 +183,7 @@ function parse(obj, nl, lvl) -- Convert the types into strings
 			ws_beg = string.format('\n%s', string.rep(tab, lvl + 1))
 			ws_cat = string.format('\n%s', string.rep(tab, lvl + 1))
 			ws_end = string.format('\n%s', string.rep(tab, lvl))
+			ws_zer = string.format('\n%s', string.rep(tab, lvl))
 		end
 
 		for i, o in next, obj do
@@ -227,52 +207,72 @@ function parse(obj, nl, lvl) -- Convert the types into strings
 		-- Merges keyed values with ipair values - in that order.
 		table.sort(keyed_vals)
 		table.move(ipair_vals, 1, #ipair_vals, #keyed_vals + 1, keyed_vals)
+		if #keyed_vals == 0 then return string.format('{%s}', ws_zer) end
+
 		local all_str = table.concat(keyed_vals, ws_cat)
 		return string.format('{%s%s%s}', ws_beg, all_str, ws_end)
+	end
 
-	elseif ARG_REPR_TYPES[t] then
-		local f_args = {t, tostring(obj):gsub('[{}]', '')}
+	if ARG_REPR_TYPES[typ] then
+		local f_args = {typ, tostring(obj):gsub('[{}]', '')}
 		return string.format('%s.new(%s)', unpack(f_args))
+	end
 
-	elseif SEQ_REPR_TYPES[t] then
-		local f_args = {t, parse(obj.Keypoints, nl, lvl)}
+	if SEQ_REPR_TYPES[typ] then
+		local f_args = {typ, parse(obj.Keypoints, nl, lvl)}
 		return string.format('%s.new(%s)', unpack(f_args))
+	end
 
-	elseif SEQ_KEYP_TYPES[t] then
-		local f_args = {t, obj.Time, parse(obj.Value, nl, lvl)}
+	if SEQ_KEYP_TYPES[typ] then
+		local f_args = {typ, obj.Time, parse(obj.Value, nl, lvl)}
 		return string.format('%s.new(%s, %s)', unpack(f_args))
+	end
 
-	elseif t == 'Color3' then
-		local f_args = {t, obj.R * 255, obj.G * 255, obj.B * 255}
+	if typ == 'Color3' then
+		local f_args = {typ, obj.R * 255, obj.G * 255, obj.B * 255}
 		return string.format('%s.fromRGB(%d, %d, %d)', unpack(f_args))
+	end
 
-	elseif t == 'NumberRange' then
-		local f_args = {t, tostring(obj.Min), tostring(obj.Max)}
+	if typ == 'NumberRange' then
+		local f_args = {typ, tostring(obj.Min), tostring(obj.Max)}
 		return string.format('%s.new(%s, %s)', unpack(f_args))
+	end
 
-	elseif t == 'userdata' then
+	if typ == 'userdata' then
 		local res
 		local meta = getrawmetatable(obj)
 		local m_ts = meta and meta.__tostring
 		-- Remove __tostring fields to counter traps.
 		if m_ts then
-			make_writeable(meta, false)
+			setreadonly(meta, false)
 			meta.__tostring = nil
 			res = tostring(obj)
 			rawset(meta, '__tostring', m_ts)
-			make_writeable(meta, rawget(meta, '__metatable') ~= nil)
+			setreadonly(meta, rawget(meta, '__metatable') ~= nil)
 		else
 			res = tostring(obj)
 		end
 		return res
-	else
-		return tostring(obj)
 	end
+
+	return tostring(obj)
 end
--- #endregion patch
+-- #endregion patch
+
+local function in_blacklist(Object)
+	local path = obj_name(Object)
+	if SETTINGS.Blacklist[path:sub(2)] then return true end
+	local parent = metatable.__index(Object, 'Parent')
+	while parent and parent ~= game do
+		path = obj_name(parent) .. path
+		if SETTINGS.Blacklist[path] then return true end
+		parent = metatable.__index(parent, 'Parent')
+	end
+	return false
+end
 
 local function write(remote, format, arguments, script, returns)
-	local a_s = parse(arguments):sub(2, -3)
+	local a_s = parse(arguments):sub(3, -4)
 	local line = string.format(format, parse(remote), a_s)
 	SETTINGS.Output(line)
 
@@ -283,7 +283,7 @@ local function write(remote, format, arguments, script, returns)
 		end
 	end
 	if SETTINGS.ShowReturns and returns and #returns > 0 then
-		local r_s = parse(returns):sub(2, -3)
+		local r_s = parse(returns):sub(3, -4)
 		local s = string.format('%sReturned: %s', SETTINGS.LineBreak, r_s)
 		SETTINGS.Output(s)
 	end

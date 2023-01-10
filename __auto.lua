@@ -6,7 +6,7 @@
 -- Script paths that are automatically loaded once injected.
 local SCRIPTS = { --
 	-- 'input.lua',
-	-- 'hop.lua',
+	'hop.lua',
 	'anti-afk.lua',
 	'anti-kick.lua',
 	'zoom-dist.lua',
@@ -113,6 +113,9 @@ env._E = setmetatable(
 		__call = function(self, ...) return exec(...) end,
 	})
 
-for _, n in next, SCRIPTS do task.spawn(function() loadfile(n)() end) end
-local n = ('place/%011d.lua'):format(game.PlaceId)
-if isfile(n) then print('LOADFILE FOR PLACE:', pcall(loadfile(n))) end
+_E.AUTO = true
+for _, n in next, SCRIPTS do print('AUTO SCRIPT LOADED:', n, pcall(loadfile(n))) end
+local pl_n = string.format('place/%011d.lua', game.PlaceId)
+if isfile(pl_n) then print('PLACE SCRIPT LOADED:', pl_n, pcall(loadfile(pl_n))) end
+print('AUTO SCRIPTS ARE DONE!')
+_E.AUTO = false

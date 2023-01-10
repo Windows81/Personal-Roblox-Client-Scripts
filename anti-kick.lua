@@ -1,27 +1,25 @@
 --[==[HELP]==
-Taken from Infinite Yield's 'clientantikick' command.
+Credit to @shayrbx (https://github.com/EdgeIY/infiniteyield/pull/101) for current implementation.
 Prevents local scripts from calling Player:Kick().
 ]==] --
 --
+local valid_names = {'Kick', 'kick'}
 local lp = game.Players.LocalPlayer
-local old_index, old_namecall
 
-local function check(self, m) return self == lp and m:lower() == 'kick' end
-local function dummy(...) _E.EXEC('output', 'Tried to kick:', ...) end
+-- Prevents sanity-checking "Player.KiCk()", etc. which don't point to an actual function.
+for _, f in ipairs(valid_names) do
+	local old_func
+	old_func = hookfunction(
+		lp[f], newcclosure(
+			function(self, ...)
+				if self == lp then return end
+				return old_func(...)
+			end))
+end
 
-old_index = hookmetamethod(
-	game, '__index', function(self, method, ...)
-		if check(self, method) then
-			error('Expected \':\' not \'.\' calling member function Kick', 2)
-			return dummy(...)
-		end
-		return old_index(self, method)
-	end)
-
-old_namecall = hookmetamethod(
+local old_nmcl
+old_nmcl = hookmetamethod(
 	game, '__namecall', function(self, ...)
-		if check(self, getnamecallmethod()) then --
-			return dummy(...)
-		end
-		return old_namecall(self, ...)
+		if self == lp and table.find(valid_names, getnamecallmethod()) then return end
+		return old_nmcl(self, ...)
 	end)

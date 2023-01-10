@@ -1,6 +1,6 @@
 --[==[HELP]==
 [1] - number | nil
-	The place ID to teleport to, or in-universe index if <1818.
+	The place ID to teleport to, or in-universe index if less than 1598.
 	If nil, default to the next place after current ID for in-universe index.
 ]==] --
 local function teleport(id, instance)
@@ -13,7 +13,7 @@ end
 
 local args = _E and _E.ARGS or {}
 local value = args[1]
-if value < 1818 then
+if value < 1598 then
 	local pages = game:GetService 'AssetService':GetGamePlacesAsync()
 	while true do
 		for _, place in next, pages:GetCurrentPage() do

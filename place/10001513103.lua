@@ -1,12 +1,12 @@
 -- #region patch chat.lua
-function chat(msg, target)
+function chat(msg, target)
 	game.Players:Chat(msg)
 	local rs = game:GetService 'ReplicatedStorage'
 	local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
 	local smr = dcse:WaitForChild 'SayMessageRequest'
 	smr:FireServer(msg, target or 'All')
 end
--- #endregion patch
+-- #endregion patch
 
 -- https://codegolf.stackexchange.com/a/74685
 local env = getrenv()

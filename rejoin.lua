@@ -25,7 +25,7 @@ if typeof(args[1]) == 'string' then
 	game:GetService 'TeleportService':TeleportToPlaceInstance(
 		game.PlaceId, args[1])
 elseif typeof(args[1]) == 'number' then
-	if args[1] < 1818 then
+	if args[1] < 1598 then
 		local sId = get_servers(unpack(args))[args[1]]
 		game:GetService 'TeleportService':TeleportToPlaceInstance(game.PlaceId, sId)
 	elseif typeof(args[2]) == 'string' then

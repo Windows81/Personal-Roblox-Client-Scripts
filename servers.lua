@@ -7,20 +7,22 @@
 ]==] --
 --
 local args = _E and _E.ARGS or {}
-local function get_servers(place, limit, order)
+
+-- #region patch servers.lua
+local function get_servers(place, limit, order)
 	local place = place or game.PlaceId
 	local order = order and 'Asc' or 'Desc'
 	local servers = {}
 	local cursor = ''
 	local count = 0
 	repeat
-		local r = game:HttpGet(
+		local req = game:HttpGet(
 			string.format(
 				'https://games.roblox.com/v1/games/%s/servers/Public?sortOrder=%s&limit=100&cursor=%s',
 					place, order, cursor))
 		local iters = {
-			id = string.gmatch(r, '"id":"(........%-....%-....%-....%-............)"'),
-			playing = string.gmatch(r, '"playing":(%d+)'),
+			id = string.gmatch(req, '"id":"(........%-....%-....%-....%-............)"'),
+			playing = string.gmatch(req, '"playing":(%d+)'),
 		}
 		local function iter(...)
 			local ret = {}
@@ -36,9 +38,10 @@ local function get_servers(place, limit, order)
 			table.insert(servers, m)
 			if count == limit then return servers end
 		end
-		cursor = string.match(r, '"nextPageCursor":"([^,]+)"')
+		cursor = string.match(req, '"nextPageCursor":"([^,]+)"')
 	until not cursor
 	return servers
 end
+-- #endregion patch
 
 return get_servers(unpack(args))
