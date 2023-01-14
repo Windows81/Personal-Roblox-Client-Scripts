@@ -41,8 +41,7 @@ end
 if isfile(s_fn) then get_stat = loadfile(s_fn)() end
 
 -- #region patch servers.lua
-
-local function get_servers(place, limit, order)
+local function get_servers(place, limit, order)
 	local place = place or game.PlaceId
 	local order = order and 'Asc' or 'Desc'
 	local servers = {}
@@ -75,8 +74,7 @@ local function get_servers(place, limit, order)
 	until not cursor
 	return servers
 end
-
--- #endregion patch
+-- #endregion patch
 
 local function parse(lines)
 	local t = {}
