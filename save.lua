@@ -27,8 +27,8 @@ local APPEND = args[5]
 if PRETTY == nil then PRETTY = true end
 if SUFFIX == nil then SUFFIX = '' end
 
--- #region patch parse_obj.lua
-local function escape_char(c)
+-- #region patch parse-obj.lua
+local function escape_char(c)
 	if c == '\n' then
 		return '\\n'
 	elseif c == '\r' then
@@ -69,12 +69,13 @@ function get_full(o)
 	local p = o.Parent
 	while p do
 		if p == game then
-			return table.insert(r, 1, 'game')
+			table.insert(r, 1, 'game')
+			return table.concat(r, '')
 		elseif p == lp then
 			table.insert(r, 1, 'game.Players.LocalPlayer')
 			return table.concat(r, '')
 		end
-		r = table.insert(r, 1, repr_str(obj_name(p)))
+		table.insert(r, 1, obj_name(p))
 		p = p.Parent
 	end
 	table.insert(r, 1, 'NIL')
@@ -201,7 +202,7 @@ function parse(obj, nl, lvl) -- Convert the types into strings
 
 	return tostring(obj)
 end
--- #endregion patch
+-- #endregion patch
 
 local p = parse(VALUE, PRETTY) .. SUFFIX
 if APPEND then

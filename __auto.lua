@@ -114,6 +114,7 @@ env._E = setmetatable(
 	})
 
 _E.AUTO = true
+print('AUTO SCRIPT TO LOAD...')
 for _, n in next, SCRIPTS do print('AUTO SCRIPT LOADED:', n, pcall(loadfile(n))) end
 local pl_n = string.format('place/%011d.lua', game.PlaceId)
 if isfile(pl_n) then print('PLACE SCRIPT LOADED:', pl_n, pcall(loadfile(pl_n))) end

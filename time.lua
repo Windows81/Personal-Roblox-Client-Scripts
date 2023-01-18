@@ -8,14 +8,14 @@ if #args == 1 and args[1] == false then
 end
 
 -- #region patch chat.lua
-function chat(msg, target)
+function chat(msg, target)
 	game.Players:Chat(msg)
 	local rs = game:GetService 'ReplicatedStorage'
 	local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
 	local smr = dcse:WaitForChild 'SayMessageRequest'
 	smr:FireServer(msg, target or 'All')
 end
--- #endregion patch
+-- #endregion patch
 
 local format = args[1] ~= nil and args[1] or [[Happy %H:%M UTC!]]
 local write = args[2] or function(m, t) chat(m) end

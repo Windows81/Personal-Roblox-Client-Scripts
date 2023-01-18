@@ -65,7 +65,7 @@ local function rot_string(cf)
 	elseif a == 0 then
 		return '0'
 	else
-		error('Grid rotation is nowhere near valid.')
+		error('Grid rotation isn\'t valid.')
 	end
 end
 

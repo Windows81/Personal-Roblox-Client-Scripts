@@ -1,3 +1,5 @@
+_E.EXEC('fly')
+--[[
 task.wait(2)
 local h = {}
 local pls = game.Players:GetPlayers()
@@ -24,3 +26,4 @@ game.ReplicatedStorage.HDAdminClient.Signals.RequestCommand:InvokeServer(
 	':unff ' .. pl.Name)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(p * CFrame.new(0, 0, 3))
 mouse1click()
+]]

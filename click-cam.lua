@@ -6,7 +6,12 @@ Prints and returns the CFrame of the current camera.
 ]==] --
 --
 local args = _E and _E.ARGS or {}
-local m = game.Players.LocalPlayer:GetMouse()
-local _ = args[1] and task.wait(args[1]) or m.Button1Up:Wait()
+local WAIT_D = args[1]
+
+-- #region patch click-wait.lua
+local mouse = game.Players.LocalPlayer:GetMouse()
+local _ = WAIT_D and task.wait(WAIT_D) or mouse.Button1Up:Wait()
+-- #endregion patch
+
 local v = game.Workspace.CurrentCamera.CFrame
 return v

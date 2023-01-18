@@ -5,6 +5,7 @@ This script is designed exclusively for use with Rsexec.
 	A script alias to pull the help page from.
 ]==] --
 --
+print(5)
 if not _E then return end
 local args = _E and _E.ARGS or {}
 local p = _E.GETSCRIPTPATH(args[1])

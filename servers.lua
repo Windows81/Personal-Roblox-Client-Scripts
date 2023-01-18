@@ -9,9 +9,9 @@
 local args = _E and _E.ARGS or {}
 
 -- #region patch servers.lua
-local function get_servers(place, limit, order)
+local function get_servers(place, limit, is_asc)
 	local place = place or game.PlaceId
-	local order = order and 'Asc' or 'Desc'
+	local order = is_asc and 'Asc' or 'Desc'
 	local servers = {}
 	local cursor = ''
 	local count = 0
@@ -42,6 +42,6 @@ local args = _E and _E.ARGS or {}
 	until not cursor
 	return servers
 end
--- #endregion patch
+-- #endregion patch
 
 return get_servers(unpack(args))

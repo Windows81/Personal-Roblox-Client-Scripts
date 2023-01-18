@@ -1,3 +1,13 @@
+--[==[HELP]==
+Teleports to a specified player.
+
+[1] - number | nil
+	Maximum number of servers to hop between.  Otherwise, no limit.
+
+[2] - bool | nil
+	If true, hops through servers in ascending order of player count.  Hops through in descending orders otherwise.
+]==] --
+--
 if not _E then error'This script requires Rsexec to run properly.' end
 
 local p_id = game.PlaceId
@@ -18,6 +28,7 @@ local WAIT_ERRORS = {
 	[Enum.TeleportResult.Flooded] = true,
 }
 
+--[[
 -- Return nil/false to stop processing, anything else to stringify and save as stat and skip to next server.
 local function get_stat()
 	task.wait(7)
@@ -36,14 +47,20 @@ local function get_stat()
 	end
 	return true
 end
+]]
 
--- The script at file "s_fn" should return a function.
-if isfile(s_fn) then get_stat = loadfile(s_fn)() end
+-- The script at file "s_fn" should return a function which returns a number score (or nil to halt the hop).
+local get_stat
+if isfile(s_fn) then
+	get_stat = loadfile(s_fn)
+else
+	return
+end
 
 -- #region patch servers.lua
-local function get_servers(place, limit, order)
+local function get_servers(place, limit, is_asc)
 	local place = place or game.PlaceId
-	local order = order and 'Asc' or 'Desc'
+	local order = is_asc and 'Asc' or 'Desc'
 	local servers = {}
 	local cursor = ''
 	local count = 0
@@ -74,15 +91,21 @@ if isfile(s_fn) then get_stat = loadfile(s_fn)() end
 	until not cursor
 	return servers
 end
--- #endregion patch
+-- #endregion patch
 
 local function parse(lines)
 	local t = {}
 	for i = lines[1] + 2, #lines, 2 do
 		local k, v = lines[i + 0], lines[i + 1]
-		t[k] = tonumber(v) or v
+		if tonumber(v) then
+			v = string.format('%9.4f', v)
+		else
+			v = tostring(v)
+		end
+		table.insert(t, string.format('%s \x1b[90m"%s"\x1b[00m', v, k))
 	end
-	return t
+	table.sort(t)
+	return table.concat(t, '\n')
 end
 
 local function process_lines(lines)
@@ -95,7 +118,9 @@ local function process_lines(lines)
 	if i == 2 then return true end
 	if lines[i] ~= s_id then return true end
 
+	print(666)
 	local stat = get_stat()
+	print(stat)
 	if not stat then return true end
 	lines[i + 1] = tostring(stat)
 	set_i(i - 2)
@@ -138,18 +163,23 @@ if isfile(t_fn) then
 	lines = readfile(t_fn):split('\n')
 
 elseif not auto_run then
-	lines = {0}
-	local i = 0
-	for _, t in next, get_servers(p_id) do
+	local args = _E.ARGS
+	local limit = args[1]
+	local is_asc = args[2]
+
+	local servers = get_servers(p_id, limit, is_asc)
+	local len = #servers
+	local i = 2 * len
+	lines = table.create(2 * len + 1, '')
+	lines[i] = s_id
+	lines[1] = i
+	i = i - 2
+	for _, t in next, servers do
 		if t.id ~= s_id then
-			i = i + 1
-			table.insert(lines, t.id)
-			table.insert(lines, '')
+			lines[i] = t.id
+			i = i - 2
 		end
 	end
-	table.insert(lines, s_id)
-	table.insert(lines, '')
-	lines[1] = i * 2 + 2
 end
 
 if not lines then return end
@@ -159,7 +189,6 @@ local parsed = parse(lines)
 if not auto_run then return parsed end
 
 -- Dirty hack to let Rsexec know to accept normal input now.
-print(parsed)
 _E.EXEC('output', parsed)
 _E.EXEC('output', '\0')
-print(6)
+delfile(t_fn)
