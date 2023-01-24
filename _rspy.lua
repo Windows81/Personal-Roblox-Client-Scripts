@@ -40,6 +40,7 @@ local SETTINGS = {
 			['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
 			['.ReplicatedStorage.Phone.GetMissionsData'] = true, -- 735030788
 			['.ReplicatedStorage.SocialInteractions.UpdateBodyOrientation'] = true, -- 9194124128
+			['.ReplicatedStorage.Remotes["new stats"]'] = true,
 		}),
 	LineBreak = arg_sel(9, '\n'),
 	BlockBreak = arg_sel(10, '\n\n'),

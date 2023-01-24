@@ -20,7 +20,7 @@ local SCRIPTS = { --
 }
 
 -- Returns a list of paths to search given the command query.
-local function gsps(n, ...)
+local function path_list(n, ...)
 	if type(n) == 'number' then
 		return { --
 			('place/%011d-.lua'):format(n),
@@ -65,13 +65,13 @@ local function gsps(n, ...)
 	end
 end
 
-local function gsp(n, ...)
-	for _, f in next, gsps(n, ...) do if f and isfile(f) then return f end end
+local function find_path(n, ...)
+	for _, f in next, path_list(n, ...) do if f and isfile(f) then return f end end
 end
 
 local NOT_FOUND_STRING = 'QUERY "%s" DID NOT YIELD ANY RESULTS'
 local function exec(n, ...)
-	local path = gsp(n, ...)
+	local path = find_path(n, ...)
 	if not path then error(string.format(NOT_FOUND_STRING, n)) end
 	_E.ARGS = {...}
 	_E.OUTPUT = nil
@@ -89,16 +89,20 @@ end
 local env = getrenv()
 local BASE = { --
 	RSEXEC = exec,
-	GETSCRIPTPATH = gsp,
+	FIND_PATH = find_path,
+	PATH_LIST = path_list,
 	OUTPUT = output,
 }
 local ALIASES = { --
 	['R'] = 'RETURN',
 	['E'] = 'RSEXEC',
-	['GSP'] = 'GETSCRIPTPATH',
-	['EXEC'] = 'RSEXEC',
+	['F'] = 'FIND_PATH',
+	['L'] = 'PATH_LIST',
 	['A'] = 'ARGS',
 	['O'] = 'OUTPUT',
+	['EXEC'] = 'RSEXEC',
+	['FIND'] = 'FIND_PATH',
+	['LIST'] = 'PATH_LIST',
 }
 
 local function get_meta_key(k)

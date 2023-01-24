@@ -22,10 +22,10 @@ local reconnectDisabledList = {
 
 gs.ErrorMessageChanged:connect(
 	function()
-		local errorCode = gs:GetErrorCode()
-		local errorType = gs:GetErrorType()
-		if errorType == Enum.ConnectionError.DisconnectErrors and
-			not reconnectDisabledList[errorCode] then
+		local error_code = gs:GetErrorCode()
+		local error_type = gs:GetErrorType()
+		if error_type == Enum.ConnectionError.DisconnectErrors and
+			not reconnectDisabledList[error_code] then
 			print('Disconnect registered!')
 			while task.wait(5) do
 				game:GetService 'TeleportService':TeleportToPlaceInstance(
