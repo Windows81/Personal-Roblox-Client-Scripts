@@ -15,8 +15,6 @@
 	If true, append the file instead of overwriting.
 ]==] --
 --
-local _, make_writeable = next{make_writeable, setreadonly, set_readonly}
-
 local args = _E and _E.ARGS or {}
 local FILE = args[1] or 'temp.txt'
 local VALUE = args[2]
