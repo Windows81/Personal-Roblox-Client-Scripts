@@ -1,4 +1,8 @@
 --[==[HELP]==
+Toggles disabling collisions for all objects in the datamodel.
+Unlike other implementations of 'noclip', this script does NOT include flying tools.
+Use your own fly script.
+
 [1] - bool | nil
 	Enabled noclipping if true; disables if false; toggles if nil.
 ]==] --

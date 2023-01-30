@@ -1,3 +1,14 @@
+--[==[HELP]==
+Executes a function periodically which contains a formatted time string and the current tick().
+
+[1] - string | nil
+	Format string to be used for os.date.
+	Defaults to "Happy %H:%M UTC!".
+
+[2] - (string, number) -> ()
+	Function which is called with the formatted time string.
+]==] --
+--
 local args = _E and _E.ARGS or {}
 _G.tmch_t = _G.tmch_t or {}
 

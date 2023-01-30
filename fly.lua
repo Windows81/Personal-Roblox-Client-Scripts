@@ -1,3 +1,50 @@
+--[==[HELP]==
+Attaches a BodyGyro and RocketPropulsion object to the current character.
+If the character dies, under default conditions, these objects are reloaded automatically
+.
+Strike 'H' to toggle flying.
+Strike 'G' to toggle anchoring the root part.
+Strike 'L' to go faster by a factor of 3/2.
+Strike 'K' to slow down by a factor of 2/3.
+
+[1] - number | nil
+	Determines the initial speed at which the character is to fly.
+	Corresponds to internal variable SPEED.  Default is 127.
+
+[2] - bool | nil
+	If true, calculates rotation relative to the character, rather than to the current camera.
+	Corresponds to internal variable REL_TO_CHAR.
+
+[3] - number | nil
+	Determines the maximum amount of torque that the RocketPropulsion may exert to rotate the character.
+	Corresponds to internal variable MAX_TORQUE_RP.  Defaults to 1e4.
+
+[4] - number | nil
+	Determines how aggressive of a force is applied by the RocketPropulsion.
+	Corresponds to internal variable THRUST_P.  Defaults to 1e5.
+
+[5] - number | nil
+	Determines the maximum amount of thrust that will be exerted to move the character.
+	Corresponds to internal variable MAX_THRUST.  Defaults to 5e5.
+
+[6] - number | nil
+	Determines the limit on how much torque that may be applied to all axes by the BodyGyro.
+	Corresponds to internal variable MAX_TORQUE_BG.  Defaults to 3e4.
+
+[7] - number | nil
+	Determines the amount of dampening that to use by the RocketPropulsion.
+	Corresponds to internal variable THRUST_D.  Defaults to 1e5.
+
+[8] - number | nil
+	Determines the amount of dampening that the RocketPropulsion is to use.
+	Corresponds to internal variable TURN_D.  Defaults to 2e2.
+
+[9] - Instance | nil
+	The part to which the RocketPropulsion and BodyGyro are both attached.
+	Corresponds to internal variable ROOT_PART.
+	If nil, defaults to the player's character, which is automatically initialised upon respawn.
+]==] --
+--
 local args = _E and _E.ARGS or {}
 local FLYK = Enum.KeyCode.H
 local ANCK = Enum.KeyCode.G
@@ -30,7 +77,7 @@ local MAX_TORQUE_RP = args[3]
 if MAX_TORQUE_RP == nil then MAX_TORQUE_RP = 1e4 end
 
 local THRUST_P = args[4]
-if THRUST_P == nil then THRUST_P = 1e7 end
+if THRUST_P == nil then THRUST_P = 1e5 end
 
 local MAX_THRUST = args[5]
 if MAX_THRUST == nil then MAX_THRUST = 5e5 end
@@ -41,13 +88,10 @@ if MAX_TORQUE_BG == nil then MAX_TORQUE_BG = 3e4 end
 local THRUST_D = args[7]
 if THRUST_D == nil then THRUST_D = math.huge end
 
-local THRUST_P = args[8]
-if THRUST_P == nil then THRUST_P = 1e5 end
-
-local TURN_D = args[9]
+local TURN_D = args[8]
 if TURN_D == nil then TURN_D = 2e2 end
 
-local ROOT_PART = args[10]
+local ROOT_PART = args[9]
 local keys_dn = {}
 local flying = false
 local enabled = false

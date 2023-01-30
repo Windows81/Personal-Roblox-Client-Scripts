@@ -44,4 +44,16 @@ local function get_servers(place, limit, is_asc)
 end
 -- #endregion patch
 
-return get_servers(unpack(args))
+local res = get_servers(unpack(args))
+local format = '\x1b[90m [JOBID]  %s%s\n\x1b[90m[PLAYING] \x1b[00m%d'
+
+local lines = {}
+for i, t in next, res do
+	local id = t.id
+	local playing = t.playing
+	local ansi = id == game.JobId and '\x1b[32m' or '\x1b[00m'
+	lines[i] = string.format(format, ansi, id, playing)
+end
+
+_E.OUTPUT = {table.concat(lines, '\n\n')}
+return res

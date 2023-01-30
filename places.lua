@@ -2,7 +2,7 @@
 Returns a list of place IDs and names for the current universe.
 ]==] --
 local pages = game:GetService 'AssetService':GetGamePlacesAsync()
-local format = '\x1b[90m[NAME] \x1b[00m%s\n\x1b[90m [ID] %s%11d'
+local format = '\x1b[90m[NAME] \x1b[00m%s\n\x1b[90m [ID]  %s%d'
 local result = {}
 local lines = {}
 
