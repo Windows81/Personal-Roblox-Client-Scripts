@@ -121,7 +121,7 @@ function ADD_BLOCK(cf, colour, material, shape)
 end
 
 function CLEAR_BLOCKS()
-	game.ReplicatedStorage.Sockets.World.LoadTemplate:FireServer('Scratch')
+	game.ReplicatedStorage.Sockets.World.LoadTemplate:FireServer 'Scratch'
 	task.wait(5)
 	return true
 end

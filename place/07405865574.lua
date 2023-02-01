@@ -1,4 +1,4 @@
-local REMOTES = game.ReplicatedStorage.Remotes
+local REMOTES = game:GetService 'ReplicatedStorage'.Remotes
 
 function ADD_BLOCK(cf, typ)
 	local pos = cf.Position
@@ -7,10 +7,7 @@ function ADD_BLOCK(cf, typ)
 	return REMOTES.Placed:InvokeServer(typ, pos, Vector3.new(unpack(rot_deg))), pos
 end
 
-function REMOVE_BLOCK(pos)
-	return game.ReplicatedStorage.Remotes.Destroyed:InvokeServer(pos)
-end
-
+function REMOVE_BLOCK(pos) return REMOTES.Destroyed:InvokeServer(pos) end
 function BLOCK_EXISTS(o) return true end
 
 BLOCK_TIMEOUT = 5

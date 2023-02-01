@@ -33,13 +33,17 @@ if APPENDS_INSTEAD_OF_WRITES == nil then APPENDS_INSTEAD_OF_WRITES = true end
 if WRITES_FILE_AT_ONCE == nil then WRITES_FILE_AT_ONCE = false end
 if TICK_DELAY == nil then TICK_DELAY = 7 end
 
+local pls = game:GetService 'Players'
+local rs = game:GetService 'ReplicatedStorage'
+local dsce = rs:FindFirstChild 'DefaultChatSystemChatEvents'
+
 local place_id = game.PlaceId
 local svr_id = #game.JobId > 0 and game.JobId or 'PLAYTEST'
-local lp_uid = game.Players.LocalPlayer.UserId
+local lp_uid = pls.LocalPlayer.UserId
 local enabled = true
 
 local http_req_hook
-local plr_from_id_hook = game.Players.GetPlayerByUserId
+local plr_from_id_hook = pls.GetPlayerByUserId
 local function timestamp(t) return os.date('%Y-%m-%dT%H:%M:%SZ', t) end
 
 local function get_place_name(pId)
@@ -193,22 +197,21 @@ local function tcs_received(textChannel)
 	textChannel.MessageReceived:Connect(
 		function(packet)
 			local uid = packet.TextSource.UserId
-			local pl = plr_from_id_hook(game.Players, uid)
+			local pl = plr_from_id_hook(pls, uid)
 			local msg = packet.Text
 			plr_chat(pl, msg)
 		end)
 end
 
-local dsce = game.ReplicatedStorage:FindFirstChild 'DefaultChatSystemChatEvents'
 if _G.wh_log_evts then for _, e in next, _G.wh_log_evts do e:Disconnect() end end
 _G.wh_log_evts = {
-	game.Players.PlayerAdded:Connect(plr_add),
-	game.Players.PlayerRemoving:Connect(plr_leave),
+	pls.PlayerAdded:Connect(plr_add),
+	pls.PlayerRemoving:Connect(plr_leave),
 	dsce and dsce.OnMessageDoneFiltering.OnClientEvent:Connect(
 		function(packet)
 			local uid = packet.SpeakerUserId
 			if uid == lp_uid then return end
-			local pl = plr_from_id_hook(game.Players, uid)
+			local pl = plr_from_id_hook(pls, uid)
 			local msg = packet.Message
 			if pl then plr_chat(pl, msg) end
 		end),
@@ -226,7 +229,7 @@ _G.wh_log_evts = {
 }
 
 _G.evt_log('CHAT STREAM SUCCESSFULLY STARTED', true)
-for _, pl in next, game.Players:GetPlayers() do task.spawn(plr_add, pl) end
+for _, pl in next, pls:GetPlayers() do task.spawn(plr_add, pl) end
 for _, tc in next, tcs:GetDescendants() do
 	if tc:IsA 'TextChannel' then tcs_received(tc) end
 end
