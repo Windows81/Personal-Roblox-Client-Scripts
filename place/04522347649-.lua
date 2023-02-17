@@ -5,6 +5,7 @@ local WAIT_D = args[2]
 
 -- #region patch click-wait.lua
 local mouse = game.Players.LocalPlayer:GetMouse()
+---@diagnostic disable-next-line: undefined-global
 local _ = WAIT_D and task.wait(WAIT_D) or mouse.Button1Up:Wait()
 -- #endregion patch
 
@@ -47,7 +48,8 @@ end
 -- #endregion patch
 
 -- #region patch hd-cmd.lua
-local rem = game.ReplicatedStorage.HDAdminClient.Signals.RequestCommand
+local rs = game:GetService 'ReplicatedStorage'
+local rem = rs.HDAdminClient.Signals.RequestCommand
 function hd_cmd(cmd) rem:InvokeServer(cmd) end
 -- #endregion patch
 

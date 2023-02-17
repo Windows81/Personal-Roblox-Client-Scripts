@@ -3,7 +3,7 @@
 	The object to move.
 
 [2] - CFrame | Vector3
-	The location th teleport the object.
+	The location to which to teleport the object.
 ]==] --
 --
 local args = _E and _E.ARGS or {}

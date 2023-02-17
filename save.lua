@@ -60,7 +60,7 @@ local function obj_name(o)
 	return string.format('.%s', n)
 end
 
-function get_full(o)
+local function get_full(o)
 	local lp = game.Players.LocalPlayer
 	if not o then return nil end
 	local r = {obj_name(o)}
@@ -97,7 +97,7 @@ local SEQ_KEYP_TYPES = { --
 	NumberSequenceKeypoint = true,
 }
 
-function parse(obj, nl, lvl) -- Convert the types into strings
+local function parse(obj, nl, lvl) -- Convert the types into strings
 	local typ = typeof(obj)
 	local lvl = lvl or 0
 	if nl == nil then nl = false end
@@ -202,9 +202,15 @@ function parse(obj, nl, lvl) -- Convert the types into strings
 end
 -- #endregion patch
 
-local p = parse(VALUE, PRETTY) .. SUFFIX
-if APPEND then
-	appendfile(FILE, p)
+local parsed
+if typeof(VALUE) ~= 'string' then
+	parsed = parse(VALUE, PRETTY)
 else
-	writefile(FILE, p)
+	parsed = VALUE
+end
+
+if APPEND then
+	appendfile(FILE, parsed .. SUFFIX)
+else
+	writefile(FILE, parsed .. SUFFIX)
 end

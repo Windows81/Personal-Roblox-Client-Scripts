@@ -1,6 +1,7 @@
 local args = _E and _E.ARGS or {}
 local instances = getinstances()
 local index = args[1] or 1
+
 if _G.vgui then
 	_G.vgui:Destroy()
 else
@@ -8,6 +9,7 @@ else
 		if g:isA 'Sound' then g.Volume = g.Volume / 256 end
 	end
 end
+
 local l = game:GetService 'ContentProvider':ListEncryptedAssets()
 game:GetService 'ContentProvider':PreloadAsync(l, print)
 _G.vgui = Instance.new('ScreenGui', game:GetService 'CoreGui')
@@ -27,6 +29,6 @@ vf.Ended:Wait()
 if g == _G.vgui then _G.vgui = nil end
 g:Destroy()
 
-for _, g in next, instances do
-	if g:isA 'Sound' then g.Volume = g.Volume * 256 end
+for _, obj in next, instances do
+	if obj:isA 'Sound' then obj.Volume = obj.Volume * 256 end
 end

@@ -40,6 +40,7 @@ local SETTINGS = {
 			['.ReplicatedStorage.GameRemotes.GetBiome'] = true, -- 9664467600
 			['.ReplicatedStorage.Phone.GetMissionsData'] = true, -- 735030788
 			['.ReplicatedStorage.SocialInteractions.UpdateBodyOrientation'] = true, -- 9194124128
+			['.ReplicatedStorage.Remotes.VisualizeBullet'] = true,
 			['.ReplicatedStorage.Remotes["new stats"]'] = true,
 		}),
 	LineBreak = arg_sel(9, '\n'),
@@ -121,7 +122,7 @@ local function obj_name(o)
 	return string.format('.%s', n)
 end
 
-function get_full(o)
+local function get_full(o)
 	local lp = game.Players.LocalPlayer
 	if not o then return nil end
 	local r = {obj_name(o)}
@@ -158,7 +159,7 @@ local SEQ_KEYP_TYPES = { --
 	NumberSequenceKeypoint = true,
 }
 
-function parse(obj, nl, lvl) -- Convert the types into strings
+local function parse(obj, nl, lvl) -- Convert the types into strings
 	local typ = typeof(obj)
 	local lvl = lvl or 0
 	if nl == nil then nl = false end

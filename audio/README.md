@@ -1,0 +1,1 @@
+This folder is intended for storing output from Rsexec's 'save-asset' module.

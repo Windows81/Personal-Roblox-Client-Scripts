@@ -1,10 +1,14 @@
 --[==[HELP]==
 [1] - boolean | nil
-	If boolean, whether to hide or show all GUI elements; defaults to toggle.
+	If boolean value, whether to hide or show all GUI elements; defaults to toggle.
+
+[2] - boolean | nil
+	If true, hides BillboardGuis on the character, as well as others which have a 'big enough' size.
 ]==] --
 --
 local args = _E and _E.ARGS or {}
 local TOGGLE = args[1]
+local ADVANCED = args[2]
 
 local uis = game:GetService 'UserInputService'
 local rns = game:GetService 'RunService'
@@ -25,20 +29,22 @@ local CLASSES = {
 		check = function(o)
 			local cn = o.ClassName
 			if cn == 'BillboardGui' then
-				return true, false
-				--[[
+				if not ADVANCED then return true, false end
+
 				local parent = o
 				while parent do
 					if parent:FindFirstChild 'Humanoid' then return true, true end
-					if parent == game.Workspace then break end
+					if parent == game.Workspace then return true, false end
 					parent = parent.Parent
 				end
-				return true, false
-				--[[
-				if not parent then return false end
+
+				if not parent then return true, false end
 				local size = o.AbsoluteSize
-				return true, size.X >= 127 or size.Y >= 127
-				]]
+				if size.X >= 127 or size.Y >= 127 then
+					return true, true
+				else
+					return true, false
+				end
 
 			elseif cn == 'ScreenGui' or cn == 'GuiMain' then
 				return true, true
@@ -50,8 +56,8 @@ local CLASSES = {
 			o.Enabled = false
 			return e
 		end,
-		show = function(o, e) --
-			o.Enabled = e
+		show = function(o) --
+			o.Enabled = true
 		end,
 	},
 }
@@ -62,7 +68,11 @@ local function hide_obj(obj_cache, o)
 		if is_class then
 			local t = obj_cache[class]
 			if t[o] then return end
-			if proceed then t[o] = funcs.hide(o) end
+			if proceed then
+				t[o] = funcs.hide(o)
+			else
+				t[o] = funcs.show(o)
+			end
 			break
 		end
 	end
@@ -84,8 +94,14 @@ local function unhide()
 	local cache = _G.hgui_cache
 	if not cache then return end
 	for class, t in cache.obj do
-		local show_f = CLASSES[class].show
-		for o, e in next, t do show_f(o, e) end
+		local cl_t = CLASSES[class]
+		for o, e in next, t do
+			if e then
+				cl_t.show(o)
+			else
+				cl_t.hide(o)
+			end
+		end
 	end
 	show_aux(cache.aux)
 	_G.hgui_cache = nil
