@@ -16,13 +16,13 @@ local hook_m
 hook_m = hookmetamethod(
 	ls, '__namecall', function(self, ...)
 		local m_name = getnamecallmethod()
-		local m_args = {...}
-
 		if self ~= ls or m_name ~= 'GetCountryRegionForPlayerAsync' then --
 			return hook_m(self, ...)
 		end
 
+		local m_args = {...}
 		local plr = m_args[1]
+
 		if plr ~= lp then --
 			return hook_m(self, ...)
 		end
