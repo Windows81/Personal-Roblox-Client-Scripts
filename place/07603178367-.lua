@@ -7,7 +7,12 @@ local d = args[1] or 3
 local t = tick()
 local c = 0
 
+if _G.cmg_t then
+	_G.cmg_t = nil
+	return
+end
 _G.cmg_t = t
+
 game.ReplicatedStorage.RemoteEvent:FireServer('UpdateReturningPlayer')
 task.wait(.5)
 game.ReplicatedStorage.RemoteEvent:FireServer('startBurritoBuilder')
@@ -21,6 +26,8 @@ while _G.cmg_t == t do
 	c = c + 1
 	print(c)
 end
+
+_G.cmg_t = nil
 game.ReplicatedStorage.RemoteEvent:FireServer('burritoBuilderResults', {c})
 task.wait(.5)
 game.ReplicatedStorage.RemoteEvent:FireServer('togglePlayerVisible', false)

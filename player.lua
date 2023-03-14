@@ -27,7 +27,7 @@ for _, p in next, game.Players:GetPlayers() do
 			nv = 2.0 * (#un - #PLAYER_REF)
 
 		elseif dn:lower():find('^' .. PLAYER_REF:lower()) then
-			nv = 2.5 * (#dn - #PLAYER_REF)
+			nv = 3.0 * (#dn - #PLAYER_REF)
 
 		end
 		if nv < min then
