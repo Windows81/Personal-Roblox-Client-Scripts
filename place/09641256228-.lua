@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Impossible Glass Game Obby!".
+]==] --
+--
 if _G.gls_evts then for _, e in next, _G.gls_evts do e:Disconnect() end end
 local m = game.Workspace.GlassModel
 _G.gls_evts = {}

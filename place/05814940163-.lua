@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Chill n' Build".
+]==] --
+--
 local EVENTS = game.ReplicatedStorage.EventStorage
 local E_REMOVE_ALL = EVENTS:FindFirstChild 'RemoveAll'
 local E_REMOVE = EVENTS:FindFirstChild 'Remove'

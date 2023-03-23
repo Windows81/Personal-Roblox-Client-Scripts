@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "A Blockate World.".
+]==] --
+--
 ---@diagnostic disable: undefined-global
 if not _E then error'This routine is designed for Rsexec.' end
 

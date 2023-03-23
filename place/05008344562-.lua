@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "paseo en carro hacia james charles lol".
+]==] --
+--
 _E.EXEC(
 	'fly-points', {
 		CFrame.new(-189, 194, 1020),

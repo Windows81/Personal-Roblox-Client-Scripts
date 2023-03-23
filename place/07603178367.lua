@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Chipotle Burrito Builder".
+]==] --
+--
 local args = _E and _E.ARGS or {}
 local d = args[1] or 3
 local t = tick()

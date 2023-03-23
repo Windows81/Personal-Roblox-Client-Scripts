@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "PLS DONATE".
+]==] --
+--
 if not _E then error'This routine is designed for Rsexec.' end
 local metatable = getrawmetatable(game)
 setreadonly(metatable, false)

@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Blocks!" by Darin's Games.
+]==] --
+--
 -- #region Game-specific functions.
 local network = game.ReplicatedStorage.shared.network['network_contents']
 function ADD_BLOCK(cf, s)

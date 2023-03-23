@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "RoVille".
+]==] --
+--
 local fn = string.format('place/%011d-parties.json', 02546155523)
 local data = {}
 if isfile(fn) then

@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Guess The Maths".
+]==] --
+--
 function e(n, i)
 	local d = game.Workspace.Doors.Normal:FindFirstChild(tostring(n))
 	if not d then return end

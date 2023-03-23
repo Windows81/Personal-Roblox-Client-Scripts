@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Don't Know the Word" by Rejected Animators.
+]==] --
+--
 -- #region patch chat.lua
 function chat(msg, target)
 	game.Players:Chat(msg)

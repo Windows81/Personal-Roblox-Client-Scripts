@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Ultimate Build" by Ultimate Build Development Group.
+]==] --
+--
 local args = _E and _E.ARGS or {}
 print'Ensure the copy tool is being used!'
 

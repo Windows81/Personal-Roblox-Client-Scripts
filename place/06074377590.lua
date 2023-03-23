@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "RDC 2021".
+]==] --
+--
 game.Lighting.Bloom.Enabled = false
 game.Lighting.Bloomoof.Enabled = false
 game.Players.LocalPlayer.PlayerGui.DonationsGui:destroy()

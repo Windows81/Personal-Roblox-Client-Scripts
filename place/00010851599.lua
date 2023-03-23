@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Roblox Talent Show".
+]==] --
+--
 local pl = game.Players.LocalPlayer
 local r = game.ReplicatedStorage.Remotes
 

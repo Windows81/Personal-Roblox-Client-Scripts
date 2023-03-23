@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Build to Survive Simulator".
+]==] --
+--
 local BASE = CFrame.new(109, 0, 1)
 local FLOORS = 7
 local SIZE = 7

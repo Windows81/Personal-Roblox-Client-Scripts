@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Limited Words".
+]==] --
+--
 local entries = {}
 local pnts_avail = 0
 for _, pl in next, game.Players:GetPlayers() do

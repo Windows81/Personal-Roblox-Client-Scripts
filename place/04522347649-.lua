@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "FREE ADMIN" by Creator_Studio.
+]==] --
+--
 local args = _E and _E.ARGS or {}
 local pl = game.Players.LocalPlayer
 local TO_NAME = args[1]

@@ -14,7 +14,7 @@ local ASSET_ID = args[1]
 local EXTENSION = args[2]
 
 local function save(url, file) --
-	writefile(file, game:HttpGet(url))
+	writefile(file, request{Url = url}.Body)
 end
 
 local url = string.format(

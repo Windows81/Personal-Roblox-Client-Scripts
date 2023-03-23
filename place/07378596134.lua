@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Flex Your Visit Count [Voice Chat]".
+]==] --
+--
 game.Players.LocalPlayer.Backpack:ClearAllChildren()
 game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = false
 

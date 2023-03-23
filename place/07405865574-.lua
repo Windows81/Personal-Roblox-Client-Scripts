@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "[BUILD] Pixels!" by Programmed Games.
+]==] --
+--
 ---@diagnostic disable: undefined-global
 function f(p, W1, W2, H, S)
 	local B = 4

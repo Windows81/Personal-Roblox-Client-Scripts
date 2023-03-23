@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Alien Attack" from Universal Roblox Theme Park.
+]==] --
+--
 task.wait(2)
 local h = {}
 for _, g in next, game.Workspace.ShootingTargets:GetChildren() do

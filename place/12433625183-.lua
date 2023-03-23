@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Doodle Transform!".
+]==] --
+--
 local COLOUR = Color3.fromRGB(0, 120, 215)
 local CHARACTERS = { --
 	['0'] = { --

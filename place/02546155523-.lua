@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "RoVille".
+]==] --
+--
 local args = _E and _E.ARGS or {}
 local COMMAND = args[1]:lower()
 

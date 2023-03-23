@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "gas station".
+]==] --
+--
 local t = {}
 local o
 for i, g in next, game.Workspace:GetDescendants() do

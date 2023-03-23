@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "[BUILD] Pixels!" by Programmed Games.
+]==] --
+--
 local REMOTES = game:GetService 'ReplicatedStorage'.Remotes
 
 function ADD_BLOCK(cf, typ)

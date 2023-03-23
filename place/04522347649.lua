@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "FREE ADMIN" by Creator_Studio.
+]==] --
+--
 _E.EXEC('fly')
 --[[
 task.wait(2)

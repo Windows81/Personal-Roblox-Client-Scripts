@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Build and Battle" by PlayMore Studios.
+]==] --
+--
 local REMOTES = game.ReplicatedStorage.Remotes
 
 local TYPES = {}

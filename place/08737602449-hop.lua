@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "PLS DONATE".
+]==] --
+--
 local score = 0
 for _, p in next, game.Players:GetPlayers() do
 	local l = p:WaitForChild 'leaderstats'

@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "private" by GigaChad Studio.
+]==] --
+--
 function num(pl)
 	local ch = pl.Character
 	if not ch then return end

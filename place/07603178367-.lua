@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Chipotle Burrito Builder".
+]==] --
+--
 -- Written by VisualPlugin.
 -- Execute the first time in Chipotle Burrito Builder to start counting buttiros.
 -- Execute the second time to finish and save your score.

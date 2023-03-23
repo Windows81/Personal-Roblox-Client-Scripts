@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Driving Empire".
+]==] --
+--
 local h, c = 0, 0
 if _G.ccol then _G.ccol:disconnect() end
 _G.ccol = game:GetService 'RunService'.Heartbeat:connect(

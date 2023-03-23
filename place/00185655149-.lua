@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Welcome to Bloxburg".
+]==] --
+--
 -- https://github.com/vozoid/scripts/blob/c64c575a35507014a260f5af557dd1296ab3c9ba/bloxburg.lua
 _G.blx_hair = tick()
 local tik = _G.blx_hair

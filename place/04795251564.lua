@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Blocks!" by Darin's Games.
+]==] --
+--
 local REMOTES = game.ReplicatedStorage.shared.network['network_contents']
 local cache = {}
 local function update_prop(prop, v)

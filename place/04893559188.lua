@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Edificio F3X".
+]==] --
+--
 local id = 0
 local t = math.huge
 if _G.flc then _G.flc:Disconnect() end

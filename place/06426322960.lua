@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Canvas Crowns: Pixel Art Paint".
+]==] --
+--
 _G.pnt_l = true
 
 local e =

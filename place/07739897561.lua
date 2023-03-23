@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "El juego imposible del calamar".
+]==] --
+--
 local COLS = 2
 
 local cache = {}

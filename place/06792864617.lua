@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "World of Countryballs ".
+]==] --
+--
 local MESSAGE = { --
 	'Blessings',
 	'upon our',

@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Limited Words".
+]==] --
+--
 -- #region patch chat.lua
 function chat(msg, target)
 	game.Players:Chat(msg)

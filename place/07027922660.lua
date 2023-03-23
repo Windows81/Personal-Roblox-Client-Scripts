@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "PTA Subway: Fifth Av Lines".
+]==] --
+--
 -- _G.fp_bg=_G.fp_bg.Parent and _G.fp_bg or Instance.new('BodyGyro',game.Players.LocalPlayer.Character:FindFirstChildWhichIsA 'Humanoid'.RootPart)
 -- _G.fp_bv=_G.fp_bv.Parent and _G.fp_bv or Instance.new('BodyVelocity',game.Players.LocalPlayer.Character:FindFirstChildWhichIsA 'Humanoid'.RootPart)
 _G.fp_bg.MaxTorque = Vector3.new(1e9, 1e9, 1e9)

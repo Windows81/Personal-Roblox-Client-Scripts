@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Build and Battle" by PlayMore Studios
+]==] --
+--
 ---@diagnostic disable: undefined-global
 function f(p, B, W1, W2, H, S)
 	for typ, cfs in next, {

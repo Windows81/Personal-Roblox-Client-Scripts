@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Vida Hospitalaria".
+]==] --
+--
 local re = game.ReplicatedStorage.Knit.Services.JobService.RE
 if _G.pet_e then _G.pet_e:Disconnect() end
 _G.pet_e = re.OnCustomertask.spawned.OnClientEvent:Connect(

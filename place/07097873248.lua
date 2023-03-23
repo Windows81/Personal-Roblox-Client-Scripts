@@ -1,3 +1,7 @@
+--[==[HELP]==
+To be used with "Building Simulator X".
+]==] --
+--
 local framework = game.ReplicatedStorage.Framework
 local REMOTES = framework.Modules.Shared.Internal.Networking['2  •  Remote']
 
