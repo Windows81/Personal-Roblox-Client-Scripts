@@ -5,18 +5,22 @@
 [1] - string
 	The file path from which the MIDI shall be parsed, relative to ./workspace
 
-[2] - number
-	The integer number of semitones to transpose the piece by; default is 0.
+[2] - number | nil
+	The number of semitones to transpose the piece by; default is 0.
 
-[3] - number
+[3] - number | nil
 	The speed at which the track shall be played; default is 1.
 
 [4] - (number)->() | nil
 	The function that receives MIDI-on codes; default is
 		getsenv(game.Players.LocalPlayer.PlayerGui.PianoGui.Main).PlayNoteClient.
 
-[5] - { (12x) number }
+[5] - { (12x) number } | nil
 	Pitch-shift values for each note in cents, starting from C.
+
+[6] - number | nil
+	Multiplier for MIDI value (useful for transforming a microtonal equally-tempered piece from 12 EDO).
+	Defaults to 1.
 ]==] --
 --
 local args = _E and _E.ARGS or {}
@@ -25,11 +29,13 @@ local TRANSPOSE = args[2] or 0
 local SPEED = args[3] or 1
 local PLAY_NOTE = args[4]
 local PITCH_SHIFTS = args[5] or table.create(12, 0)
-local OTHER_ARGS = {unpack(args, 6)}
+local PITCH_SCALE = args[6] or 1
+local OTHER_ARGS = {unpack(args, 7)}
 
+local num_shifts = #PITCH_SHIFTS
 local function shift(midi_n)
-	local i = math.round(midi_n) % 12 + 1
-	return midi_n + PITCH_SHIFTS[i] / 100 + TRANSPOSE
+	local i = math.round(midi_n) % num_shifts + 1
+	return midi_n / PITCH_SCALE + PITCH_SHIFTS[i] / 100 + TRANSPOSE
 end
 
 if not PLAY_NOTE then

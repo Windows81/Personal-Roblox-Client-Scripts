@@ -34,17 +34,21 @@ local CLASSES = {
 				local parent = o
 				while parent do
 					if parent:FindFirstChild 'Humanoid' then return true, true end
-					if parent == game.Workspace then return true, false end
+					if parent == game.Workspace then return true, true end
 					parent = parent.Parent
 				end
 
 				if not parent then return true, false end
 				local size = o.AbsoluteSize
+				print(o:GetFullName())
+				return true, true
+				--[[
 				if size.X >= 127 or size.Y >= 127 then
 					return true, true
 				else
 					return true, false
 				end
+				]]
 
 			elseif cn == 'ScreenGui' or cn == 'GuiMain' then
 				return true, true
@@ -57,7 +61,9 @@ local CLASSES = {
 			return e
 		end,
 		show = function(o) --
+			local e = o.Enabled
 			o.Enabled = true
+			return e
 		end,
 	},
 }
@@ -67,7 +73,7 @@ local function hide_obj(obj_cache, o)
 		local is_class, proceed = funcs.check(o)
 		if is_class then
 			local t = obj_cache[class]
-			if t[o] then return end
+			if t[o] ~= nil then return end
 			if proceed then
 				t[o] = funcs.hide(o)
 			else

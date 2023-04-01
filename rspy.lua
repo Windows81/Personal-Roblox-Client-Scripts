@@ -51,7 +51,10 @@ local SETTINGS = {
 	ProtectFunction = arg_sel(4, false), -- Set to false in case RSpy crashes for you with certain server events.
 }
 
-if _G.RSpy_Settings then return end
+if _G.RSpy_Settings then
+	error'Remote Spy is already active'
+	return
+end
 _G.RSpy_Settings = SETTINGS
 
 local metatable = getrawmetatable(game)

@@ -1,6 +1,6 @@
 --[==[HELP]==
 [1] - CFrame | Vector3
-	The location th teleport the player.
+	The location to teleport the player.
 ]==] --
 --
 local args = _E and _E.ARGS or {}
