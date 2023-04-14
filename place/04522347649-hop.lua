@@ -12,4 +12,4 @@ for _, p in next, game.Players:GetPlayers() do
 	local s = 3 * math.log10(k) - math.log10(d)
 	score = math.max(score, s)
 end
-return score > 7 and false or score
+return score > 5 and false or score

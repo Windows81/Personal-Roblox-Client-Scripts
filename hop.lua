@@ -5,7 +5,7 @@ Teleports to a specified player.
 	Maximum number of servers to hop between.  Otherwise, no limit.
 
 [2] - bool | nil
-	If true, hops through servers in ascending order of player count.  Hops through in descending orders otherwise.
+	If true, hops through servers in ascending order of player count.  Hops through in descending order otherwise.
 ]==] --
 --
 if not _E then error'This script requires Rsexec to run properly.' end
@@ -110,15 +110,14 @@ end
 
 local function process_lines(lines)
 	if not lines then return false end
-	_G.lines = lines
+	_G.hop_lines = lines
 
 	local i = tonumber(lines[1])
 	local function set_i(n) i, lines[1] = n, n end
 
 	if i == 2 then return true end
-	if lines[i] ~= s_id then return true end
+	if lines[i] ~= s_id then return false end
 
-	print(666)
 	local stat = get_stat()
 	print(stat)
 	if not stat then return true end
@@ -127,6 +126,7 @@ local function process_lines(lines)
 
 	while i >= 2 do
 		writefile(t_fn, table.concat(lines, '\n'))
+		task.wait(1)
 		ts:TeleportToPlaceInstance(p_id, lines[i])
 
 		local _, r = ts.TeleportInitFailed:Wait()
@@ -145,7 +145,7 @@ local function process_lines(lines)
 			else
 				local temp = {}
 				table.move(lines, i, i + 1, 1, temp)
-				table.move(lines, i + 2, #lines + 2, i)
+				table.move(lines, 2, i - 2, 4)
 				table.move(temp, 1, 2, 2, lines)
 			end
 		end
