@@ -1,3 +1,21 @@
+--[==[HELP]==
+Loads and returns a character rig from the provided description.
+
+[1] - HumanoidDescription | number  | nil
+	Describes what the the rig should look like.
+	If a number is passed in, take as a user ID.
+	If nil, take the local player's user ID.
+
+[2] - CFrame | Vector3 | nil
+	CFrame or position of the rig.
+	If passed in as a Vector3, make the rig's front towards the current camera.
+	If nil, place 3 studs in front of your current camera.
+
+[3] - Enum.HumanoidRigType | nil
+	Rig type for the loaded character.
+	If nil, treat as R15.
+]==] --
+--
 local args = _E and _E.ARGS or {}
 local DESCRIPTION = args[1]
 
