@@ -1,17 +1,19 @@
 --[==[HELP]==
 Interpolates the current camera between an array of positions, over a duration of time.
 
-[1] - {BasePart | CFrame | Vector3 | false} | number
+[1] - {BasePart | CFrame | Vector3 | false} | number | nil
 	The domain of points to which the camera can interpolate.
 	If argument is set to a positive integer, the number of keyframes that are captured by clicking the screen.
 	If entry in table is set to 'false' or 'nil', task.wait for user click to retrieve current camera CFrame.
+	If nil, default to 3.
 
 [2] - number | nil
 	The total duration for the interpolation process.
+	Defaults to (#VALUES - 1) * 5.
 ]==] --
 --
 local args = _E and _E.ARGS or {}
-local VALUES = args[1] or {}
+local VALUES = args[1] or 3
 if type(VALUES) == 'number' then VALUES = table.create(VALUES, false) end
 local DURATION = args[2] or (#VALUES - 1) * 5
 
