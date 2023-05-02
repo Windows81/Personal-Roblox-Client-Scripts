@@ -73,7 +73,7 @@ _G.tp_ev = game:GetService 'UserInputService'.InputBegan:Connect(
 				else
 					lv = ch:GetPrimaryPartCFrame().LookVector
 				end
-				ch:SetPrimaryPartCFrame(CFrame.new(p, p + lv))
+				ch:PivotTo(CFrame.new(p, p + lv))
 				return
 			end
 			orig = orig + DIST_PER_RAYCAST * dir

@@ -18,5 +18,6 @@ while true do
 	pages:AdvanceToNextPageAsync()
 end
 
+-- lines[1] = '\n' .. lines[1]
 _E.OUTPUT = {table.concat(lines, '\n\n')}
 return result

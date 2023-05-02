@@ -28,6 +28,6 @@ end
 local p = pl.Character.PrimaryPart.CFrame
 game.ReplicatedStorage.HDAdminClient.Signals.RequestCommand:InvokeServer(
 	':unff ' .. pl.Name)
-game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(p * CFrame.new(0, 0, 3))
+game.Players.LocalPlayer.Character:PivotTo(p * CFrame.new(0, 0, 3))
 mouse1click()
 ]]

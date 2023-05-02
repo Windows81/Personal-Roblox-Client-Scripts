@@ -70,10 +70,10 @@ end
 local function move_act(to_pl)
 	local from_cf = pl.Character:GetPrimaryPartCFrame()
 	local to_cf = to_pl.Character:GetPrimaryPartCFrame() * CFrame.new(-.5, 1, 3.5)
-	pl.Character:SetPrimaryPartCFrame(to_cf)
+	pl.Character:PivotTo(to_cf)
 	mouse1click()
 	task.wait(2)
-	pl.Character:SetPrimaryPartCFrame(from_cf)
+	pl.Character:PivotTo(from_cf)
 end
 
 local to_pl = infer_plr(TO_NAME)

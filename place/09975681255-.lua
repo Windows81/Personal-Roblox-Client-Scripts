@@ -3,12 +3,17 @@ To be used with "Don't Know the Word" by Rejected Animators.
 ]==] --
 --
 -- #region patch chat.lua
-function chat(msg, target)
-	game.Players:Chat(msg)
-	local rs = game:GetService 'ReplicatedStorage'
-	local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
-	local smr = dcse:WaitForChild 'SayMessageRequest'
-	smr:FireServer(msg, target or 'All')
+function chat(msg, target, skip_smr, skip_pls)
+	if not skip_smr then
+		local rs = game:GetService 'ReplicatedStorage'
+		local dcse = rs:WaitForChild 'DefaultChatSystemChatEvents'
+		local smr = dcse:WaitForChild 'SayMessageRequest'
+		smr:FireServer(msg, target or 'All')
+	end
+	if not skip_pls then
+		local pls = game:GetService 'Players'
+		pls:Chat(msg)
+	end
 end
 -- #endregion patch
 
@@ -19,7 +24,7 @@ for _, pl in next, game.Players:GetPlayers() do
 		local cf = ch:GetPrimaryPartCFrame()
 		cf = cf * CFrame.Angles(0, math.pi, 0)
 		cf = cf * CFrame.new(0, 0, 5)
-		game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+		game.Players.LocalPlayer.Character:PivotTo(cf)
 		local w = ch:FindFirstChild('Word', true).Text
 		if #n > 6 then n = string.format('%s…', n:sub(1, 5)) end
 		local s = string.format(

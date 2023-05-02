@@ -53,5 +53,5 @@ local hrp = to_pl.Character:FindFirstChild 'HumanoidRootPart'
 local trs = to_pl.Character:FindFirstChild 'Torso'
 local to_part = hrp or trs
 
-pl.Character:SetPrimaryPartCFrame(to_part.CFrame)
+pl.Character:PivotTo(to_part.CFrame)
 print(string.format('TELEPORT TO %s', to_pl.Name))

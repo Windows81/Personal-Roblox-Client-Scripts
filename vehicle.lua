@@ -12,7 +12,7 @@ for _, g in next, game.Workspace:GetDescendants() do
 	if g:isA(SEAT_TYPE) and not g.Anchored then
 		SEAT_INDEX = SEAT_INDEX - 1
 		if SEAT_INDEX == 0 then
-			ch:SetPrimaryPartCFrame(g.CFrame)
+			ch:PivotTo(g.CFrame)
 			g.Disabled = false
 			break
 		end

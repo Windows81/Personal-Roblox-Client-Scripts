@@ -26,5 +26,5 @@ end
 local ch = game.Players.LocalPlayer.Character
 local c = cf(max)
 if not c then return end
-ch:SetPrimaryPartCFrame(c * CFrame.new(0, 4, 0) * CFrame.Angles(0, math.pi, 0))
+ch:PivotTo(c * CFrame.new(0, 4, 0) * CFrame.Angles(0, math.pi, 0))
 task.wait()

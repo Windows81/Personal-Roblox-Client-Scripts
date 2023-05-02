@@ -53,7 +53,7 @@ end
 if char then
 	char:FindFirstChildWhichIsA 'Humanoid'.DisplayDistanceType =
 		Enum.HumanoidDisplayDistanceType.None
-	char:SetPrimaryPartCFrame(CFRAME)
+	char:PivotTo(CFRAME)
 	char.Parent = game.Workspace
 end
 

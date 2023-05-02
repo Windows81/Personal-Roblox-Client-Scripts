@@ -15,9 +15,9 @@ if typeof(CFRAME) == 'Vector3' then
 end
 
 if not OBJECT then
-	game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(CFRAME)
+	game.Players.LocalPlayer.Character:PivotTo(CFRAME)
 elseif OBJECT:isA 'BasePart' then
 	OBJECT.CFrame = CFRAME
 elseif OBJECT:isA 'Model' then
-	OBJECT:SetPrimaryPartCFrame(CFRAME)
+	OBJECT:PivotTo(CFRAME)
 end
