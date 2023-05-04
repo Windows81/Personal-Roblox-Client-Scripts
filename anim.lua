@@ -1,9 +1,9 @@
 --[==[HELP]==
-[1] - Instance | nil
-	The character on which to play the animation; defualts to LocalPlayer's current character.
-
-[2] - number
+[1] - number
 	The animation (or emote) ID to play.
+
+[2] - Instance | nil
+	The character on which to play the animation; defualts to LocalPlayer's current character.
 
 [3] - boolean | nil
 	If true or nil, clears all playing animations first.
@@ -19,8 +19,8 @@
 ]==] --
 --
 local args = _E and _E.ARGS or {}
-local CHARACTER = args[1] or game.Players.LocalPlayer.Character
-local ANIM_ID = args[2]
+local ANIM_ID = args[1]
+local CHARACTER = args[2] or game.Players.LocalPlayer.Character
 if not CHARACTER then return end
 local STOP_ALL = args[3] ~= false
 local FORCE_LOOP = args[4] ~= false
